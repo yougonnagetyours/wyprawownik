@@ -18,6 +18,12 @@ Ostatnia aktualizacja: 2026-03-20
 - Status: 2 przystanki ustalone, trasa od dnia 3 do rozpisania
 - Pliki: `wyprawy/balkany-maj-2026/`
 
+## Pomysły na przyszłe wyprawy
+
+- **Polskie morze (wakacje 2026?)** — po drodze wstąpić na Mazury:
+  - Pole namiotowe nad Jeziorem Zielonym — dużo polanek, nocleg pod namiotem
+  - Pole biwakowe po lewej stronie od pola namiotowego (Michał ma zapisane na Google Maps) — opcja spania w aucie przy brzegu, mniej prywatności ale wygodniej
+
 ## Otwarte pytania
 
 - Nocleg przy Uvac — Michał szuka miejsca na dziko z terenówką
