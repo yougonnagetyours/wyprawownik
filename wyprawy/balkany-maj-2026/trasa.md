@@ -15,7 +15,7 @@ Powtórka wyprawy sprzed 6 lat — te same miejsca, zobaczenie jak się zmienił
 | Styl | Slow travel, jazda za dnia, bez gnania |
 | Tranzyt | Słowacja, Węgry |
 | Kraje docelowe | Serbia, Czarnogóra, Albania Północna |
-| Powrót przez | Bośnia, Chorwacja, Węgry, Słowacja |
+| Powrót przez | Czarnogóra (Boka Kotorska, Lovćen), Serbia, Węgry, Słowacja |
 
 ## Trasa — szkic pętli
 
@@ -31,8 +31,12 @@ Okolice Plav, Czarnogóra ★ (nocleg — znane miejsce z poprzedniej wyprawy)
 Theth, Albania ★ (2 noce — Blue Eye wycieczka)
   ↓ (~2-3h)
 Velipoje, Albania ★ (plaża, nocleg)
-  ↓
-Powrót: Shkodër → Podgorica → Bośnia/Chorwacja → Węgry → BB
+  ↓ (~120-130 km, ~3h z granicą)
+Kotor, Czarnogóra ★ (Boka Kotorska — pętla zatoki, stare miasto)
+  ↓ (serpentyny ~45 min)
+Mauzoleum Njegoša, Lovćen ★ (461 schodów, panorama)
+  ↓ (Cetinje → Serbia → autostrada)
+Powrót: Serbia → Węgry → Słowacja → BB
 ```
 
 **Łączny dystans (szacunek):** ~2 800–3 200 km (do przeliczenia)
@@ -46,10 +50,10 @@ Powrót: Shkodër → Podgorica → Bośnia/Chorwacja → Węgry → BB
 | 3 | 18.05 (pon) | Parking Uvac vidikovac → Molitva pieszo → jazda na południe → Plav | ~150-200 | Okolice Plav (42°48'41.3"N 20°07'44.4"E) | Rano viewpoint, potem jazda ~3-4h |
 | 4 | 19.05 (wt) | Plav → granica → Shkodër → SH-20 → Theth | ~150? | Theth | Przejście granicy, przyjazd wieczorem |
 | 5 | 20.05 (śr) | Blue Eye (rano, ~4h) → zjazd z Theth → Velipoje | ~2-3h po Blue Eye | Velipoje (plaża) | Blue Eye rano, popołudnie jazda, wieczór plaża |
-| 6 | 21.05 (czw) | Velipoje → powrót na północ | ? | ? | Do ustalenia — elastyczny punkt lub jazda do domu |
-| 7 | 22.05 (pt) | Powrót | ? | ? | Do ustalenia |
-| — | 23.05 (sob) | Powrót / elastyczny punkt | ? | ? | Bufor #1 |
-| — | 24.05 (ndz) | Najpóźniej w domu | ? | — | Bufor #2 |
+| 6 | 21.05 (czw) | Velipoje → Kotor (~3h). Boka Kotorska pętla + Kotor stare miasto | ~120-130 + ~80-100 (pętla) | Okolice Kotor | Cały dzień na zatokę — Perast, Herceg Novi, viewpointy |
+| 7 | 22.05 (pt) | Kotor → serpentyny → Mauzoleum Njegoša → Cetinje → na północ do Serbii | ~300-400 | Serbia (okolice Kraljevo/Čačak) | Rano Lovćen, potem jazda. Opcjonalnie Ostrog jeśli czas pozwoli |
+| — | 23.05 (sob) | Serbia → Węgry → BB | ~800-900 | Dom | Dzień jazdowy, autostrada |
+| — | 24.05 (ndz) | Zapas gdyby coś się posypało | — | — | Bufor |
 
 ## Przystanki — potwierdzone
 
@@ -72,9 +76,9 @@ Powrót: Shkodër → Podgorica → Bośnia/Chorwacja → Węgry → BB
 
 - **Aktywna trasa:** 7 dni (pt 16.05 – czw 22.05)
 - **Bufor:** sob 23 + ndz 24 maja
-- Nie planować buforu jako pustego — ostatnie 1-2 dni trasy mają "elastyczny punkt" (np. coś w Bośni/Chorwacji), który można:
-  - Zrealizować jeśli trasa szła gładko → bufor = bonus
-  - Pominąć jeśli coś się przedłużyło → bufor = ratunek
+- Sobota 23.05 = dzień jazdowy (Serbia → BB, ~800-900 km)
+- Niedziela 24.05 = zapas gdyby coś się posypało
+- Ostrog (dzień 7) = elastyczny punkt — zrealizować jeśli czas pozwoli, pominąć jeśli nie
 - Poniedziałek 25.05 = praca, bez negocjacji
 
 ## Opłaty drogowe
@@ -100,5 +104,6 @@ Powrót: Shkodër → Podgorica → Bośnia/Chorwacja → Węgry → BB
 - Co dalej po Uvac na południe? Które miejsca z poprzedniej wyprawy?
 - Które miejsca w Czarnogórze i Albanii Płn. chcesz odwiedzić?
 - Albania głębiej na południe — opcja na przyszłość czy rozważamy w tej wyprawie?
-- Co byłoby dobrym "elastycznym punktem" na powrocie? (Bośnia? Chorwacja?)
+- Powrót przez Czarnogórę: Boka Kotorska + Mauzoleum Njegoša (potwierdzone). Ostrog — opcja jeśli czas pozwoli
+- Nocleg w Serbii na drodze powrotnej — gdzie dokładnie? (Kraljevo/Čačak/inne?)
 - Fruška Gora / Valjevo — na powrót czy odpuszczamy?
