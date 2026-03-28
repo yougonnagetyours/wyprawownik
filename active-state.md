@@ -1,12 +1,14 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-03-20
+Ostatnia aktualizacja: 2026-03-28
 
 ## Bieżący status
 
 - System wyprawowy: **gotowy** — struktura plików, CLAUDE.md, konwencje ustalone
-- Aktywna wyprawa: **balkany-maj-2026** — planowanie w toku
-- Samochód: dane uzupełnione (2.7 TDI, 4x4), opony do kupienia (~2000 zł)
+- Aktywna wyprawa: **balkany-maj-2026** — planowanie w toku, przygotowania rozpoczęte
+- Samochód: opony nowe (2000 zł zrobione), zabudowa bagażnika + materac w planach
+- Przygotowania: plik `przygotowania.md` utworzony — mechanika, sprzęt, vlog
+- Budżet: wstępny kosztorys gotowy — **~5 800–8 000 zł** (bez sprzęgła, bez już wydanych)
 
 ## Wyprawa: Balkany Maj 2026
 
@@ -16,7 +18,8 @@ Ostatnia aktualizacja: 2026-03-20
 - Przystanek 2: **Uvac / Gornje Lopiže** — meandry, Molitva, kemping (nocleg do ustalenia — Michał szuka na dziko)
 - Dzień 2 to dzień jazdowy (Kiskőrös → Uvac ~530 km autostradą)
 - Status: 2 przystanki ustalone, trasa od dnia 3 do rozpisania
-- Pliki: `wyprawy/balkany-maj-2026/`
+- Budżet: paliwo ~2 200 zł, sprzęt ~870-1 620 zł, auto ~950-1 500 zł, trasa ~3 470-4 440 zł
+- Pliki: `wyprawy/balkany-maj-2026/` (trasa.md, budzet.md, przygotowania.md)
 
 ## Pomysły na przyszłe wyprawy
 
@@ -43,3 +46,6 @@ Ostatnia aktualizacja: 2026-03-20
 - [2026-03-20] Ustalono przystanek #2: Uvac/Gornje Lopiže (meandry, Molitva). Nocleg — Michał szuka na dziko
 - [2026-03-20] Przyciśnięty początek: dzień 2 = jazdowy (Kiskőrös → Uvac ~530 km), żeby mieć 4 dni na południe
 - [2026-03-20] Zebrano info: Serbia bramki (nie winieta), kemping Ledena Pećina (darmowy, GPS: 43.33666, 19.9878)
+- [2026-03-28] Utworzono plan przygotowań: przygotowania.md (mechanika, sprzęt biwakowy, vlog, checklista)
+- [2026-03-28] Wstępny kosztorys w budzet.md: ~5 800–8 000 zł. Paliwo, winiety, sprzęt, serwis auta
+- [2026-03-28] Zaktualizowano samochod.md: zrobione (zawieszenie, olej), do zrobienia (mosty, sprzęgło, opony na felgi)
