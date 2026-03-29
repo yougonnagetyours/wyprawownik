@@ -1,24 +1,25 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-03-28
+Ostatnia aktualizacja: 2026-03-29
 
 ## Bieżący status
 
 - System wyprawowy: **gotowy** — struktura plików, CLAUDE.md, konwencje ustalone
 - Aktywna wyprawa: **balkany-maj-2026** — planowanie w toku, przygotowania rozpoczęte
-- Samochód: opony nowe (2000 zł zrobione), zabudowa bagażnika + materac w planach
+- Samochód: ~6 000 zł wydane (opony, zawieszenie, olej, pompa wtryskowa). Do zrobienia: mosty, sprzęgło, przetwornica, zabudowa
 - Przygotowania: plik `przygotowania.md` utworzony — mechanika, sprzęt, vlog
-- Budżet: wstępny kosztorys gotowy — **~5 800–8 000 zł** (bez sprzęgła, bez już wydanych)
+- Budżet: **dwa scenariusze** — A (maj, ciasno) i **B (czerwiec, preferowany)**. Scenariusz B: 15 000 zł kasy, ~7 000–7 500 zł na wyprawę, ~2 700–3 200 zł rezerwy
 
 ## Wyprawa: Balkany Maj 2026
 
-- Aktywna trasa: 16–22 maja 2026 (7 dni) + bufor sob-ndz 23-24 maja
+- **Termin A:** 16–24 maja 2026 (ciasny budżet, sprzęt od brata)
+- **Termin B (preferowany):** 6–14 czerwca 2026 (dodatkowa wypłata, termobox zamiast lodówki)
 - Trasa: BB → Kiskőrös (Węgry) → Uvac (Serbia) → południe Serbii → Czarnogóra → Albania Płn. → powrót
 - Przystanek 1: **Kiskőrös** — kemping termalny (potwierdzony)
 - Przystanek 2: **Uvac / Gornje Lopiže** — meandry, Molitva, kemping (nocleg do ustalenia — Michał szuka na dziko)
 - Dzień 2 to dzień jazdowy (Kiskőrös → Uvac ~530 km autostradą)
 - Status: 2 przystanki ustalone, trasa od dnia 3 do rozpisania
-- Budżet: paliwo ~2 200 zł, sprzęt ~870-1 620 zł, auto ~950-1 500 zł, trasa ~3 470-4 440 zł
+- Budżet B: kasa 15 000 zł, dług za opony -1 800 zł, pierścionek -3 000 zł → 10 200 zł na wyprawę
 - Pliki: `wyprawy/balkany-maj-2026/` (trasa.md, budzet.md, przygotowania.md)
 
 ## Pomysły na przyszłe wyprawy
@@ -49,3 +50,5 @@ Ostatnia aktualizacja: 2026-03-28
 - [2026-03-28] Utworzono plan przygotowań: przygotowania.md (mechanika, sprzęt biwakowy, vlog, checklista)
 - [2026-03-28] Wstępny kosztorys w budzet.md: ~5 800–8 000 zł. Paliwo, winiety, sprzęt, serwis auta
 - [2026-03-28] Zaktualizowano samochod.md: zrobione (zawieszenie, olej), do zrobienia (mosty, sprzęgło, opony na felgi)
+- [2026-03-29] Szczegółowy budżet z aktualnymi cenami paliw (diesel 8,75 zł/L w PL!). Razem do wydania: ~5 935–7 770 zł
+- [2026-03-29] Uzupełniono dane: auto łącznie ~6 000 zł wydane, sprzęt biwakowy prawie komplet, przetwornica + zasilanie do zrobienia

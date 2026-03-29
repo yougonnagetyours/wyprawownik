@@ -19,6 +19,9 @@
 - [ ] Sprzęgło — nisko bierze, do sprawdzenia z mechanikiem (regulacja? wymiana?)
 - [ ] Zabudowa bagażnika (wykonanie własne: deski, wkręty) — koszt materiałów do ustalenia
 - [ ] Materac składany — budżet ~300 zł
+- [ ] Przetwornica 12V→230V (~200W) — do zasilania lodówki kompresorowej (pożyczka od brata)
+- [ ] Sprawdzić gniazda zapalniczki — ew. zrobić osobne zasilanie z akumulatora + bezpiecznik
+- [ ] Sprawdzić stan linki kinetycznej i szekli
 
 ## Zrobione
 
@@ -49,9 +52,10 @@ Terrano 2 ma 4 zespoły do wymiany oleju (poza silnikiem):
 
 | Data | Co | Kwota | Status |
 |------|----|-------|--------|
-| 03.2026 | Wymiana oleju silnikowego + filtry | ? | Zrealizowane |
-| 03.2026 | Zawieszenie przód (wahacze + sworznie) | ? | Zrealizowane |
-| 03.2026 | Zawieszenie tył (poliuretany) | ? | Zrealizowane |
+| 03.2026 | Wymiana oleju silnikowego + filtry | } | Zrealizowane |
+| 03.2026 | Zawieszenie przód (wahacze + sworznie) | } ~4 000 zł łącznie | Zrealizowane |
+| 03.2026 | Zawieszenie tył (poliuretany) | } (w tym pompa wtryskowa | Zrealizowane |
+| 03.2026 | Ustawienie pompy wtryskowej + drobnice | } + drobnice) | Zrealizowane |
 | 27.03.2026 | Nowe opony AT | 2 000 zł | Zrealizowane |
 | — | Montaż opon na felgi | ? | Planowane |
 | — | Oleje przekładniowe (mosty + skrzynia + reduktor) | ~450-700 zł | Planowane |
@@ -59,7 +63,7 @@ Terrano 2 ma 4 zespoły do wymiany oleju (poza silnikiem):
 | — | Zabudowa bagażnika (materiały) | ? | Planowane |
 | — | Materac składany | ~300 zł | Planowane |
 
-**Suma wydatków:** 2 000 zł + ? (zrealizowane) / ~750-1000 zł + ? (planowane)
+**Suma wydatków:** ~6 000 zł (zrealizowane) / ~1 100-1 800 zł (planowane, bez sprzęgła)
 
 ## Notatki
 
