@@ -138,9 +138,10 @@ Mix — gotowanie na biwaku + lokalne knajpy.
 | Co | Koszt | Uwagi |
 |----|-------|-------|
 | Termy Kiskőrös (wstęp, 2 os.) | ~50-80 zł | Szacunek |
-| Mauzoleum Njegoša (wstęp, 2 os.) | ~0-70 zł | Opcjonalnie — jak zdążycie. Szacunek ~8€/os |
+| Mauzoleum Njegoša (wstęp, 2 os.) | ~0-70 zł | Tylko wariant A. Szacunek ~8€/os |
+| Durmitor NP (wstęp + parking, 2 os.) | ~54 zł | Tylko wariant D. 5€/os + parking 2€ |
 | Drobne wydatki (kawa, piwo, pamiątki) | ~100-200 zł | 9 dni |
-| **SUMA** | **~220–350 zł** | |
+| **SUMA** | **~220–400 zł** | |
 
 > Rejs łódką Uvac — olejemy, na inną wyprawę. Mury Kotoru — olejemy.
 
@@ -247,7 +248,8 @@ Przesunięcie terminu o 3 tygodnie. Dodatkowa wypłata (+5 000 zł). Brak możli
 - [ ] **Cena kempingu Kiskőrös** — sprawdzić online lub zadzwonić
 - [ ] **Assistance** — poszukać ofert (rozszerzone na Bałkany)
 - [ ] **Zielona Karta** — zamówić u ubezpieczyciela OC
-- [ ] **Mauzoleum Njegoša** — do potwierdzenia czy wchodzicie (wstęp ~70 zł za 2 os.)
+- [ ] **Wariant A, C, czy D** — do decyzji. Różnice kosztowe niewielkie (~+70-120 zł za Mostar/Durmitor vs bazowy). Patrz trasa.md → tabelka porównawcza
+- [ ] **Mauzoleum Njegoša** — tylko wariant A (lub opcjonalnie dzień 6 w D). Wstęp ~70 zł za 2 os.
 
 ## Źródła cen (marzec 2026)
 
