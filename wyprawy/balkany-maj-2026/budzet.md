@@ -1,259 +1,251 @@
-# Budżet: Balkany Maj 2026
+# Budżet: Balkany 2026
 
-Zaktualizowany kosztorys — stan na 29.03.2026
-
----
-
-## A. Przygotowanie auta (przed wyjazdem)
-
-### Zrobione
-
-| Co | Kwota | Status |
-|----|-------|--------|
-| Opony AT (+ wyważenie) | 2 000 zł | Zrobione |
-| Zawieszenie przód (wahacze + sworznie) | w sumie poniżej | Zrobione |
-| Zawieszenie tył (poliuretany) | w sumie poniżej | Zrobione |
-| Olej silnikowy + filtry | w sumie poniżej | Zrobione |
-| Ustawienie pompy wtryskowej + drobnice | w sumie poniżej | Zrobione |
-| **Suma (zawieszenie, olej, pompa, drobnice)** | **~4 000 zł** | Zrobione |
-| **RAZEM WYDANE** | **~6 000 zł** | |
-
-### Do wydania
-
-| Co | Min | Max | Uwagi |
-|----|-----|-----|-------|
-| Montaż opon AT na felgi | 100 zł | 200 zł | |
-| Oleje przekładniowe (mosty + skrzynia + reduktor) | 450 zł | 700 zł | Olej + robocizna |
-| Sprzęgło (diagnoza + ew. naprawa) | 100 zł | 3 000 zł | Regulacja ~100 zł, wymiana ~1 500–3 000 zł. Do zbadania! |
-| Zabudowa bagażnika (materiały DIY) | 100 zł | 300 zł | |
-| Materac składany | 250 zł | 350 zł | |
-| Przetwornica 12V→230V (~200W, do lodówki) | 100 zł | 150 zł | |
-| Osobne zasilanie z akumulatora + bezpiecznik (jeśli potrzebne) | 0 zł | 100 zł | Do sprawdzenia gniazda zapalniczki |
-| **RAZEM DO WYDANIA (bez sprzęgła)** | **~1 100 zł** | **~1 800 zł** | |
+Zaktualizowany kosztorys — stan na 01.04.2026
+3 warianty trasy × 2 terminy (maj / czerwiec)
 
 ---
 
-## B. Sprzęt do dokupienia
+## Kasa na start
 
-### Biwak / camping
-Większość sprzętu jest (kuchenka, garnki, krzesła, stolik, czołówka). Śpiwory zastąpione pościelą.
+| | Maj (16–24.05) | Czerwiec (6–14.06) |
+|---|---|---|
+| Oszczędności | 10 000 zł | 10 000 zł |
+| Wypłata czerwcowa | — | +5 000 zł |
+| Dług za opony | -1 800 zł | -1 800 zł |
+| **Do dyspozycji** | **8 200 zł** | **13 200 zł** |
 
-| Co | Kwota | Uwagi |
-|----|-------|-------|
-| Poszewki na poduszki | ~30-50 zł | Pościel zapasowa jest |
-| Moskitiera / siatki na okna | 30-50 zł | Szacunek |
-| Kanister na wodę 10-20L | 30-50 zł | |
-| Plandeka (tarp) 3x3m + linki | 30-60 zł | |
-| Drobnica (kubki, sztućce, gąbka itp.) | 20-40 zł | Do przejrzenia co jest |
-| **Suma biwak** | **~140–250 zł** | |
+> Pierścionek (~3 000 zł) — pominięty, decyzja po wyprawie na podstawie tego co zostanie.
 
-### Vlog
+---
+
+## Przygotowanie auta (oba terminy, bez sprzęgła)
+
+| Co | Min | Max |
+|---|---|---|
+| Montaż opon AT na felgi | 100 zł | 200 zł |
+| Oleje przekładniowe (mosty + skrzynia + reduktor) | 450 zł | 700 zł |
+| Zabudowa bagażnika (DIY) | 100 zł | 300 zł |
+| Materac składany | 250 zł | 350 zł |
+| Przetwornica 12V→230V | 100 zł | 150 zł |
+| Zasilanie z akumulatora | 0 zł | 100 zł |
+| **Suma** | **1 100 zł** | **1 800 zł** |
+| **Realistycznie** | | **~1 400 zł** |
+
+### Już wydane na auto (nie wchodzi w budżet wyprawy)
+
 | Co | Kwota |
-|----|-------|
-| Uchwyt na telefon do auta | ~30-50 zł |
-| Karty pamięci (microSD 64-128GB) | ~30-60 zł |
-| Woreczki strunowe / etui | ~10-20 zł |
-| **Suma vlog** | **~70-130 zł** |
-
-### Awaryjne / narzędzia
-Kompresor 12V jest. Linka kinetyczna + szekle — sprawdzić stan.
-
-| Co | Kwota | Uwagi |
-|----|-------|-------|
-| Saperka składana | 30-50 zł | |
-| Drobnica (opaski, duct tape, drut) | 30-50 zł | |
-| **Suma awaryjne** | **~60–100 zł** | |
-
-**Suma sprzętu do dokupienia:** ~270–480 zł
+|---|---|
+| Opony AT (+ wyważenie) | 2 000 zł |
+| Zawieszenie, olej, pompa, drobnice | ~4 000 zł |
+| **Razem wydane** | **~6 000 zł** |
 
 ---
 
-## C. Koszty w trasie (9 dni, 2 osoby)
+## Sprzęt — maj vs czerwiec
 
-### Paliwo
+### Wspólne (oba terminy)
 
-Ceny diesla zaktualizowane na 29.03.2026 (źródło: tolls.eu, cenypaliw.fyi, e-petrol).
+| Co | Min | Max |
+|---|---|---|
+| Moskitiera / siatki na okna | 30 zł | 50 zł |
+| Kanister na wodę 10-20L | 30 zł | 50 zł |
+| Plandeka 3×3m + linki | 30 zł | 60 zł |
+| Drobnica biwakowa | 20 zł | 40 zł |
+| Vlog (uchwyt, karty, etui) | 70 zł | 130 zł |
+| Awaryjne (saperka, tape, drut) | 60 zł | 100 zł |
+| **Suma wspólna** | **240 zł** | **430 zł** |
 
-| Kraj | Km (szacunek) | Spalanie | Litry | Cena/L | Koszt |
-|------|--------------|----------|-------|--------|-------|
-| Polska | ~400 km | 11 L/100km | ~44 L | 8,75 zł | ~385 zł |
-| Słowacja | ~300 km | 11 L/100km | ~33 L | 6,90 zł | ~228 zł |
-| Węgry | ~500 km | 11 L/100km | ~55 L | 7,35 zł | ~404 zł |
-| Serbia | ~1 000 km | 11 L/100km | ~110 L | 7,96 zł | ~876 zł |
-| Czarnogóra | ~500 km | 12 L/100km | ~60 L | 6,95 zł | ~417 zł |
-| Albania | ~300 km | 12 L/100km | ~36 L | 9,77 zł | ~352 zł |
-| **RAZEM** | **~3 000 km** | | **~338 L** | **śr. ~7,87 zł** | **~2 660 zł** |
+### Tylko czerwiec (w maju pożyczone od brata)
 
-> Uwaga: w górach (CG, Albania) założone 12 L/100km. Rząd PL planuje obniżkę akcyzy (~-1,20 zł/L) — jeśli wejdzie, paliwo w PL spadnie. Budżet liczony po aktualnych cenach.
+| Co | Min | Max | Źródło / uwagi |
+|---|---|---|---|
+| Termobox pasywny ~25-30L | 90 zł | 150 zł | Campingaz Icetime ~140 zł (Ceneo) |
+| Namiot prysznicowy pop-up | 80 zł | 150 zł | Allegro ~80 zł generyk, ~260 zł Skandika |
+| Prysznic kempingowy | 20 zł | 80 zł | Worek solarny ~20 zł, pompka USB ~80 zł |
+| Stolik składany | 70 zł | 150 zł | Quechua MH100 ~70 zł, Enero ~130 zł |
+| Naczynia (dokupka) | 50 zł | 100 zł | |
+| Wkłady do kuchenki (kilka szt.) | 30 zł | 50 zł | |
+| **Suma czerwiec-only** | **340 zł** | **680 zł** | Zostaje na przyszłe wyprawy |
 
-### Opłaty drogowe i winiety
+### Podsumowanie sprzętu
 
-| Kraj | Opłata | Koszt |
-|------|--------|-------|
-| Słowacja | e-známka 10 dni | 48 zł (€10,80) |
-| Węgry | e-matrica 10 dni D1 | 112 zł (6 900 HUF / €25,56) |
-| Serbia | Bramki autostradowe (tam + powrót) | ~50-90 zł |
-| Czarnogóra / Albania / Bośnia | Brak winiet | 0 zł |
-| **SUMA** | | **~210-250 zł** |
+| | Maj | Czerwiec |
+|---|---|---|
+| Wspólne | 240–430 zł | 240–430 zł |
+| Dokupka (brat nie pożycza) | 0 zł | 340–680 zł |
+| **Razem sprzęt** | **240–430 zł** | **580–1 110 zł** |
+| **Realistycznie** | **~350 zł** | **~850 zł** |
 
-### Noclegi
+---
+
+## Koszty w trasie — życie (9 dni, 2 osoby)
+
+### Jedzenie — rozbicie na dzień
+
+| Posiłek | Min | Max |
+|---|---|---|
+| Śniadanie (biwak) | 15 zł | 20 zł |
+| Obiad (mix knajpa / gotowanie) | 35 zł | 55 zł |
+| Kolacja (mix) | 25 zł | 40 zł |
+| Woda / napoje | 10 zł | 15 zł |
+| **Razem / dzień (2 os.)** | **85 zł** | **130 zł** |
+
+> Serbia i Albania = tanio (obiad w knajpie ~15-25 zł/os). Czarnogóra droższa (~jak PL).
+
+### Życie w trasie — podsumowanie
+
+| | Maj | Czerwiec |
+|---|---|---|
+| Jedzenie (9 × ~100 zł/dzień) | 900 zł | 900 zł |
+| Noclegi (1-2 płatne, reszta dziko) | 150 zł | 150 zł |
+| Drobne (kawa, piwo, pamiątki) | 150 zł | 150 zł |
+| Lód do termoboxa | — | 75 zł |
+| **Suma** | **1 200 zł** | **1 275 zł** |
+
+### Noclegi — rozbicie
 
 | Noc | Miejsce | Typ | Koszt |
-|-----|---------|-----|-------|
-| 1 (16.05) | Kiskőrös | Kemping termalny | ~60-100 zł (szacunek) |
-| 2 (17.05) | Uvac — Ledena Pećina | Kemping darmowy | 0 zł |
-| 3 (18.05) | Okolice Plav | Dziko / w aucie | 0 zł |
-| 4 (19.05) | Theth | Dziko / w aucie | 0 zł |
-| 5 (20.05) | Velipoje | Dziko / plaża | 0 zł |
-| 6 (21.05) | Okolice Kotor | Dziko (+ rezerwa na kemping) | 0-100 zł |
-| 7 (22.05) | Serbia powrót | Kemping lub dziko | ~0-60 zł (szacunek) |
-| **SUMA** | | | **~60–260 zł** |
-
-### Jedzenie
-
-Mix — gotowanie na biwaku + lokalne knajpy.
-
-| Co | Koszt/dzień (2 os.) |
-|----|---------------------|
-| Śniadanie (biwak) | ~15-20 zł |
-| Obiad (knajpa lub gotowanie — mix) | ~35-55 zł |
-| Kolacja (biwak lub knajpa) | ~25-40 zł |
-| Woda / napoje | ~10-15 zł |
-| **Razem/dzień** | **~85-130 zł** |
-| **× 9 dni** | **~765–1 170 zł** |
-
-> Serbia i Albania = tanio (obiad w knajpie ~15-25 zł/os). Czarnogóra droższa (~jak PL). Węgry zbliżone do PL.
-
-### Ubezpieczenia i dokumenty
-
-| Co | Koszt | Uwagi |
-|----|-------|-------|
-| Ubezpieczenie turystyczne KL+NNW (2 os., 10 dni) | ~100-150 zł | Szacunek (rankomat/mubi) |
-| Zielona Karta | 0 zł | Darmowa — zamówić u ubezpieczyciela OC! |
-| Assistance drogowe (rozszerzone na Bałkany) | ~50-150 zł | Do kupienia — poszukać wcześniej ofert |
-| **SUMA** | **~150–300 zł** | |
-
-### Atrakcje i inne
-
-| Co | Koszt | Uwagi |
-|----|-------|-------|
-| Termy Kiskőrös (wstęp, 2 os.) | ~50-80 zł | Szacunek |
-| Mauzoleum Njegoša (wstęp, 2 os.) | ~0-70 zł | Tylko wariant A. Szacunek ~8€/os |
-| Durmitor NP (wstęp + parking, 2 os.) | ~54 zł | Tylko wariant D. 5€/os + parking 2€ |
-| Drobne wydatki (kawa, piwo, pamiątki) | ~100-200 zł | 9 dni |
-| **SUMA** | **~220–400 zł** | |
-
-> Rejs łódką Uvac — olejemy, na inną wyprawę. Mury Kotoru — olejemy.
-
-**Suma kosztów w trasie:** ~4 065–4 990 zł
+|---|---|---|---|
+| 1 | Kiskőrös | Kemping termalny | ~60-100 zł |
+| 2 | Uvac — Ledena Pećina | Darmowy kemping | 0 zł |
+| 3 | Plav / Žabljak (zależy od wariantu) | Dziko / w aucie | 0 zł |
+| 4 | Theth / Durmitor (zależy od wariantu) | Dziko / w aucie | 0 zł |
+| 5 | Velipoje / Boka (zależy od wariantu) | Dziko | 0 zł |
+| 6 | Kotor | Dziko (rezerwa na kemping) | 0–100 zł |
+| 7 | Serbia lub Mostar (zależy od wariantu) | Kemping lub dziko | 0–60 zł |
+| **Suma** | | | **~60–260 zł** |
 
 ---
 
-## D. Zapas awaryjny
+## Paliwo — per wariant
 
-| Co | Kwota |
-|----|-------|
-| Rezerwa na nieprzewidziane (awaria, holowanie, nagły nocleg) | 500 zł |
+Ceny diesla na marzec 2026. Spalanie: 11 L/100km (autostrada), 12 L/100km (góry CG/AL).
 
----
+### Warianty A i C (~3 100 km, z Albanią)
 
-## PODSUMOWANIE — SCENARIUSZ A (maj, 16–24.05)
+| Kraj | Km | Litry | Cena/L | Koszt |
+|---|---|---|---|---|
+| Polska | ~400 km | ~44 L | 8,75 zł | ~385 zł |
+| Słowacja | ~300 km | ~33 L | 6,90 zł | ~228 zł |
+| Węgry | ~500 km | ~55 L | 7,35 zł | ~404 zł |
+| Serbia | ~1 000 km | ~110 L | 7,96 zł | ~876 zł |
+| Czarnogóra | ~500 km | ~60 L | 6,95 zł | ~417 zł |
+| Albania | ~300 km | ~36 L | 9,77 zł | ~352 zł |
+| **Razem** | **~3 100 km** | **~338 L** | | **~2 660 zł** |
 
-### Już wydane
-| Co | Kwota |
-|----|-------|
-| Opony AT | 2 000 zł |
-| Zawieszenie, olej, pompa, drobnice | ~4 000 zł |
-| **RAZEM WYDANE** | **~6 000 zł** |
+### Wariant D (~2 750 km, bez Albanii)
 
-### Jeszcze do wydania
-
-| Kategoria | Min | Max |
-|-----------|-----|-----|
-| A. Przygotowanie auta (bez sprzęgła) | 1 100 zł | 1 800 zł |
-| B. Sprzęt do dokupienia | 270 zł | 480 zł |
-| C. Koszty w trasie | 4 065 zł | 4 990 zł |
-| D. Zapas awaryjny | 500 zł | 500 zł |
-| **RAZEM DO WYDANIA** | **5 935 zł** | **7 770 zł** |
-
-### Grand total (wydane + do wydania)
-
-| | Kwota |
-|---|-------|
-| Już wydane | ~6 000 zł |
-| Do wydania (min) | ~5 935 zł |
-| Do wydania (max) | ~7 770 zł |
-| **ŁĄCZNIE** | **~11 935–13 770 zł** |
-
-### Realny scenariusz A
-Gotowanie w mixie z knajpami, nocleg głównie dziko, sprzęt prawie komplet:
-**~6 500–7 000 zł do wydania** (+ 6 000 zł już wydane = ~12 500–13 000 zł łącznie)
-
-Kasa: 10 000 zł oszczędności. Po odliczeniu długu (1 800 zł) i pierścionka (3 000 zł) → **5 200 zł na wyprawę — nie domyka się.**
+Brak Albanii (drogi diesel 9,77 zł/L) + ~350 km mniej = **~2 300 zł**
 
 ---
 
-## SCENARIUSZ B (czerwiec, 6–14.06) ★ preferowany
+## Opłaty drogowe — per wariant
 
-Przesunięcie terminu o 3 tygodnie. Dodatkowa wypłata (+5 000 zł). Brak możliwości pożyczenia sprzętu od brata (lodówka, namiot prysznicowy) — zastąpione termoboxem + zakupami.
+| Opłata | A (Lovćen) | C (Mostar) | D (Durmitor) |
+|---|---|---|---|
+| Winieta Słowacja (e-známka 10 dni) | 48 zł | 48 zł | 48 zł |
+| Winieta Węgry (e-matrica 10 dni) | 112 zł | 112 zł | 112 zł |
+| Bramki Serbia (tam + powrót) | ~70 zł | ~70 zł | ~70 zł |
+| Autostrady Chorwacja | — | ~140 zł | ~140 zł |
+| **Suma** | **~230 zł** | **~370 zł** | **~370 zł** |
 
-### Kasa i zobowiązania
+---
 
-| Pozycja | Kwota |
+## Ubezpieczenia (oba terminy)
+
+| Co | Koszt |
 |---|---|
-| Oszczędności (początek maja) | 10 000 zł |
-| Wypłata czerwcowa | 5 000 zł |
-| **Kasa łącznie** | **15 000 zł** |
-| Oddać za opony (dług) | -1 800 zł |
-| Pierścionek | -3 000 zł |
-| **Zostaje na wyprawę** | **10 200 zł** |
+| Ubezpieczenie KL+NNW (2 os., 10 dni) | ~100-150 zł |
+| Assistance drogowe (rozszerzone na Bałkany) | ~50-150 zł |
+| Zielona Karta | 0 zł (darmowa — zamówić u ubezpieczyciela OC) |
+| **Suma** | **~200 zł** (realistycznie) |
 
-### Zmiany vs scenariusz A
+---
 
-| Pozycja | Scenariusz A (maj) | Scenariusz B (czerwiec) |
-|---|---|---|
-| Lodówka | pożyczona od brata (0 zł) | Termobox + wkłady ~100-150 zł |
-| Namiot prysznicowy itp. | pożyczone od brata (0 zł) | Kupić ~80-150 zł |
-| Lód w trasie | — | ~50-100 zł (9 dni, kupowany na bieżąco) |
-| Przetwornica | do lodówki ~100-150 zł | do laptopa — bez zmian |
+## Atrakcje — per wariant
 
-### Do wydania (scenariusz B)
+| | A (Lovćen) | C (Mostar) | D (Durmitor) |
+|---|---|---|---|
+| Termy Kiskőrös (2 os.) | ~65 zł | ~65 zł | ~65 zł |
+| Mauzoleum Njegoša (2 os.) | ~70 zł | — | — |
+| Durmitor NP (wstęp + parking) | — | — | ~54 zł |
+| **Suma** | **~135 zł** | **~65 zł** | **~120 zł** |
 
-| Kategoria | Min | Max |
-|---|---|---|
-| A. Przygotowanie auta (bez sprzęgła) | 1 100 zł | 1 800 zł |
-| B. Sprzęt (termobox, namiot prysznicowy, reszta) | 450 zł | 750 zł |
-| C. Koszty w trasie (+ lód) | 4 115 zł | 5 090 zł |
-| D. Zapas awaryjny | 500 zł | 500 zł |
-| **RAZEM DO WYDANIA** | **6 165 zł** | **8 140 zł** |
+---
 
-### Bilans scenariusza B
+## SYNTEZA — 3 warianty × 2 terminy
 
-| | Kwota |
-|---|---|
-| Na wyprawę | 10 200 zł |
-| Wyprawa (realistycznie) | ~7 000–7 500 zł |
-| **Rezerwa po wyprawie** | **~2 700–3 200 zł** |
+### Maj (kasa: 8 200 zł)
 
-> Nawet przy wymianie sprzęgła (~1 500–3 000 zł) budżet się domyka. Komfortowy zapas.
+| Kategoria | A (Lovćen) | C (Mostar) | D (Durmitor) |
+|---|---|---|---|
+| **Paliwo** | 2 660 zł | 2 660 zł | 2 300 zł |
+| **Życie w trasie** | 1 200 zł | 1 200 zł | 1 200 zł |
+| **Auto** | 1 400 zł | 1 400 zł | 1 400 zł |
+| **Sprzęt** | 350 zł | 350 zł | 350 zł |
+| **Opłaty drogowe** | 230 zł | 370 zł | 370 zł |
+| **Ubezpieczenia** | 200 zł | 200 zł | 200 zł |
+| **Atrakcje** | 135 zł | 65 zł | 120 zł |
+| **Zapas awaryjny** | 500 zł | 500 zł | 500 zł |
+| | | | |
+| **RAZEM** | **6 675 zł** | **6 745 zł** | **6 440 zł** |
+| **Zostaje rezerwa** | **1 525 zł** | **1 455 zł** | **1 760 zł** |
+| *Po wymianie sprzęgła (+3k)* | *-1 475 zł* | *-1 545 zł* | *-1 240 zł* |
+
+### Czerwiec (kasa: 13 200 zł)
+
+| Kategoria | A (Lovćen) | C (Mostar) | D (Durmitor) |
+|---|---|---|---|
+| **Paliwo** | 2 660 zł | 2 660 zł | 2 300 zł |
+| **Życie w trasie** | 1 275 zł | 1 275 zł | 1 275 zł |
+| **Auto** | 1 400 zł | 1 400 zł | 1 400 zł |
+| **Sprzęt** | 850 zł | 850 zł | 850 zł |
+| **Opłaty drogowe** | 230 zł | 370 zł | 370 zł |
+| **Ubezpieczenia** | 200 zł | 200 zł | 200 zł |
+| **Atrakcje** | 135 zł | 65 zł | 120 zł |
+| **Zapas awaryjny** | 500 zł | 500 zł | 500 zł |
+| | | | |
+| **RAZEM** | **7 250 zł** | **7 320 zł** | **7 015 zł** |
+| **Zostaje rezerwa** | **5 950 zł** | **5 880 zł** | **6 185 zł** |
+| *Po wymianie sprzęgła (+3k)* | *2 950 zł* | *2 880 zł* | *3 185 zł* |
+
+### Szybkie porównanie
+
+| | Maj+A | Maj+C | Maj+D | Cze+A | Cze+C | Cze+D |
+|---|---|---|---|---|---|---|
+| Koszt | 6 675 | 6 745 | 6 440 | 7 250 | 7 320 | 7 015 |
+| Rezerwa | 1 525 | 1 455 | 1 760 | 5 950 | 5 880 | 6 185 |
+| Sprzęgło (worst case) | -1 475 | -1 545 | -1 240 | 2 950 | 2 880 | 3 185 |
+| Sprzęt od brata | tak | tak | tak | nie | nie | nie |
+
+---
+
+## Wnioski
+
+- **Maj** — domyka się, ale rezerwa cienka (~1 500 zł). Wymiana sprzęgła = minus na koncie
+- **Czerwiec** — luz (~6 000 zł rezerwy). Sprzęgło nie boli, dokupiony sprzęt zostaje na przyszłość
+- **Różnice między wariantami A/C/D** — max ~300 zł. Decydują atrakcje, nie kasa
+- **Najtańszy wariant:** D (mniej km, brak drogiego paliwa w Albanii)
+- **Najdroższy wariant:** C (autostrady Chorwacja, bez oszczędności na paliwie)
 
 ---
 
 ## Niewiadome / do ustalenia
 
-- [ ] **Sprzęgło** — diagnoza u mechanika (regulacja ~100 zł vs wymiana ~1 500–3 000 zł)
-- [ ] **Termobox** — wybrać model (~30-50L), wkłady chłodzące, strategia lodu w trasie
-- [ ] **Gniazda zapalniczki** — sprawdzić w aucie, ew. osobna linia z akumulatora
-- [ ] **Linka kinetyczna + szekle** — sprawdzić stan
-- [ ] **Cena kempingu Kiskőrös** — sprawdzić online lub zadzwonić
-- [ ] **Assistance** — poszukać ofert (rozszerzone na Bałkany)
-- [ ] **Zielona Karta** — zamówić u ubezpieczyciela OC
-- [ ] **Wariant A, C, czy D** — do decyzji. Różnice kosztowe niewielkie (~+70-120 zł za Mostar/Durmitor vs bazowy). Patrz trasa.md → tabelka porównawcza
-- [ ] **Mauzoleum Njegoša** — tylko wariant A (lub opcjonalnie dzień 6 w D). Wstęp ~70 zł za 2 os.
+- [ ] Sprzęgło — diagnoza u mechanika (regulacja ~100 zł vs wymiana ~1 500–3 000 zł)
+- [ ] Termobox — wybrać model (jeśli czerwiec)
+- [ ] Gniazda zapalniczki — sprawdzić w aucie
+- [ ] Linka kinetyczna + szekle — sprawdzić stan
+- [ ] Cena kempingu Kiskőrös — sprawdzić online lub zadzwonić
+- [ ] Assistance — poszukać ofert (rozszerzone na Bałkany)
+- [ ] Zielona Karta — zamówić u ubezpieczyciela OC
+- [ ] Wariant A, C, czy D — do decyzji
+- [ ] Most na Tarze — sprawdzić status remontu (wariant D)
 
-## Źródła cen (marzec 2026)
+## Źródła cen (marzec/kwiecień 2026)
 
-- Paliwo PL: [cenypaliw.fyi](https://cenypaliw.fyi/), [e-petrol.pl](https://www.e-petrol.pl/notowania/rynek-krajowy/ceny-stacje-paliw)
-- Paliwo Europa: [tolls.eu](https://www.tolls.eu/fuel-prices), [GlobalPetrolPrices](https://www.globalpetrolprices.com/diesel_prices/Europe/)
-- Winieta SK: [eznamka.sk](https://eznamka.sk/en/evignettes/types-and-prices) — €10,80
-- Winieta HU: [e-autopalyamatrica.hu](https://e-autopalyamatrica.hu/en/prices) — 6 900 HUF / €25,56
+- Paliwo PL: cenypaliw.fyi, e-petrol.pl
+- Paliwo Europa: tolls.eu, GlobalPetrolPrices
+- Winieta SK: eznamka.sk — €10,80
+- Winieta HU: e-autopalyamatrica.hu — 6 900 HUF / €25,56
+- Sprzęt: Allegro, Ceneo, Decathlon
