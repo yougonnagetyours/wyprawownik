@@ -69,3 +69,34 @@ Terrano 2 ma 4 zespoły do wymiany oleju (poza silnikiem):
 
 - Sprzęgło nisko bierze — umówić się z mechanikiem na diagnozę. Może być regulacja linki/cięgna albo zużyta tarcza. Lepiej sprawdzić przed 3000 km wyprawą niż na serpentynach w Czarnogórze
 - Opony AT kupione ale jeszcze na starych felgach — do założenia przed wyjazdem
+
+---
+
+## Poszukiwanie nowego auta — Nissan Patrol
+
+Rozpoznanie rynku (stan: kwiecień 2026). Cel: Nissan Patrol GR (Y60/Y61) z krajów o ciepłym klimacie (mniej rdzy).
+
+### Hiszpania — najtaniej, największy wybór
+
+Średnia cena ~7 200 €, zakres 6 500 – 16 000 €. Dużo ofert, suchy klimat na południu.
+
+- [Milanuncios — Nissan Patrol](https://www.milanuncios.com/nissan-patrol-de-segunda-mano/)
+- [Coches.net — Nissan Patrol](https://www.coches.net/nissan/patrol/segunda-mano/)
+- [Wallapop — Nissan Patrol](https://es.wallapop.com/coches-segunda-mano/nissan-patrol)
+
+### Włochy — umiarkowanie
+
+Zakres 5 000 – 30 000 € w zależności od generacji i stanu.
+
+- [AutoScout24 Italia — Nissan Patrol](https://www.autoscout24.it/lst/nissan/patrol)
+- [Subito.it — Nissan Patrol GR](https://www.subito.it/annunci-italia/vendita/auto/nissan/patrol-gr/)
+
+### Portugalia — drogo (22 000 – 27 500 €)
+
+- [Standvirtual — Nissan Patrol](https://www.standvirtual.com/carros/nissan/patrol)
+- [CustoJusto — Nissan Patrol](https://www.custojusto.pt/portugal/veiculos/carros-usados/nissan/patrol)
+- [OLX Portugal — Nissan Patrol](https://www.olx.pt/carros-motos-e-barcos/carros/q-nissan-patrol/)
+
+### Chorwacja
+
+- [Njuskalo.hr](https://www.njuskalo.hr) — szukaj "Nissan Patrol"
