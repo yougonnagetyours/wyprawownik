@@ -1,14 +1,16 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-04-04
+Ostatnia aktualizacja: 2026-04-07
 
 ## Bieżący status
 
-- System wyprawowy: **gotowy** — struktura plików, CLAUDE.md, konwencje ustalone
-- Aktywne planowanie: **balkany-maj-2026** + **adriatyk-czerwiec-2026** + **serbia-adriatyk-czerwiec-2026** (trzy pomysły)
-- Samochód: ~6 000 zł wydane (opony, zawieszenie, olej, pompa wtryskowa). Do zrobienia: mosty, sprzęgło, przetwornica, zabudowa
-- Przygotowania: plik `przygotowania.md` utworzony — mechanika, sprzęt, vlog
-- Budżet: kasa 15 000 zł (czerwiec), dług opony -1 800 zł, pierścionek -3 000 zł → **10 200 zł do dyspozycji**
+- **AKTYWNY PLAN: peljesac-maj-2026** — wyprawa zaręczynowa Kią rodziców (LPG)
+- Trasa: BB → Krk (2 noce) → Pelješac/Borje ★ (5 nocy, baza) → Balaton (1 noc) → BB
+- Termin: ~28.05–05.06 (do potwierdzenia — rodzice jadą w czerwcu)
+- Szacowany koszt: ~4 400 zł
+- Budżet: kasa ~10 200 zł do dyspozycji (15k - dług opony 1,8k - pierścionek 3k)
+- Rezerwa po wyprawie i pierścionku: ~2 800 zł
+- Terrano: **odłożony** — elektryka do ogarnięcia na spokojnie (jesień?), Bieszczady jako test
 
 ## Wyprawa: Balkany Maj 2026
 
@@ -48,14 +50,20 @@ Ostatnia aktualizacja: 2026-04-04
 - Kinga pierwszy raz na Adriatyku — Krk (Njivice/Malinska) jako bezpieczny wow na start
 - System gotowy na wiele pomysłów — każda wyprawa w swoim folderze
 
-## Wyprawa: Serbia → Adriatyk Czerwiec 2026 (NOWY)
+## Wyprawa: Pelješac Maj 2026 ★ AKTYWNA ★
 
-- **Koncept:** odwrócona trasa — Serbia first, powrót Chorwacją. Cel: oświadczyny nad Boką Kotorską
-- **Termin:** 28.05 (czw) – 07.06 (ndz), 11 dni — Kinga pyta w pracy o potwierdzenie
-- **Trasa:** BB → Kiskőrös → Uvac → Durmitor → Kotor → Boka ★ → Dubrownik → Split → BB
-- **Oświadczyny:** dzień 6 (02.06), plaża na Lušticy (faworyt: Mirište). Dzień 5 = rekonesans
-- **Noclegi:** Dubrownik (Camp Solitudo), Split (Camping Stobreč) — reszta do ustalenia
-- **Budżet:** do wyliczenia
+- **Koncept:** zaręczynowa wyprawa Kią rodziców. Baza na Pelješacu, przystanek na Krk
+- **Termin:** ~28.05–05.06, 9 dni — do potwierdzenia (dostępność auta rodziców)
+- **Auto:** Kia Soul (rodziców), LPG — klima, tanie paliwo, zero stresu
+- **Trasa:** BB → Krk (Njivice/Malinska, 2 noce) → Pelješac/Borje ★ (5 nocy) → Balaton (1 noc) → BB
+- **Oświadczyny:** Borje, zachód słońca, dzień 6 (02.06)
+- **Noclegi:** apartamenty (Booking) + kemping Balaton
+- **Budżet:** ~4 400 zł (szacunek)
+- Pliki: `wyprawy/peljesac-maj-2026/` (trasa.md)
+
+## Wyprawa: Serbia → Adriatyk Czerwiec 2026 (WSTRZYMANA — czeka na Terrano)
+
+- Koncept: Serbia → Durmitor → Adriatyk. Wraca do gry jak Terrano będzie ogarnięte
 - Pliki: `wyprawy/serbia-adriatyk-czerwiec-2026/` (trasa.md)
 
 ## Otwarte pytania
