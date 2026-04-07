@@ -14,7 +14,10 @@
 
 ## Do zrobienia
 
+- [ ] **Amortyzatory** — sprawdzić stan, jeśli stare/wycieknięte → wymiana (Bilstein B6, Monroe Adventure lub KYB Excel-G). Koszt: ~600-1200 zł komplet + robocizna. Największy wpływ na komfort jazdy!
 - [ ] Opony AT — założyć na felgi (opony kupione, czekają na montaż)
+- [ ] **Geometria kół** — KONIECZNA po wymianie zawieszenia przód. Bez tego ciągnie, żre opony. Koszt: ~100-200 zł
+- [ ] **Gumy stabilizatora** — sprawdzić, jeśli zużyte → wymiana. Koszt: ~50-100 zł, łatwa robota
 - [ ] Wymiana oleju w mostach, skrzyni i reduktorze — patrz sekcja "Oleje przekładniowe"
 - [ ] Sprzęgło — nisko bierze, do sprawdzenia z mechanikiem (regulacja? wymiana?)
 - [ ] Zabudowa bagażnika (wykonanie własne: deski, wkręty) — koszt materiałów do ustalenia
