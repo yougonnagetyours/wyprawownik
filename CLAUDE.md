@@ -56,6 +56,15 @@ wyprawa/
 - To jest centralny plik do śledzenia gotowości auta na kolejne wyprawy
 
 ### Domyślne założenia
-- 2 osoby (Michał + dziewczyna), chyba że powiedziane inaczej
-- Styl podróżowania: dziko/kempingi/czasem lepszy nocleg
+- 2 osoby (Michał + Kinga), chyba że powiedziane inaczej
+- Styl podróżowania: dziko/kempingi/czasem lepszy nocleg (apartamenty Booking gdy Kia rodziców)
+- Nocleg w aucie: śpią w Terrano (rozłożonym), nie w namiocie. Kemping = miejsce na auto
 - Cel: jak najtaniej z rozsądnym zapasem
+
+### Ustalone zasady (z rozmów)
+
+1. **Dane → pliki projektu, nie memory** — kwoty, terminy, ustalenia ZAWSZE do plików wyprawy. Git = źródło prawdy. Memory = dodatek.
+2. **Wypłata ≠ oszczędności** — nie mylić. Pytaj ile realnie zostanie po opłatach.
+3. **Nie zakładaj — pytaj lub zapisuj** — nie zmyślaj faktów. Sprawdź istniejące pliki zanim wpiszesz coś nowego.
+4. **Krótko** — parę zdań / mała tabela. Rekomendacja, nie 5 wariantów. Rozpisywanie → do pliku, w czacie podsumowanie.
+5. **Finansowanie** — Michał oszczędza z wypłaty. Kinga: wypłata → czynsz, nie dokłada. Wspólne konto = doliczyć (nie jedzą w domu). Dopytaj przy każdej wyprawie.

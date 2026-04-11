@@ -1,15 +1,15 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-04-07
+Ostatnia aktualizacja: 2026-04-09
 
 ## Bieżący status
 
 - **AKTYWNY PLAN: peljesac-maj-2026** — wyprawa zaręczynowa Kią rodziców (LPG)
-- Trasa: BB → Krk (2 noce) → Pelješac/Borje ★ (5 nocy, baza) → Balaton (1 noc) → BB
-- Termin: ~28.05–05.06 (do potwierdzenia — rodzice jadą w czerwcu)
-- Szacowany koszt: ~4 400 zł
-- Budżet: kasa ~10 200 zł do dyspozycji (15k - dług opony 1,8k - pierścionek 3k)
-- Rezerwa po wyprawie i pierścionku: ~2 800 zł
+- Trasa: BB → Krk (1 noc) → Pelješac/Borje ★ (6 nocy, baza) → Balaton (1 noc) → BB
+- **Termin: 01.05–09.05.2026** (start piątek 1 maja, 9 dni / 8 nocy)
+- Szacowany koszt: ~5 385 zł (bez murów Dubrownika)
+- Kasa: 2 145 zł oszcz. + 5 000 zł wypłata 29.04 + 1 485 zł wspólne konto − 3 000 zł pierścionek = **~5 630 zł do dyspozycji**
+- Rezerwa po wyprawie: ~245 zł (ciasno, mury Dubrownika odpada)
 - Terrano: **odłożony** — elektryka do ogarnięcia na spokojnie (jesień?), Bieszczady jako test
 
 ## Wyprawa: Balkany Maj 2026
@@ -47,19 +47,19 @@ Ostatnia aktualizacja: 2026-04-07
 ## Ustalenia
 
 - Albania = Theth + Velipoja, porządnie. Nie Szkodra/jezioro na pół gwizdka. Zostawiona na dedykowaną wyprawę bałkańską
-- Kinga pierwszy raz na Adriatyku — Krk (Njivice/Malinska) jako bezpieczny wow na start
+- Kinga była już z Michałem na Krk i Pelješacu — sprawdzone miejsca, dlatego Pelješac na oświadczyny
 - System gotowy na wiele pomysłów — każda wyprawa w swoim folderze
 
 ## Wyprawa: Pelješac Maj 2026 ★ AKTYWNA ★
 
 - **Koncept:** zaręczynowa wyprawa Kią rodziców. Baza na Pelješacu, przystanek na Krk
-- **Termin:** ~28.05–05.06, 9 dni — do potwierdzenia (dostępność auta rodziców)
+- **Termin:** 01.05–09.05.2026, 9 dni / 8 nocy (start piątek 1 maja)
 - **Auto:** Kia Soul (rodziców), LPG — klima, tanie paliwo, zero stresu
-- **Trasa:** BB → Krk (Njivice/Malinska, 2 noce) → Pelješac/Borje ★ (5 nocy) → Balaton (1 noc) → BB
-- **Oświadczyny:** Borje, zachód słońca, dzień 6 (02.06)
-- **Noclegi:** apartamenty (Booking) + kemping Balaton
-- **Budżet:** ~4 400 zł (szacunek)
-- Pliki: `wyprawy/peljesac-maj-2026/` (trasa.md)
+- **Trasa:** BB → Krk (Njivice/Malinska, 1 noc) → Pelješac/Borje ★ (6 nocy) → Balaton (1 noc) → BB
+- **Oświadczyny:** Borje, plaża Kavala, zachód słońca ~19:50, dzień 6 (06.05 śr)
+- **Noclegi:** apartamenty (Booking) — Krk + Pelješac + Balaton, ceny ~200 zł/noc średnio
+- **Budżet:** ~5 385 zł (bez murów), do dyspozycji ~5 630 zł, rezerwa ~245 zł (ciasno)
+- Pliki: `wyprawy/peljesac-maj-2026/` (trasa.md, budzet.md, lokale.md)
 
 ## Wyprawa: Serbia → Adriatyk Czerwiec 2026 (WSTRZYMANA — czeka na Terrano)
 
@@ -90,3 +90,5 @@ Ostatnia aktualizacja: 2026-04-07
 - [2026-04-04] Adriatyk: pełna trasa + budżet w 2 wariantach (A: 9 dni/5 390 zł, B: 10 dni/6 025 zł)
 - [2026-04-04] Albania wywalona z Adriatyku — zostawiona na bałkańską (Theth + Velipoja porządnie)
 - [2026-04-04] 6 kempingów z cenami: Njivice, Zaton, Stobreč, Solitudo, LAKS
+- [2026-04-09] Pelješac: termin ustalony 01.05–09.05 (start piątek); budżet przeliczony na nową logikę kasy (oszczędności + uwolniony wspólny budżet)
+- [2026-04-09] Pelješac: zmiana planu — 1 noc Krk + 6 nocy Pelješac (zamiast 2+5); ceny noclegów skorygowane w górę po researchu (Krk ~220, Pel ~200, Bal ~180 zł/noc)

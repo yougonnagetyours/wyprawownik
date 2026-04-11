@@ -1,6 +1,8 @@
-# Budżet: Pelješac — Maj/Czerwiec 2026
+# Budżet: Pelješac — Maj 2026
 
-Wyprawa zaręczynowa. Kia Soul (rodziców, LPG). Stan na 08.04.2026.
+Wyprawa zaręczynowa. Kia Soul (rodziców, LPG). Stan na 09.04.2026.
+
+**Termin: 01.05 – 09.05.2026 (start piątek 1 maja, 9 dni / 8 nocy)**
 
 ---
 
@@ -8,8 +10,8 @@ Wyprawa zaręczynowa. Kia Soul (rodziców, LPG). Stan na 08.04.2026.
 
 | Parametr | Wartość |
 |----------|---------|
-| Termin | ~28.05 – 05.06 (9 dni / 8 nocy) |
-| Trasa | BB → Krk (2 noce) → Pelješac/Borje (5 nocy) → Balaton (1 noc) → BB |
+| Termin | **01.05 – 09.05** (piątek → sobota, 9 dni / 8 nocy) |
+| Trasa | BB → Krk (1 noc) → Pelješac/Borje (6 nocy) → Balaton (1 noc) → BB |
 | Dystans | ~2 630 km |
 | Osoby | 2 (Michał + Kinga) |
 | Auto | Kia Soul (rodziców) — LPG, ~10 L/100km |
@@ -19,12 +21,16 @@ Wyprawa zaręczynowa. Kia Soul (rodziców, LPG). Stan na 08.04.2026.
 
 ## Kasa
 
-| | Kwota |
-|---|---|
-| Oszczędności | 15 000 zł |
-| Dług za opony | -1 800 zł |
-| Pierścionek | -3 000 zł |
-| **Do dyspozycji na wyprawę** | **~10 200 zł** |
+Wyprawa start 01.05 — kasa z oszczędności + wypłata 29.04 + wspólne konto.
+Kinga: wypłata idzie na czynsz — nie dokłada własnej kasy, ale wspólny budżet tygodniowy "uwalnia się" na wyprawę (nie jemy w domu).
+
+| Źródło | Kwota | Uwagi |
+|---|---|---|
+| Oszczędności (4 145 − ~2 000 wydatków do końca IV) | 2 145 zł | pesymistyczny szacunek |
+| Wypłata 29.04 (netto, po opłatach) | +5 000 zł | |
+| Wspólne konto (uwolniony budżet tyg. × 9 dni) | +1 485 zł | nie jemy w domu → kasa idzie na wyprawę |
+| Pierścionek | −3 000 zł | |
+| **Do dyspozycji na wyprawę** | **~5 630 zł** | |
 
 ---
 
@@ -61,29 +67,29 @@ Wyprawa zaręczynowa. Kia Soul (rodziców, LPG). Stan na 08.04.2026.
 
 | Miejsce | Noce | Cena/noc | Koszt |
 |---|---|---|---|
-| Krk (Njivice/Malinska) | 2 | ~180 zł | ~360 zł |
-| Pelješac (okolice Borje/Orebić) | 5 | ~160 zł | ~800 zł |
-| Balaton (Zamárdi/Siófok) | 1 | ~100 zł | ~100 zł |
-| **Razem (8 nocy)** | | | **~1 260 zł** |
+| Krk (Njivice/Malinska) | 1 | ~220 zł | ~220 zł |
+| Pelješac (okolice Borje/Orebić) | 6 | ~200 zł | ~1 200 zł |
+| Balaton (Zamárdi/Siófok) | 1 | ~180 zł | ~180 zł |
+| **Razem (8 nocy)** | | **~200 zł śr.** | **~1 600 zł** |
 
-> Pelješac początek czerwca = sezon jeszcze nie rozkręcony. Apartamenty 2-os. od ~140–180 zł/noc.
+> Ceny oparte na researchu (Casamundo, Noclegi.pl, źródła węgierskie) — początek maja, niski sezon. Realne przedziały: Krk 200–260 zł, Pelješac 180–260 zł, Balaton 150–220 zł. **Twarde ceny dopiero po wejściu na Booking i zarezerwowaniu konkretnych apartamentów** — może być ±20%.
 
 ---
 
 ## Jedzenie (9 dni, 2 osoby)
 
-Mix gotowanie w apartamencie + knajpy.
+Mix gotowanie w apartamencie + knajpy + piwo/wino. Kwota oparta na realnych wydatkach z Omiša (X 2025): ~303 zł/dzień — tu zakładamy oszczędniej (Pelješac tańszy, gotowanie w apartamencie, niski sezon).
 
 | Posiłek | Koszt/dzień (2 os.) |
 |---|---|
-| Śniadanie (apartament, zakupy) | ~25 zł |
-| Obiad/lunch (knajpa co 2. dzień, reszta gotowanie) | ~65 zł |
-| Kolacja (knajpa/gotowanie) | ~50 zł |
-| Napoje, kawa, lody | ~20 zł |
-| **Razem / dzień** | **~160 zł** |
-| **× 9 dni** | **~1 440 zł** |
+| Śniadanie (apartament, zakupy) | ~30 zł |
+| Obiad/lunch (knajpa co 2. dzień, reszta gotowanie) | ~80 zł |
+| Kolacja (knajpa/gotowanie) | ~60 zł |
+| Piwo, wino, kawa, lody | ~50 zł |
+| **Razem / dzień** | **~220 zł** |
+| **× 9 dni** | **~1 980 zł** |
 
-> Pelješac tańszy od Krk. Ston — ostrygi po ~50 zł/tuzin. Wino lokalne ~30–50 zł/butelka.
+> Realne wydatki Omiš X 2025: ~70€/dzień (~303 zł) na 2 os. Tu celujemy w ~50€/dzień — mniej knajp, więcej gotowania, Pelješac tańszy od Omiša.
 
 ---
 
@@ -91,12 +97,14 @@ Mix gotowanie w apartamencie + knajpy.
 
 | Co | Koszt |
 |---|---|
-| Dubrownik — mury miejskie (2 os.) | ~300 zł (~35€/os.) |
+| Dubrownik — mury miejskie (2 os.) *opcjonalne* | ~300 zł (~35€/os.) |
 | Dubrownik — parking (dzień) | ~50 zł |
 | Ubezpieczenie KL+NNW (2 os., 10 dni) | ~100 zł |
 | Zielona Karta | 0 zł (sprawdzić OC rodziców) |
 | Drobne (kawa, parkingi, pamiątki, wino) | ~200 zł |
 | **Razem** | **~650 zł** |
+
+> **Mury Dubrownika** — traktujemy jako opcję. Decyzja w trakcie dnia, jeśli budżet pozwoli (będzie pod koniec wyprawy, czyli znamy już realne wydatki). Jak ciasno — olewamy, same stare miasto + Stradun za darmo i też robi wrażenie. Jak luźniej — bilety online na citywallsdubrovnik.hr, wejście rano lub po 17:00.
 
 ---
 
@@ -115,27 +123,33 @@ Mix gotowanie w apartamencie + knajpy.
 | Kategoria | Koszt |
 |---|---|
 | Paliwo (LPG) | 865 zł |
-| Noclegi (8 nocy) | 1 260 zł |
-| Jedzenie (9 dni) | 1 440 zł |
+| Noclegi (8 nocy) | 1 600 zł |
+| Jedzenie (9 dni × 220 zł) | 1 980 zł |
 | Opłaty drogowe | 340 zł |
-| Atrakcje + ubezpieczenia + drobne | 650 zł |
+| Atrakcje + ubezpieczenia + drobne (bez murów Dubrownika) | 350 zł |
 | Zapas awaryjny | 250 zł |
 | | |
-| **RAZEM** | **~4 805 zł** |
+| **RAZEM (bez murów Dubrownika)** | **~5 385 zł** |
+| Mury Dubrownika (opcja) | +300 zł |
+| **RAZEM (z murami)** | **~5 685 zł** |
 
 ### Bilans
 
 | | Kwota |
 |---|---|
-| Kasa (po pierścionku i długu) | 10 200 zł |
-| Koszt wyprawy | ~4 805 zł |
-| **Rezerwa po wyprawie** | **~5 395 zł** |
+| Do dyspozycji na wyprawę | ~5 630 zł |
+| Koszt wyprawy (bez murów) | ~5 385 zł |
+| **Rezerwa (bez murów)** | **~245 zł** |
+| Rezerwa (z murami) | −55 zł ❌ |
+
+Ciasno. Mury Dubrownika odpada. 245 zł rezerwy to minimum — każda niespodzianka (droższy nocleg, tankowanie) może zeżreć całość.
 
 ---
 
 ## Do ustalenia
 
-- [ ] Termin — potwierdzić dostępność auta rodziców
+- [x] Termin — ustalony 01.05–09.05.2026
+- [ ] Auto rodziców — potwierdzić dostępność na majówkę
 - [ ] Noclegi — zarezerwować (Krk, Pelješac, Balaton)
 - [ ] Zielona Karta + assistance — sprawdzić polisę rodziców
 - [ ] Dubrownik — wejście na mury kupić online wcześniej (tańsze?)
