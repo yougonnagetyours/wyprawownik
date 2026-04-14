@@ -78,18 +78,19 @@ Kinga: wypłata idzie na czynsz — nie dokłada własnej kasy, ale wspólny bud
 
 ## Jedzenie (9 dni, 2 osoby)
 
-Mix gotowanie w apartamencie + knajpy + piwo/wino. Kwota oparta na realnych wydatkach z Omiša (X 2025): ~303 zł/dzień — tu zakładamy oszczędniej (Pelješac tańszy, gotowanie w apartamencie, niski sezon).
+Mix gotowanie w apartamencie + 3 knajpy + piwo/wino. Kwota oparta na realnych wydatkach z Omiša X 2025 (patrz `referencja-omis-pazdziernik-2025.md`): spożywka ~167 zł/dzień + zapas na knajpy i bufor.
 
-| Posiłek | Koszt/dzień (2 os.) |
-|---|---|
-| Śniadanie (apartament, zakupy) | ~30 zł |
-| Obiad/lunch (knajpa co 2. dzień, reszta gotowanie) | ~80 zł |
-| Kolacja (knajpa/gotowanie) | ~60 zł |
-| Piwo, wino, kawa, lody | ~50 zł |
-| **Razem / dzień** | **~220 zł** |
-| **× 9 dni** | **~1 980 zł** |
+| Pozycja | Koszt (9 dni) |
+|---|---:|
+| Spożywka/gotowanie (~167 zł/dzień × 9) | ~1 503 zł |
+| 3 knajpy (2× kolacja ~200 zł + 1× lunch/pizza ~150 zł) | ~550 zł |
+| Bufor piwo/kawa/lody na co dzień | ~107 zł |
+| **Razem** | **~2 160 zł** |
+| **/ dzień** | **~240 zł** |
 
-> Realne wydatki Omiš X 2025: ~70€/dzień (~303 zł) na 2 os. Tu celujemy w ~50€/dzień — mniej knajp, więcej gotowania, Pelješac tańszy od Omiša.
+> Referencja Omiš X 2025: spożywka 39,2 €/dzień (~167 zł) + 1 knajpa Milo 48 € na cały pobyt = ~47 €/dzień total (~201 zł). Pelješac ma identyczne sieci (Studenac, Pekara) i podobny poziom cen w niskim sezonie. 240 zł/dzień daje zapas ~20% względem realu — przy normalnym scenariuszu zostaje ~200 zł na koniec wyprawy jako "ukryta rezerwa".
+
+**Wieczór oświadczyn** — plaża Borje, koc, wino + przekąski ze Studenaca. Zero knajpy, wliczone w spożywkę (max +50 zł na lepsze wino tego dnia).
 
 ---
 
@@ -124,25 +125,24 @@ Mix gotowanie w apartamencie + knajpy + piwo/wino. Kwota oparta na realnych wyda
 |---|---|
 | Paliwo (LPG) | 865 zł |
 | Noclegi (8 nocy) | 1 600 zł |
-| Jedzenie (9 dni × 220 zł) | 1 980 zł |
+| Jedzenie (9 dni × 240 zł) | 2 160 zł |
 | Opłaty drogowe | 340 zł |
 | Atrakcje + ubezpieczenia + drobne (bez murów Dubrownika) | 350 zł |
 | Zapas awaryjny | 250 zł |
 | | |
-| **RAZEM (bez murów Dubrownika)** | **~5 385 zł** |
-| Mury Dubrownika (opcja) | +300 zł |
-| **RAZEM (z murami)** | **~5 685 zł** |
+| **RAZEM** | **~5 565 zł** |
 
 ### Bilans
 
 | | Kwota |
 |---|---|
 | Do dyspozycji na wyprawę | ~5 630 zł |
-| Koszt wyprawy (bez murów) | ~5 385 zł |
-| **Rezerwa (bez murów)** | **~245 zł** |
-| Rezerwa (z murami) | −55 zł ❌ |
+| Koszt wyprawy | ~5 565 zł |
+| **Rezerwa końcowa** | **~65 zł** ⚠️ |
 
-Ciasno. Mury Dubrownika odpada. 245 zł rezerwy to minimum — każda niespodzianka (droższy nocleg, tankowanie) może zeżreć całość.
+Bardzo ciasno. **Mury Dubrownika odpadają całkowicie** (+300 zł = nie ma z czego).
+
+Realna rezerwa siedzi w jedzeniu — 240 zł/dzień ma ~20% zapasu względem realnego 201 zł/dzień z Omiša. Jak zejdziesz z 3 knajp na 2, zostaje ~200 zł jako nieformalny bufor. To jest twój prawdziwy zapas na niespodzianki (droższy nocleg, tankowanie, awaria), nie te 65 zł z bilansu.
 
 ---
 
