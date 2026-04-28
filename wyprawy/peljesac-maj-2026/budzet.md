@@ -1,8 +1,10 @@
 # Budżet: Pelješac — Maj 2026
 
-Wyprawa zaręczynowa. Kia Soul (rodziców, LPG). Stan na 09.04.2026.
+Kia Soul (rodziców, LPG). Stan na 27.04.2026.
 
 **Termin: 01.05 – 09.05.2026 (start piątek 1 maja, 9 dni / 8 nocy)**
+
+> **Oświadczyny przesunięte** — pierścionek kupowany później. Szczegóły: `oswiadczyny.md`.
 
 ---
 
@@ -21,16 +23,15 @@ Wyprawa zaręczynowa. Kia Soul (rodziców, LPG). Stan na 09.04.2026.
 
 ## Kasa
 
-Wyprawa start 01.05 — kasa z oszczędności + wypłata 29.04 + wspólne konto.
-Kinga: wypłata idzie na czynsz — nie dokłada własnej kasy, ale wspólny budżet tygodniowy "uwalnia się" na wyprawę (nie jemy w domu).
+Wyprawa start 01.05 — kasa z oszczędności Michała + gotówka Kingi + wypłata 29.04 + wspólne konto.
 
 | Źródło | Kwota | Uwagi |
 |---|---|---|
-| Oszczędności (4 145 − ~2 000 wydatków do końca IV) | 2 145 zł | pesymistyczny szacunek |
+| Oszczędności Michała (stan 27.04) | 1 243 zł | |
+| Gotówka Kingi (do wymiany na EUR/HRK) | 1 200 zł | |
 | Wypłata 29.04 (netto, po opłatach) | +5 000 zł | |
 | Wspólne konto (uwolniony budżet tyg. × 9 dni) | +1 485 zł | nie jemy w domu → kasa idzie na wyprawę |
-| Pierścionek | −3 000 zł | |
-| **Do dyspozycji na wyprawę** | **~5 630 zł** | |
+| **Do dyspozycji na wyprawę** | **~8 928 zł** | |
 
 ---
 
@@ -90,8 +91,6 @@ Mix gotowanie w apartamencie + 3 knajpy + piwo/wino. Kwota oparta na realnych wy
 
 > Referencja Omiš X 2025: spożywka 39,2 €/dzień (~167 zł) + 1 knajpa Milo 48 € na cały pobyt = ~47 €/dzień total (~201 zł). Pelješac ma identyczne sieci (Studenac, Pekara) i podobny poziom cen w niskim sezonie. 240 zł/dzień daje zapas ~20% względem realu — przy normalnym scenariuszu zostaje ~200 zł na koniec wyprawy jako "ukryta rezerwa".
 
-**Wieczór oświadczyn** — plaża Borje, koc, wino + przekąski ze Studenaca. Zero knajpy, wliczone w spożywkę (max +50 zł na lepsze wino tego dnia).
-
 ---
 
 ## Atrakcje i drobne
@@ -109,40 +108,47 @@ Mix gotowanie w apartamencie + 3 knajpy + piwo/wino. Kwota oparta na realnych wy
 
 ---
 
-## Oświadczyny
-
-| Co | Koszt |
-|---|---|
-| Pierścionek | ~3 000 zł (odliczone od kasy, nie z budżetu wyprawy) |
-| Wino + przekąski na wieczór | wliczone w jedzenie |
-| Koc | mamy |
-
----
-
 ## Podsumowanie
 
+### Wariant A — noclegi ~200 zł/noc (mix z researchu)
+
 | Kategoria | Koszt |
-|---|---|
-| Paliwo (LPG) | 865 zł |
-| Noclegi (8 nocy) | 1 600 zł |
-| Jedzenie (9 dni × 240 zł) | 2 160 zł |
-| Opłaty drogowe | 340 zł |
-| Atrakcje + ubezpieczenia + drobne (bez murów Dubrownika) | 350 zł |
-| Zapas awaryjny | 250 zł |
-| | |
-| **RAZEM** | **~5 565 zł** |
+|---|---:|
+| 🚗 Paliwo (LPG) | 865 zł |
+| 🛣️ Opłaty drogowe (winiety + autostrady HR) | 340 zł |
+| 🏠 Noclegi (8 nocy × ~200 zł) | 1 600 zł |
+| 🍽️ Jedzenie (9 dni × 240 zł) | 2 160 zł |
+| 🎟️ Mury Dubrownika (2 os.) | 300 zł |
+| 🅿️ Dubrownik — parking | 50 zł |
+| 🛡️ Ubezpieczenie KL+NNW | 100 zł |
+| ☕ Drobne (kawa, parkingi, pamiątki, wino) | 200 zł |
+| 🛟 Zapas awaryjny | 250 zł |
+| **RAZEM** | **~5 865 zł** |
+
+### Wariant B — noclegi ~300 zł/noc (lepszy standard)
+
+| Kategoria | Koszt |
+|---|---:|
+| 🚗 Paliwo | 865 zł |
+| 🛣️ Opłaty drogowe | 340 zł |
+| 🏠 Noclegi (8 × 300 zł) | 2 400 zł |
+| 🍽️ Jedzenie | 2 160 zł |
+| 🎟️ Mury Dubrownika | 300 zł |
+| 🅿️ Dubrownik — parking | 50 zł |
+| 🛡️ Ubezpieczenie | 100 zł |
+| ☕ Drobne | 200 zł |
+| 🛟 Zapas awaryjny | 250 zł |
+| **RAZEM** | **~6 665 zł** |
 
 ### Bilans
 
-| | Kwota |
-|---|---|
-| Do dyspozycji na wyprawę | ~5 630 zł |
-| Koszt wyprawy | ~5 565 zł |
-| **Rezerwa końcowa** | **~65 zł** ⚠️ |
+| | Wariant A | Wariant B |
+|---|---:|---:|
+| Do dyspozycji | 8 928 zł | 8 928 zł |
+| Koszt wyprawy | 5 865 zł | 6 665 zł |
+| **Rezerwa po wyprawie** | **~3 063 zł** | **~2 263 zł** |
 
-Bardzo ciasno. **Mury Dubrownika odpadają całkowicie** (+300 zł = nie ma z czego).
-
-Realna rezerwa siedzi w jedzeniu — 240 zł/dzień ma ~20% zapasu względem realnego 201 zł/dzień z Omiša. Jak zejdziesz z 3 knajp na 2, zostaje ~200 zł jako nieformalny bufor. To jest twój prawdziwy zapas na niespodzianki (droższy nocleg, tankowanie, awaria), nie te 65 zł z bilansu.
+Luźno w obu wariantach — mury Dubrownika wchodzą bez problemu. Rezerwa po wyprawie to baza pod pierścionek (przesunięte oświadczyny).
 
 ---
 
@@ -153,4 +159,5 @@ Realna rezerwa siedzi w jedzeniu — 240 zł/dzień ma ~20% zapasu względem rea
 - [ ] Noclegi — zarezerwować (Krk, Pelješac, Balaton)
 - [ ] Zielona Karta + assistance — sprawdzić polisę rodziców
 - [ ] Dubrownik — wejście na mury kupić online wcześniej (tańsze?)
-- [ ] Pierścionek — kupić przed wyjazdem
+- [ ] Wymienić 1 200 zł Kingi na EUR przed wyjazdem
+- [ ] Wybrać wariant noclegów (A: 200 zł/noc vs B: 300 zł/noc)

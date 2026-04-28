@@ -1,6 +1,10 @@
 # Oświadczyny — Pelješac maj 2026
 
-**STATUS:** w planowaniu. Plik tajny — nie czytać przy Kindze.
+**STATUS:** **PRZESUNIĘTE** (decyzja 27.04.2026). Plik tajny — nie czytać przy Kindze.
+
+> **Zmiana planu:** oświadczyny przesunięte na późniejszy termin. Powód: oszczędności Michała stopniały do 1 243 zł (zamiast planowanych 2 145 zł) — zakup pierścionka 3 000 zł zjadłby cały bufor wyprawy. Pierścionek do kupienia z rezerwy po wyprawie (~2–3 tys. zł zostaje) + kolejnej wypłaty.
+>
+> Wyprawa na Pelješac 01–09.05.2026 odbywa się normalnie, ale bez oświadczyn. Plan miejsca/momentu/siostry zostaje na nowy termin — do ustalenia.
 
 ## Decyzje
 
