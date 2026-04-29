@@ -99,10 +99,10 @@ Mix gotowanie w apartamencie + 3 knajpy + piwo/wino. Kwota oparta na realnych wy
 |---|---|
 | Dubrownik — mury miejskie (2 os.) *opcjonalne* | ~300 zł (~35€/os.) |
 | Dubrownik — parking (dzień) | ~50 zł |
-| Ubezpieczenie KL+NNW (2 os., 10 dni) | ~100 zł |
+| Ubezpieczenie KL+NNW (2 os., Supertravel UNIQA Podstawowy) | 102,39 zł ✅ kupione |
 | Zielona Karta | 0 zł (sprawdzić OC rodziców) |
 | Drobne (kawa, parkingi, pamiątki, wino) | ~200 zł |
-| **Razem** | **~650 zł** |
+| **Razem** | **~652 zł** |
 
 > **Mury Dubrownika** — traktujemy jako opcję. Decyzja w trakcie dnia, jeśli budżet pozwoli (będzie pod koniec wyprawy, czyli znamy już realne wydatki). Jak ciasno — olewamy, same stare miasto + Stradun za darmo i też robi wrażenie. Jak luźniej — bilety online na citywallsdubrovnik.hr, wejście rano lub po 17:00.
 
@@ -120,7 +120,7 @@ Mix gotowanie w apartamencie + 3 knajpy + piwo/wino. Kwota oparta na realnych wy
 | 🍽️ Jedzenie (9 dni × 240 zł) | 2 160 zł |
 | 🎟️ Mury Dubrownika (2 os.) | 300 zł |
 | 🅿️ Dubrownik — parking | 50 zł |
-| 🛡️ Ubezpieczenie KL+NNW | 100 zł |
+| 🛡️ Ubezpieczenie KL+NNW (kupione) | 102 zł |
 | ☕ Drobne (kawa, parkingi, pamiątki, wino) | 200 zł |
 | 🛟 Zapas awaryjny | 250 zł |
 | **RAZEM** | **~5 865 zł** |
@@ -135,7 +135,7 @@ Mix gotowanie w apartamencie + 3 knajpy + piwo/wino. Kwota oparta na realnych wy
 | 🍽️ Jedzenie | 2 160 zł |
 | 🎟️ Mury Dubrownika | 300 zł |
 | 🅿️ Dubrownik — parking | 50 zł |
-| 🛡️ Ubezpieczenie | 100 zł |
+| 🛡️ Ubezpieczenie (kupione) | 102 zł |
 | ☕ Drobne | 200 zł |
 | 🛟 Zapas awaryjny | 250 zł |
 | **RAZEM** | **~6 665 zł** |
@@ -157,7 +157,8 @@ Luźno w obu wariantach — mury Dubrownika wchodzą bez problemu. Rezerwa po wy
 - [x] Termin — ustalony 01.05–09.05.2026
 - [ ] Auto rodziców — potwierdzić dostępność na majówkę
 - [ ] Noclegi — zarezerwować (Krk, Pelješac, Balaton)
-- [ ] Zielona Karta + assistance — sprawdzić polisę rodziców
+- [x] Ubezpieczenie KL+NNW — kupione (Supertravel UNIQA Podstawowy, 102,39 zł za 2 os.)
+- [ ] Zielona Karta — sprawdzić OC rodziców
 - [ ] Dubrownik — wejście na mury kupić online wcześniej (tańsze?)
 - [ ] Wymienić 1 200 zł Kingi na EUR przed wyjazdem
 - [ ] Wybrać wariant noclegów (A: 200 zł/noc vs B: 300 zł/noc)
