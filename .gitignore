@@ -1,0 +1,6 @@
+# Transkrypcje YouTube — pobierane przez yt-dlp z links.txt, nie commitujemy (4MB+ tekstu)
+*.vtt
+*.srt
+
+# Lokalne ustawienia Claude Code
+.claude/
