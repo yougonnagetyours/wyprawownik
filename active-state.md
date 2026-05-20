@@ -1,16 +1,14 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-04-09
+Ostatnia aktualizacja: 2026-05-20
 
 ## Bieżący status
 
-- **AKTYWNY PLAN: peljesac-maj-2026** — wyprawa zaręczynowa Kią rodziców (LPG)
-- Trasa: BB → Krk (1 noc) → Pelješac/Borje ★ (6 nocy, baza) → Balaton (1 noc) → BB
-- **Termin: 01.05–09.05.2026** (start piątek 1 maja, 9 dni / 8 nocy)
-- Szacowany koszt: ~5 385 zł (bez murów Dubrownika)
-- Kasa: 2 145 zł oszcz. + 5 000 zł wypłata 29.04 + 1 485 zł wspólne konto − 3 000 zł pierścionek = **~5 630 zł do dyspozycji**
-- Rezerwa po wyprawie: ~245 zł (ciasno, mury Dubrownika odpada)
-- Terrano: **odłożony** — elektryka do ogarnięcia na spokojnie (jesień?), Bieszczady jako test
+- **Pelješac maj 2026 — ZAKOŃCZONA** (01-09.05.2026). Pojechali Passatem B7 taty Kingi (Kia padła dzień przed — cewka). Oświadczyn nie było (kasy na pierścionek brakło). W Passacie B7 Michał się "zakochał" → decyzja o przygotowaniu swojego B5.5
+- **NOWY KIERUNEK: Passat B5.5 = auto podróżne** — Terrano czeka na decyzję po lipcowym teście
+- **AKTYWNY PLAN 1: Ostrowo k. Karwi, 11-20.07.2026** — Passatem B5.5, 10 dni / 9 nocy. Noclegi stacjonarne. Pliki: `wyprawy/morze-lipiec-2026/` (trasa.md, budzet.md). Szacunek: ~5 400-5 700 zł vs. 5 500 zł kasy = wchodzimy na styk
+- **AKTYWNY PLAN 2: Bałkany październik 2026 = OŚWIADCZYNY (przesunięte z maja)** — Passatem B5.5. Trasa do zaplanowania
+- Pliki auta: `samochod-passat.md` (aktywne), `samochod.md` (Terrano — zawieszone)
 
 ## Wyprawa: Balkany Maj 2026
 
@@ -75,6 +73,10 @@ Ostatnia aktualizacja: 2026-04-09
 - Stan auta — co jeszcze do zrobienia przed wyprawą
 
 ## Ostatnie działania
+
+- [2026-05-20] Decyzja: Passat B5.5 (kombi, 1.9 TDI 101 KM, 2004, 424 tys. km) zostaje autem podróżnym. Utworzono `samochod-passat.md`. Cel: morze połowa lipca 2026 jako test, potem decyzja o Terrano
+
+### Wcześniejsze
 
 - [2026-03-19] Utworzono system asystenta wyprawowego
 - [2026-03-19] Zapisano dane o aucie (Nissan Terrano 2, 2.7 TDI, 4x4, rok 2000)
