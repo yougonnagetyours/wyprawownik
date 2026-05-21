@@ -1,0 +1,5 @@
+- [Oświadczyny przesunięte na X.2026](project_oswiadzyny.md) — z maja na październik 2026 (Bałkany Passatem). W maju zabrakło kasy na pierścionek
+- [Kinga](user_kinga.md) — partnerka Michała, byli razem już na Krk i Pelješacu (sprawdzone miejsca)
+- [Sprawdzaj kontekst wyprawy](feedback_sprawdzaj_kontekst_wyprawy.md) — przed pisaniem o aucie/stylu konkretnej wyprawy → pliki wyprawy + memory, nie domyślne z CLAUDE.md
+- [Passat = auto podróżne](project_passat_auto_podrozne.md) — od V.2026 Passat B5.5 kombi 1.9 TDI zastępuje Terrano; decyzja o Terrano po lipcowym wyjeździe
+- [Droga, nie sprzęt](feedback_droga_nie_sprzet.md) — minimalizm, używać tego co już jest, mechanika przed stylingiem; nie pchać upgradów ani estetyki sprzętu

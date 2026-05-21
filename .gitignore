@@ -2,5 +2,7 @@
 *.vtt
 *.srt
 
-# Lokalne ustawienia Claude Code
-.claude/
+# Claude Code — wersjonujemy settings.json i scripts/, lokalne zostawiamy poza
+.claude/*
+!.claude/settings.json
+!.claude/scripts/

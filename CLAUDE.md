@@ -26,6 +26,18 @@ wyprawa/
 │       └── pakowanie.md
 ```
 
+## Boot sequence (każda nowa sesja)
+
+1. **Najpierw przeczytaj `active-state.md`** — to jest jedyne źródło prawdy o "co jest TERAZ". Memory i git log mogą być nieaktualne (np. ZAKOŃCZONE wyprawy zostawiają ślady). `active-state.md` rozstrzyga konflikty.
+2. Dopiero potem patrz na memory (`memory/MEMORY.md`) i ewentualne dodatkowe pliki.
+3. Jeśli memory mówi co innego niż `active-state.md` → wierz `active-state.md` i zaktualizuj memory.
+
+## Memory — gdzie siedzi
+
+- Memory jest w **`memory/` w repo** (nie w `~/.claude/projects/.../memory/`). Junction przekierowuje starą ścieżkę, ale **zawsze pisz na `C:\Assist\Wyprawownik\memory\`** (lub względnie `memory/`).
+- Hook PreToolUse (`.claude/scripts/block-claude-dir-writes.sh`) blokuje zapisy do `~/.claude/projects/*/memory/` — defensywa gdyby junction zniknął.
+- Po fakcie (wyprawa zakończona, decyzja zdezaktualizowana) → **wyczyść albo dopisz "ZAKOŃCZONE [data]"** do wpisu memory. Inaczej kolejna sesja zaczyta to jako stan teraźniejszy.
+
 ## Zasady pracy
 
 ### Pliki projektu
