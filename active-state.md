@@ -9,6 +9,7 @@ Ostatnia aktualizacja: 2026-05-20
 - **AKTYWNY PLAN 1: Ostrowo k. Karwi, 11-20.07.2026** — Passatem B5.5, 10 dni / 9 nocy. Noclegi stacjonarne. Pliki: `wyprawy/morze-lipiec-2026/` (trasa.md, budzet.md). Szacunek: ~5 400-5 700 zł vs. 5 500 zł kasy = wchodzimy na styk
 - **AKTYWNY PLAN 2: Bałkany październik 2026 = OŚWIADCZYNY (przesunięte z maja)** — Passatem B5.5. Trasa do zaplanowania
 - Pliki auta: `samochod-passat.md` (aktywne), `samochod.md` (Terrano — zawieszone)
+- **W toku:** `samochod-passat-odszczurzanie.md` — czyszczenie wnętrza (pleśń na dywanikach) przed Ostrowem. Etap 0 (inspekcja) do zrobienia
 
 ## Wyprawa: Balkany Maj 2026
 
