@@ -1,6 +1,6 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-05-20
+Ostatnia aktualizacja: 2026-05-21
 
 ## Bieżący status
 
@@ -9,7 +9,7 @@ Ostatnia aktualizacja: 2026-05-20
 - **AKTYWNY PLAN 1: Ostrowo k. Karwi, 11-20.07.2026** — Passatem B5.5, 10 dni / 9 nocy. Noclegi stacjonarne. Pliki: `wyprawy/morze-lipiec-2026/` (trasa.md, budzet.md). Szacunek: ~5 400-5 700 zł vs. 5 500 zł kasy = wchodzimy na styk
 - **AKTYWNY PLAN 2: Bałkany październik 2026 = OŚWIADCZYNY (przesunięte z maja)** — Passatem B5.5. Trasa do zaplanowania
 - Pliki auta: `samochod-passat.md` (aktywne), `samochod.md` (Terrano — zawieszone)
-- **W toku:** `samochod-passat-odszczurzanie.md` — czyszczenie wnętrza (pleśń na dywanikach) przed Ostrowem. Etap 0 (inspekcja) do zrobienia
+- **W toku:** `samochod-passat-odszczurzanie.md` — odszczurzanie Passata przed Ostrowem. **Inspekcja 21.05 wykazała mokrą wykładzinę pod oboma dywanikami, masakra pod fotelem kierowcy + bulgotanie wody przy przyspieszaniu → TOP hipoteza: zapchane odpływy plenum (komora wentylacyjna pod podszybiem)**. Plan hybrydowy: naprawy u rodziców (3 km, tata ma narzędzia), suszenie pod blokiem (codzienna kontrola). Rodzice wyjeżdżają 30.05 → garaż jako opcja awaryjna od 30.05
 
 ## Wyprawa: Balkany Maj 2026
 
@@ -75,6 +75,7 @@ Ostatnia aktualizacja: 2026-05-20
 
 ## Ostatnie działania
 
+- [2026-05-21] Passat odszczurzanie — inspekcja: mokra wykładzina pod wszystkimi dywanikami, masakra pod fotelem kierowcy, bulgotanie wody przy przyspieszaniu + zapach stęchłej wilgoci. Ranking źródeł: ★★★ plenum (zapchane odpływy), ★★ szyberdach, ★ nagrzewnica. Plan: hybryda rodzice (naprawa, 3 km) + blok (suszenie, kontrola). Pogoda 21-22.05 mokra → folia na kratkę pod szybą na noc. Pełny krok-po-kroku w `samochod-passat-odszczurzanie.md`
 - [2026-05-20] Decyzja: Passat B5.5 (kombi, 1.9 TDI 101 KM, 2004, 424 tys. km) zostaje autem podróżnym. Utworzono `samochod-passat.md`. Cel: morze połowa lipca 2026 jako test, potem decyzja o Terrano
 
 ### Wcześniejsze
