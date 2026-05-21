@@ -11,6 +11,15 @@ Po zakończeniu: plik do archiwizacji lub kasacji.
 - W domu: odkurzacz słupkowy, ocet, płyn do prania, ścierki. Brak szczotki ryżowej, brak sody (do potwierdzenia z Kingą)
 - Myjnia samoobsługowa z opcją prania tapicerki + odsysania → główne narzędzie
 
+## Sprzęt do zabrania na myjnię
+
+- Ocet biały (spożywczy 10%) — rozcieńczyć 1:1 z wodą w butelce z psikawką
+- Butelka z psikawką (od płynu do szyb albo innego, byle czysta)
+- Ścierki
+- Worek foliowy (żeby dywaniki nie zabrudziły auta w drodze)
+- Drobne / karta na myjnię (~30-50 zł)
+- Opcjonalnie: rękawiczki gumowe, maseczka (przy trzepaniu)
+
 ## Stan początkowy (2026-05-21)
 
 - Pleśń na materiałowych dywanikach (siedzą pod gumowymi na wszystkich pozycjach?)
@@ -35,11 +44,25 @@ Po zakończeniu: plik do archiwizacji lub kasacji.
 
 ## Etap 2 — Myjnia samoobsługowa (popołudnie, ~30-50 zł)
 
-- [ ] Zabrać ocet w butelce z psikawką
-- [ ] Psiknąć octem na plamy pleśni przed praniem
-- [ ] Program "pranie tapicerki" + odsysanie: materiałowe dywaniki + gumowe
-- [ ] Jak inspekcja pokazała mokrą wykładzinę → też podłoga w aucie
-- [ ] Dywaniki znowu na taras dosuszyć (myjnia odessie ~80%, reszta na słońcu)
+**Materiałowe:**
+- [ ] Psiknąć octem na plamy pleśni, czekać 5-10 min
+- [ ] Program "pranie tapicerki" — szampon + szczotka, szorować
+- [ ] Odsysanie ekstrakcyjne
+- [ ] Jak woda dalej brudna → druga runda
+
+**Gumowe:**
+- [ ] Woda pod ciśnieniem + szampon, wytrzeć ścierką
+
+**Auto (jeśli wykładzina mokra/spleśniała):**
+- [ ] Też szampon + ekstrakcja na podłogę
+
+**Po myjni:**
+- [ ] Dywaniki na taras dosuszyć (myjnia odessie ~80%)
+
+**Kolejność powrotu do auta (wszystko suche!):**
+1. Wykładzina w aucie sucha
+2. Materiałowe na dno
+3. Gumowe na wierzch
 
 ## Etap 3 — Decyzja
 
