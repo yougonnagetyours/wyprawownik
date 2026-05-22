@@ -84,7 +84,19 @@ Najpierw wysuszyć wykładzinę i znaleźć skąd woda. Mycie i pranie dopiero n
 
 Ranking podejrzeń:
 
-- [ ] **★★★ Komora wentylacyjna pod podszybiem (plenum)** — TOP HIPOTEZA. Woda przez kratkę pod szybą → zatkane rurki odpływowe (liście, szlam) → stojąca woda w plenum → bulgocze przy przyspieszaniu → przelewa się przez filtr kabinowy pod deską → podłoga kierowcy/pasażera. Zapach stęchłej wody pasuje idealnie. **Test:** otworzyć maskę, zdjąć plastikową kratkę pod szybą (uszczelka w łuk), zajrzeć — liście? szlam? stojąca woda? Odpływy w rogach plenum — przedmuchać sprężonym powietrzem albo przepchać sztywnym drutem. Fix: 0 zł sam, ~100-200 zł warsztat.
+- [ ] **★★★ Komora wentylacyjna pod podszybiem (plenum)** — TOP HIPOTEZA. Woda przez kratkę pod szybą → zatkane króćce odpływowe (liście, szlam) → stojąca woda w plenum → bulgocze przy przyspieszaniu → przelewa się przez filtr kabinowy pod deską → podłoga kierowcy/pasażera. Zapach stęchłej wody pasuje idealnie.
+
+  **Layout plenum w B5.5 (zweryfikowane forum/RepairPal, 2026-05-22):**
+  - Akumulator centralnie, obudowa filtra powietrza po prawej, E-Box (ECU + przekaźniki) po lewej
+  - **Główny (prawdopodobnie jedyny) odpływ: pod akumulatorem** — widoczny na filmach z YT, do niego zlewa się woda z całego plenum (spady w dnie blachy)
+  - RepairPal/forum wspominają o "drugim odpływie między aku a E-Boxem" — **niezweryfikowane**, może być nieprecyzją. Sprawdzić na oko po zdjęciu maskownicy
+  - Po prawej (pod filtrem powietrza) i po lewej (przy E-Boxie) **brak osobnych odpływów** — woda spływa po dnie w stronę środka. Liście blokują spad → woda zalega lokalnie → przelewa się przez nieszczelne uszczelki filtra powietrza / E-Boxa do środka skrzynek → na podłogę auta
+  - To **króćce/smoczki gumowe** (drain nipples), parę cm, nie długie rurki — można fizycznie **ścisnąć palcami** żeby puścić czarną wodę
+  - **Nie mylić z odpływami szyberdachu** (4 cienkie rurki w słupkach A i C — to osobny układ)
+
+  **Test:** otworzyć maskę, zdjąć plastikową maskownicę pod szybą (jeden element przez całą szerokość), wyciągnąć liście z całego plenum, znaleźć oba króćce, ścisnąć, przepchać drutem od dołu / sprężarką u taty. Po przepchaniu: wlać 0,5-1 l wody do plenum, sprawdzić czy wycieka spod auta po lewej (z nadkola). Fix: 0 zł sam, ~100-200 zł warsztat.
+
+- [ ] **★★★ Uszczelka E-Boxa (osobny problem od odpływów, ale często razem)** — pod plastikową pokrywą po lewej siedzą sterowniki (ECU silnika, przekaźniki). Uszczelka pokrywy z czasem brudnieje/parcieje → woda z plenum leci do środka skrzynki → spod E-Boxa po kablach na podłogę kierowcy (przód + tył). **Dokładnie pasuje do objawu "masakra pod fotelem kierowcy".** Test: zdjąć pokrywę E-Boxa (klipsy/śruby), zajrzeć w środek — sucho czy mokro/zardzewiałe styki? Fix: stara uszczelka out, silikon dekarski/karoseryjny w jej miejsce (sprawdzone na YT, klasyk B5/B5.5). UWAGA: przy zdejmowaniu pokrywy mogą zniszczyć się ECU — odpiąć klemę aku wcześniej.
 - [ ] **★★ Odpływy szyberdachu** (jeśli auto ma szyberdach) — 4 rurki w słupkach A i C. Też bulgocą. Test: woda z butelki do wanienki szyberdachu, sprawdzić czy leci spod auta przy 4 narożnikach.
 - [ ] **★ Nagrzewnica** — bulgotanie daje (powietrze w układzie), ale zapach byłby słodkawy, nie stęchły. Raczej nie pasuje. Mimo to sprawdzić **poziom płynu chłodniczego** w zbiorniku wyrównawczym — czy nie spada.
 - [ ] **Uszczelka drzwi kierowcy** — obejrzeć, ale bulgotania nie tłumaczy. Mała szansa.
