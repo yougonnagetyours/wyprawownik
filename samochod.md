@@ -1,5 +1,41 @@
 # Nissan Terrano 2
 
+## 🔴 STATUS 22.05.2026 — ROZWAŻANA SPRZEDAŻ
+
+Michał + Kinga rozmawiali po przeglądzie Terrano (21.05). Wnioski:
+
+**Co działa źle / co by trzeba zrobić:**
+- Silnik zaczyna **kopcić na biało** (do dopytania: zimny czy ciepły, jak długo, kiedy zauważone)
+- Podwozie **pordzewiałe z wierzchu** — wymaga szlifu i porządnej konserwacji (wcześniej niż planowano)
+- **Elektryka rozjebana** — klima działa na sztywno (brak regulacji), przycisk skabiny nie działa, radio do ogarnięcia
+- **Wnętrze rozklekotane** — boczki nie pasują (wystają do góry, prawdopodobnie źle założone), pleśń na osłonkach przeciwsłonecznych
+- **Generalnie: Michał przestaje mieć siłę do tego auta**
+
+**Co zostało zrobione (wartość przy sprzedaży):**
+- ~6 000 zł włożone w marcu 2026 (zawieszenie przód + tył, oleje, drobnice, pompa wtryskowa)
+- Nowe opony AT (2 000 zł, ostatnio założone)
+- Silnik po wymianie oleju + filtry
+
+**Plan:**
+1. Sprzedać Terrano, kasa idzie na: (a) pieszczenie Passata B5.5 jeśli przejdzie diagnozę, (b) ew. drugie auto, (c) wyjazd
+2. **Decyzja zależna od diagnozy Passata** (uszczelka pod głowicą? — patrz `samochod-passat.md`). Jeśli Passat = trup, sprzedaż Terrano jest problematyczna (nie ma czym jeździć)
+
+**Pytania do dopytania Michała (przed wycenianiem rynkowym):**
+- Opony AT — już założone na felgi czy nadal luzem?
+- Sprzęgło — zdiagnozowane? Naprawione?
+- Oleje przekładniowe (mosty/skrzynia/reduktor) — wymienione?
+- Zabudowa bagażnika — zrobiona czy nie?
+- Białe kopcenie — na zimnym czy ciepłym? Po ile sekund znika? Przy gazie czy na luzie?
+- Stan blacharki — gdzie dokładnie rdza (progi, łuki, dno, podłużnice)?
+- Książka serwisowa / historia?
+
+**Wycena rynkowa (do zrobienia po dopytaniu):**
+- 2.7 TDI, 2000 rok, ~200 tys. km, 4x4 dołączany, świeże zawieszenie + opony AT
+- Wstępne widełki przed researchem: 18-28 tys. zł (zależy od kopcenia + blacharki)
+
+---
+
+
 ## Dane podstawowe
 
 | Parametr | Wartość |

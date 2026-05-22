@@ -31,9 +31,37 @@
 
 ### Priorytet 1 — MECHANIK (must-have, blokuje wyjazd)
 
+- [ ] **🚨 PODEJRZENIE: spaliny w układzie chłodzenia (uszczelka pod głowicą?)** — patrz sekcja "Diagnoza układu chłodzenia" niżej. **Najważniejsze do rozstrzygnięcia ZANIM cokolwiek innego się robi** — jeśli to uszczelka, zmienia wszystko (koszt 1500-3000 zł, sens przygotowania pod znakiem zapytania)
 - [ ] **Turbo / przewody turba** — przy mocnym przyspieszeniu odcina moc. Najczęściej nieszczelne intercoolery, opaski, przewody EGR. Diagnostyka + uszczelnienie
-- [ ] **Wilgoć w kabinie** — dywaniki mokre, capi (zwłaszcza po deszczu), centralny zamek sam się zamyka (prawdopodobnie zamoczony sterownik). Znaleźć źródło wycieku (typowe w B5: pióra wycieraczek/nadkole, uszczelka szyberdachu, odpływy klimy w komorze akumulatora), osuszyć, ew. wymienić sterownik
+- [ ] **Wilgoć w kabinie** — dywaniki mokre, capi (zwłaszcza po deszczu), centralny zamek sam się zamyka (prawdopodobnie zamoczony sterownik). Znaleźć źródło wycieku (typowe w B5: pióra wycieraczek/nadkole, uszczelka szyberdachu, odpływy klimy w komorze akumulatora), osuszyć, ew. wymienić sterownik. **Inspekcja 21.05 wskazała plenum (zapchane odpływy pod podszybiem) jako TOP hipotezę** — szczegóły w `samochod-passat-odszczurzanie.md`
 - [ ] **Diagnostyka ogólna** — niech mechanik popatrzy "co jeszcze" przy okazji (zawieszenie pod kątem >3000 km trasy, hamulce, geometria, paski klinowe, alternator, łożyska)
+
+### 🚨 Diagnoza układu chłodzenia — DO ROZSTRZYGNIĘCIA W PIERWSZEJ KOLEJNOŚCI
+
+**Objaw (zauważone 22.05.2026):**
+- Auto stoi ~18h na zimno
+- Po odkręceniu korka zbiorniczka wyrównawczego: **"pszt" (uchodzi ciśnienie)** mimo że silnik zimny od kilkunastu godzin
+- **Płyn chłodniczy się wzburza** po odkręceniu
+- **Poziom płynu lekko się podnosi** po otwarciu
+
+**Co to może być (ranking):**
+1. ★★★ **Uszczelka pod głowicą / pęknięta głowica** — klasyczny objaw. Spaliny przedostają się do układu chłodzenia, ciśnienie narasta nawet przy wyłączonym silniku. W 1.9 TDI (AJM/AVF/BLB/itp. — sprawdzić kod silnika) to znana bolączka przy ~400 tys. km
+2. ★★ **Nieszczelność wewnątrz układu** (np. EGR z chłodnicą EGR) — podobny mechanizm, ale rzadziej
+3. ★ **Wadliwy korek zbiorniczka** — trzyma za duże ciśnienie. Najmniej prawdopodobne biorąc pod uwagę wzburzenie + podnoszenie poziomu, ale tani test (nowy korek ~30 zł)
+
+**Plan diagnozy (kolejność, od najtańszego):**
+1. **Test CO/CO2 w płynie chłodniczym** — warsztat ~30-50 zł, sam tester ~80 zł. Niebieski płyn → żółty/zielony jeśli spaliny. **Rozstrzyga sprawę w 5 minut.**
+2. **Sprawdzić olej silnikowy** — czy emulsja "kawa z mlekiem" pod korkiem wlewu / na bagnecie. Emulsja = woda w oleju = uszczelka prawie pewna
+3. **Obserwacja wydechu po rozgrzaniu** — biały dym (słodkawy zapach) po dojściu do temperatury = płyn idzie do komory spalania
+4. **Test ciśnieniowy układu chłodzenia** u mechanika — pompka + manometr, sprawdza czy układ trzyma
+5. Wymiana korka zbiorniczka (~30 zł) — przy okazji, eliminacja najtańszej hipotezy
+
+**Konsekwencje finansowe (jeśli uszczelka):**
+- Robocizna głowica + uszczelki + płyn + termostat + ew. śruby TTY: **1 500 – 3 000 zł**
+- Jeśli głowica do planowania (pęknięta) → +1 500-3 000 zł
+- Plan B: morze Kią rodziców LPG / polskie morze rezygnacja z Bałkanów październik / sprzedaż Passata "jak stoi"
+
+**Decyzja zawieszona do diagnozy** — przed wpakowaniem kasy w pieszczenie wnętrza, prosty test CO2 musi być zrobiony
 
 ### Priorytet 2 — SAM (po naprawie wycieku!)
 

@@ -3,3 +3,4 @@
 - [Sprawdzaj kontekst wyprawy](feedback_sprawdzaj_kontekst_wyprawy.md) — przed pisaniem o aucie/stylu konkretnej wyprawy → pliki wyprawy + memory, nie domyślne z CLAUDE.md
 - [Passat = auto podróżne](project_passat_auto_podrozne.md) — od V.2026 Passat B5.5 kombi 1.9 TDI zastępuje Terrano; decyzja o Terrano po lipcowym wyjeździe
 - [Droga, nie sprzęt](feedback_droga_nie_sprzet.md) — minimalizm, używać tego co już jest, mechanika przed stylingiem; nie pchać upgradów ani estetyki sprzętu
+- [Michał pracuje w dzień](feedback_michal_pracuje_w_dzien.md) — nie planuj zadań na środek dnia roboczego; realne okna to wieczory i weekendy

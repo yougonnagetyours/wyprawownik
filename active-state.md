@@ -1,6 +1,6 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-05-21
+Ostatnia aktualizacja: 2026-05-22
 
 ## Bieżący status
 
@@ -10,6 +10,8 @@ Ostatnia aktualizacja: 2026-05-21
 - **AKTYWNY PLAN 2: Bałkany październik 2026 = OŚWIADCZYNY (przesunięte z maja)** — Passatem B5.5. Trasa do zaplanowania
 - Pliki auta: `samochod-passat.md` (aktywne), `samochod.md` (Terrano — zawieszone)
 - **W toku:** `samochod-passat-odszczurzanie.md` — odszczurzanie Passata przed Ostrowem. **Inspekcja 21.05 wykazała mokrą wykładzinę pod oboma dywanikami, masakra pod fotelem kierowcy + bulgotanie wody przy przyspieszaniu → TOP hipoteza: zapchane odpływy plenum (komora wentylacyjna pod podszybiem)**. Plan hybrydowy: naprawy u rodziców (3 km, tata ma narzędzia), suszenie pod blokiem (codzienna kontrola). Rodzice wyjeżdżają 30.05 → garaż jako opcja awaryjna od 30.05
+- **🚨 NOWE 22.05: Passat — podejrzenie uszczelki pod głowicą.** Po 18h postoju na zimnym silniku przy odkręceniu korka zbiorniczka wyrównawczego: "pszt" (ciśnienie), płyn się wzburza, poziom się podnosi. Klasyczne objawy spalin w układzie chłodzenia. **Plan: test CO2 w płynie chłodniczym (~30-50 zł u mechanika) ZANIM cokolwiek innego.** Pełna diagnoza w `samochod-passat.md` (sekcja "Diagnoza układu chłodzenia"). Jeśli uszczelka → 1500-3000 zł i całe planowanie Passata pod znakiem zapytania
+- **🔴 NOWE 22.05: Terrano — rozważana sprzedaż.** Michał + Kinga: białe kopcenie, rdza podwozia, elektryka rozjebana, wnętrze rozklekotane, pleśń. Michał przestaje mieć siłę. Plan: sprzedać → kasa na Passata (jeśli przeżyje diagnozę) lub inne auto. **Decyzja powiązana z diagnozą Passata** — nie sprzedawać Terrano dopóki nie wiadomo czy Passat ma sens. Szczegóły + pytania do dopytania w `samochod.md` (sekcja "STATUS 22.05.2026")
 
 ## Wyprawa: Balkany Maj 2026
 
@@ -75,6 +77,8 @@ Ostatnia aktualizacja: 2026-05-21
 
 ## Ostatnie działania
 
+- [2026-05-22] **Passat: nowy objaw — "pszt" przy odkręcaniu korka zbiorniczka wyrównawczego po 18h postoju, płyn się wzburza, poziom rośnie**. Hipoteza: uszczelka pod głowicą (spaliny w układzie chłodzenia). Plan diagnozy zapisany w `samochod-passat.md` — najpierw test CO2 w płynie (~30-50 zł), potem decyzje. **Wstrzymane pieszczenie wnętrza Passata do rozstrzygnięcia**
+- [2026-05-22] **Terrano: rozmowa Michał+Kinga o sprzedaży**. Powody: białe kopcenie, rdza podwozia, rozjebana elektryka, rozklekotane wnętrze, pleśń → Michał traci siłę do auta. Plan: sprzedać → kasa na Passata/inne. Decyzja powiązana z diagnozą Passata. Pytania do dopytania + wstępne widełki cenowe w `samochod.md`
 - [2026-05-21] Passat odszczurzanie — inspekcja: mokra wykładzina pod wszystkimi dywanikami, masakra pod fotelem kierowcy, bulgotanie wody przy przyspieszaniu + zapach stęchłej wilgoci. Ranking źródeł: ★★★ plenum (zapchane odpływy), ★★ szyberdach, ★ nagrzewnica. Plan: hybryda rodzice (naprawa, 3 km) + blok (suszenie, kontrola). Pogoda 21-22.05 mokra → folia na kratkę pod szybą na noc. Pełny krok-po-kroku w `samochod-passat-odszczurzanie.md`
 - [2026-05-20] Decyzja: Passat B5.5 (kombi, 1.9 TDI 101 KM, 2004, 424 tys. km) zostaje autem podróżnym. Utworzono `samochod-passat.md`. Cel: morze połowa lipca 2026 jako test, potem decyzja o Terrano
 
