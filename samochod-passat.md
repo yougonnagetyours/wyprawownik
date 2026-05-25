@@ -49,19 +49,40 @@
 2. ★★ **Nieszczelność wewnątrz układu** (np. EGR z chłodnicą EGR) — podobny mechanizm, ale rzadziej
 3. ★ **Wadliwy korek zbiorniczka** — trzyma za duże ciśnienie. Najmniej prawdopodobne biorąc pod uwagę wzburzenie + podnoszenie poziomu, ale tani test (nowy korek ~30 zł)
 
-**Plan diagnozy (kolejność, od najtańszego):**
-1. **Test CO/CO2 w płynie chłodniczym** — warsztat ~30-50 zł, sam tester ~80 zł. Niebieski płyn → żółty/zielony jeśli spaliny. **Rozstrzyga sprawę w 5 minut.**
-2. **Sprawdzić olej silnikowy** — czy emulsja "kawa z mlekiem" pod korkiem wlewu / na bagnecie. Emulsja = woda w oleju = uszczelka prawie pewna
-3. **Obserwacja wydechu po rozgrzaniu** — biały dym (słodkawy zapach) po dojściu do temperatury = płyn idzie do komory spalania
-4. **Test ciśnieniowy układu chłodzenia** u mechanika — pompka + manometr, sprawdza czy układ trzyma
-5. Wymiana korka zbiorniczka (~30 zł) — przy okazji, eliminacja najtańszej hipotezy
+**⚠️ WAŻNE: sam CO2 nie wystarczy.** Test ma fałszywe negatywy (brat Michała robił go na silniku z pękniętą głowicą — nie wykrył). Powody: mała/okresowa nieszczelność, źle zrobiony test (zimny silnik, nieprzegazowany), spaliny rozpuszczone w płynie zamiast w fazie gazowej. **CO2 pozytywny = pewne; CO2 negatywny = NIE wyklucza uszczelki.** Stąd plan to PAKIET diagnostyczny, nie pojedynczy test.
 
-**Konsekwencje finansowe (jeśli uszczelka):**
-- Robocizna głowica + uszczelki + płyn + termostat + ew. śruby TTY: **1 500 – 3 000 zł**
-- Jeśli głowica do planowania (pęknięta) → +1 500-3 000 zł
-- Plan B: morze Kią rodziców LPG / polskie morze rezygnacja z Bałkanów październik / sprzedaż Passata "jak stoi"
+**Pełny pakiet diagnostyczny u mechanika (jeden pobyt, ~150-300 zł):**
 
-**Decyzja zawieszona do diagnozy** — przed wpakowaniem kasy w pieszczenie wnętrza, prosty test CO2 musi być zrobiony
+1. **Test CO2 w płynie chłodniczym** — zrobiony porządnie (silnik rozgrzany, pod obciążeniem, ewentualnie powtórzony). ~30-50 zł
+2. **Test ciśnienia układu chłodzenia** — pompka + manometr, 1.4 bar, czekać 15-30 min. Jeśli spada bez widocznego wycieku na zewnątrz → leci do cylindra. ~50-100 zł
+3. **Test sprężania / leak-down** — wtłaczanie powietrza do cylindra przy zaworach zamkniętych, słuchanie gdzie ucieka. Jak słychać w zbiorniczku/chłodnicy → uszczelka 100%. ~100-150 zł
+4. **Sprawdzenie oleju** — emulsja "kawa z mlekiem" pod korkiem wlewu / na bagnecie. Emulsja = woda w oleju. **0 zł, do zrobienia samemu od razu.**
+5. **Obserwacja wydechu i ubytków płynu** — biały słodkawy dym po rozgrzaniu, ubytek płynu między uruchomieniami. **0 zł, dni 2-3 obserwacji.**
+6. Wymiana korka zbiorniczka (~30 zł) — eliminacja najtańszej hipotezy
+
+**Scenariusze kosztowe naprawy (PL 2026, 1.9 TDI Passat B5.5, +/- 30%):**
+
+| Scenariusz | Co obejmuje | Koszt |
+|------------|-------------|-------|
+| **Sama uszczelka (najlżej)** | Robocizna 1500-2500 + części (uszczelka + śruby TTY + uszczelki kolektorów + płyn + olej + filtr) 400-700 | **2 000 – 3 200 zł** |
+| **Uszczelka + planowanie głowicy** (typowo) | jw. + planowanie 200-400, ew. zawory/prowadnice +400-800 | **2 500 – 4 000 zł** |
+| **Pęknięta głowica → regenerowana** | Głowica regen. 1500-2500 + robocizna + reszta | **4 000 – 6 500 zł** |
+| **Pęknięty blok** | Swap silnika używanego 3500-6000 + robocizna 2000-3000 | **5 500 – 9 000 zł** (praktycznie nieopłacalne) |
+
+UWAGA: przy okazji robi się często rozrząd (pasek + rolki + pompa wody) bo i tak rozebrane → +600-1000 zł części + ~200 zł robocizny. Można pominąć jeśli niedawno robiony. **Passat — rozrząd ~3 lata temu, ~3x trasa BB↔Dania od tamtej pory → najpewniej do wymiany przy okazji.**
+
+**Granica opłacalności:**
+- Auto warte 5-8 tys. zł, już wsadzone 3 500 zł (zawieszenie, rolki, pasek, olej, filtry)
+- Sensowna granica naprawy: **~3 000-3 500 zł** (scenariusz 1-2)
+- Powyżej tego (pęknięta głowica, blok) → kalkulacja się sypie, zwłaszcza przy 424 tys. km
+- Sprzedaż z padniętą uszczelką: 1 500-3 000 zł (strata 500-2000 vs. dzisiejsza wartość)
+
+**Plan B jeśli nie da się naprawić w granicy opłacalności:**
+- Lipiec Ostrowo: Kia rodziców LPG (jeśli wolna) albo rezygnacja / zmiana koncepcji
+- Październik Bałkany (OŚWIADCZYNY): inne auto / przesunięcie / Kia rodziców
+- Sprzedaż Passata "jak stoi", kasa na inne auto
+
+**Decyzja: pakiet diagnostyczny PRZED jakąkolwiek decyzją o naprawie/sprzedaży.** 150-300 zł za pewność, że nie strzelamy w ciemno. Dopiero z wynikami na ręku — kalkulacja naprawa vs. olewka.
 
 ### Priorytet 2 — SAM (po naprawie wycieku!)
 
@@ -84,8 +105,24 @@
 
 ## Mechanik
 
-- Znaleziony jeden na Google Maps niedaleko, spoko oceny — do podjechania na rozmowę przed lipcem
-- (uzupełnić nazwę/adres po wizycie)
+**Kandydat #1: seb's GARAGE** (znaleziony na Google Maps, do zadzwonienia)
+- Adres: Piekarska 130, 43-300 Bielsko-Biała
+- Tel: 535 435 834
+- Strona: sebs-garage.pl
+- Ocena: 4.5/5 (103 opinie)
+- Godziny: zamknięcie 16:00
+- Specjalizacja: automatyczne skrzynie biegów, elektromechanika, diagnostyka, mechanika ogólna, ABS/ASR/ESP
+- **Uwaga:** główna działka to automaty + elektryka, nie czysta mechanika silnika. Mogą wziąć diagnozę i odesłać naprawę dalej, albo polecić innego — co też jest OK (lokalny namiar od fachowca)
+
+**Plan rozmowy (dzwonić rano, 8-9, pn-pt):**
+> "Dzień dobry, widziałem że robicie diagnostykę. Mam Passata B5.5 1.9 TDI, podejrzewam uszczelkę pod głowicą — syczy ze zbiorniczka po nocy, płyn się wzburza. Robicie taką diagnostykę? Chodzi mi o test CO2, test ciśnienia układu chłodzenia i leak-down."
+
+Spytać też: ile zajmie i ile kosztuje (norma: 150-300 zł za pakiet).
+
+**Możliwe odpowiedzi i co dalej:**
+- "Robimy, przyjeżdżaj" → umówić termin (wieczorem/weekend — Michał pracuje w dzień)
+- "Diagnostykę zrobimy, naprawy nie" → OK, diagnoza najważniejsza
+- "To nie nasza specjalizacja, polecam X" → mamy lokalny namiar, dzwonimy tam
 
 ## Budżet przygotowania
 
