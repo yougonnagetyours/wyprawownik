@@ -1,6 +1,6 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-05-22
+Ostatnia aktualizacja: 2026-05-29
 
 ## Bieżący status
 
@@ -38,6 +38,14 @@ Ostatnia aktualizacja: 2026-05-22
 - Osobny koncept: Kia Soul rodziców (LPG), apartament Booking, normalny wakacyjny styl
 - Budżet: ~4 090 zł (dużo taniej dzięki LPG)
 - Pliki: `wyprawy/chorwacja-maj-2026/` (budzet.md)
+
+## Projekt poboczny: Kanał "Dojedziemy"
+
+- **Status:** faza 0 — rezerwacja nazwy (maj 2026). Start planowany koniec 2026 / Q1 2027
+- **Pomysł:** kanał IG + YT o podróżach zwyczajnym autem (Passat B5.5 jako wabik). Target: ludzie z normalnym autem, nie kamperowcy/offroadowcy
+- **Nazwa:** "Dojedziemy" — handle `@dojedziemy` zarezerwowany na IG, mail `dojedziemy.kanal@gmail.com` założony
+- Pliki: `kanal-dojedziemy/` (koncept.md, konta.md, todo-na-start.md)
+- **Wraca do tematu:** jesień 2026 / start 2027 — wtedy aktywacja konta, pierwsze treści
 
 ## Pomysły na przyszłe wyprawy
 
@@ -77,6 +85,7 @@ Ostatnia aktualizacja: 2026-05-22
 
 ## Ostatnie działania
 
+- [2026-05-29] **Kanał "Dojedziemy" — rezerwacja nazwy.** Założony Gmail `dojedziemy.kanal@gmail.com` + IG `@dojedziemy` (prywatne, propozycje kont OFF, awatar minimalistyczny, bio puste) + YT `@Dojedziemy` (niepołączony z innymi usługami Google). TikTok próbowany — nie domknięty (zawiesił się przy weryfikacji kodu), zostawione na później. Plan startu kanału: koniec 2026 / Q1 2027. Pliki: `kanal-dojedziemy/` (koncept.md, konta.md, todo-na-start.md)
 - [2026-05-22] **Passat plenum: doprecyzowanie diagnozy + kolejności robót.** Layout plenum B5.5: akumulator centralnie, filtr powietrza po prawej, E-Box (ECU/przekaźniki) po lewej. Główny (prawdopodobnie jedyny) odpływ pod akumulatorem — reszta to spady w blasze. Liście blokują spady → woda zalega lokalnie → przelewa się przez sparciałe uszczelki filtra powietrza / E-Boxa do środka skrzynek → na podłogę. **Decyzja kolejności: 1) teraz samo czyszczenie plenum (maskownica + liście + odpływ + test wodą, 0 zł, 1-2h); 2) test CO2 w płynie chłodniczym; 3) jeśli Passat przeżyje → silikon uszczelki E-Boxa.** Nie pieścić silikonem zanim wiadomo czy auto zostaje. Szczegóły w `samochod-passat-odszczurzanie.md` (Etap 2, ★★★ plenum + ★★★ E-Box jako osobne punkty)
 - [2026-05-22] **Passat: nowy objaw — "pszt" przy odkręcaniu korka zbiorniczka wyrównawczego po 18h postoju, płyn się wzburza, poziom rośnie**. Hipoteza: uszczelka pod głowicą (spaliny w układzie chłodzenia). Plan diagnozy zapisany w `samochod-passat.md` — najpierw test CO2 w płynie (~30-50 zł), potem decyzje. **Wstrzymane pieszczenie wnętrza Passata do rozstrzygnięcia**
 - [2026-05-22] **Terrano: rozmowa Michał+Kinga o sprzedaży**. Powody: białe kopcenie, rdza podwozia, rozjebana elektryka, rozklekotane wnętrze, pleśń → Michał traci siłę do auta. Plan: sprzedać → kasa na Passata/inne. Decyzja powiązana z diagnozą Passata. Pytania do dopytania + wstępne widełki cenowe w `samochod.md`
