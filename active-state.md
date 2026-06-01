@@ -1,17 +1,16 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-05-29
+Ostatnia aktualizacja: 2026-06-01
 
 ## Bieżący status
 
-- **Pelješac maj 2026 — ZAKOŃCZONA** (01-09.05.2026). Pojechali Passatem B7 taty Kingi (Kia padła dzień przed — cewka). Oświadczyn nie było (kasy na pierścionek brakło). W Passacie B7 Michał się "zakochał" → decyzja o przygotowaniu swojego B5.5
-- **NOWY KIERUNEK: Passat B5.5 = auto podróżne** — Terrano czeka na decyzję po lipcowym teście
-- **AKTYWNY PLAN 1: Ostrowo k. Karwi, 11-20.07.2026** — Passatem B5.5, 10 dni / 9 nocy. Noclegi stacjonarne. Pliki: `wyprawy/morze-lipiec-2026/` (trasa.md, budzet.md). Szacunek: ~5 400-5 700 zł vs. 5 500 zł kasy = wchodzimy na styk
-- **AKTYWNY PLAN 2: Bałkany październik 2026 = OŚWIADCZYNY (przesunięte z maja)** — Passatem B5.5. Trasa do zaplanowania
-- Pliki auta: `samochod-passat.md` (aktywne), `samochod.md` (Terrano — zawieszone)
-- **W toku:** `samochod-passat-odszczurzanie.md` — odszczurzanie Passata przed Ostrowem. **Inspekcja 21.05 wykazała mokrą wykładzinę pod oboma dywanikami, masakra pod fotelem kierowcy + bulgotanie wody przy przyspieszaniu → TOP hipoteza: zapchane odpływy plenum (komora wentylacyjna pod podszybiem)**. Plan hybrydowy: naprawy u rodziców (3 km, tata ma narzędzia), suszenie pod blokiem (codzienna kontrola). Rodzice wyjeżdżają 30.05 → garaż jako opcja awaryjna od 30.05
-- **🚨 NOWE 22.05: Passat — podejrzenie uszczelki pod głowicą.** Po 18h postoju na zimnym silniku przy odkręceniu korka zbiorniczka wyrównawczego: "pszt" (ciśnienie), płyn się wzburza, poziom się podnosi. Klasyczne objawy spalin w układzie chłodzenia. **Plan: PAKIET diagnostyczny u mechanika (~150-300 zł): CO2 + test ciśnienia + leak-down + olej + obserwacja.** Sam CO2 nie wystarczy — ma fałszywe negatywy (brat Michała: pęknięta głowica, test nie wykrył). Scenariusze kosztów naprawy: 2-3.2k (uszczelka), 2.5-4k (typowo z planowaniem), 4-6.5k (głowica regen), 5.5-9k (blok = nieopłacalne). Granica opłacalności ~3-3.5k przy aucie 5-8k i wsadzie 3.5k. Pełna diagnoza + scenariusze + plan B w `samochod-passat.md`
-- **🔴 NOWE 22.05: Terrano — rozważana sprzedaż.** Michał + Kinga: białe kopcenie, rdza podwozia, elektryka rozjebana, wnętrze rozklekotane, pleśń. Michał przestaje mieć siłę. Plan: sprzedać → kasa na Passata (jeśli przeżyje diagnozę) lub inne auto. **Decyzja powiązana z diagnozą Passata** — nie sprzedawać Terrano dopóki nie wiadomo czy Passat ma sens. Szczegóły + pytania do dopytania w `samochod.md` (sekcja "STATUS 22.05.2026")
+- **🔥 ZWROT 01.06.2026: Sprzedać Terrano + B5.5 → kupić Passata B6 kombi 2.0 TDI manual 6-bieg.** B5.5 nie ratujemy (uszczelka pod głowicą + zalanie). B5.5 zostaje jako daily/awaryjny do dojeżdżenia, do sprzedaży/utylizacji potem. Terrano do sprzedaży — najpierw zdjęcia. Budżet zakupu B6: **wstępnie do ~18k**, ale **ceny do potwierdzenia researchem (Otomoto/OLX)** — nie zmyślać widełek. Plik: `samochod-passat-b6.md`
+- **Plan zakupu B6:** Highline (preferowane) lub Comfortline, manual 6-bieg (skrzynia 02Q), 2.0 TDI. **Silnik: skłon ku CR (CBAB, lifting 2008+) — kulturalniejszy, bez choroby wałków PD.** PD (BKP/BMP/BMA) tylko jak okazja z udokumentowaną historią wałków
+- **Plan B na Ostrowo (jeśli zakup B6 nie zdąży):** tata Kingi pożycza Passata B7, B6 dopiero na Bałkany październik
+- **AKTYWNY PLAN 1: Ostrowo k. Karwi, 11-20.07.2026** — auto: B6 (jeśli zdąży) lub B7 taty Kingi. 10 dni / 9 nocy. Noclegi stacjonarne. Pliki: `wyprawy/morze-lipiec-2026/` (trasa.md, budzet.md). Szacunek: ~5 400-5 700 zł vs. 5 500 zł kasy = wchodzimy na styk
+- **AKTYWNY PLAN 2: Bałkany październik 2026 = OŚWIADCZYNY (przesunięte z maja)** — Passatem B6. Trasa do zaplanowania
+- **Pelješac maj 2026 — ZAKOŃCZONA** (01-09.05.2026). Pojechali Passatem B7 taty Kingi (Kia padła dzień przed — cewka). Oświadczyn nie było (kasy na pierścionek brakło)
+- Pliki aut: `samochod-passat-b6.md` (priorytet — research + zakup), `samochod-passat.md` (B5.5 — wycofywany), `samochod.md` (Terrano — do sprzedaży)
 
 ## Wyprawa: Balkany Maj 2026
 
@@ -85,6 +84,7 @@ Ostatnia aktualizacja: 2026-05-29
 
 ## Ostatnie działania
 
+- [2026-06-01] **Zwrot kierunku auta: sprzedaż Terrano + B5.5, zakup Passata B6 kombi 2.0 TDI manual 6-bieg, Highline/Comfortline.** B5.5 nie ratujemy (uszczelka + zalanie zbyt drogie przy aucie wartym 5-8k). B5.5 dojeździć jako daily/awaryjny. Terrano sprzedać — najpierw zdjęcia, wycena do ustalenia. Budżet zakupu B6: ~18k (do potwierdzenia researchem). Silnik: preferencja CR (CBAB) nad PD (choroba wałków). Plan B na Ostrowo lipiec: B7 taty Kingi jeśli B6 nie zdąży. Utworzono `samochod-passat-b6.md` z researchem PD vs CR, checklistą oględzin, czerwonymi flagami. **Research cen (Otomoto/OLX) i sprzedaży Terrano — do zrobienia przez zewnętrznego asystenta**
 - [2026-05-29] **Kanał "Dojedziemy" — rezerwacja nazwy.** Założony Gmail `dojedziemy.kanal@gmail.com` + IG `@dojedziemy` (prywatne, propozycje kont OFF, awatar minimalistyczny, bio puste) + YT `@Dojedziemy` (niepołączony z innymi usługami Google). TikTok próbowany — nie domknięty (zawiesił się przy weryfikacji kodu), zostawione na później. Plan startu kanału: koniec 2026 / Q1 2027. Pliki: `kanal-dojedziemy/` (koncept.md, konta.md, todo-na-start.md)
 - [2026-05-22] **Passat plenum: doprecyzowanie diagnozy + kolejności robót.** Layout plenum B5.5: akumulator centralnie, filtr powietrza po prawej, E-Box (ECU/przekaźniki) po lewej. Główny (prawdopodobnie jedyny) odpływ pod akumulatorem — reszta to spady w blasze. Liście blokują spady → woda zalega lokalnie → przelewa się przez sparciałe uszczelki filtra powietrza / E-Boxa do środka skrzynek → na podłogę. **Decyzja kolejności: 1) teraz samo czyszczenie plenum (maskownica + liście + odpływ + test wodą, 0 zł, 1-2h); 2) test CO2 w płynie chłodniczym; 3) jeśli Passat przeżyje → silikon uszczelki E-Boxa.** Nie pieścić silikonem zanim wiadomo czy auto zostaje. Szczegóły w `samochod-passat-odszczurzanie.md` (Etap 2, ★★★ plenum + ★★★ E-Box jako osobne punkty)
 - [2026-05-22] **Passat: nowy objaw — "pszt" przy odkręcaniu korka zbiorniczka wyrównawczego po 18h postoju, płyn się wzburza, poziom rośnie**. Hipoteza: uszczelka pod głowicą (spaliny w układzie chłodzenia). Plan diagnozy zapisany w `samochod-passat.md` — najpierw test CO2 w płynie (~30-50 zł), potem decyzje. **Wstrzymane pieszczenie wnętrza Passata do rozstrzygnięcia**
