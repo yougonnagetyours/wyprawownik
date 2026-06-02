@@ -5,10 +5,11 @@ Status: **faza researchu + przygotowania do zakupu**. Data startu: 2026-06-01.
 ## Co kupujemy
 
 - **Model:** Passat B6 (typ 3C), **kombi (Variant)**
+- **Napęd:** **4motion** (Haldex) — założenie od początku, nie FWD
 - **Silnik:** 2.0 TDI, **140 KM** (170 KM tylko jak okazja)
 - **Skrzynia:** **manual 6-bieg** (02Q) — nie DSG
 - **Wersja:** **Highline** (preferowane) lub **Comfortline** (akceptowalne)
-- **Budżet:** wstępnie do ~18 000 zł (do potwierdzenia researchem rynku — patrz "Otwarte" niżej)
+- **Budżet:** **korygowany na bieżąco w trakcie przeglądania ogłoszeń** (4motion drożej niż FWD, widełki ustalimy jak zobaczymy realny rynek)
 
 ## PD vs CR — kluczowa decyzja silnika
 
@@ -77,6 +78,12 @@ Passat B6 2.0 TDI miał **dwa rodzaje wtrysku**, różnią się dramatycznie pod
 - [ ] Klimatronik — działa na auto + temperaturze
 - [ ] **Lift / pre-lift** — sprawdzić wzrokowo + VIN
 
+### 4motion (specyfika)
+- [ ] **Haldex — historia oleju i filtra** (wymiana co ~60 tys. km, często olewane). Brudny olej → sprzęgło nie domyka, tylna oś nie napędza
+- [ ] Wał napędowy — łożysko podporowe, krzyżak (luzy, stuki)
+- [ ] **Komplet opon — ta sama seria, podobne zużycie** (Haldex grzeje się od różnic obwodów). Sprawdzić bieżnik na 4 kołach
+- [ ] Tylny dyfer — wycieki, szumy
+
 ### Wnętrze
 - [ ] Wykładzina pod fotelami — sucha? (lekcja z B5.5)
 - [ ] **Plenum / odpływy pod podszybiem** — zajrzeć, sprawdzić czy nie zatkane (lekcja z B5.5)
@@ -116,6 +123,29 @@ Passat B6 2.0 TDI miał **dwa rodzaje wtrysku**, różnią się dramatycznie pod
 - **% manuali vs DSG w ogłoszeniach B6 2.0 TDI** — filtrować świadomie
 - **Highline vs Comfortline — różnica w cenie i wyposażeniu** — czy warto czekać na Highline?
 - **Stan B5.5 jako daily** — czy uszczelka pozwoli pociągnąć go jeszcze X miesięcy?
+
+## Pomysł: lekki lift po zakupie (osobny projekt, nie blokuje wypraw)
+
+Status: **pomysł, nie zobowiązanie.** Nie przed Ostrowem (auta jeszcze nie ma). Bałkany październik — najpewniej też jeszcze bez liftu (koszt + auto świeżo po zakupie). Realna realizacja: kiedyś po Bałkanach, jak budżet pozwoli.
+
+### Założenia
+- **Lift 50 mm (2 cale)** — w okolicach granicy "akceptowalnej" bez większych przeróbek geometrii
+- **Zestaw do korekty geometrii** — Michał ma zapisany w necie (do odnalezienia jak zacznie temat)
+- **Opony: 215/70 R16** (vs stock 205/55 R16: +38 mm wysokości → ~88 mm sumarycznie z liftem)
+- **Felgi: oryginalne 6,5J** (5x112, ET ~42-45) — bez kupowania nowych, opona siada czysto z mocnym bokiem
+- **Dystanse: opcjonalnie**, tylko pod wygląd, maks 10-12 mm/stronę, hubcentryczne (57,1 mm)
+
+### Świadome konsekwencje (do sprawdzenia w praktyce)
+- Półosie pracują pod większym kątem → krótszy żywot przegubów (na 4motion też wał + łożysko podporowe)
+- Geometria — trzeba ekscentryków / śrub regulacyjnych z tyłu zestawu
+- AFS/ksenony (Highline) — przekalibrować czujnik poziomowania, inaczej oślepiasz
+- Stabilizatory — czasem przedłużki łączników
+- **Haldex** — opony zawsze komplet z tej samej serii (patrz checklist 4motion wyżej)
+- Zawijka nadkola tył + plastik przód — sprawdzić przy pełnym skręcie + ugięciu (zwłaszcza z dystansami)
+
+### Co dalej
+- Notować w trakcie zakupu auta — jak trafi się egzemplarz z już zrobionym liftem, plus
+- Po Bałkanach 2026 ustalić budżet i terminarz osobno
 
 ## Kontekst do kanału "Dojedziemy"
 

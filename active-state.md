@@ -4,8 +4,9 @@ Ostatnia aktualizacja: 2026-06-01
 
 ## Bieżący status
 
-- **🔥 ZWROT 01.06.2026: Sprzedać Terrano + B5.5 → kupić Passata B6 kombi 2.0 TDI manual 6-bieg.** B5.5 nie ratujemy (uszczelka pod głowicą + zalanie). B5.5 zostaje jako daily/awaryjny do dojeżdżenia, do sprzedaży/utylizacji potem. Terrano do sprzedaży — najpierw zdjęcia. Budżet zakupu B6: **wstępnie do ~18k**, ale **ceny do potwierdzenia researchem (Otomoto/OLX)** — nie zmyślać widełek. Plik: `samochod-passat-b6.md`
-- **Plan zakupu B6:** Highline (preferowane) lub Comfortline, manual 6-bieg (skrzynia 02Q), 2.0 TDI. **Silnik: skłon ku CR (CBAB, lifting 2008+) — kulturalniejszy, bez choroby wałków PD.** PD (BKP/BMP/BMA) tylko jak okazja z udokumentowaną historią wałków
+- **🔥 ZWROT 01.06.2026: Sprzedać Terrano + B5.5 → kupić Passata B6 kombi 2.0 TDI manual 6-bieg, 4motion.** B5.5 nie ratujemy (uszczelka pod głowicą + zalanie). B5.5 zostaje jako daily/awaryjny do dojeżdżenia, do sprzedaży/utylizacji potem. Terrano do sprzedaży — najpierw zdjęcia. **Budżet korygowany na bieżąco przy przeglądaniu ogłoszeń** (4motion drożej niż FWD). Plik: `samochod-passat-b6.md`
+- **Plan zakupu B6:** Highline (preferowane) lub Comfortline, manual 6-bieg (skrzynia 02Q), 2.0 TDI, **4motion (Haldex)**. **Silnik: skłon ku CR (CBAB, lifting 2008+) — kulturalniejszy, bez choroby wałków PD.** PD (BKP/BMP/BMA) tylko jak okazja z udokumentowaną historią wałków
+- **Pomysł na potem (po Bałkanach):** lekki lift 50 mm + opony 215/70 R16 na stockowych 6,5J. Nie przed Ostrowem (auta nie ma), Bałkany październik najpewniej też jeszcze bez. Szczegóły w `samochod-passat-b6.md` (sekcja "Pomysł: lekki lift")
 - **Plan B na Ostrowo (jeśli zakup B6 nie zdąży):** tata Kingi pożycza Passata B7, B6 dopiero na Bałkany październik
 - **AKTYWNY PLAN 1: Ostrowo k. Karwi, 11-20.07.2026** — auto: B6 (jeśli zdąży) lub B7 taty Kingi. 10 dni / 9 nocy. Noclegi stacjonarne. Pliki: `wyprawy/morze-lipiec-2026/` (trasa.md, budzet.md). Szacunek: ~5 400-5 700 zł vs. 5 500 zł kasy = wchodzimy na styk
 - **AKTYWNY PLAN 2: Bałkany październik 2026 = OŚWIADCZYNY (przesunięte z maja)** — Passatem B6. Trasa do zaplanowania
