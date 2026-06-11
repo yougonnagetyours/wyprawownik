@@ -11,5 +11,5 @@ Gdy w trakcie rozmowy ustalę/znajdę konkretną wiedzę dotyczącą auta lub wy
 **How to apply:**
 - Domyślnie: po researchu/ustaleniu → od razu Edit właściwego pliku, w czacie krótko podsumować zmianę.
 - Gdy nie jestem pewny gdzie / czy w ogóle dopisać → zaproponować jednym zdaniem ("dopisać X do pliku Y?"), nie pomijać.
-- Dotyczy: stan auta (`samochod-passat.md`, `samochod-passat-odszczurzanie.md`, `samochod.md`), pliki wypraw, `active-state.md`.
+- Dotyczy: stan auta (`auta/[auto]/stan.md`, np. `auta/passat-b5.5/stan.md`, `auta/passat-b5.5/odszczurzanie.md`, `auta/terrano/stan.md`), `zakup-passata-b6.md`, pliki wypraw, `active-state.md`.
 - Nie dotyczy: ogólnej wiedzy bez związku z aktualnym projektem.

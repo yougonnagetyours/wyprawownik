@@ -33,7 +33,7 @@
 
 - [ ] **🚨 PODEJRZENIE: spaliny w układzie chłodzenia (uszczelka pod głowicą?)** — patrz sekcja "Diagnoza układu chłodzenia" niżej. **Najważniejsze do rozstrzygnięcia ZANIM cokolwiek innego się robi** — jeśli to uszczelka, zmienia wszystko (koszt 1500-3000 zł, sens przygotowania pod znakiem zapytania)
 - [ ] **Turbo / przewody turba** — przy mocnym przyspieszeniu odcina moc. Najczęściej nieszczelne intercoolery, opaski, przewody EGR. Diagnostyka + uszczelnienie
-- [ ] **Wilgoć w kabinie** — dywaniki mokre, capi (zwłaszcza po deszczu), centralny zamek sam się zamyka (prawdopodobnie zamoczony sterownik). Znaleźć źródło wycieku (typowe w B5: pióra wycieraczek/nadkole, uszczelka szyberdachu, odpływy klimy w komorze akumulatora), osuszyć, ew. wymienić sterownik. **Inspekcja 21.05 wskazała plenum (zapchane odpływy pod podszybiem) jako TOP hipotezę** — szczegóły w `samochod-passat-odszczurzanie.md`
+- [ ] **Wilgoć w kabinie** — dywaniki mokre, capi (zwłaszcza po deszczu), centralny zamek sam się zamyka (prawdopodobnie zamoczony sterownik). Znaleźć źródło wycieku (typowe w B5: pióra wycieraczek/nadkole, uszczelka szyberdachu, odpływy klimy w komorze akumulatora), osuszyć, ew. wymienić sterownik. **Inspekcja 21.05 wskazała plenum (zapchane odpływy pod podszybiem) jako TOP hipotezę** — szczegóły w `auta/passat-b5.5/odszczurzanie.md`
 - [ ] **Diagnostyka ogólna** — niech mechanik popatrzy "co jeszcze" przy okazji (zawieszenie pod kątem >3000 km trasy, hamulce, geometria, paski klinowe, alternator, łożyska)
 
 ### 🚨 Diagnoza układu chłodzenia — DO ROZSTRZYGNIĘCIA W PIERWSZEJ KOLEJNOŚCI

@@ -18,7 +18,7 @@ Michał + Kinga rozmawiali po przeglądzie Terrano (21.05). Wnioski:
 
 **Plan:**
 1. Sprzedać Terrano, kasa idzie na: (a) pieszczenie Passata B5.5 jeśli przejdzie diagnozę, (b) ew. drugie auto, (c) wyjazd
-2. **Decyzja zależna od diagnozy Passata** (uszczelka pod głowicą? — patrz `samochod-passat.md`). Jeśli Passat = trup, sprzedaż Terrano jest problematyczna (nie ma czym jeździć)
+2. **Decyzja zależna od diagnozy Passata** (uszczelka pod głowicą? — patrz `auta/passat-b5.5/stan.md`). Jeśli Passat = trup, sprzedaż Terrano jest problematyczna (nie ma czym jeździć)
 
 **Pytania do dopytania Michała (przed wycenianiem rynkowym):**
 - Opony AT — już założone na felgi czy nadal luzem?
@@ -35,6 +35,12 @@ Michał + Kinga rozmawiali po przeglądzie Terrano (21.05). Wnioski:
 
 ---
 
+
+## Dokumenty / Ubezpieczenie
+
+- **OC ERGO Hestia** — polisa nr `460005502052`, zawarta na kolejny rok (czerwiec 2026 →). PDF: `auta/terrano/dokumenty/oc-ergo-hestia-2026.pdf`
+  - Hasło do PDF: `948d2f32`
+  - ⚠️ Okres ochrony (od–do) i składka — do uzupełnienia (PDF zahasłowany, nie odczytałem)
 
 ## Dane podstawowe
 

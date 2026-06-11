@@ -264,5 +264,5 @@ BB ──autostrada──→ Krk (3 noce) → Zadar (1 noc) → Split (1 noc)
 - [ ] Nocleg na Krk: kemping vs 1-2 noce apartament? (dla Kingi na start?)
 - [ ] Namiot vs spanie w aucie vs mix?
 - [ ] Rezerwacja kempingów z wyprzedzeniem? (czerwiec = jeszcze nie szczyt, ale Krk popularny)
-- [ ] Stan auta przed wyjazdem (patrz samochod.md)
+- [ ] Stan auta przed wyjazdem (patrz auta/terrano/stan.md)
 - [ ] Albania = osobna wyprawa (Theth + Velipoja, min. 2 tyg) — zostawione na bałkańską

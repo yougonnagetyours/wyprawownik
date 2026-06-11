@@ -203,4 +203,4 @@ Zakładając scenariusz "czerwiec, dodatkowa wypłata":
 - [ ] Terrano vs Kia rodziców (Kia LPG = paliwo ~430 zł zamiast ~2 200 zł, ale inny styl wyprawy)
 - [ ] Nocleg na Krk: kemping od razu czy 1-2 noce apartament (dla Kingi)?
 - [ ] Rezerwacja kempingów z wyprzedzeniem (Krk, Zaton, Stobreč)
-- [ ] Stan auta przed wyjazdem (samochod.md)
+- [ ] Stan auta przed wyjazdem (auta/terrano/stan.md)

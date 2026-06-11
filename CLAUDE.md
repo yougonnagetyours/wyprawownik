@@ -17,7 +17,11 @@ wyprawa/
 ├── CLAUDE.md                         ← ten plik (auto-loaded)
 ├── context-engineering-checklist.md  ← zasady organizacji systemu (Anthropic)
 ├── active-state.md                   ← co się teraz dzieje, bieżący stan
-├── samochod.md                       ← Nissan Terrano 2 — stan, todo, wydatki
+├── zakup-passata-b6.md               ← plan/research zakupu B6 (jeszcze nie kupiony)
+├── auta/                             ← jeden folder na każde POSIADANE auto
+│   └── [auto]/                       ← np. terrano, passat-b5.5
+│       ├── stan.md                   ← stan, todo, wydatki tego auta
+│       └── dokumenty/                ← polisy, dowód, faktury (PDF-y)
 ├── wyprawy/                          ← folder na poszczególne wyprawy
 │   └── [nazwa]-[miesiac]-[rok]/      ← np. balkany-maj-2026
 │       ├── trasa.md
@@ -25,6 +29,8 @@ wyprawa/
 │       ├── noclegi.md
 │       └── pakowanie.md
 ```
+
+Konwencja: auto kupowane (jeszcze nie posiadane) → plik `zakup-[auto].md` w root. Gdy kupione → migruje do `auta/[auto]/stan.md`.
 
 ## Boot sequence (każda nowa sesja)
 
@@ -42,7 +48,7 @@ wyprawa/
 
 ### Pliki projektu
 - Każdy plik ma jedno zadanie — nie mieszaj tematów
-- `samochod.md` jest wspólny dla wszystkich wypraw (jedno auto)
+- Każde posiadane auto ma swój folder `auta/[auto]/` ze `stan.md` (stan, todo, wydatki) i `dokumenty/` (polisy, faktury). Auto przed zakupem → `zakup-[auto].md` w root
 - Każda wyprawa ma swój folder w `wyprawy/`
 - `active-state.md` to bieżący stan — aktualizuj go gdy coś się zmienia
 
@@ -60,12 +66,12 @@ wyprawa/
 ### Budżet
 - Budżet zawsze wyliczany, nie ustalany z góry
 - Użytkownik decyduje czy go stać na podstawie wyliczenia
-- Koszty auta (utrzymanie, naprawy) w `samochod.md` — osobno od budżetu wyprawy
+- Koszty auta (utrzymanie, naprawy) w `auta/[auto]/stan.md` — osobno od budżetu wyprawy
 - Budżet wyprawy w `wyprawy/[nazwa]/budzet.md`
 
 ### Samochód
-- Stan auta, co zrobione, co do zrobienia, wydatki → `samochod.md`
-- To jest centralny plik do śledzenia gotowości auta na kolejne wyprawy
+- Stan auta, co zrobione, co do zrobienia, wydatki → `auta/[auto]/stan.md`
+- To jest centralny plik do śledzenia gotowości danego auta na kolejne wyprawy
 
 ### Domyślne założenia
 - 2 osoby (Michał + Kinga), chyba że powiedziane inaczej

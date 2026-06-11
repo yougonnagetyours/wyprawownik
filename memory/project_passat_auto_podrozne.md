@@ -15,5 +15,5 @@ VW Passat B5.5 kombi (1.9 TDI 101 KM, manual, 2004, ~424 tys. km, prezent od tat
 - Domyślnie zakładaj Passata jako auto wyjazdowe, chyba że user powie inaczej (np. Kia rodziców na specjalne wyjazdy z apartamentami)
 - Terrano nie planuj jako auto wyjazdowe do końca lipca 2026 — czeka na decyzję
 - Nie pchaj upgradów dla Passata "bo by się przydały" — najpierw mechanika, potem dopiero styling. Patrz [[feedback-droga-nie-sprzet]]
-- Plik aktywny: `samochod-passat.md`. `samochod.md` to teraz Terrano (zawieszone)
+- Plik aktywny: `auta/passat-b5.5/stan.md`. `auta/terrano/stan.md` to teraz Terrano (zawieszone)
 - Znane bolączki Passata: turbo (odcina moc), wilgoć w kabinie (mokre dywaniki, samozamykanie centralnego)

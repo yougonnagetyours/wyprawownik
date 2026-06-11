@@ -22,7 +22,7 @@ Auto: Nissan Terrano 2, 2.7 TDI, 4x4, rocznik 2000, ~200 tys. km
 - [x] ~~Wymiana oleju silnikowego + filtry~~ — zrobione
 - [x] ~~Zawieszenie przód — wahacze górne + sworznie~~ — zrobione
 - [x] ~~Zawieszenie tył — poliuretany wszędzie~~ — zrobione
-- [ ] Wymiana oleju w mostach, skrzyni i reduktorze (~450-700 zł) — szczegóły w `samochod.md`
+- [ ] Wymiana oleju w mostach, skrzyni i reduktorze (~450-700 zł) — szczegóły w `auta/terrano/stan.md`
 - [ ] Sprzęgło — nisko bierze, do sprawdzenia z mechanikiem
 - [ ] Sprawdzenie / uzupełnienie płynów: hamulcowy, chłodniczy, wspomaganie, spryskiwacze
 - [ ] Stan hamulców (klocki, tarcze, przewody) — krytyczne na górskich serpentynach Bałkanów

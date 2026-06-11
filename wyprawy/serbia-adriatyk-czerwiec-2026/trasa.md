@@ -247,7 +247,7 @@ Kinga nie wie — wygląda to jak naturalny przystanek po drodze.
 ## Otwarte pytania
 
 - [ ] Kinga — potwierdzenie terminu z pracy (28.05–07.06)
-- [ ] Stan auta przed wyprawą (patrz samochod.md)
+- [ ] Stan auta przed wyprawą (patrz auta/terrano/stan.md)
 - [ ] Wariant 1 czy 2? (lub oba jako backup?)
 - [ ] Noclegi — do dopracowania później
 - [ ] Budżet — do wyliczenia gdy termin potwierdzony

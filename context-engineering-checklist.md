@@ -20,7 +20,7 @@ Poniżej zasady z artykułu przetłumaczone na nasz system wyprawowy. Checklist 
 
 | # | Zasada | Status | Uwagi |
 |---|--------|--------|-------|
-| 2.1 | Pliki projektu mają jasne nazwy i strukturę (np. `trasa.md`, `budzet.md`, `samochod.md`) | ✅ | Struktura utworzona |
+| 2.1 | Pliki projektu mają jasne nazwy i strukturę (np. `trasa.md`, `budzet.md`, `auta/[auto]/stan.md`) | ✅ | Struktura utworzona |
 | 2.2 | Każdy plik ma jedno konkretne zadanie — bez mieszania tematów | ✅ | Wdrożone |
 | 2.3 | Minimalna redundancja między plikami | ⬜ | Pilnować na bieżąco |
 | 2.4 | WebSearch/WebFetch do weryfikacji informacji zamiast zgadywania | ✅ | Zasada ustalona |
@@ -31,7 +31,7 @@ Poniżej zasady z artykułu przetłumaczone na nasz system wyprawowy. Checklist 
 |---|--------|--------|-------|
 | 3.1 | Lekkie identyfikatory — pliki projektu jako źródło prawdy, ładowane gdy potrzebne | ✅ | Struktura w CLAUDE.md |
 | 3.2 | Progresywne odkrywanie — nie ładować wszystkiego na raz, dopytywać i doczytywać | ✅ | Zasada ustalona |
-| 3.3 | Metadata jako sygnał — struktura folderów i nazwy plików mówią co gdzie szukać | ✅ | wyprawy/[nazwa]/ + samochod.md |
+| 3.3 | Metadata jako sygnał — struktura folderów i nazwy plików mówią co gdzie szukać | ✅ | wyprawy/[nazwa]/ + auta/[auto]/ |
 | 3.4 | Hybrydowe podejście — kluczowe info (CLAUDE.md) od razu, reszta na żądanie | ✅ | CLAUDE.md auto-loaded |
 
 ## 4. Długie horyzonty — pamięć i ciągłość
@@ -65,5 +65,5 @@ Poniżej zasady z artykułu przetłumaczone na nasz system wyprawowy. Checklist 
 ## Następne kroki
 
 - Zaplanować pierwszą wyprawę → `wyprawy/[nazwa]/`
-- Uzupełnić dane auta (silnik, napęd, rok) w `samochod.md`
+- Uzupełnić dane auta (silnik, napęd, rok) w `auta/[auto]/stan.md`
 - Dodać few-shot przykłady do plików (pkt 5.1)
