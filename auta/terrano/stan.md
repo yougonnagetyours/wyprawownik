@@ -29,9 +29,13 @@ Michał + Kinga rozmawiali po przeglądzie Terrano (21.05). Wnioski:
 - Stan blacharki — gdzie dokładnie rdza (progi, łuki, dno, podłużnice)?
 - Książka serwisowa / historia?
 
-**Wycena rynkowa (do zrobienia po dopytaniu):**
-- 2.7 TDI, 2000 rok, ~200 tys. km, 4x4 dołączany, świeże zawieszenie + opony AT
-- Wstępne widełki przed researchem: 18-28 tys. zł (zależy od kopcenia + blacharki)
+**Wycena rynkowa (research czerwiec 2026 — patrz `opis-do-sprzedazy.md`):**
+- 2.7 TDI, 2000, ~200 tys. km, 5-drzwiowy, manual, 4x4, świeże zawieszenie + opony AT
+- **Wywoławcza: 17 900 zł | realna transakcja: 15 000–16 500 zł | dolna granica: 14 000 zł**
+- Atut #1: zdrowa włoska rama bez dziur (nie konserwowana na siłę — kupujący widzi stan).
+  Plus niski przebieg jak na rocznik. Wady (klima z przycisku, szyba, radio, spaw 3. rzędu)
+  to kosmetyka/elektryka — tanie i DIY, nie zbijają tak jak rdza ramy
+- ⚠️ Stare widełki 18–28 tys. były za optymistyczne — to poziom egzemplarzy z przebiegiem <170 tys.
 
 ---
 
