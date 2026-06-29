@@ -1,5 +1,11 @@
 # VW Passat B5.5 — auto podróżne (od 2026)
 
+## Status decyzji (akt. 29.06.2026)
+
+🔄 **ZWROT z "do utylizacji" na "zostaje jako backup".** Wcześniej (01.06) B5.5 był skreślony — nie ratujemy. Teraz nowa logika: B5.5 **zostaje na lata jako auto zapasowe + daily + wozidło "do brudnego"**, nawet po kupnie B6/B7. To zmienia kalkulację naprawy: koszt rozkłada się na lata, więc lekka naprawa uszczelki (~2-3k) ma sens, a nie tylko "pod jeden wyjazd".
+
+**Plan:** diagnoza u kumpla mechanika (pakiet: zapowietrzenie + uszczelka) → dopiero potem decyzja o turbo i reszcie. **W obecnym stanie nad morze NIE jedzie** — uszczelka to nie "dojadę i zobaczę" (7h pełnego obciążenia = ryzyko zarżnięcia). Wynik diagnozy rozstrzyga czy lipiec realny.
+
 ## Dane podstawowe
 
 | Parametr | Wartość |
@@ -43,6 +49,18 @@
 - Po odkręceniu korka zbiorniczka wyrównawczego: **"pszt" (uchodzi ciśnienie)** mimo że silnik zimny od kilkunastu godzin
 - **Płyn chłodniczy się wzburza** po odkręceniu
 - **Poziom płynu lekko się podnosi** po otwarciu
+
+**🟢 AKTUALIZACJA 28.06.2026 — mocne przesłanki PRZECIW rozwiniętej uszczelce:**
+- Cały dzień jazdy (4-5h) w upale 37-38°C, klima cały czas, trasa BB → Brenna → Soblówka, prędkości do ~100 km/h + ostrzejsze przyspieszenia
+- **Wskazówka temperatury ani drgnęła**, poziom płynu chłodniczego stabilny, zero ubytku
+- Przy padniętej uszczelce/pękniętej głowicy pod takim obciążeniem i w taki upał spodziewane: pełzająca/skacząca temperatura, ubytek płynu, wyrzucanie, bulgotanie — nic z tego nie wystąpiło
+- **Wniosek:** rozwinięta uszczelka/pęknięta głowica mało prawdopodobna. W grze zostaje: (a) bardzo wczesna/mała/okresowa nieszczelność, albo (b) zapowietrzenie / słaby korek — ta tańsza hipoteza zyskuje na wadze. Pakiet diagnostyczny i tak robimy, ale scenariusz 🟢 (głowica OK) jest teraz najbardziej prawdopodobny
+
+**Hipoteza alternatywna: zapowietrzony układ / słaby korek** (podpowiedź z innego źródła, zweryfikowana):
+- Samo "pszt" przy odkręcaniu to może być normalne odpowietrzanie — korek pełni też rolę odpowietrznika i trzyma układ pod ciśnieniem
+- ALE: ciśnienie narastające na ZIMNO po ~18h postoju + podnoszący się poziom to objawy, których czyste zapowietrzenie nie tłumaczy (powietrze nie produkuje ciśnienia samo z siebie na stojącym zimnym aucie)
+- Skąd powietrze? Po naprawie układu (wymiana płynu/chłodnicy/pompy) albo... bo spaliny z nieszczelnej uszczelki ciągle napowietrzają. Jeśli nikt ostatnio nie grzebał w układzie, a powietrze "samo wraca" → to argument za uszczelką
+- **Dobra wiadomość: ten sam pakiet diagnostyczny (test ciśnienia + CO2 + olej) rozstrzyga obie hipotezy naraz**
 
 **Co to może być (ranking):**
 1. ★★★ **Uszczelka pod głowicą / pęknięta głowica** — klasyczny objaw. Spaliny przedostają się do układu chłodzenia, ciśnienie narasta nawet przy wyłączonym silniku. W 1.9 TDI (AJM/AVF/BLB/itp. — sprawdzić kod silnika) to znana bolączka przy ~400 tys. km
@@ -105,16 +123,14 @@ UWAGA: przy okazji robi się często rozrząd (pasek + rolki + pompa wody) bo i 
 
 ## Mechanik
 
-**Kandydat #1: seb's GARAGE** (znaleziony na Google Maps, do zadzwonienia)
-- Adres: Piekarska 130, 43-300 Bielsko-Biała
-- Tel: 535 435 834
-- Strona: sebs-garage.pl
-- Ocena: 4.5/5 (103 opinie)
-- Godziny: zamknięcie 16:00
-- Specjalizacja: automatyczne skrzynie biegów, elektromechanika, diagnostyka, mechanika ogólna, ABS/ASR/ESP
-- **Uwaga:** główna działka to automaty + elektryka, nie czysta mechanika silnika. Mogą wziąć diagnozę i odesłać naprawę dalej, albo polecić innego — co też jest OK (lokalny namiar od fachowca)
+**Wybór: kumpel mechanik** (zamiast seb's GARAGE — tamten specjalizuje się w automatach, nie czystej mechanice silnika)
+- Kontakt: przez Messengera
+- Kontekst: ostatnio Michał miał do niego zagadać, gdy z bratem odbierali jego auto "od osi", ale kumpla nie było. Plan: napisać wiadomość na Messengerze i umówić pakiet diagnostyczny
+- (imię kumpla do uzupełnienia)
 
-**Plan rozmowy (dzwonić rano, 8-9, pn-pt):**
+**seb's GARAGE — odrzucony** (Piekarska 130, 43-300 Bielsko-Biała, tel. 535 435 834): specjalizacja automaty + elektryka, nie silnik. Zostawione jako backupowy namiar.
+
+**Plan rozmowy / wiadomości:**
 > "Dzień dobry, widziałem że robicie diagnostykę. Mam Passata B5.5 1.9 TDI, podejrzewam uszczelkę pod głowicą — syczy ze zbiorniczka po nocy, płyn się wzburza. Robicie taką diagnostykę? Chodzi mi o test CO2, test ciśnienia układu chłodzenia i leak-down."
 
 Spytać też: ile zajmie i ile kosztuje (norma: 150-300 zł za pakiet).
