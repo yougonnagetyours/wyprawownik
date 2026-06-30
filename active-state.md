@@ -1,9 +1,12 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-06-29
+Ostatnia aktualizacja: 2026-06-30
 
 ## Bieżący status
 
+- **📋 USTALONA KOLEJNOŚĆ (30.06.2026):** 1) **Chevrolet** — diagnoza klimy + sprzedaż (idzie równolegle, niezależne); 2) **Passat** — test spalin w płynie + ciśnienie → werdykt rozstrzyga skalę napraw; 3) **Terrano** — zdjęcia + wystawienie **dopiero PO werdykcie Passata** (żeby nie zostać bez transportu).
+- **🔧 30.06.2026 — wizyta u mechanika z Passatem (wstępna, bez miernika):** płyn ciemnawy ("spalinowy" wg mechanika), ale "w upały się nie grzał = raczej OK". Umówiony termin na inspekcję miernikiem (test ciśnienia/CO2). Tropy do roboty PO werdykcie uszczelki: przepustnica ssania ("moduł od rozbiegania" po lewej bloku) + czyszczenie EGR/przewodów → odzysk mocy, możliwe że turbo przestanie odcinać. Decyzja invest vs dojeździć: test rozstrzyga skalę, backupowi tylko tanie naprawy. Szczegóły: `auta/passat-b5.5/stan.md`
+- **💰 30.06.2026 — sprzedaż Chevroleta Aveo (wystawiony 4 500 zł):** jest kupiec, przyjeżdża dziś, marudzi o klimę (nienabita + ucieka czynnik). KOREKTA: klima to dla kupujących warunek konieczny — już paru odpadło przez nią. Próg Michała: 3k netto za auto OK. Plan: NAJPIERW diagnoza szczelności u kumpla → tani przeciek (o-ring/wężyk, ≤~800–1000) napraw+nabij, sprzedaj za pełne ~4,5k (netto ~3,7k). Drogi element (skraplacz/kompresor 1500–2500+) → nie pchać kasy, sprzedać jak stoi taniej. Terrano: kumplowi 15k albo rynek ~17,9–18,5k (dno 14k) — patrz `auta/terrano/stan.md`
 - **🔄 KOREKTA 29.06.2026 ws. B5.5: zostaje jako BACKUP, nie utylizacja.** Plan: zdiagnozować (uszczelka vs. zapowietrzenie) u kumpla mechanika i ew. naprawić w granicy opłacalności — bo auto zostaje na lata jako zapasowe/daily/wozidło "do brudnego", nawet po kupnie B6. Jazda z 28.06 (4-5h w upale 37-38°C, klima, zero ruchu wskazówki temp, stabilny płyn) → mocny argument PRZECIW rozwiniętej uszczelce. Szczegóły: `auta/passat-b5.5/stan.md`
 - **🔥 ZWROT 01.06.2026: Sprzedać Terrano → kupić Passata B6 kombi 2.0 TDI manual 6-bieg, 4motion.** Terrano do sprzedaży — najpierw zdjęcia. **Budżet korygowany na bieżąco przy przeglądaniu ogłoszeń** (4motion drożej niż FWD). Plik: `zakup-passata-b6.md`. (B5.5 — patrz korekta z 29.06 wyżej: NIE utylizacja, zostaje jako backup)
 - **Plan zakupu B6:** Highline (preferowane) lub Comfortline, manual 6-bieg (skrzynia 02Q), 2.0 TDI, **4motion (Haldex)**. **Silnik: skłon ku CR (CBAB, lifting 2008+) — kulturalniejszy, bez choroby wałków PD.** PD (BKP/BMP/BMA) tylko jak okazja z udokumentowaną historią wałków

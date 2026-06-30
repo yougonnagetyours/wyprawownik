@@ -56,6 +56,16 @@
 - Przy padniętej uszczelce/pękniętej głowicy pod takim obciążeniem i w taki upał spodziewane: pełzająca/skacząca temperatura, ubytek płynu, wyrzucanie, bulgotanie — nic z tego nie wystąpiło
 - **Wniosek:** rozwinięta uszczelka/pęknięta głowica mało prawdopodobna. W grze zostaje: (a) bardzo wczesna/mała/okresowa nieszczelność, albo (b) zapowietrzenie / słaby korek — ta tańsza hipoteza zyskuje na wadze. Pakiet diagnostyczny i tak robimy, ale scenariusz 🟢 (głowica OK) jest teraz najbardziej prawdopodobny
 
+**🔧 WIZYTA U MECHANIKA (~30.06.2026) — wstępne oględziny, bez miernika:**
+- **Płyn w zbiorniczku ciemnawy** → mechanik czyta to jako "mocno spalinowy". ALE: ciemny płyn może być też po prostu stary/zanieczyszczony, nie musi = uszczelka
+- Mechanik: "skoro w takie upały się nie grzał, to raczej powinno być OK" — zgodne z obserwacją z 28.06
+- **Płynu jest za dużo / może się gdzieś przelewać** wg mechanika. Michał: na ZIMNYM jest na MINIMUM. Tej sprzeczności mechanik nie wytłumaczył → **to jest dokładnie do rozstrzygnięcia miernikiem**
+- **Plan:** Michał przyjeżdża umówionego dnia do warsztatu → inspekcja miernikiem (test ciśnienia / CO2). Werdykt uszczelki PRZED jakąkolwiek naprawą — bez zmian w planie
+- **"Moduł od rozbiegania się auta" po lewej stronie bloku** — to anti-shudder valve / przepustnica ssania (klapa dławiąca, blisko EGR). Mechanik kazał poszukać w necie, chce wymienić — ale DOPIERO po werdykcie uszczelki
+- **EGR + przewody** — pewnie zasyfione, do przeczyszczenia. Efekt: więcej mocy, **możliwe że turbo przestanie odcinać** (spina się z istniejącym objawem utraty mocy przy przyspieszaniu!). Też po werdykcie uszczelki
+- **Kolejność wg mechanika = nasza:** 1) test uszczelki miernikiem; 2) jeśli głowica OK → tanie rzeczy (EGR/przepustnica/przewody, kilkaset zł, odzysk mocy); 3) drogie (głowica) tylko wg tabeli opłacalności — backupowi nie wkładamy 4k+
+- **Decyzja invest vs dojeździć:** nie na ślepo. Test rozstrzyga skalę. Backup = tylko tanie/niezbędne naprawy, reszta kasy na B6
+
 **Hipoteza alternatywna: zapowietrzony układ / słaby korek** (podpowiedź z innego źródła, zweryfikowana):
 - Samo "pszt" przy odkręcaniu to może być normalne odpowietrzanie — korek pełni też rolę odpowietrznika i trzyma układ pod ciśnieniem
 - ALE: ciśnienie narastające na ZIMNO po ~18h postoju + podnoszący się poziom to objawy, których czyste zapowietrzenie nie tłumaczy (powietrze nie produkuje ciśnienia samo z siebie na stojącym zimnym aucie)

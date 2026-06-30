@@ -37,6 +37,13 @@ Michał + Kinga rozmawiali po przeglądzie Terrano (21.05). Wnioski:
   to kosmetyka/elektryka — tanie i DIY, nie zbijają tak jak rdza ramy
 - ⚠️ Stare widełki 18–28 tys. były za optymistyczne — to poziom egzemplarzy z przebiegiem <170 tys.
 
+**🏷️ Strategia sprzedaży (akt. 30.06.2026):**
+- Michał rozważa: kumplowi za 15k, albo wystawić najpierw za 20k → finalnie 15k
+- **Rekomendacja:** 20k za wysoko vs research (telefon będzie milczał). Wystawić **~17,9–18,5k** (pole do zejścia), celować w 15–16,5k od obcego
+- **Kumpel 15k** = uczciwa cena znajomego (rynek od obcego do 16,5 → ~1,5k rabatu), ale pewna i szybka transakcja. OK jeśli zależy na świętym spokoju
+- **Dno: 14k, niżej nie schodzić**
+- ⚠️ **NIE sprzedawać zanim jest pewny transport** — Passat wisi na teście, B6 niekupiony. Najpierw werdykt Passata / zakup B6, potem finalizacja Terrano
+
 ---
 
 
