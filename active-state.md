@@ -12,7 +12,8 @@ Ostatnia aktualizacja: 2026-06-30
 - **Plan zakupu B6:** Highline (preferowane) lub Comfortline, manual 6-bieg (skrzynia 02Q), 2.0 TDI, **4motion (Haldex)**. **Silnik: skłon ku CR (CBAB, lifting 2008+) — kulturalniejszy, bez choroby wałków PD.** PD (BKP/BMP/BMA) tylko jak okazja z udokumentowaną historią wałków
 - **Pomysł na potem (po Bałkanach):** lekki lift 50 mm + opony 215/70 R16 na stockowych 6,5J. Nie przed Ostrowem (auta nie ma), Bałkany październik najpewniej też jeszcze bez. Szczegóły w `zakup-passata-b6.md` (sekcja "Pomysł: lekki lift")
 - **Plan B na Ostrowo (jeśli zakup B6 nie zdąży):** tata Kingi pożycza Passata B7, B6 dopiero na Bałkany październik
-- **AKTYWNY PLAN 1: Ostrowo k. Karwi, 11-20.07.2026** — auto: B6 (jeśli zdąży) lub B7 taty Kingi. 10 dni / 9 nocy. Noclegi stacjonarne. Pliki: `wyprawy/morze-lipiec-2026/` (trasa.md, budzet.md). Szacunek: ~5 400-5 700 zł vs. 5 500 zł kasy = wchodzimy na styk
+- **AKTYWNY PLAN 1: Ostrowo k. Karwi, 11-20.07.2026 — JUTRO START.** Auto: **Passat B7 2.0 TDI taty Kingi** (potwierdzone 10.07, B6 nie zdążył). **Nocleg zarezerwowany.** 10 dni / 9 nocy. Pliki: `wyprawy/morze-lipiec-2026/` (trasa.md, budzet.md, claude-project/). Szacunek: ~5 360 zł vs. 5 500 zł kasy = ~140 zł zapasu poza rezerwą
+- **📱 Asystent na telefon (10.07.2026):** komplet do Claude Projects w `wyprawy/morze-lipiec-2026/claude-project/` — instrukcje + 3 pliki wiedzy. **Do zrobienia przed wyjazdem: uzupełnić dane noclegu, tel. do taty Kingi, numer assistance** (miejsca oznaczone ⚠️ w `wyprawa.md`)
 - **AKTYWNY PLAN 2: Bałkany październik 2026 = OŚWIADCZYNY (przesunięte z maja)** — Passatem B6. Trasa do zaplanowania
 - **Pelješac maj 2026 — ZAKOŃCZONA** (01-09.05.2026). Pojechali Passatem B7 taty Kingi (Kia padła dzień przed — cewka). Oświadczyn nie było (kasy na pierścionek brakło)
 - Pliki aut: `zakup-passata-b6.md` (priorytet — research + zakup), `auta/passat-b5.5/stan.md` (B5.5 — wycofywany), `auta/terrano/stan.md` (Terrano — do sprzedaży)
@@ -50,6 +51,10 @@ Ostatnia aktualizacja: 2026-06-30
 - **Nazwa:** "Dojedziemy" — handle `@dojedziemy` zarezerwowany na IG, mail `dojedziemy.kanal@gmail.com` założony
 - Pliki: `kanal-dojedziemy/` (koncept.md, konta.md, todo-na-start.md)
 - **Wraca do tematu:** jesień 2026 / start 2027 — wtedy aktywacja konta, pierwsze treści
+
+## Pomysły na usprawnienia
+
+- Backlog luźnych pomysłów „jak podróżować lepiej" → `pomysly-usprawnienia.md` (auto / spanie / jedzenie / logistyka / kasa)
 
 ## Pomysły na przyszłe wyprawy
 

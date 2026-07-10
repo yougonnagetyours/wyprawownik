@@ -6,10 +6,10 @@
 |----------|---------|
 | Termin | 11.07–20.07.2026 (sobota → niedziela), 10 dni / 9 nocy |
 | Baza | Ostrowo k. Karwi (Kaszuby, gmina Krokowa) |
-| Auto | VW Passat B5.5 kombi 1.9 TDI |
+| Auto | **VW Passat B7 2.0 TDI** (pożyczony od taty Kingi) — potwierdzone 10.07.2026 |
 | Skład | Michał + Kinga |
 | Styl | Baza + plażing + małe wycieczki + spacery |
-| Noclegi | Stacjonarne (pokój/domek/apartament) — bookujemy na miejscu |
+| Noclegi | **Zarezerwowane** (potwierdzenie jest) — szczegóły do wpisania |
 
 ## Dojazd: BB → Ostrowo (~650 km)
 
@@ -21,7 +21,7 @@ Trasa: BB → A1 (Piotrków → Toruń → Gdańsk) → S6 → Władysławowo �
 - **Czas łączny:** ~8-9h z przerwami
 - **Spalanie:** zakładam 6.5 L/100 km (1.9 TDI manual, autostradowy ~110-120 km/h — przy 424 tys. km nie katujemy)
 
-⚠️ **Pasat się odcina przy mocnym przyspieszeniu (turbo)** — na A1 jechać równo, bez wciskania w podłogę przy wyprzedzaniach. Wyprzedzanie z wyprzedzeniem.
+Ostrzeżenie o odcinającym turbie dotyczyło B5.5 — nieaktualne, jedzie B7. Auto pożyczone: nie katować, oddać czyste i zatankowane.
 
 ### Powrót
 
