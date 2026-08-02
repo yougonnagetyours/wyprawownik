@@ -24,11 +24,11 @@ Pointer: lekki lift 50 mm + opony 215/70 R16 na stockowych 6,5J → już opisane
 
 ## Spanie i biwak
 
-*(puste — dopisujemy)*
+Pointer: cały temat spania w aucie, boxów, kolejności pakowania i box dach vs. hak → **`system-biwakowy.md`** (po kajakach 01–02.08.2026). Tu tylko nowe, nieujęte tam pomysły.
 
 ## Jedzenie i woda
 
-*(puste — dopisujemy)*
+Pointer: podział woda pitna / użytkowa + kranik do bańki → `system-biwakowy.md`, sekcja 5.
 
 ## Nawigacja, trasy, logistyka
 

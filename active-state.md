@@ -1,6 +1,8 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-06-30
+Ostatnia aktualizacja: 2026-08-02
+
+> ⚠️ Sekcje niżej są sprzed 30.06.2026 i mogą być nieaktualne (status sprzedaży Chevroleta/Terrano, werdykt Passata, wyjazd Ostrowo 11–20.07 — już po fakcie). Do przejrzenia przy najbliższej okazji.
 
 ## Bieżący status
 
@@ -56,6 +58,7 @@ Ostatnia aktualizacja: 2026-06-30
 ## Pomysły na usprawnienia
 
 - Backlog luźnych pomysłów „jak podróżować lepiej" → `pomysly-usprawnienia.md` (auto / spanie / jedzenie / logistyka / kasa)
+- **🏕️ System biwakowy (02.08.2026)** — po kajakach + nocy na polu namiotowym: plan ogarnięcia spania, kategoryzacji rzeczy i kolejności pakowania → `system-biwakowy.md`. Wnioski: dmuchaniec wypada (zjeżdżanie po skosie oparć), 4 boxy z etykietami + torba dobowa, stolik i krzesła składane OSTATNIE. **DECYZJA 02.08.2026: kupujemy box na dach ORAZ platformę na hak** (~1400–3100 zł). Podział: hak = ciężkie i brudne (koło zapasowe, woda, buty, mokry sprzęt), dach = lekkie i objętościowe (stolik, krzesła, pościel), bagażnik = codzienne. Koło zapasowe na hak → wnęka pod podłogą bagażnika wolna. Warunek: platforma **uchylna** (śpią w bagażniku) + powtórzona tablica i listwa świetlna. Do budżetu wypraw doliczyć **+10–25% paliwa** za box dachowy
 
 ## Pomysły na przyszłe wyprawy
 
@@ -84,6 +87,14 @@ Ostatnia aktualizacja: 2026-06-30
 
 - Koncept: Serbia → Durmitor → Adriatyk. Wraca do gry jak Terrano będzie ogarnięte
 - Pliki: `wyprawy/serbia-adriatyk-czerwiec-2026/` (trasa.md)
+
+## ⏰ Do przypomnienia na starcie następnej sesji
+
+- **[02.08.2026] Michał miał zmierzyć — zapytaj o to na dzień dobry:**
+  1. **Wartość S** z tabliczki znamionowej haka (nacisk pionowy, kg) → dobór platformy na hak
+  2. **Wymiar C** — wysokość od podłogi bagażnika do sufitu, przy złożonych oparciach (cm) → czy podniesiona podłoga ma sens
+  3. Przy okazji **A** (długość do klapy) i **B** (szerokość między nadkolami) → dobór materaca
+- Po otrzymaniu wymiarów: dobrać **konkretne modele** platformy na hak, boxa dachowego i materaca zamiast widełek. Kontekst: `system-biwakowy.md` sekcje 3c i 4
 
 ## Otwarte pytania
 
