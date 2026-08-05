@@ -61,6 +61,7 @@ Przy B6 ważyło się ryzyko silnika. **Przy B5.5 silnik schodzi na drugi plan �
 
 ## Powiązane pliki
 
+- `weryfikacja-silnika-przed-zakupem.md` — **protokół testów przed zakupem** (uszczelka, ślady przegrzania, turbina, co dają raporty VIN)
 - `zakup-passata-b7.md` — auto docelowe
 - `zakup-passat-b6-19tdi.md` — druga alternatywa (BXE/BKC, DPF, BlueMotion)
 - `auta/passat-b5.5/stan.md` — obecny egzemplarz, czeka na test spalin

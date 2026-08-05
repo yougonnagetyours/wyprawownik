@@ -88,6 +88,24 @@
 5. **Obserwacja wydechu i ubytków płynu** — biały słodkawy dym po rozgrzaniu, ubytek płynu między uruchomieniami. **0 zł, dni 2-3 obserwacji.**
 6. Wymiana korka zbiorniczka (~30 zł) — eliminacja najtańszej hipotezy
 
+**🔧 CO DALEJ, JEŚLI CO2 WYJDZIE POZYTYWNY (plan dla mechanika, 05.08.2026)**
+
+Pozytywny barwnik **zamyka temat korka i zapowietrzenia** — korek nie produkuje CO2. Od tego momentu pytanie brzmi nie "czy", tylko "gdzie". Kolejność od najtańszego rozstrzygnięcia:
+
+1. **Skala przedmuchu** — barwnik żółknie w 10 s czy po 2 min pompowania? Błyskawicznie = duży przedmuch, decyzja prosta. Powoli = wczesna faza, wchodzi kalkulacja dojeżdżamy vs naprawiamy
+2. **Leak-down cylinder po cylindrze, z obserwacją zbiorniczka** — ★ najważniejszy krok, dopomnieć się o niego:
+   - bąbelki przy **konkretnym** cylindrze → uszczelka albo pęknięta głowica przy tym cylindrze
+   - **wszystkie 4 szczelne, a barwnik żółknie → chłodnica EGR**, nie głowica. Różnica 600–1 500 zł zamiast 3–4 tys.
+3. **Endoskop przez otwory po świecach żarowych** — tanie i wymowne. Jeden tłok **nienaturalnie czysty, wymyty** przy normalnym nagarze na pozostałych = ten cylinder bierze płyn. Przy okazji ocena gładzi. Wiele warsztatów ma endoskop, ale sam nie zaproponuje — poprosić
+4. **Weryfikacja chłodnicy EGR** (jeśli krok 2 = wszystkie cylindry szczelne) — demontaż i próba ciśnieniowa poza autem albo wypięcie z obiegu płynu i powtórzenie barwnika
+5. **Próba ciśnieniowa przy pracującym silniku** — szybkie wybicie ponad wartość otwarcia korka potwierdza duży przedmuch
+6. **Olej: bagnet, korek wlewu, poziom** — czy problem jest już dwukierunkowy. Płyn w oleju przy 424 tys. km praktycznie kończy kalkulację opłacalności
+7. **Termostat i wentylator** — żeby po naprawie nie powtórzyło się to samo
+
+**⚠️ PUNKT STOP — ustalić z mechanikiem Z GÓRY:** jeśli dojdzie do zdjęcia głowicy, mechanik **przed zamówieniem jakichkolwiek części** ocenia płaszczyznę głowicy i stan bloku i dzwoni z werdyktem. Wtedy jest jeszcze wybór: wycofać się i sprzedać auto rozebrane zamiast dołożyć do głowicy i dopiero potem odkryć pęknięty blok. Dokładnie w tym miejscu autor filmu Petrolhead Number One przepalił 8 tys. zł (`weryfikacja-silnika-przed-zakupem.md`).
+
+**Uwaga o korku:** w B5.5 chłodnica nie ma własnego korka — cały układ zamyka **korek zbiorniczka wyrównawczego** i to w nim siedzą oba zawory (nadciśnieniowy + podciśnieniowy). Kupując nowy: sprawdzić wartość wybitą na wierzchu obecnego (zwykle **1,4 bar**) i wziąć z tym samym oznaczeniem.
+
 **Scenariusze kosztowe naprawy (PL 2026, 1.9 TDI Passat B5.5, +/- 30%):**
 
 | Scenariusz | Co obejmuje | Koszt |

@@ -71,6 +71,7 @@ Jeśli ta opcja wejdzie w grę, warto rozważyć **2.0 TDI CR (CBAB) w schyłkow
 - [ ] ELV — czy kluczyk/start działa bez zacinania
 - [ ] Plenum + wykładzina pod fotelami (lekcja z B5.5)
 - [ ] Rdza: progi, błotniki tylne, podłoga bagażnika
+- [ ] **Testy silnika** — pełny protokół w `weryfikacja-silnika-przed-zakupem.md` (spaliny w płynie, ciśnienie układu, ślady przegrzania)
 
 ## Źródła
 
