@@ -5,3 +5,6 @@
 - [Droga, nie sprzęt](feedback_droga_nie_sprzet.md) — minimalizm, używać tego co już jest, mechanika przed stylingiem; nie pchać upgradów ani estetyki sprzętu
 - [Nowe info → do pliku projektu](feedback_nowe_info_do_pliku.md) — po researchu/ustaleniu od razu dopisuj do właściwego pliku albo wprost proponuj; nie zostawiaj w czacie
 - [Michał pracuje w dzień](feedback_michal_pracuje_w_dzien.md) — nie planuj zadań na środek dnia roboczego; realne okna to wieczory i weekendy
+- [Tylko 4motion](project_tylko_4motion.md) — AWD to warunek konieczny przy zakupie auta, FWD nie bierzemy nawet przy lepszym przebiegu
+- [Kryteria auta](project_kryteria_auta.md) — 4motion + Comfortline lub wyżej (nie Trendline) + nie białe; filtrować PRZED budowaniem tabeli kandydatów
+- [ZAWSZE Chrome do ogłoszeń](feedback_zawsze_chrome_do_ogloszen.md) — research Otomoto/OLX/stron przez wtyczkę Claude in Chrome, nigdy WebFetch (zmyśla dane)

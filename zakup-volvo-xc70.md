@@ -182,7 +182,11 @@ Ale ryzyko automatu **kupuje się razem z autem**: skrzynia z udokumentowaną wy
 
 **REKOMENDACJA: Passat B7.** Osiem lat młodsze auto za te same pieniądze to różnica między autem, które ma awarie przed sobą, a takim, które ma je w trakcie. Do tego manual bez polowania, tańsze części, dwa litry mniej na setkę.
 
-⚠️ **Zastrzeżenie Michała (trafne, do zweryfikowania):** B7 jest młodszy, ale też nierzadko droższy. Pytanie otwarte: **co realnie dostaje się za 20–25 tys. w B7?** Prawdopodobnie 2010–2011, 300+ tys. km, 140 KM, FWD — bo 4motion winduje cenę. Jeśli tak, przewaga wieku częściowo się rozmywa. **Do rozstrzygnięcia researchem ogłoszeń B7 — następna sesja.**
+⚠️ **Zastrzeżenie Michała — ROZSTRZYGNIĘTE 06.08.2026 researchem ogłoszeń.** Pytanie brzmiało: co realnie dostaje się za 20–25 tys. w B7? Hipoteza: 2010–2011, 300+ tys. km, 140 KM, FWD, bo 4motion winduje cenę.
+
+**Odpowiedź: hipoteza obalona w dwóch kluczowych punktach.** Na 105 ofert B7 kombi 2.0 TDI manual **45 mieści się do 25 tys.** Mediana przebiegu ~260 tys. km (nie 300+), a **4 sztuki z 4motion siedzą w 23–25 tys.** Czyli za górną półkę budżetu kupuje się docelową specyfikację (4motion + Highline + manual), nie resztki. Pełna tabela kandydatów: `zakup-passata-b7.md` sekcja "Rynek — research ogłoszeń 06.08.2026".
+
+**Skutek dla porównania:** wiersz "AWD — 4motion rzadki i drogi" w tabeli wyżej jest **nieaktualny**. 4motion jest rzadki (4 na 45), ale nie droższy niż budżet. Przewaga XC70 kurczy się do samego prześwitu, a ten domyka lift. **Rekomendacja Passat B7 utrzymana, teraz twardo.**
 
 XC70 nie skreślone: oferta A z Bochni (18 tys., 290 tys. km, godzina drogi) warta obejrzenia na żywo niezależnie od powyższego.
 
