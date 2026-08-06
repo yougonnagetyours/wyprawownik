@@ -21,7 +21,8 @@ Ostatnia aktualizacja: 2026-08-02
 - **Pelješac maj 2026 — ZAKOŃCZONA** (01-09.05.2026). Pojechali Passatem B7 taty Kingi (Kia padła dzień przed — cewka). Oświadczyn nie było (kasy na pierścionek brakło)
 - **🔍 05.08.2026 — protokół weryfikacji silnika przed zakupem:** nowy plik `weryfikacja-silnika-przed-zakupem.md` (po analizie filmu Petrolhead Number One o B5 za 18,6 tys. zł w rok). Zawiera: co i kiedy sprawdzać (na zimnym / po rozgrzaniu / na jeździe), tabelę testów z rozróżnieniem zimny vs rozgrzany, ściągę diagnostyczną (powietrze w układzie, "pszt", rosnący poziom oleju), co dają i czego NIE dają raporty VIN. **Kluczowe: żaden raport po VIN nie pokaże przegrzanego silnika** — działa tylko fizyczna diagnostyka. Warunek nr 1 przy oględzinach: "proszę nie odpalać auta przed moim przyjściem"
 - **🔧 05.08.2026 — plan dla mechanika, jeśli CO2 na B5.5 wyjdzie pozytywny:** dopisany do `auta/passat-b5.5/stan.md`. Sedno: **leak-down cylinder po cylindrze z podglądem zbiorniczka** rozstrzyga głowica (3–4 tys.) vs chłodnica EGR (600–1500 zł) + **punkt stop przed zamówieniem części** po zdjęciu głowicy
-- Pliki aut: `zakup-passata-b7.md` (priorytet — research + zakup), `auta/passat-b5.5/stan.md` (B5.5 — wycofywany), `auta/terrano/stan.md` (Terrano — do sprzedaży), `weryfikacja-silnika-przed-zakupem.md` (protokół oględzin — wspólny dla wszystkich opcji)
+- **🔍 06.08.2026 — XC70 I jako alternatywa dla B7: zresearchowane, rekomendacja = zostać przy B7.** Nowy plik `zakup-volvo-xc70.md`. Sedno: **manual w budżecie praktycznie nie istnieje** (19 ofert w PL, 18 automatów), automat AW55-50SN to ryzyko 5–10 tys. przy remoncie. Najlepsza oferta XC70: **Bochnia, 2006, 185 KM, 290 tys. km, 18 000 zł, ~120 km od BB — warta obejrzenia**. Import z Niemiec (manual, 2006, 260 tys. km, 3 500 € ≈ 21 tys. całościowo) rozważony i **odrzucony** — 1000 km po to, żeby dopiero zobaczyć auto; laweta zabija ekonomię i oznacza zakup w ciemno. **Alerty ustawione na Otomoto i OLX** (XC70 diesel, do 28 tys. zł, do 350 tys. km)
+- Pliki aut: `zakup-passata-b7.md` (priorytet — research + zakup), `zakup-volvo-xc70.md` (alternatywa — zresearchowana, w rezerwie), `auta/passat-b5.5/stan.md` (B5.5 — wycofywany), `auta/terrano/stan.md` (Terrano — do sprzedaży), `weryfikacja-silnika-przed-zakupem.md` (protokół oględzin — wspólny dla wszystkich opcji)
 
 ## Wyprawa: Balkany Maj 2026
 
@@ -91,6 +92,9 @@ Ostatnia aktualizacja: 2026-08-02
 - Pliki: `wyprawy/serbia-adriatyk-czerwiec-2026/` (trasa.md)
 
 ## ⏰ Do przypomnienia na starcie następnej sesji
+
+- **[06.08.2026] ZADANIE NA NASTĘPNĄ SESJĘ: research ogłoszeń Passata B7** — przelot po Otomoto + OLX (+ ew. mobile.de), budżet **20–25 tys. zł**, tabela kandydatów jak w `zakup-volvo-xc70.md` sekcja 4. **Kluczowe pytanie do rozstrzygnięcia: co realnie dostaje się za 20–25 tys. w B7?** Hipoteza: 2010–2011, 300+ tys. km, 140 KM, FWD (4motion winduje cenę). Jeśli się potwierdzi, przewaga wieku B7 nad XC70 częściowo się rozmywa. Wynik → `zakup-passata-b7.md` + aktualizacja porównania w `zakup-volvo-xc70.md` sekcja 8c
+- **[06.08.2026] Zapytać, czy dzwonił do Bochni** (XC70 18 tys., 290 tys. km, ~120 km od BB). Pytanie rozstrzygające: **kiedy ostatnia wymiana oleju w automacie**
 
 - **[02.08.2026] Michał miał zmierzyć — zapytaj o to na dzień dobry:**
   1. **Wartość S** z tabliczki znamionowej haka (nacisk pionowy, kg) → dobór platformy na hak
