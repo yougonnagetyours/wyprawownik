@@ -217,15 +217,56 @@ Zasada: **ciężkie i brudne na hak, lekkie i objętościowe na dach, potrzebne 
 - **Zdejmuj box po sezonie.** Jeżdżenie z pustym boxem cały rok to czysta strata paliwa. Potrzebne miejsce w garażu/piwnicy na przechowanie.
 - **Kolejność zakupu, jeśli rozkładasz w czasie:** najpierw platforma (przechodzi na B7 bez zmian, spina koło zapasowe i wolną wnękę), potem belki + box używany.
 
-### 4.5 Koszt całości
+### 4.5 Konkretne modele — research 02.08.2026
+
+Rynek dzieli się na trzy półki. Ceny orientacyjne, sierpień 2026.
+
+**Półka 1: stalowy kosz/platforma transportowa — TO JEST TWOJA PÓŁKA (600–1200 zł)**
+
+Otwarta rama ze stalowych prętów, uchylna, montaż na kulę 50 mm. Nośność ramy 120–150 kg (patrz uwaga niżej).
+- [Bagażnik-platforma transportowa, kosz bagażowy, do 120 kg — Home Garden and More](https://hgandmore.pl/pl/p/Bagaznik-montowany-na-hak-holowniczy-Platforma-transportowa-Kosz-bagazowy-Obciazenie-do-120-kg./1942)
+- [Platforma do transportu na hak, udźwig 150 kg, uchylna — Allegro, ~1190 zł](https://allegro.pl/produkt/platforma-do-transportu-montowana-na-hak-udzwig-150kg-6e2a76c4-d5b9-428d-a8fc-d7e668b88924)
+
+**Dlaczego akurat to dla was:** wozicie koło zapasowe, kanistry, mokre i piaszczyste rzeczy po kajakach, buty. Otwarty stalowy kosz się tym nie przejmuje — spłukujesz wężem i tyle. Zamknięty box za 3–6 tys. do tej roboty to marnowanie pieniędzy.
+
+**Czego brakuje:** te platformy zwykle **nie mają oświetlenia ani ramki tablicy**. Dokupujesz osobno:
+- [Listwa świetlna 7-pin z ramką na tablicę — HAK-HOL](https://hak-hol.pl/listwy-swietlne-do-bagaznikow-rowerowych-i-przyczep/listwa-7p036-amos-2010002) — **~70–150 zł**. Wersja 7-pin obsługuje pozycyjne, kierunkowskazy, stop i podświetlenie tablicy; 13-pin dokłada cofanie i przeciwmgłowe. **B5.5 ma najpewniej gniazdo 7-pin** — sprawdź, zanim kupisz.
+- Powtórzona tablica rejestracyjna — wniosek w wydziale komunikacji, ~50–80 zł.
+
+**Półka 2: Thule EasyBase 949 — system modułowy (~880–960 zł za samą bazę)**
+
+- [Thule EasyBase 949 — bagazniki-mobilbox, 961 zł](https://www.bagazniki-mobilbox.pl/produkty/kategoria/platformy-i-boxy-na-hak,6080) / [CentrumRowerowe, od ~880 zł](https://www.centrumrowerowe.pl/platforma-samochodowa-thule-easybase-949-pd3633/)
+- Składana baza, na którą dokładasz: **EasyBasket** (stalowy kosz), **EasyBag** (wodoodporny worek), **BackUp** (twardy box) albo uchwyty rowerowe.
+- **Nośność: źródła podają 45 albo 60 kg** — rozbieżność, do potwierdzenia u sprzedawcy przed zakupem.
+- Plus: jakość i modułowość. Minus: sama baza kosztuje tyle, co cała stalowa platforma, a akcesoria dokładają kolejne setki.
+
+**Półka 3: zamknięte boxy na hak — na razie odpuść (1900–6000 zł)**
+
+- [Box Aguri Active 340 — 1915 zł](https://www.bagazniki-mobilbox.pl/produkty/kategoria/platformy-i-boxy-na-hak,6080)
+- [Thule BackSpace XT, 300 l, 50 kg — ~3000 zł](https://www.rowertour.com/p/199296/box-na-hak-thule-backspace-xt) — **uwaga: pasuje wyłącznie do platformy Thule VeloSpace XT**, sam nie działa
+- [Towbox V3 / EVO LED — ~5500–6000 zł](https://www.interpack.eu/product-pol-9127-Towbox-V3-bialy-LED-Edition-bagaznik-box-montowany-na-hak.html), 305–400 l, waga własna 32 kg, ładowność 50 kg, uchylny, pełne LED
+- Thule Arcos L z platformą — 5675 zł
+
+Ładne, ale to jest cena boxa dachowego razy trzy, a wy i tak macie box na dachu na rzeczy czyste. Na koło zapasowe i kanistry szkoda.
+
+### 4.6 Uwaga, która ratuje przed błędem
+
+**„Nośność 150 kg" na platformie NIE znaczy, że możesz załadować 150 kg.** To wytrzymałość samej ramy. Twój realny limit to **wartość S z tabliczki haka** (dla Passata typowo 75–80 kg) **minus waga platformy** (stalowa: 15–25 kg). Zostaje ci **~50–60 kg** i to jest liczba, którą się kierujesz. Koło zapasowe ~15–20 kg + kanister wody 10 l = 10 kg + buty i mokry sprzęt — mieści się spokojnie, ale nie doładowuj „bo wejdzie".
+
+Druga rzecz: **kula zajęta = nie pociągniesz jednocześnie przyczepki.** Oczywiste, ale warto mieć z tyłu głowy.
+
+Trzecia: sprawdź, czy platforma ma **homologację/TÜV i tabliczkę znamionową** — bez tego jest problem na kontroli za granicą, a jedziecie na Bałkany.
+
+### 4.7 Koszt całości
 
 | Element | Koszt |
 |---|---|
-| Platforma na hak, uchylna, z homologacją + listwa świetlna | 800–1800 zł |
+| Stalowa platforma na hak, uchylna, 120–150 kg ramy | 600–1200 zł |
+| Listwa świetlna 7-pin z ramką na tablicę | 70–150 zł |
 | Powtórzona tablica rejestracyjna (wniosek w wydziale komunikacji) | ~50–80 zł |
 | Belki na relingi B5.5 (używane) | 150–300 zł |
 | Box dachowy ~400 l (używany) | 400–900 zł |
-| **Razem** | **~1400–3100 zł** |
+| **Razem** | **~1270–2630 zł** |
 
 Plus system biwakowy z sekcji 6 (~700–1000 zł).
 
