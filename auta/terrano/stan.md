@@ -1,6 +1,18 @@
 # Nissan Terrano 2
 
-## 🔴 STATUS 22.05.2026 — ROZWAŻANA SPRZEDAŻ
+## ✅ SPRZEDANE — 10.08.2026
+
+Auto sprzedane. Kasa ze sprzedaży zasila budżet zakupu następnego auta. ⚠️ **AKTUALIZACJA 10.08 wieczorem: kierunek „15 000 zł na B5.5 4motion" został tego samego dnia ODWOŁANY** — wracamy do **B7 za ~27 tys.** (`zakup-passata-b7.md`), zbieramy dalej. Aktualny stan zawsze rozstrzyga `active-state.md`.
+
+⚠️ Do uzupełnienia: **za ile poszło** i **komu** (kumpel za 15k czy rynek).
+
+Skutek dla floty: **jedyne auto na chodzie to Passat B5.5** — ten z niewyjaśnioną sprawą uszczelki. Zakup następnego auta przestaje być planem, staje się potrzebą.
+
+Sekcje niżej to historia sprzed sprzedaży — zostawione dla kontekstu.
+
+---
+
+## 🔴 STATUS 22.05.2026 — ROZWAŻANA SPRZEDAŻ (nieaktualne, auto sprzedane)
 
 Michał + Kinga rozmawiali po przeglądzie Terrano (21.05). Wnioski:
 

@@ -60,7 +60,7 @@
 - **Płyn w zbiorniczku ciemnawy** → mechanik czyta to jako "mocno spalinowy". ALE: ciemny płyn może być też po prostu stary/zanieczyszczony, nie musi = uszczelka
 - Mechanik: "skoro w takie upały się nie grzał, to raczej powinno być OK" — zgodne z obserwacją z 28.06
 - **Płynu jest za dużo / może się gdzieś przelewać** wg mechanika. Michał: na ZIMNYM jest na MINIMUM. Tej sprzeczności mechanik nie wytłumaczył → **to jest dokładnie do rozstrzygnięcia miernikiem**
-- **Plan:** Michał przyjeżdża umówionego dnia do warsztatu → inspekcja miernikiem (test ciśnienia / CO2). Werdykt uszczelki PRZED jakąkolwiek naprawą — bez zmian w planie
+- **Plan:** inspekcja miernikiem (test ciśnienia / CO2). Werdykt uszczelki PRZED jakąkolwiek naprawą — bez zmian w planie. ⚠️ **SPROSTOWANIE 10.08.2026: żaden konkretny termin NIGDY nie był umówiony.** Wcześniejszy zapis „Michał przyjeżdża umówionego dnia" był błędny. Stan faktyczny: **temat wisi od 30.06 i nikt go nie ruszył** — pierwszy krok to zadzwonić i ustalić datę
 - **"Moduł od rozbiegania się auta" po lewej stronie bloku** — to anti-shudder valve / przepustnica ssania (klapa dławiąca, blisko EGR). Mechanik kazał poszukać w necie, chce wymienić — ale DOPIERO po werdykcie uszczelki
 - **EGR + przewody** — pewnie zasyfione, do przeczyszczenia. Efekt: więcej mocy, **możliwe że turbo przestanie odcinać** (spina się z istniejącym objawem utraty mocy przy przyspieszaniu!). Też po werdykcie uszczelki
 - **Kolejność wg mechanika = nasza:** 1) test uszczelki miernikiem; 2) jeśli głowica OK → tanie rzeczy (EGR/przepustnica/przewody, kilkaset zł, odzysk mocy); 3) drogie (głowica) tylko wg tabeli opłacalności — backupowi nie wkładamy 4k+
@@ -81,7 +81,7 @@
 
 **Pełny pakiet diagnostyczny u mechanika (jeden pobyt, ~150-300 zł):**
 
-1. **Test CO2 w płynie chłodniczym** — zrobiony porządnie (silnik rozgrzany, pod obciążeniem, ewentualnie powtórzony). ~30-50 zł
+1. **Test CO2 w płynie chłodniczym** — ~30-50 zł. ⚠️ **Auto przyjeżdża do warsztatu ZIMNE.** Korek zbiorniczka otwiera się wyłącznie na zimnym (gorący układ = poparzenie + utrata płynu), tester wchodzi na szyjkę i **dopiero potem silnik odpala**. Odczyt idzie w trakcie dochodzenia do temperatury roboczej i na przegazowaniu — nie na aucie już rozgrzanym, przyjechanym z trasy. Ewentualnie powtórzyć
 2. **Test ciśnienia układu chłodzenia** — pompka + manometr, 1.4 bar, czekać 15-30 min. Jeśli spada bez widocznego wycieku na zewnątrz → leci do cylindra. ~50-100 zł
 3. **Test sprężania / leak-down** — wtłaczanie powietrza do cylindra przy zaworach zamkniętych, słuchanie gdzie ucieka. Jak słychać w zbiorniczku/chłodnicy → uszczelka 100%. ~100-150 zł
 4. **Sprawdzenie oleju** — emulsja "kawa z mlekiem" pod korkiem wlewu / na bagnecie. Emulsja = woda w oleju. **0 zł, do zrobienia samemu od razu.**
