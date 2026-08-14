@@ -7,7 +7,7 @@ metadata:
   originSessionId: 333d25c9-f1fc-47df-94e3-3bc9a1be6220
 ---
 
-**Terrano sprzedane 10.08.2026** (za ile i komu — nieuzupełnione). Jedyne auto na chodzie: **Passat B5.5** (1.9 TDI 101 KM, 2004, ~424 tys. km, prezent od taty Kingi) — z niezdiagnozowaną sprawą uszczelki pod głowicą. **Auto docelowe: Passat B7 kombi 2.0 TDI CR 4motion**, do kupienia — patrz [[project-kryteria-auta]] i [[project-tygodniowy-skan-rynku]].
+**Terrano sprzedane 10.08.2026 za 15 000 zł.** Jedyne auto na chodzie: **Passat B5.5** (1.9 TDI 101 KM, 2004, ~424 tys. km, prezent od taty Kingi) — z niezdiagnozowaną sprawą uszczelki pod głowicą. **Auto docelowe: Passat B7 kombi 2.0 TDI CR 4motion**, do kupienia — patrz [[project-kryteria-auta]] i [[project-tygodniowy-skan-rynku]].
 
 **Why:** Bohaterem historii Michała jest podróżowanie, nie sprzęt — dlatego Terrano (czysty sentyment, kilkanaście tys. w naprawach) poszło. Ale B5.5 przy 424 tys. km i niewyjaśnionej uszczelce nie jest autem na Bałkany. Kryterium, które rozstrzygnęło kierunek 10.08.2026: **„chcę tym autem trochę POJEŹDZIĆ, jak je kupię"** — nie kupujemy kolejnego projektu diagnostycznego.
 

@@ -51,8 +51,8 @@ Wszystkie pozostałe (zrealizowane, niezrealizowane, koncepty) → [`wyprawy/IND
 
 ## ❓ Otwarte pytania (do Michała)
 
-- **Za ile i komu poszło Terrano?** Dziura w `auta/terrano/stan.md` — bez tego nie wiadomo, ile realnie jest w kieszeni na B7
+- **Ile realnie masz na dziś na auto?** Terrano dało **15 000 zł** (potwierdzone 14.08). Toruń kosztuje 23 000 → **brakuje ~8 000 + rezerwa na naprawy**. To rozstrzyga, czy dzwonimy żeby kupić, czy żeby negocjować i czekać
+- **Komu poszło Terrano?** (kumpel czy rynek — drobiazg do domknięcia `auta/terrano/stan.md`)
 - **Chevrolet Aveo — sprzedany?** Ostatni ślad: 30.06, kupiec marudził o klimę. Od tego czasu cisza
 - **Ostrowo 11–20.07 — pojechaliście?** Jak wyszedł budżet vs. szacowane 5 360 zł
 - **Bałkany X.2026 — nadal aktualne?** Bez auta plan wisi; jaki dokładnie termin
-- **Ile realnie odłożone na dziś?** Determinuje, czy Toruń 23 000 zostawia rezerwę na naprawy

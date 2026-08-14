@@ -4,7 +4,9 @@
 
 Auto sprzedane. Kasa ze sprzedaży zasila budżet zakupu następnego auta. ⚠️ **AKTUALIZACJA 10.08 wieczorem: kierunek „15 000 zł na B5.5 4motion" został tego samego dnia ODWOŁANY** — wracamy do **B7 za ~27 tys.** (`zakup-passata-b7.md`), zbieramy dalej. Aktualny stan zawsze rozstrzyga `active-state.md`.
 
-⚠️ Do uzupełnienia: **za ile poszło** i **komu** (kumpel za 15k czy rynek).
+**Cena sprzedaży: 15 000 zł** (potwierdzone przez Michała 14.08.2026). To dolna z rozważanych opcji — wariant „kumpel za 15k", nie rynek (17,9–18,5 tys.). ⚠️ Do uzupełnienia: **komu** poszło.
+
+**Bilans:** ~6 000 zł włożone w marcu 2026 (zawieszenie, oleje, drobnica, pompa wtryskowa) + 2 000 zł opony AT = ~8 000 zł w ostatnim roku. Sprzedane za 15 000 zł.
 
 Skutek dla floty: **jedyne auto na chodzie to Passat B5.5** — ten z niewyjaśnioną sprawą uszczelki. Zakup następnego auta przestaje być planem, staje się potrzebą.
 

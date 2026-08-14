@@ -36,7 +36,7 @@ Odrzucone z FB: Bestwina 23 000 (2014, 15 km od domu, ale **automat i 368 tys. k
 
 ### [10.08.2026] Terrano sprzedane
 Skutek: jedyne auto na chodzie to Passat B5.5 (ten z niewyjaśnioną uszczelką) → zakup następnego auta przestał być planem, stał się potrzebą. Kolejność z 30.06 („Terrano wystawiamy dopiero PO werdykcie Passata") okazała się nieaktualna — stało się odwrotnie.
-⚠️ Nadal nieuzupełnione: **za ile poszło i komu**. Plik: `auta/terrano/stan.md`.
+**Cena: 15 000 zł** (potwierdzone 14.08.2026) — dolna z rozważanych opcji, wariant „kumpel za 15k" zamiast rynku (17,9–18,5 tys.). W ostatnim roku poszło w to auto ~8 000 zł (zawieszenie, oleje, pompa wtryskowa, opony AT). Plik: `auta/terrano/stan.md`.
 
 ### [10.08.2026] Zejście na B5.5 4motion — i odwołanie tego samego dnia
 Rano: realny budżet 15 000 zł → świadome zejście o półkę na **Passata B5.5 FL 4motion** (argument: 4motion na Torsenie zamiast Haldeksa — bez serwisu oleju w sprzęgle, bez pompy Haldeksa). Research zrobiony: `archiwum/zakup-passat-b5-4motion.md`.
