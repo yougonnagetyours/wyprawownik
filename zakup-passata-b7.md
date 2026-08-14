@@ -409,6 +409,155 @@ Tak, skrzynia to punkt nr 1, ale nie jedyny. **Regeneracja skrzyni 09.2025 znacz
 
 Protokół oględzin na miejscu: `weryfikacja-silnika-przed-zakupem.md`
 
+## 📡 Protokół cotygodniowego skanu rynku (ustalony 14.08.2026)
+
+Michał prosi o research raz na tydzień, bo alerty na portalach są nieszczelne. Poniżej stały przepis — do powtarzania bez pytania o kryteria.
+
+### Filtry (stałe)
+
+| Parametr | Wartość |
+|---|---|
+| Model / generacja | Passat **B7 kombi** (2010–2015) |
+| Silnik | 2.0 TDI **Common Rail** — 140 KM (CFFB/CFGB) lub 170 KM (CLLA) |
+| Skrzynia | **manual** (02Q) — DSG odpada |
+| Napęd | **4motion** — warunek konieczny |
+| Wersja | Comfortline lub wyżej (Business/Highline OK) — **nie Trendline** |
+| Kolor | **nie białe, nie krzykliwe** — odpadają czerwone/jaskrawe (rozszerzone 14.08.2026 po Zabierzowie). Preferowane stonowane: czarny, grafit, granat, srebrny, beż |
+| Cena | do 27 tys. (twardy cel 25, luz do negocjacji) |
+
+### Gdzie szukać (kolejność)
+
+1. **Otomoto** — pula główna. **Nie używać filtra „4x4"** (kłamie). Zamiast tego szukać frazy `4motion` w tytule/opisie:
+   `otomoto.pl/osobowe/volkswagen/passat/seg-combi/od-2010/q-4motion` + filtry: diesel, manual, cena do 27 000, rok do 2015, sortowanie „Najnowsze"
+2. **OLX** — ma oferty OLX-only (tam siedział Płock i Zakliczyn). Query `q-passat-4motion`, kategoria Volkswagen, rok 2010–2015, cena do 28 tys.
+3. **FB Marketplace** — prywatne, najsłabiej ogarnięte, przez wtyczkę Chrome
+4. **sprzedajemy.pl** — marginalny, tylko gdy 1–3 nic nie dało
+
+### Zasady weryfikacji (bez tego research jest bezwartościowy)
+
+- **Zawsze wchodzić w ogłoszenie i czytać pole „Napęd"** — tytuł „4Motion" nie znaczy nic (przykład: Kamiennik 24 900 ma w tytule 4Motion, w polu „Na przednie koła")
+- **Sprawdzać skrzynię w polu, nie w tytule** — DSG bywa przemilczane (przykład: Wilków „4 motion 2.0 TDI 170KM", w środku automat)
+- Uważać na „BlueMotion" ≠ „4MOTION" na klapie
+- Cofnąć do rocznika: 2010 może być jeszcze **B6** (PD, choroba wałków) — sprawdzać pole „Generacja"
+- Research przez **Chrome (wtyczka)**, nigdy WebFetch
+- 🔄 **Na starcie każdego skanu: otworzyć zapisane linki znanych kandydatów i sprawdzić, czy żyją i po jakiej cenie.** Nie zakładać, że wpadną w filtr — oferta, która **podrożała**, wypada ponad limit ceny (tak zniknął Płock z widoku 14.08). Wygasłe od razu oznaczać ❌ w pliku, żeby nie wracały jako „kandydaci"
+- 🔗 **KAŻDA pozycja musi mieć klikalny link** — w podsumowaniu na czacie i w pliku, także oferty odrzucone i te, które tylko zmieniły cenę. Bez linku Michał musi odszukiwać ogłoszenie po nazwie miejscowości, czyli powtarzać robotę. Jeśli linku nie ma → napisać wprost „brak linku", nie przemilczeć
+
+---
+
+## 🔍 Skan rynku 14.08.2026 (tygodniowy #1)
+
+Otomoto: `q-4motion` + kombi + diesel + manual + do 27 tys. + 2010–2015 → **6 ogłoszeń**. OLX: `q-passat-4motion`, 2010–2015, do 28 tys. → 92 wyniki (luźne dopasowanie), z tego realnych B7 4motion manual: 2 nowe.
+
+### ❌ ODRZUCONY 14.08.2026 — Zabierzów (Małopolskie), 19 000 zł
+
+**Powód: kolor.** Michał: „czerwony, zbyt krzykliwy". Auto ma jeździć na wyprawy i pod dziki nocleg — jaskrawy lakier odpada. **Skutek: kryterium koloru rozszerzone z „nie białe" na „nie białe, nie krzykliwe"** (patrz tabela filtrów wyżej). Reszta parametrów była mocna (4x4 potwierdzone, Comfortline, Webasto, hak, nowa turbina, 19 tys. = jedyna oferta z rezerwą w budżecie), ale to nie przebija codziennego patrzenia na auto przez lata.
+
+<details>
+<summary>Pełne dane odrzuconego Zabierzowa (zachowane na wypadek zmiany zdania)</summary>
+
+### Zabierzów (Małopolskie), 19 000 zł
+
+🔗 [Otomoto — volkswagen-passat-ID6IcoDY](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IcoDY.html) (ID ogłoszenia: 6149910446) · dubluje się na OLX jako „Volkswagen Passat 4MOTION 4x4 2013 rok" · wystawione **13.08.2026 12:15** — świeże
+
+- **2013, B7 kombi, 2.0 TDI CR 140 KM, manual, Napęd: 4x4 (potwierdzone w polu)** — komplet twardych kryteriów ✅
+- Wersja **Comfortline** (BlueMotion Technology) ✅, kolor **czerwony** ✅ (nie białe)
+- **298 255 km**, prywatny sprzedawca, ~80 km od BB (powiat krakowski)
+- Wyposażenie: **Webasto** (ogrzewanie postojowe — realny zysk przy spaniu w aucie), **hak**, tempomat, czujniki parkowania tył, klima
+- Sprzedający pisze: **„NOWA TURBINA"**, ważne OC do 08.2027
+- ⚠️ **Deklarowane uszkodzenia: lewy tylny błotnik + otarty tylny zderzak** (sprzedający pokazuje na zdjęciach — plus za uczciwość, minus za blachę)
+- ⚠️ **298 tys. km** — najwyższy przebieg z całej krótkiej listy
+- 💰 **19 000 zł zostawia ~6–8 tys. rezerwy** w budżecie — jedyna oferta, przy której rezerwa na naprawy w ogóle istnieje
+
+**Pytania na telefon:** co dokładnie z turbiną (kiedy, jaka, faktura?) · czemu turbina padła przy 298 tys. — co ją zabiło · historia oleju (zabierak pompy!) · dwumasa i sprzęgło · olej w Haldeksie · DPF · zakres uszkodzenia błotnika (czy to blacharka czy tylko lakier) · Webasto działa?
+
+</details>
+
+### ⭐ NOWY NR 1 (po odrzuceniu Zabierzowa): Zakliczyn / Siepraw (Małopolskie), 26 800 zł
+
+🔗 [OLX — volkswagen-passat-b7-4motion-CID5-ID1bLAFv](https://www.olx.pl/d/oferta/volkswagen-passat-b7-4motion-CID5-ID1bLAFv.html) · dodane **13.08.2026** · **oferta OLX-only**
+
+- **2011, B7 kombi, 2.0 TDI 140 KM, manual, Napęd: 4x4 (stały) w polu** ✅
+- **245 500 km** — o 53 tys. mniej niż Zabierzów
+- **Kupiony w polskim salonie**, przeglądy na bieżąco, prywatny, VIN podany w ogłoszeniu (WVWZZZ3CZBE364301)
+- ~100 km od BB
+- ⚠️ **Opis to jedno zdanie** — zero konkretów, wersja nieznana (Comfortline czy Trendline?), kolor „Inny"
+- ⚠️ **26 800 = praktycznie cały budżet**, zero rezerwy — ale „do negocjacji"
+
+**Pytania na telefon:** jaka wersja (Comfortline/Trendline — kryterium!) · historia oleju · dwumasa/sprzęgło · Haldex · DPF · ile zejdzie z ceny
+
+#### 🔗 To samo auto wisi na FB Marketplace — i tam mówi więcej
+
+[FB Marketplace, ogłoszenie 1015405607924995](https://www.facebook.com/marketplace/item/1015405607924995/) — „2011 Volkswagen volkswagen+passat 4+motion+", 26 800 zł, opublikowane **6 dni temu** (na OLX dopiero 13.08 → **realnie stoi dłużej, niż sugeruje OLX**).
+
+Ten sam samochód (2011, 245 tys. km, manual, diesel, polski salon, ten sam numer telefonu **510-675-024** — na OLX zamaskowany jako 51\*\*\*\*\*\*\*24). Ale FB dorzuca trzy rzeczy, których na OLX nie ma:
+
+- ✅ **Kolor: Charcoal (grafit)** — dane z formularza FB. OLX podawał tylko „Inny kolor". **Spełnia nowe kryterium koloru**
+- ❓ **Hak — NIEPOTWIERDZONY.** W opisie go nie ma (opis to jedno zdanie, patrz niżej). Widać na zdjęciu od tyłu element pod zderzakiem wyglądający na kulę — **to mój odczyt ze zdjęcia, nie deklaracja sprzedającego. Do potwierdzenia telefonicznie.** (Sprostowanie 14.08 — wcześniej podałem hak jako fakt, Michał słusznie zwrócił uwagę, że nie ma go w opisie)
+- ✅ **Zdjęcia otwartego bagażnika** z roletą — przydatne pod kątem spania w aucie
+- 📍 **Lokalizacja: gmina Siepraw, powiat myślenicki** — patrz niżej
+
+**Pełny opis sprzedającego (identyczny na obu portalach):** „Sprzedam Volkswagen Passat B7 4x4 kombi przebieg 245 000, zkupiony w Polskim salonie, kontakt 510 675 024". **Tyle.** Zero historii serwisowej, zero wersji wyposażenia — wszystko trzeba wyciągnąć przez telefon.
+
+#### 📍 Zakliczyn czy Siepraw? — to jedno i to samo miejsce
+
+OLX pisze „Zakliczyn", FB pisze „Siepraw, powiat myślenicki". **Nie ma sprzeczności: Zakliczyn to wieś w gminie Siepraw, powiat myślenicki.** OLX podał wieś, FB gminę.
+
+⚠️ **Sprostowanie mojego wcześniejszego zapisu:** podałem „Zakliczyn ~100 km od BB", bo automatycznie założyłem **Zakliczyn nad Dunajcem** (miasto w powiecie tarnowskim) — to inna miejscowość. **Prawidłowa odległość: ~50–55 km od Bielska.** Czyli auto jest bliżej, niż pierwotnie napisałem, i to od początku była ta sama lokalizacja, a nie „dwie różne".
+
+**Lekcja:** nazwa miejscowości bez powiatu potrafi wskazywać na dwa różne miejsca oddalone o 60 km. **Przy każdym kandydacie notować powiat, nie samą nazwę wsi** — od tego zależy, czy jazda to godzina, czy pół dnia.
+
+### 🔎 FB Marketplace — reszta skanu (14.08.2026)
+
+Marketplace jest **najsłabszy z całej trójki**: nie ma filtra napędu ani generacji, a wyszukiwarka dopasowuje luźno — przy zapytaniu „passat 4motion" sypie felgami, oponami, Audi i Škodami. Sensowne wyniki dopiero przy query `passat 4motion kombi` + widełki ceny 15–28 tys.
+
+| Oferta | Cena | Link | Werdykt |
+|---|---|---|---|
+| **Bestwina (powiat bielski!)**, 2014, brązowy | 23 000 | [FB 1731756434742285](https://www.facebook.com/marketplace/item/1731756434742285/) | ❌ **Automat + 368 000 km.** Szkoda — to 15 km od domu |
+| Dębica gmina, 2011 „2.0tdi/dsg" | 27 800 | — | ❌ DSG |
+| Zamość, 2011 | 24 500 | — | ❌ Biały |
+
+**Wniosek o Marketplace:** przy tak wąskich kryteriach (4motion + manual + B7) FB daje głównie szum, ale **crosspost Zakliczyna/Sieprawia pokazał, że warto go robić** — nie po to, żeby znaleźć nowe auto, tylko żeby **dobrać dane do aut znanych z Otomoto/OLX**. Zostaje w protokole jako krok 3.
+
+### 📉 Zmiana w znanej ofercie: TORUŃ 25 000 → **23 000 zł**
+
+🔗 **brak bezpośredniego linku** — w tym skanie oferta była widoczna tylko na liście wyników, nie wchodziłem w nią. Do uzupełnienia przy następnym skanie. Znaleźć przez [wyszukiwanie Otomoto q-4motion](https://www.otomoto.pl/osobowe/volkswagen/passat/seg-combi/od-2010/q-4motion?search%5Bfilter_enum_fuel_type%5D=diesel&search%5Bfilter_enum_gearbox%5D=manual&search%5Bfilter_float_price%3Ato%5D=27000&search%5Bfilter_float_year%3Ato%5D=2015) — pozycja „Volkswagen Passat 2.0 TDI 4Motion Comfortline", Toruń.
+
+2011, 4Motion Comfortline, **268 564 km**, dane zweryfikowane (14/14), prywatny, podbite tydzień temu. **Cena spadła o 2 000 zł.** To oznacza: auto stoi od ponad tygodnia i sprzedający schodzi → jest pole do dalszej negocjacji. Nadal aktualne pytanie nr 1: **regeneracja skrzyni 09.2025 — czy przy okazji poszła dwumasa i sprzęgło.**
+
+### ❌ Odrzucone w tym skanie
+
+| Oferta | Cena | Link | Powód odrzucenia |
+|---|---|---|---|
+| **Kamiennik (Opolskie)**, 2012 Business Edition, 250 tys. | 24 900 | [Otomoto ID6HSgtw](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6HSgtw.html) | **W tytule „4Motion", w polu Napęd „Na przednie koła".** Opis też pisze „4x4" — sprzeczność. Klasyczna pułapka |
+| **Wilków (Dolnośląskie)**, 2012, 170 KM, **224 tys. km** | 27 500 | [OLX ID1bG4t4](https://www.olx.pl/d/oferta/vw-passat-b7-4-motion-2-0-tdi-170km-CID5-ID1bG4t4.html) | **Automat DSG.** Szkoda — najniższy przebieg, świeża dwumasa, rozrząd przy 213 tys., Webasto, bogata wersja. VIN: WVWZZZ3CZDE014436 |
+| **Sucha k. Olkusza**, 2011 Highline, 259 tys. | 23 900 | brak linku (znane z 06.08) | Pole Napęd = FWD. Podbite 2 dni temu, nadal wisi |
+| Krasnobród, B6 4motion 2010, 297 tys. | 14 500 | [OLX](https://www.olx.pl/motoryzacja/samochody/volkswagen/q-passat-4motion/) — poz. „Volkswagen Passat B6 4motion" | **B6**, nie B7 (silnik PD) |
+| Łapsze Wyżne, B6 Highline R-Style 2010, 329 tys. | 15 900 | jw. lista Otomoto q-4motion | **B6**, nie B7 (silnik PD) |
+| Warszawa-Włochy „Spredam Passat b7 4x4 2011", 259 358 km | 28 000 | [OLX — lista q-passat-4motion](https://www.olx.pl/motoryzacja/samochody/volkswagen/q-passat-4motion/?search%5Bfilter_float_price%3Ato%5D=28000&search%5Bfilter_float_year%3Afrom%5D=2010&search%5Bfilter_float_year%3Ato%5D=2015) | Ponad budżet, do weryfikacji przy następnym skanie jeśli cena spadnie |
+
+### 🔄 Weryfikacja starych kandydatów (14.08.2026, na pytanie Michała)
+
+| Oferta | Status 14.08 | Link |
+|---|---|---|
+| **Ozorków, 23 000 zł** (2011 Comfortline, 257 tys., czarny) | ❌ **WYGASŁA** — Otomoto pokazuje „To ogłoszenie nie jest już dostępne". Temat zamknięty, wątpliwość „BlueMotion czy 4MOTION" już nieaktualna | [martwy link](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I8EKt.html) |
+| **Płock, było 26 900 zł** (2013, 140 KM, niebieski, 214 tys., I właściciel, komplet faktur) | ✅ **ŻYJE, ale PODROŻAŁ: 26 900 → 28 900 zł.** Dodane 18.07.2026, czyli wisi ~4 tygodnie. **Dlatego nie wpadł w dzisiejszy skan — mój limit ceny to 28 000** | [OLX ID19j0id](https://www.olx.pl/d/oferta/mocny-vw-passat-b7-4motion-i-wlasciciel-rej-pl-grz-fotele-bdb-stan-CID5-ID19j0id.html) |
+
+**Wniosek z Płocka:** sprzedający podniósł cenę o 2 000 zł na ofercie, która stoi miesiąc. To nie jest zachowanie kogoś, kto chce szybko sprzedać — albo testuje rynek, albo nie ma presji. W zestawieniu z Toruniem (który w tym samym czasie **zszedł** o 2 000) to argument, żeby najpierw dociskać Toruń.
+
+**Wniosek metodologiczny:** górny limit ceny w filtrze wycina oferty, które podrożały. Przy każdym skanie **weryfikować znanych kandydatów po zapisanych linkach**, a nie polegać na tym, że wpadną w filtr.
+
+### Ranking po tym skanie (zaktualizowany 14.08 po odrzuceniu Zabierzowa)
+
+1. **🥇 TORUŃ 23 000** — najlepsza wiarygodność w całej puli (**przebieg zweryfikowany 14/14** przez Otomoto), Comfortline, beżowy, cena **zjechała o 2 tys.** → sprzedający chce sprzedać. Jedyny minus: **regeneracja skrzyni 09.2025** i 600 km drogi
+2. **🥈 ZAKLICZYN (gm. Siepraw, pow. myślenicki) 26 800** — najniższy przebieg (245 tys.), kolor grafit ✅, polski salon, **~50–55 km od BB — najbliżej ze wszystkiego**. Hak: prawdopodobny ze zdjęcia, **niepotwierdzony**. Minusy: zjada cały budżet, wersja niepotwierdzona, opis to jedno zdanie
+3. **PŁOCK 28 900** — podrożał, wisi miesiąc, sprzedający bez presji → na koniec kolejki
+4. ~~Zabierzów 19 000~~ — ❌ odrzucony (kolor)
+
+**Wniosek:** rynek B7 4motion manual w budżecie to stale **2–4 auta w kraju**. Tygodniowy skan ma sens — w 4 dni od ostatniego sprawdzenia pojawiły się 2 nowe oferty, a jedna znana staniała o 2 tys.
+
+---
+
 ## Plan działania
 
 1. **Zdjęcia Terrano + wystawienie ogłoszenia** — Michał (najpierw zdjęcia, potem wycena)

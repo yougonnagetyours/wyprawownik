@@ -7,4 +7,6 @@
 - [Michał pracuje w dzień](feedback_michal_pracuje_w_dzien.md) — nie planuj zadań na środek dnia roboczego; realne okna to wieczory i weekendy
 - [Tylko 4motion](project_tylko_4motion.md) — AWD to warunek konieczny przy zakupie auta, FWD nie bierzemy nawet przy lepszym przebiegu
 - [Kryteria auta](project_kryteria_auta.md) — 4motion + Comfortline lub wyżej (nie Trendline) + nie białe; filtrować PRZED budowaniem tabeli kandydatów
+- [Tygodniowy skan rynku](project_tygodniowy_skan_rynku.md) — research ogłoszeń raz na tydzień; protokół w `zakup-passata-b7.md`, nie wymyślać kryteriów od nowa
+- [ZAWSZE linki do ogłoszeń](feedback_zawsze_linki_do_ogloszen.md) — każda pozycja w researchu z klikalnym URL, w czacie i w pliku; bez linku research jest bezużyteczny
 - [ZAWSZE Chrome do ogłoszeń](feedback_zawsze_chrome_do_ogloszen.md) — research Otomoto/OLX/stron przez wtyczkę Claude in Chrome, nigdy WebFetch (zmyśla dane)

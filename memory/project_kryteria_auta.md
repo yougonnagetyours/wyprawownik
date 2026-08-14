@@ -12,8 +12,10 @@ Twarde kryteria przy szukaniu auta (ustalone 06.08.2026, przy Passacie B7):
 
 1. **4motion / AWD** — warunek konieczny, patrz [[project_tylko_4motion]]
 2. **Wersja Comfortline lub wyżej** (Highline preferowany). **Trendline odpada**
-3. **Nie białe.** Reszta kolorów bez preferencji
+3. **Nie białe i NIE KRZYKLIWE** (rozszerzone 14.08.2026). Odpadają czerwone i jaskrawe. Preferowane stonowane: czarny, grafit, granat, srebrny, beż
 
 **Why:** Michał podał to po przejrzeniu czterech ofert 4motion. Kryteria wywróciły ranking — odpadł faworyt mechaniczny (Tarda, Trendline) i najmłodszy egzemplarz (Sokołów, biały), został jeden kandydat. Czyli to nie są miękkie preferencje, tylko filtr, który Michał stosuje przed oceną stanu technicznego.
+
+**Potwierdzenie 14.08.2026:** kolor odrzucił Zabierzów (19 tys., 4x4 potwierdzone, Comfortline, Webasto, hak, nowa turbina, jedyna oferta zostawiająca 6–8 tys. rezerwy w budżecie) — czerwony, „zbyt krzykliwy". Czyli kryterium koloru **bije nawet bardzo dobry stosunek ceny do wyposażenia**.
 
 **How to apply:** Filtrować **przed** budowaniem tabeli kandydatów, nie po. Nie proponować Trendline ani białych aut jako "warto zerknąć" — to już odrzucone. Jeśli filtr wyczyści całą pulę, powiedzieć wprost i zaproponować alerty albo rozmowę o rozluźnieniu kryterium, zamiast po cichu przemycać odrzucone oferty. Szczegóły: `zakup-passata-b7.md`.
