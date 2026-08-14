@@ -14,6 +14,8 @@ Ostatnia aktualizacja: **2026-08-14** (przebudowa struktury — historia wyniesi
 **Kupujemy:** Passat B7 kombi, 2.0 TDI CR, manual — [`zakup-passata-b7.md`](zakup-passata-b7.md)
 **Twarde kryteria:** 4motion (pole „Napęd", nie tytuł!) · Comfortline lub wyżej · **nie białe i nie krzykliwe** · budżet ~23–27 tys. z rezerwą na naprawy
 
+**💰 Kasa (14.08.2026): 15 000 zł z Terrano — TRZEBA DOZBIERAĆ.** Do Torunia brakuje ~8 000 zł + rezerwa na naprawy. Czyli **teraz zbieramy i obserwujemy rynek, nie kupujemy** — telefony do sprzedających są rozpoznaniem, nie negocjacją finalną.
+
 **Kandydaci po skanie 14.08:**
 
 | # | Auto | Cena | Stan |
@@ -51,7 +53,7 @@ Wszystkie pozostałe (zrealizowane, niezrealizowane, koncepty) → [`wyprawy/IND
 
 ## ❓ Otwarte pytania (do Michała)
 
-- **Ile realnie masz na dziś na auto?** Terrano dało **15 000 zł** (potwierdzone 14.08). Toruń kosztuje 23 000 → **brakuje ~8 000 + rezerwa na naprawy**. To rozstrzyga, czy dzwonimy żeby kupić, czy żeby negocjować i czekać
+- **Ile miesięcznie wchodzi na kupkę?** Determinuje, kiedy realnie zakup — bez tego nie da się powiedzieć, czy Bałkany X.2026 są wykonalne
 - **Komu poszło Terrano?** (kumpel czy rynek — drobiazg do domknięcia `auta/terrano/stan.md`)
 - **Chevrolet Aveo — sprzedany?** Ostatni ślad: 30.06, kupiec marudził o klimę. Od tego czasu cisza
 - **Ostrowo 11–20.07 — pojechaliście?** Jak wyszedł budżet vs. szacowane 5 360 zł
