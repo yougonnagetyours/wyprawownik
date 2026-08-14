@@ -2,7 +2,7 @@
 
 Powstało: 2026-08-05, po analizie filmu Petrolhead Number One "Passat B5 1.9 TDI — podsumowanie kosztów" (auto z 2005, AVF 130 KM, kupione 2022 z 198 tys. km).
 
-Dotyczy każdej rozważanej opcji: `zakup-passata-b7.md`, `zakup-passat-b6-19tdi.md`, `zakup-passat-b5.5.md`, `zakup-passat-b5-4motion.md`.
+Dotyczy każdej rozważanej opcji: `zakup-passata-b7.md` (aktywny) oraz zamknięte tory w `archiwum/`.
 
 ---
 
@@ -257,7 +257,7 @@ Historia serwisowa w tych raportach jest **szczątkowa** — pojawia się głów
 - `auta/passat-b5.5/stan.md` — obecny egzemplarz, czeka na test spalin (dokładnie etap 3 z tego filmu)
 - `auta/passat-b5.5/odszczurzanie.md` — plenum, E-Box, wilgoć
 - `zakup-passata-b7.md` — auto docelowe
-- `zakup-passat-b6-19tdi.md`, `zakup-passat-b5.5.md`, `zakup-passat-b5-4motion.md` — opcje awaryjne
+- `archiwum/` — zamknięte tory zakupowe (B6 1.9 TDI, B5.5, B5.5 4motion, XC70); warunki powrotu w `archiwum/README.md`
 
 ## Źródła
 

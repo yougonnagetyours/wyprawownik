@@ -22,7 +22,7 @@ Poniżej zasady z artykułu przetłumaczone na nasz system wyprawowy. Checklist 
 |---|--------|--------|-------|
 | 2.1 | Pliki projektu mają jasne nazwy i strukturę (np. `trasa.md`, `budzet.md`, `auta/[auto]/stan.md`) | ✅ | Struktura utworzona |
 | 2.2 | Każdy plik ma jedno konkretne zadanie — bez mieszania tematów | ✅ | Wdrożone |
-| 2.3 | Minimalna redundancja między plikami | ⬜ | Pilnować na bieżąco |
+| 2.3 | Minimalna redundancja między plikami | ✅ | 14.08.2026: opisy wypraw wyniesione z active-state do `wyprawy/INDEKS.md` |
 | 2.4 | WebSearch/WebFetch do weryfikacji informacji zamiast zgadywania | ✅ | Zasada ustalona |
 
 ## 3. Kontekst — ładowanie "just-in-time"
@@ -40,7 +40,7 @@ Poniżej zasady z artykułu przetłumaczone na nasz system wyprawowy. Checklist 
 |---|--------|--------|-------|
 | 4.1 | System pamięci (memory/) do przechowywania profilu, feedbacku, stanu projektu | ✅ | Wdrożony |
 | 4.2 | Kompaktowanie — streszczanie długich rozmów z zachowaniem kluczowych ustaleń | ⬜ | Automatyczne w Claude Code |
-| 4.3 | Notatki strukturalne — zapisywanie postępu i decyzji w plikach projektu | ✅ | active-state.md |
+| 4.3 | Notatki strukturalne — zapisywanie postępu i decyzji w plikach projektu | ✅ | 3 warstwy: `active-state.md` (stan) / `dziennik.md` (historia) / pliki tematyczne (szczegóły) |
 | 4.4 | Sub-agenty do wydzielonych zadań (np. research cen, szukanie kempingów) | ⬜ | Używać gdy potrzebne |
 
 ## 5. Przykłady (Few-shot) — pokazuj, nie opisuj
@@ -55,15 +55,25 @@ Poniżej zasady z artykułu przetłumaczone na nasz system wyprawowy. Checklist 
 | # | Co | Status |
 |---|-----|--------|
 | 6.1 | Halucynowanie — zmyślanie informacji zamiast szukania/pytania | ✅ Zabezpieczone |
-| 6.2 | Przeładowanie kontekstu — wrzucanie wszystkiego na raz | ✅ Zabezpieczone |
+| 6.2 | Przeładowanie kontekstu — wrzucanie wszystkiego na raz | ✅ 14.08.2026: active-state 171 → ~60 linii, limit zapisany w CLAUDE.md |
 | 6.3 | Sztywna logika — "jeśli X to zawsze Y" zamiast elastycznego podejścia | ⬜ Pilnować |
-| 6.4 | Redundancja narzędzi — nakładające się pliki/źródła | ⬜ Pilnować |
-| 6.5 | Za agresywna kompresja — tracenie ważnych detali przy streszczaniu | ⬜ Pilnować |
+| 6.4 | Redundancja narzędzi — nakładające się pliki/źródła | ✅ 14.08.2026: 4 martwe tory zakupowe → `archiwum/` z warunkami powrotu |
+| 6.5 | Za agresywna kompresja — tracenie ważnych detali przy streszczaniu | ⬜ Pilnować — nic nie kasujemy, wszystko schodzi do `dziennik.md` / `archiwum/` |
 
 ---
 
+## 7. Higiena stanu — wdrożone 14.08.2026
+
+| # | Zasada | Status |
+|---|--------|--------|
+| 7.1 | `active-state.md` zawiera TYLKO aktualne — wpis = max 2 zdania + link | ✅ |
+| 7.2 | Wpis, który przestał być bieżący, **przenosi się** do `dziennik.md` — nie zostaje z dopiskiem „nieaktualne" | ✅ |
+| 7.3 | Historia jest dostępna, ale ładowana na żądanie (`dziennik.md`, `archiwum/README.md`) | ✅ |
+| 7.4 | Każda wyprawa ma jawny status (PLANOWANA / KONCEPT / ZREALIZOWANA / NIEZREALIZOWANA / MARTWA) | ✅ |
+| 7.5 | Test przed dopisaniem do active-state: **„czy to będzie prawdą jutro rano?"** | ✅ |
+
 ## Następne kroki
 
-- Zaplanować pierwszą wyprawę → `wyprawy/[nazwa]/`
-- Uzupełnić dane auta (silnik, napęd, rok) w `auta/[auto]/stan.md`
+- Domknąć otwarte pytania z `active-state.md` (kwota za Terrano, Aveo, rozliczenie Ostrowa)
+- Zaplanować Bałkany X.2026 → `wyprawy/balkany-pazdziernik-2026/`
 - Dodać few-shot przykłady do plików (pkt 5.1)

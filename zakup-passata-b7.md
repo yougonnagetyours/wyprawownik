@@ -15,7 +15,7 @@ Status: **faza researchu + przygotowania do zakupu**. Zwrot z B6 na B7: 2026-07-
 - **Silnik:** 2.0 TDI **CR**, 140 KM (170 KM jak okazja)
 - **Skrzynia:** **manual 6-bieg** (02Q) — nie DSG
 - **Wersja:** **Comfortline lub wyżej** (Highline preferowany). **Trendline odpada** — ustalone 06.08.2026
-- **Kolor:** **nie białe.** Reszta bez preferencji
+- **Kolor:** **nie białe i NIE KRZYKLIWE** (rozszerzone 14.08.2026 po odrzuceniu czerwonego Zabierzowa). Odpadają czerwone i jaskrawe. Preferowane: czarny, grafit, granat, srebrny, beż
 - **Budżet:** korygowany na bieżąco przy przeglądaniu ogłoszeń (4motion drożej niż FWD; widełki po zobaczeniu realnego rynku)
 
 ## Silnik 2.0 TDI CR — kody i na co uważać
@@ -119,7 +119,7 @@ Filtr: B7 (2010–2014), **kombi**, **diesel ≥1900 cm3**, **manual**. Źródł
 - **105 ogłoszeń** łącznie (bez limitu ceny)
 - **45 ogłoszeń do 25 tys. zł** → **43% rynku mieści się w budżecie**. To dużo — nie jest tak, że B7 jest "poza zasięgiem"
 
-### Werdykt dla hipotezy z `zakup-volvo-xc70.md` (sekcja 8c)
+### Werdykt dla hipotezy z `archiwum/zakup-volvo-xc70.md` (sekcja 8c)
 
 Hipoteza brzmiała: *za 20–25 tys. dostaniesz 2010–2011, 300+ tys. km, 140 KM, FWD, bo 4motion winduje cenę.*
 

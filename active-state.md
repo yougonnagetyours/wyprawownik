@@ -1,171 +1,58 @@
 # Active State
 
-Ostatnia aktualizacja: 2026-08-14
+Ostatnia aktualizacja: **2026-08-14** (przebudowa struktury — historia wyniesiona do `dziennik.md`)
 
-> ⚠️ Sekcje niżej są sprzed 30.06.2026 i mogą być nieaktualne (status sprzedaży Chevroleta/Terrano, werdykt Passata, wyjazd Ostrowo 11–20.07 — już po fakcie). Do przejrzenia przy najbliższej okazji.
+> **Zasady tego pliku:** tylko to, co jest AKTUALNE. Wpis = max 2 zdania + link do pliku ze szczegółami.
+> Gdy coś przestaje być bieżące → **przenieś do `dziennik.md`**, nie zostawiaj z dopiskiem „nieaktualne".
+> Limit: ~60 linii. Jak puchnie — znaczy, że coś tu nie należy.
 
-## Bieżący status
+---
 
-- **❌ 14.08.2026 — ZABIERZÓW ODRZUCONY: KOLOR.** Michał: czerwony, zbyt krzykliwy. **Kryterium koloru rozszerzone: „nie białe" → „nie białe I NIE KRZYKLIWE"** (odpadają czerwone/jaskrawe; preferowane czarny, grafit, granat, srebrny, beż). Reszta parametrów Zabierzowa była mocna (4x4, Comfortline, Webasto, hak, nowa turbina, rezerwa 6–8 tys. w budżecie) — dane zachowane w `zakup-passata-b7.md` w zwijce, na wypadek zmiany zdania. **Skutek: nowy nr 1 to TORUŃ 23 000.**
-- **📘 14.08.2026 — FB MARKETPLACE SPRAWDZONY (nie był w pierwszym skanie).** Wynik: **nowych aut nie ma, ale znalazł się crosspost Zakliczyna** — [FB 1015405607924995](https://www.facebook.com/marketplace/item/1015405607924995/), to samo auto (ten sam telefon **510-675-024**), a FB podaje **kolor: GRAFIT (Charcoal) ✅** — OLX pisał tylko „Inny". Do tego: na FB wisi **6 dni**, a na OLX „dodane 13.08" → stoi dłużej, niż wygląda (argument w negocjacji). ⚠️ **SPROSTOWANIE 14.08 (uwaga Michała): haka NIE MA w opisie** — wypatrzyłem go na zdjęciu i błędnie podałem jako fakt z ogłoszenia. Status: **prawdopodobny, do potwierdzenia przez telefon.** Opis sprzedającego to jedno zdanie na obu portalach: „Sprzedam Volkswagen Passat B7 4x4 kombi przebieg 245 000, zkupiony w Polskim salonie, kontakt 510 675 024". ⚠️ **SPROSTOWANIE 2 — Zakliczyn i Siepraw to JEDNO MIEJSCE: Zakliczyn to wieś w gminie Siepraw, pow. myślenicki** (OLX podał wieś, FB gminę). Moje wcześniejsze „~100 km" było błędem — założyłem Zakliczyn nad Dunajcem (pow. tarnowski). **Realnie ~50–55 km od BB.** Lekcja: **notować powiat, nie samą nazwę wsi** — ta sama nazwa potrafi wskazywać dwa miejsca oddalone o 60 km. Odrzucone z FB: **Bestwina 23 000** (2014, powiat bielski, 15 km od domu — ale **automat i 368 tys. km**), Dębica 27 800 (DSG), Zamość 24 500 (biały). **Marketplace zostaje w protokole jako krok 3 — nie do znajdowania aut, tylko do dobierania danych o autach znanych z Otomoto/OLX.**
-- **🔄 14.08.2026 — WERYFIKACJA STARYCH KANDYDATÓW: Ozorków WYGASŁ, Płock PODROŻAŁ.** ❌ **Ozorków 23 000 — ogłoszenie nieaktualne** („To ogłoszenie nie jest już dostępne"). Wątpliwość „BlueMotion czy 4MOTION" nieaktualna, temat zamknięty. ✅ **Płock żyje, ale cena poszła w GÓRĘ: 26 900 → 28 900 zł** ([OLX](https://www.olx.pl/d/oferta/mocny-vw-passat-b7-4motion-i-wlasciciel-rej-pl-grz-fotele-bdb-stan-CID5-ID19j0id.html)), dodane 18.07 czyli wisi ~4 tygodnie. **Dlatego nie wpadł w skan — podwyżka wypchnęła go ponad limit 28 tys.** Zestawienie: Płock **+2 000** na ofercie stojącej miesiąc, Toruń w tym samym czasie **−2 000** → **najpierw dociskać Toruń.** ⚠️ **Zasada metodologiczna: przy każdym skanie otwierać zapisane linki znanych kandydatów, nie polegać na filtrze** — oferta, która podrożała, wypada z widoku.
-- **🔗 14.08.2026 — ZASADA: research ZAWSZE z klikalnymi linkami** (w czacie i w pliku), także oferty odrzucone i te, które tylko zmieniły cenę. Bez linku Michał musi odszukiwać ogłoszenie po nazwie miejscowości = powtarzać robotę. Dopisane do protokołu skanu + memory
-- **📡 14.08.2026 — USTALONY PROTOKÓŁ COTYGODNIOWEGO SKANU RYNKU.** Michał będzie prosił o research raz na tydzień (alerty portali są nieszczelne). Stały przepis — filtry, kolejność portali, zasady weryfikacji — zapisany w `zakup-passata-b7.md` sekcja „📡 Protokół cotygodniowego skanu rynku". Sedno: Otomoto po frazie `q-4motion` (NIE po filtrze 4x4), potem OLX (oferty OLX-only), potem FB Marketplace. **Każdą ofertę weryfikować po polu „Napęd" i po polu „Skrzynia" — tytuły kłamią w obie strony.**
-- **🚗 14.08.2026 — SKAN #1 ZROBIONY. 2 nowe auta + obniżka w znanej ofercie.** ⭐ **NOWY NR 1: ZABIERZÓW (małopolskie, ~80 km od BB), 2013, B7 kombi 2.0 TDI CR 140 KM, manual, 4x4 potwierdzone w polu, Comfortline, CZERWONY, 298 255 km, 19 000 zł, prywatny, wystawione 13.08.** Ma **Webasto + hak + NOWĄ TURBINĘ**. ⚠️ Flagi: 298 tys. km (najwyższy przebieg z listy) + **deklarowane uszkodzenia lewego tylnego błotnika i zderzaka**. **Największa zaleta: 19 tys. to jedyna cena, która zostawia 6–8 tys. rezerwy na naprawy** — reszta puli zjada cały budżet. ⭐ **NR 2: ZAKLICZYN (małopolskie, ~100 km od BB), 2011, manual, 4x4 (stały), 245 500 km, 26 800 zł, polski salon, prywatny, OLX-only, dodane 13.08** — najniższy przebieg z trójki, ale **opis to jedno zdanie**, wersja nieznana i cena zjada cały budżet. 📉 **TORUŃ STANIAŁ: 25 000 → 23 000 zł** (2011, 4Motion Comfortline, 268 tys., przebieg zweryfikowany 14/14) — sprzedający schodzi, jest pole do negocjacji. ❌ Odrzucone: **Kamiennik 24 900** (w tytule „4Motion", w polu Napęd „na przednie koła"), **Wilków 27 500** (2012, 170 KM, tylko 224 tys. km, świeża dwumasa — ale **DSG**), Sucha 23 900 (znane FWD), Krasnobród/Łapsze (B6, nie B7). **Wniosek: rynek to stale 2–4 auta w kraju, ale w 4 dni doszły 2 nowe → tygodniowy skan ma sens.** Pełna analiza + pytania na telefon: `zakup-passata-b7.md` sekcja „Skan rynku 14.08.2026"
-- **🔄 DECYZJA 10.08.2026 (wieczór) — WRACAMY DO B7. Tor B5.5 wstrzymany.** Po obejrzeniu ogłoszeń: **Osiek wygląda na mocno zmęczone auto**, Mikołów nie przekonuje. **Kierunek: zbierać na B7 (25 tys.) + w międzyczasie zbadać obecnego B5.5.** ⭐ **NOWE KRYTERIUM, które to rozstrzygnęło: „chcę tym autem trochę POJEŹDZIĆ, jak już je kupię"** — auto ma być środkiem transportu na lata (Bałkany, spanie w bagażniku, box + platforma z `system-biwakowy.md`), a nie kolejnym projektem diagnostycznym. **Cała pula B5.5 4motion to 270–435 tys. km bez historii — żadne z tych aut tego kryterium nie spełnia.** Research z dzisiaj (`zakup-passat-b5-4motion.md`) zostaje jako materiał awaryjny: wraca do gry TYLKO gdyby test uszczelki wypadł źle i trzeba było kupować szybko za 15 tys. **Aktywny plik znowu: `zakup-passata-b7.md`.**
-- **💸 ~~KOREKTA 10.08.2026 — REALNY BUDŻET = 15 000 zł. Kierunek: Passat B5.5 FL 4motion, nie B7.~~ (ODWOŁANE tego samego dnia — patrz wpis wyżej)** Świadome zejście o półkę: na B7 (25 tys.) trzeba jeszcze uzbierać. **Argument za B5.5: 4motion na Torsenie** (stały napęd mechaniczny) zamiast Haldeksa w B7 — bez serwisu oleju w sprzęgle, bez pompy Haldeksa. **B7 nie skasowany — odłożony**, wraca jak budżet dobije do ~25 tys. Aktywny plik: `zakup-passat-b5-4motion.md` (kryteria: kombi, 1.9 TDI AVF/AWX 130 KM, 4motion, manual). Uwaga do pilnowania przy tym budżecie: protokół `weryfikacja-silnika-przed-zakupem.md` obowiązuje tym mocniej, bo to auto 20-letnie. **SPROSTOWANIE 10.08.2026: wcześniejszy zapis „1.9 TDI PD ma chorobę wałka rozrządu" był błędny.** Seryjne zjadanie wałków to **2.0 TDI PD** (BKD/BMM/BKP) — to od tego uciekaliśmy w B6/B7. **1.9 TDI PD (AVF/AWX) uchodzi za trwały**, wałek schodzi przy złym oleju (wymagane VW 505.01) lub przeciąganych wymianach → to pytanie o historię oleju, nie czerwona flaga
-- **🔎 10.08.2026 — kandydat nr 1 ODCZYTANY: Passat B5 FL, Mikołów, 8 400 zł.** ✅ Blokada FB zdjęta — wtyczka Claude in Chrome działa, ogłoszenie przeczytane. **2002, kombi, 1.9 TDI, manual 6-bieg, 4Motion, Comfortline, 270 tys. km, srebrny, hak + relingi, ~50 km od BB, tel. 794-966-053.** Spełnia komplet twardych kryteriów. **6-biegowa skrzynia = mocna przesłanka, że to 130 KM (AVF/AWX)** — do potwierdzenia literkami silnika. **Cena zostawia 6 600 zł rezerwy** w budżecie 15 tys. ⚠️ Flagi: cena niska jak na tę specyfikację (rynek 11–14 tys.), **ogłoszenie wisi 8 tygodni**, opis wygląda na generowany (zero historii serwisowej), tuningowe reflektory. Pełna analiza + lista pytań na telefon: `zakup-passat-b5-4motion.md` sekcja „Kandydat nr 1"
-- **🔎 10.08.2026 — RESEARCH RYNKU B5.5 4motion ZROBIONY (Otomoto + OLX + sprzedajemy.pl + FB Marketplace).** Wynik: **rynku praktycznie nie ma**. Potwierdzone 4motion 1.9 TDI kombi to kilka aut, wszystkie **320–500 tys. km, 4–9 tys. zł**. 🚨 **Filtr „4x4" na Otomoto dla B5 FL NIE DZIAŁA — otworzyłem 5 ofert z tego filtra i 5/5 ma w polu „Napęd" wpisane „Na przednie koła"** (Poręba, Zielona Góra, Wrocław, Łódź, Strzyżów). To nie pula zaśmiecona, tylko pusta — **Otomoto realnie nie ma B5.5 4motion kombi diesla**. Szukać po słowie „4motion" w tytule/opisie, nie po filtrze. **Ranking realnych 4motion po przebiegu: Mikołów 270 tys. (8 400) → ⭐ OSIEK 290 tys. (8 400) → Trzebieszewo 320 tys. (7 500) → Góra Kalwaria 390 tys. (8 000) → Gorzów 395 tys. (4 900) → Koszalin 400 tys. (5 700) → BB 435 tys. (4 000).** Od pozycji 4 w dół to stan obecnego B5.5 (424 tys.), tylko cudzy — odpadają. **⭐ NOWY KANDYDAT NR 2: OSIEK (małopolskie, ~30 km od BB — bliżej niż Mikołów), 2001, kombi, 1.9 TDI, manual, 4x4 stały, 290 tys. km, 8 400 zł, prywatny.** Ma **najlepszy opis serwisowy z całej puli**: sprzedający sam wymienił **popychacze i panewki wałka rozrządu**, uszczelki, hamulce, **olej w tylnym moście** — czyli dokładnie te punkty, o które trzeba pytać. ⚠️ Ale: **chiptuning 130→170 KM** (pierwsze pytanie: sprzęgło i dwumasa przy 290 tys.!) + tylny wózek do konserwacji. **Mikołów vs Osiek: ta sama cena, oba pod bokiem — Mikołów ma 20 tys. km mniej, ale generowany opis i zero konkretów; Osiek ma człowieka wymieniającego konkretne roboty. Osiek oglądać pierwszy.** Odrzucone po weryfikacji: Pogorzelec 7 200 (sprzedający sam wylicza sprzęgło + „silnik i skrzynia wymagają prac" + brak przeglądu), Kielce 2 700 („4x4 Quattro 4Motion" w tytule, a w danych 2.0 benzyna na przód — spam). **Punkt odniesienia od strony FWD: Strzyżów, 2004, 101 KM, 199 tys. km, 11 900 zł, 1 właściciel od 2009, 14/14 pól zweryfikowanych** — najlepsza wiarygodność w całym B5.5 kombi, ale przód. **Mikołów 8 400 zł / 270 tys. / 6-bieg nadal najlepszą ofertą w kraju** — dalsze szukanie nie ma sensu, trzeba zadzwonić. Sprostowanie do wcześniejszego wpisu: widełki „11–14 tys." dla tej specyfikacji były **za wysokie**, 8 400 to cena rynkowa, nie okazja. Pełna tabela: `zakup-passat-b5-4motion.md` sekcja „Research rynku PL"
-- **✅ 10.08.2026 — TERRANO SPRZEDANE.** Stąd budżet 15 000 zł. Skutek: **jedyne auto na chodzie to Passat B5.5** (ten z niewyjaśnioną uszczelką) → zakup następnego auta to już nie plan, tylko potrzeba. Kolejność z 30.06 („Terrano wystawiamy dopiero PO werdykcie Passata") jest **nieaktualna** — stało się odwrotnie. Do uzupełnienia: za ile poszło i komu. Szczegóły: `auta/terrano/stan.md`
-- **📋 USTALONA KOLEJNOŚĆ (30.06.2026 — CZĘŚCIOWO NIEAKTUALNA, patrz wyżej):** 1) **Chevrolet** — diagnoza klimy + sprzedaż (idzie równolegle, niezależne); 2) **Passat** — test spalin w płynie + ciśnienie → werdykt rozstrzyga skalę napraw; 3) **Terrano** — zdjęcia + wystawienie **dopiero PO werdykcie Passata** (żeby nie zostać bez transportu).
-- **🔧 30.06.2026 — wizyta u mechanika z Passatem (wstępna, bez miernika):** płyn ciemnawy ("spalinowy" wg mechanika), ale "w upały się nie grzał = raczej OK". Umówiony termin na inspekcję miernikiem (test ciśnienia/CO2). Tropy do roboty PO werdykcie uszczelki: przepustnica ssania ("moduł od rozbiegania" po lewej bloku) + czyszczenie EGR/przewodów → odzysk mocy, możliwe że turbo przestanie odcinać. Decyzja invest vs dojeździć: test rozstrzyga skalę, backupowi tylko tanie naprawy. Szczegóły: `auta/passat-b5.5/stan.md`
-- **💰 30.06.2026 — sprzedaż Chevroleta Aveo (wystawiony 4 500 zł):** jest kupiec, przyjeżdża dziś, marudzi o klimę (nienabita + ucieka czynnik). KOREKTA: klima to dla kupujących warunek konieczny — już paru odpadło przez nią. Próg Michała: 3k netto za auto OK. Plan: NAJPIERW diagnoza szczelności u kumpla → tani przeciek (o-ring/wężyk, ≤~800–1000) napraw+nabij, sprzedaj za pełne ~4,5k (netto ~3,7k). Drogi element (skraplacz/kompresor 1500–2500+) → nie pchać kasy, sprzedać jak stoi taniej. Terrano: kumplowi 15k albo rynek ~17,9–18,5k (dno 14k) — patrz `auta/terrano/stan.md`
-- **🔄 KOREKTA 29.06.2026 ws. B5.5: zostaje jako BACKUP, nie utylizacja.** Plan: zdiagnozować (uszczelka vs. zapowietrzenie) u kumpla mechanika i ew. naprawić w granicy opłacalności — bo auto zostaje na lata jako zapasowe/daily/wozidło "do brudnego", nawet po kupnie B6. Jazda z 28.06 (4-5h w upale 37-38°C, klima, zero ruchu wskazówki temp, stabilny płyn) → mocny argument PRZECIW rozwiniętej uszczelce. Szczegóły: `auta/passat-b5.5/stan.md`
-- **🔥 ZWROT 01.06.2026: Sprzedać Terrano → kupić Passata kombi 2.0 TDI manual 6-bieg, 4motion.** Terrano do sprzedaży — najpierw zdjęcia. **Budżet korygowany na bieżąco przy przeglądaniu ogłoszeń** (4motion drożej niż FWD). (B5.5 — patrz korekta z 29.06 wyżej: NIE utylizacja, zostaje jako backup)
-- **🔄 KOREKTA 22.07.2026: cel = Passat B7 (nie B6).** B7 (2010–2015) to wyłącznie 2.0 TDI **Common Rail** (brak choroby wałków PD) + **napęd pompy oleju już poprawiony fabrycznie** (zabierak 100 mm po 04.11.2009 — cała generacja B7 jest po poprawce). Kody: 140 KM CFFB/CFGB, 170 KM CLLA/CFGB. Uwaga przy zakupie: **historia wymian oleju** (chroni zabierak) + DPF + DMF. Plik: `zakup-passata-b7.md` (przemianowany z b6). Koszt tematu wałków: inspekcja ~800 zł, regen. modułu ~1500–2500 zł
-- **Plan zakupu B7:** Highline (preferowane) lub Comfortline, manual 6-bieg (skrzynia 02Q), 2.0 TDI CR, **4motion (Haldex)**
-- **Pomysł na potem (po Bałkanach):** lekki lift 50 mm + opony 215/70 R16 na stockowych 6,5J. Nie przed Ostrowem (auta nie ma), Bałkany październik najpewniej też jeszcze bez. Szczegóły w `zakup-passata-b7.md` (sekcja "Pomysł: lekki lift")
-- **Plan B na Ostrowo (jeśli zakup B6 nie zdąży):** tata Kingi pożycza Passata B7, B6 dopiero na Bałkany październik
-- **AKTYWNY PLAN 1: Ostrowo k. Karwi, 11-20.07.2026 — JUTRO START.** Auto: **Passat B7 2.0 TDI taty Kingi** (potwierdzone 10.07, B6 nie zdążył). **Nocleg zarezerwowany.** 10 dni / 9 nocy. Pliki: `wyprawy/morze-lipiec-2026/` (trasa.md, budzet.md, claude-project/). Szacunek: ~5 360 zł vs. 5 500 zł kasy = ~140 zł zapasu poza rezerwą
-- **📱 Asystent na telefon (10.07.2026):** komplet do Claude Projects w `wyprawy/morze-lipiec-2026/claude-project/` — instrukcje + 3 pliki wiedzy. **Do zrobienia przed wyjazdem: uzupełnić dane noclegu, tel. do taty Kingi, numer assistance** (miejsca oznaczone ⚠️ w `wyprawa.md`)
-- **AKTYWNY PLAN 2: Bałkany październik 2026 = OŚWIADCZYNY (przesunięte z maja)** — Passatem B7. Trasa do zaplanowania
-- **Pelješac maj 2026 — ZAKOŃCZONA** (01-09.05.2026). Pojechali Passatem B7 taty Kingi (Kia padła dzień przed — cewka). Oświadczyn nie było (kasy na pierścionek brakło)
-- **🔍 05.08.2026 — protokół weryfikacji silnika przed zakupem:** nowy plik `weryfikacja-silnika-przed-zakupem.md` (po analizie filmu Petrolhead Number One o B5 za 18,6 tys. zł w rok). Zawiera: co i kiedy sprawdzać (na zimnym / po rozgrzaniu / na jeździe), tabelę testów z rozróżnieniem zimny vs rozgrzany, ściągę diagnostyczną (powietrze w układzie, "pszt", rosnący poziom oleju), co dają i czego NIE dają raporty VIN. **Kluczowe: żaden raport po VIN nie pokaże przegrzanego silnika** — działa tylko fizyczna diagnostyka. Warunek nr 1 przy oględzinach: "proszę nie odpalać auta przed moim przyjściem"
-- **🔧 05.08.2026 — plan dla mechanika, jeśli CO2 na B5.5 wyjdzie pozytywny:** dopisany do `auta/passat-b5.5/stan.md`. Sedno: **leak-down cylinder po cylindrze z podglądem zbiorniczka** rozstrzyga głowica (3–4 tys.) vs chłodnica EGR (600–1500 zł) + **punkt stop przed zamówieniem części** po zdjęciu głowicy
-- **🔍 06.08.2026 — XC70 I jako alternatywa dla B7: zresearchowane, rekomendacja = zostać przy B7.** Nowy plik `zakup-volvo-xc70.md`. Sedno: **manual w budżecie praktycznie nie istnieje** (19 ofert w PL, 18 automatów), automat AW55-50SN to ryzyko 5–10 tys. przy remoncie. Najlepsza oferta XC70: **Bochnia, 2006, 185 KM, 290 tys. km, 18 000 zł, ~120 km od BB — warta obejrzenia**. Import z Niemiec (manual, 2006, 260 tys. km, 3 500 € ≈ 21 tys. całościowo) rozważony i **odrzucony** — 1000 km po to, żeby dopiero zobaczyć auto; laweta zabija ekonomię i oznacza zakup w ciemno. **Alerty ustawione na Otomoto i OLX** (XC70 diesel, do 28 tys. zł, do 350 tys. km)
-- **🚗 06.08.2026 — RESEARCH OGŁOSZEŃ B7 ZROBIONY. Budżet ustalony: do 25 tys. zł.** Otomoto: **105 ofert** B7 kombi 2.0 TDI manual, **45 do 25 tys.** (43% rynku). **Hipoteza "za 20–25k dostaniesz tylko FWD z 300+ tys. km" — OBALONA:** mediana przebiegu ~260 tys., a **4 sztuki z 4motion mieszczą się w 23–25 tys.** Docelowa specyfikacja (kombi + 2.0 TDI CR + manual + 4motion + Highline) jest realna za ~24 tys. **⚠️ TWARDE KRYTERIA (06.08.2026): 4motion + Comfortline lub wyżej (nie Trendline) + nie białe.** Po powtórnym skanie 45 ofert **po polu „Napęd"** (nie po tytule) pula 4motion do 25 tys. = **5 aut**, z czego **3 spełniają komplet kryteriów: Ozorków 23 000 (czarny Comfortline, 257 tys.), Toruń 25 000 (beżowy Comfortline, 268 tys., przebieg zweryfikowany 14/14), Kosów 15 200 (czarny Comfortline, ale 361 tys. km).** Odrzucone: Tarda 23 000 (Trendline — mimo najlepszej historii serwisu: rozrząd+olej przy 270 tys. + hak 2000 kg), Sokołów 24 900 (biały, mimo rocznika 2014 i skóry), Sucha 23 900 (w tytule "4Motion", w polu Napęd "na przednie koła" — i to powiat olkuski, nie Sucha Beskidzka). **Toruń kosztuje równo górną granicę budżetu → zero zapasu na naprawy.** **UZUPEŁNIENIE 06.08.2026 — OLX:** pierwszy research objął tylko Otomoto. OLX w większości duplikuje Otomoto, **ale oferty OLX-only istnieją i tam znalazł się nowy faworyt: Płock, 26 900** (patrz zadania niżej). **Passat B7 Alltrack** (fabrycznie podniesiony 4motion kombi, +30 mm, osłony podwozia) — 8 ofert manual+diesel, **32,9–39,5 tys.**, czyli poza budżetem, ale to fabryczna alternatywa dla pomysłu z liftem. Pasmo **26–32 tys. = Highline i 170 KM**. Pełna analiza + pytania: `zakup-passata-b7.md` sekcje "Rynek" i "OLX + Alltrack". Skutek: rekomendacja B7 nad XC70 utrzymana, teraz twardo (`zakup-volvo-xc70.md` sekcja 8c zaktualizowana)
-- Pliki aut: `zakup-passata-b7.md` (priorytet — research + zakup), `zakup-volvo-xc70.md` (alternatywa — zresearchowana, w rezerwie), `auta/passat-b5.5/stan.md` (B5.5 — wycofywany), `auta/terrano/stan.md` (Terrano — do sprzedaży), `weryfikacja-silnika-przed-zakupem.md` (protokół oględzin — wspólny dla wszystkich opcji)
+## 🚗 Auto — gdzie jesteśmy
 
-## Wyprawa: Balkany Maj 2026
+**Flota:** jedyne auto na chodzie to **Passat B5.5** (2004, 1.9 TDI 101 KM, 424 tys. km) — z **niezdiagnozowaną sprawą uszczelki pod głowicą**. Terrano sprzedane 10.08.2026.
+**Kupujemy:** Passat B7 kombi, 2.0 TDI CR, manual — [`zakup-passata-b7.md`](zakup-passata-b7.md)
+**Twarde kryteria:** 4motion (pole „Napęd", nie tytuł!) · Comfortline lub wyżej · **nie białe i nie krzykliwe** · budżet ~23–27 tys. z rezerwą na naprawy
 
-- **Termin A:** 16–24 maja 2026 (ciasny budżet, sprzęt od brata)
-- **Termin B (preferowany):** 6–14 czerwca 2026 (dodatkowa wypłata, termobox zamiast lodówki)
-- Trasa: BB → Kiskőrös (Węgry) → Uvac (Serbia) → południe Serbii → Czarnogóra → Albania Płn. → powrót
-- 3 warianty: A (Lovćen), C (Mostar), D (Durmitor + Mostar, bez Albanii)
-- Albania = Theth + Velipoja (porządnie, nie na pół gwizdka)
-- Pliki: `wyprawy/balkany-maj-2026/` (trasa.md, budzet.md, przygotowania.md)
+**Kandydaci po skanie 14.08:**
 
-## Wyprawa: Adriatyk Czerwiec 2026
+| # | Auto | Cena | Stan |
+|---|---|---|---|
+| 1 | **Toruń** 2011, Comfortline, 268 tys. km | **23 000** (było 25 000) | do telefonu — sprzedający schodzi |
+| 2 | **Zakliczyn** (gm. Siepraw, ~50–55 km od BB) 2011, 245 tys. km, grafit | **26 800** | do telefonu — wersja nieznana |
+| — | Płock 2013, 214 tys. km, niebieski | 28 900 (⬆ z 26 900) | poza limitem, obserwować |
 
-- **Koncept:** Krk (znane, wow dla Kingi) → wybrzeże w dół → powrót przez Bośnię
-- **Wariant A (9 dni, ~5 390 zł):** BB → Krk 3 noce → Zadar → Split 2 noce → Mostar → BB
-- **Wariant B (10 dni, ~6 025 zł):** BB → Krk 3 noce → Zadar → Split → Dubrownik → Boka Kotorska → Mostar 2 noce → BB
-- Różnica A vs B: **+635 zł** za Dubrownik, Bokę i spokojny Mostar
-- Kempingi: Camping Njivice (Krk), Zaton (Zadar), Stobreč (Split), Solitudo (Dubrownik), LAKS (Blagaj/Mostar) — wszystkie z cenami w pliku
-- Albania świadomie pominięta — Theth + Velipoja zasługują na osobną wyprawę
-- Boka Kotorska: **must-have** w wariancie B
-- Pliki: `wyprawy/adriatyk-czerwiec-2026/` (trasa.md, budzet.md)
+## ✅ Zadania
 
-## Wyprawa: Chorwacja (Krk) Maj 2026
+1. **Zadzwonić do TORUNIA** — pytanie nr 1: regeneracja skrzyni 09.2025, co i dlaczego, oraz czy przy zdjętej skrzyni poszły dwumasa i sprzęgło. Pełna lista 8 pytań: [`zakup-passata-b7.md`](zakup-passata-b7.md)
+2. **Zadzwonić do ZAKLICZYNA** — 510-675-024. Rozstrzyga: **Comfortline czy Trendline** (Trendline = odpada) + czy ma hak (na zdjęciu wygląda, w opisie brak)
+3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
+4. **Skan rynku ~21.08.2026** — protokół w [`zakup-passata-b7.md`](zakup-passata-b7.md). Otworzyć też zapisane linki znanych kandydatów (oferta, która podrożała, wypada z filtra)
+5. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
 
-- Osobny koncept: Kia Soul rodziców (LPG), apartament Booking, normalny wakacyjny styl
-- Budżet: ~4 090 zł (dużo taniej dzięki LPG)
-- Pliki: `wyprawy/chorwacja-maj-2026/` (budzet.md)
+## 🧭 Wyprawy
 
-## Projekt poboczny: Kanał "Dojedziemy"
+**W grze: Bałkany X.2026 = oświadczyny** — Passatem B7, trasa jeszcze nie zaplanowana, folderu jeszcze nie ma.
+Wszystkie pozostałe (zrealizowane, niezrealizowane, koncepty) → [`wyprawy/INDEKS.md`](wyprawy/INDEKS.md)
 
-- **Status:** faza 0 — rezerwacja nazwy (maj 2026). Start planowany koniec 2026 / Q1 2027
-- **Pomysł:** kanał IG + YT o podróżach zwyczajnym autem (Passat B5.5 jako wabik). Target: ludzie z normalnym autem, nie kamperowcy/offroadowcy
-- **Nazwa:** "Dojedziemy" — handle `@dojedziemy` zarezerwowany na IG, mail `dojedziemy.kanal@gmail.com` założony
-- Pliki: `kanal-dojedziemy/` (koncept.md, konta.md, todo-na-start.md)
-- **Wraca do tematu:** jesień 2026 / start 2027 — wtedy aktywacja konta, pierwsze treści
+## 📁 Gdzie czego szukać
 
-## Pomysły na usprawnienia
+| Szukasz | Plik |
+|---|---|
+| Zakup B7: research, protokół skanu, kandydaci | [`zakup-passata-b7.md`](zakup-passata-b7.md) |
+| Co i jak sprawdzać przy oględzinach auta | [`weryfikacja-silnika-przed-zakupem.md`](weryfikacja-silnika-przed-zakupem.md) |
+| Spanie w aucie, boxy, pakowanie | [`system-biwakowy.md`](system-biwakowy.md) |
+| Stan obecnego B5.5 + plan diagnostyki | [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md) |
+| Wszystkie wyprawy ze statusami | [`wyprawy/INDEKS.md`](wyprawy/INDEKS.md) |
+| **„Czemu wtedy tak zdecydowaliśmy"** | [`dziennik.md`](dziennik.md) |
+| Zamknięte tory zakupowe (B5.5 4motion, XC70, B6) | [`archiwum/README.md`](archiwum/README.md) |
+| Luźne pomysły „jak podróżować lepiej" | [`pomysly-usprawnienia.md`](pomysly-usprawnienia.md) |
+| Kanał „Dojedziemy" (faza 0, wraca jesień 2026) | [`kanal-dojedziemy/`](kanal-dojedziemy/) |
 
-- Backlog luźnych pomysłów „jak podróżować lepiej" → `pomysly-usprawnienia.md` (auto / spanie / jedzenie / logistyka / kasa)
-- **🏕️ System biwakowy (02.08.2026)** — po kajakach + nocy na polu namiotowym: plan ogarnięcia spania, kategoryzacji rzeczy i kolejności pakowania → `system-biwakowy.md`. Wnioski: dmuchaniec wypada (zjeżdżanie po skosie oparć), 4 boxy z etykietami + torba dobowa, stolik i krzesła składane OSTATNIE. **DECYZJA 02.08.2026: kupujemy box na dach ORAZ platformę na hak** (~1400–3100 zł). Podział: hak = ciężkie i brudne (koło zapasowe, woda, buty, mokry sprzęt), dach = lekkie i objętościowe (stolik, krzesła, pościel), bagażnik = codzienne. Koło zapasowe na hak → wnęka pod podłogą bagażnika wolna. Warunek: platforma **uchylna** (śpią w bagażniku) + powtórzona tablica i listwa świetlna. Do budżetu wypraw doliczyć **+10–25% paliwa** za box dachowy
+## ❓ Otwarte pytania (do Michała)
 
-## Pomysły na przyszłe wyprawy
-
-- **Polskie morze (wakacje 2026?)** — po drodze wstąpić na Mazury:
-  - Pole namiotowe nad Jeziorem Zielonym — dużo polanek, nocleg pod namiotem
-  - Pole biwakowe po lewej stronie od pola namiotowego (Michał ma zapisane na Google Maps) — opcja spania w aucie przy brzegu, mniej prywatności ale wygodniej
-
-## Ustalenia
-
-- Albania = Theth + Velipoja, porządnie. Nie Szkodra/jezioro na pół gwizdka. Zostawiona na dedykowaną wyprawę bałkańską
-- Kinga była już z Michałem na Krk i Pelješacu — sprawdzone miejsca, dlatego Pelješac na oświadczyny
-- System gotowy na wiele pomysłów — każda wyprawa w swoim folderze
-
-## Wyprawa: Pelješac Maj 2026 ★ AKTYWNA ★
-
-- **Koncept:** zaręczynowa wyprawa Kią rodziców. Baza na Pelješacu, przystanek na Krk
-- **Termin:** 01.05–09.05.2026, 9 dni / 8 nocy (start piątek 1 maja)
-- **Auto:** Kia Soul (rodziców), LPG — klima, tanie paliwo, zero stresu
-- **Trasa:** BB → Krk (Njivice/Malinska, 1 noc) → Pelješac/Borje ★ (6 nocy) → Balaton (1 noc) → BB
-- **Oświadczyny:** Borje, plaża Kavala, zachód słońca ~19:50, dzień 6 (06.05 śr)
-- **Noclegi:** apartamenty (Booking) — Krk + Pelješac + Balaton, ceny ~200 zł/noc średnio
-- **Budżet:** ~5 385 zł (bez murów), do dyspozycji ~5 630 zł, rezerwa ~245 zł (ciasno)
-- Pliki: `wyprawy/peljesac-maj-2026/` (trasa.md, budzet.md, lokale.md)
-
-## Wyprawa: Serbia → Adriatyk Czerwiec 2026 (WSTRZYMANA — czeka na Terrano)
-
-- Koncept: Serbia → Durmitor → Adriatyk. Wraca do gry jak Terrano będzie ogarnięte
-- Pliki: `wyprawy/serbia-adriatyk-czerwiec-2026/` (trasa.md)
-
-## ⏰ Do przypomnienia na starcie następnej sesji
-
-- **[14.08.2026] ⭐ ZADANIE NR 1: zadzwonić do TORUNIA — cena spadła do 23 000** (było 25 000), 2011 Comfortline, 268 tys., przebieg zweryfikowany 14/14. **Po odrzuceniu Zabierzowa to nowy faworyt.** Pytanie nr 1: **regeneracja skrzyni 09.2025 — co konkretnie i dlaczego, oraz czy przy zdjętej skrzyni poszły dwumasa i sprzęgło** (jeśli nie przy 260 tys. — za chwilę powtórka roboty za 3–5 tys.). Dalej: historia oleju, olej w Haldeksie, DPF, kraj pochodzenia + bezwypadkowość (pola puste!), VIN przed 600-km wyjazdem. Pełna lista 8 pytań: `zakup-passata-b7.md`
-- **[14.08.2026] ⭐ ZADANIE NR 2: zadzwonić do ZAKLICZYNA (gm. Siepraw, pow. myślenicki) — 510-675-024** (26 800, 2011, 245 tys., manual, 4x4, grafit, **~50–55 km od BB**). Pytania: **jaka wersja — Comfortline czy Trendline** (Trendline = odpada) · **czy ma hak** (na zdjęciu wygląda, w opisie brak) · ile zejdzie z ceny (na FB stoi 6 dni, nie 1) · historia oleju / dwumasa / Haldex
-- **[14.08.2026] ~~ZADANIE: Zabierzów~~ — ❌ ODRZUCONY (kolor czerwony)**
-- **[14.08.2026] Następny skan rynku: ~21.08.2026.** Sprawdzić przy okazji, czy Płock 26 900 jeszcze żyje i czy staniał
-- **[10.08.2026] 🛑 DECYZJA: ZAKUP AUTA WSTRZYMANY DO WYNIKU TESTU USZCZELKI B5.5.** Test rozstrzyga kierunek: **uszczelka potwierdzona → B5.5 nie jest już backupem → kupujemy teraz za 15 tys.** / **czysto → B5.5 dowozi → czekamy i zbieramy na B7 (25 tys.)**. ⚠️ **Termin NIGDY nie był umówiony** (sprostowanie 10.08 — wcześniejszy zapis z 30.06 o „umówionym terminie" był błędny). Temat wisi od 30.06 i pierwszy krok to **zadzwonić i ustalić datę**. Zakres: pakiet (CO2 + test ciśnienia + ocena oleju + nowy korek ~30 zł), ~150–300 zł, jeden pobyt. **Auto jedzie do warsztatu ZIMNE** — korek otwiera się na zimnym, tester wchodzi na szyjkę, dopiero potem silnik odpala i odczyt idzie w trakcie grzania. **Sam CO2 nie wystarczy — ma fałszywe negatywy.** Szczegóły: `auta/passat-b5.5/stan.md`
-- **[10.08.2026] ⭐ ZADANIE NR 1: umówić diagnostykę B5.5** (patrz wpis wyżej — termin nigdy nie był umówiony). To teraz jedyne aktywne zadanie po stronie aut. Telefony do Mikołowa/Osieka **odwołane** — tor B5.5 wstrzymany, zbieramy na B7.
-- **[10.08.2026] ZADANIE (wznowione): alerty na B7** — Otomoto + OLX, kombi, 2.0 TDI CR, manual, **4motion**, do 25 tys. Rynek rusza się szybko (2 oferty zniknęły w dobę). **✅ SPRAWDZONE 10.08 przez Michała: Płock 26 900, Toruń 25 000 i Ozorków 23 000 WSZYSTKIE ŻYJĄ.** Wniosek: rynek nie jest tak nerwowy, jak wyglądał 06.08 (te 2 oferty, co zniknęły w dobę, to był wyjątek) → **nie ma presji „bierz teraz albo przepadnie", zbieranie do 25–27 tys. ma sens.** Ale: jeśli **Płock** stoi mimo 1. właściciela, kompletu faktur od nowości i 214 tys. km, to albo 26 900 jest za drogo jak na ten rynek, albo coś odstrasza → **pytanie na telefon: ile wisi i czy ktoś oglądał.** To też argument w negocjacji
-- **[10.08.2026] ~~ZADANIE NR 1: zadzwonić do MIKOŁOWA~~ — ODWOŁANE 10.08 (tor B5.5 wstrzymany). Oryginalna treść:** zadzwonić do MIKOŁOWA — 794-966-053** (Passat B5 FL 4motion, 8 400 zł). Pytanie rozstrzygające: **jaka moc i jakie literki silnika (AVF/AWX 130 KM czy 115 KM)** + **czemu auto stoi 8 tygodni**. Pełna lista 10 pytań: `zakup-passat-b5-4motion.md`
-
-- **[06.08.2026] ZADANIE: zadzwonić do Torunia** — 2011 Passat B7 **4Motion Comfortline**, 268 tys. km, **25 000 zł**, prywatny. **Jedyny kandydat spełniający komplet kryteriów.** Punkt nr 1: **regeneracja skrzyni 09.2025 — co i dlaczego, oraz czy przy zdjętej skrzyni wymieniono dwumasę i sprzęgło** (jeśli nie przy 260 tys. km, to za chwilę powtórka roboty za 3–5 tys.). Dalej: historia oleju silnikowego, olej w Haldeksie, DPF, kraj pochodzenia + bezwypadkowy (pola puste w ogłoszeniu), VIN przed 500-km wyjazdem. Pełna lista: `zakup-passata-b7.md`
-- **[06.08.2026] ✅ ZROBIONE: powtórny przelot po 45 ofertach po polu „Napęd"** — znalazł **5 aut z 4x4** zamiast 3 z pierwszego skanu po tytułach. **Pula spełniająca komplet kryteriów urosła z 1 do 3.** SPROSTOWANIE: czarny Comfortline 23 000 (Ozorków), który znalazł Michał, **NIE jest FWD — pole Napęd mówi 4x4**. Mój wcześniejszy werdykt był błędny
-- **[06.08.2026, zaktualizowane 14.08] ZADANIE: PŁOCK — ⬆️ PODROŻAŁ do 28 900 zł (było 26 900), wisi od 18.07.** Priorytet spadł: przy tej cenie i braku ruchu ze strony sprzedającego najpierw Zabierzów i Toruń. Oryginalny opis: VW Passat B7 **kombi, 2013, 2.0 TDI CR 140 KM, manual, 4motion, NIEBIESKI, 214 tys. km** ([OLX](https://www.olx.pl/d/oferta/mocny-vw-passat-b7-4motion-i-wlasciciel-rej-pl-grz-fotele-bdb-stan-CID5-ID19j0id.html)). **Oferta tylko na OLX — na Otomoto jej nie ma, dlatego nie było jej w pierwszym researchu.** Spełnia komplet kryteriów + ma to, czego nie ma nikt inny: **pierwszy właściciel w PL, faktura z salonu, komplet faktur serwisowych od nowości, 2x klucze, rozrząd 2 lata/10 tys. km temu, świeży olej, elektryczny hak**. Do potwierdzenia: **czy to Comfortline czy Trendline** (opis nie podaje wersji) + ile realnie zejdzie z ceny
-- **[06.08.2026] ~~ZADANIE: zadzwonić do Ozorkowa~~ — ❌ ANULOWANE 14.08.2026: ogłoszenie wygasło.** Oryginalna treść: 2011 BlueMotion **Comfortline**, 257 tys. km, **23 000 zł, czarny**, hak, fabryczna nawigacja, właściciel od 3 lat, **cena do negocjacji** ([link](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I8EKt.html)). ⚠️ **WĄTPLIWY — Michał zauważył, że na klapie jest napis BlueMotion, a nie 4MOTION.** Do tego nazwa wersji nie zawiera „4Mot", a opis milczy o napędzie. Jedynym śladem 4x4 jest pole w formularzu, a te bywają klikane losowo. **Prawdopodobnie FWD.** Telefon tylko po to, żeby zapytać wprost: „w ogłoszeniu ma pan napęd 4x4, a na klapie BlueMotion — który to?". Zweryfikować: VIN / napis 4MOTION na klapie / zdjęcie wału i tylnego dyfra spod auta
-- **[06.08.2026] DECYZJA DO PODJĘCIA: czy budżet ma luz w górę?** Michał znalazł **Lubin (Dolnośląskie), 2014 4Mot Highline, 215 625 km, srebrny, 30 900 zł** ([link](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IaZC0.html)) — **najlepszy 4motion do tej pory**: najniższy przebieg, Webasto (ogrzewanie postojowe — realny zysk przy spaniu w aucie), rozrząd + pompa wody przy 170 tys., właściciel od 2022. **Ale +5 900 ponad budżet i ma Stage 1 (140→180 KM)** — chiptuning obciąża dwumasę/sprzęgło/turbo. Nie było go w moim skanie, bo filtr ciął na 25 tys.
-- **[06.08.2026] ZADANIE: ustawić alerty na Otomoto — teraz to priorytet, nie „przy okazji"** (Michał zauważył, że 2 oferty zniknęły w ciągu doby — rynek rusza się szybko) — po zawężeniu kryteriów pula spadła do **jednego auta**. Filtr: B7 kombi, diesel ≥1900, manual, **4motion**, do 25 tys.
-- **[06.08.2026] ZADANIE: ustawić alerty na Otomoto na B7** — kombi, diesel ≥1900 cm3, manual, do 25 tys. zł (analogicznie jak przy XC70)
-- ~~[06.08.2026] research ogłoszeń B7~~ — **ZROBIONE 06.08.2026**, wynik w `zakup-passata-b7.md`
-- **[06.08.2026] Zapytać, czy dzwonił do Bochni** (XC70 18 tys., 290 tys. km, ~120 km od BB). Pytanie rozstrzygające: **kiedy ostatnia wymiana oleju w automacie**
-
-- **[02.08.2026] Michał miał zmierzyć — zapytaj o to na dzień dobry:**
-  1. **Wartość S** z tabliczki znamionowej haka (nacisk pionowy, kg) → dobór platformy na hak
-  2. **Wymiar C** — wysokość od podłogi bagażnika do sufitu, przy złożonych oparciach (cm) → czy podniesiona podłoga ma sens
-  3. Przy okazji **A** (długość do klapy) i **B** (szerokość między nadkolami) → dobór materaca
-- Po otrzymaniu wymiarów: dobrać **konkretne modele** platformy na hak, boxa dachowego i materaca zamiast widełek. Kontekst: `system-biwakowy.md` sekcje 3c i 4
-
-## Otwarte pytania
-
-- Która wyprawa? Balkany maj / Adriatyk / Serbia-Adriatyk (zaręczynowa)?
-- Wariant A vs B (Adriatyk)?
-- Terrano vs Kia rodziców?
-- Termin dokładny?
-- Stan auta — co jeszcze do zrobienia przed wyprawą
-
-## Ostatnie działania
-
-- [2026-08-14] **Skan rynku #1 + ustalony protokół cotygodniowego researchu.** Michał poprosił o stały rytm (raz na tydzień), bo alerty portali są nieszczelne. Przepis zapisany w `zakup-passata-b7.md`: Otomoto po frazie `q-4motion` (nie po filtrze 4x4 — kłamie) → OLX → FB Marketplace → sprzedajemy.pl; każda oferta weryfikowana po **polu Napęd i polu Skrzynia**, nigdy po tytule. Wynik skanu: 2 nowe auta (Zabierzów 19 000 — odrzucony przez kolor; Zakliczyn 26 800), Toruń staniał 25 000 → 23 000, Ozorków wygasł, Płock podrożał do 28 900. Pułapki wyłapane: Kamiennik (tytuł „4Motion", pole „na przednie koła"), Wilków (przemilczane DSG). **Nowe zasady z tej sesji:** (1) research zawsze z klikalnymi linkami, też przy odrzuconych; (2) na starcie skanu otwierać zapisane linki znanych kandydatów — oferta, która podrożała, wypada z filtra ceny; (3) kryterium koloru rozszerzone o „nie krzykliwe"; (4) notować powiat, nie samą nazwę wsi. **Stan na koniec: do dzwonienia Toruń (nr 1) i Zakliczyn (nr 2).** Następny skan ~21.08.2026
-- [2026-08-05] **Protokół weryfikacji silnika przed zakupem** — analiza filmu Petrolhead Number One (B5.5 AVF 130 KM, 18 591 zł w niecały rok: uszczelka → mikropęknięcia bloku → słupek za 8k → urwany wirnik turbiny). Wnioski: realna katastrofa to ~11k (cudzy przegrzany silnik), ~4k to normalne koszty 20-latka, ~3,5k to estetyka pod kamerę. Uszczelka była do wykrycia przed zakupem, turbina nie — przed nią broni tylko rezerwa 15–20% ceny auta. Sprostowanie: pękający blok 1.9 TDI to nie choroba modelu, tylko skutek przegrzania/zamarznięcia płynu; pękająca **głowica** to choroba modelu. Nowy plik: `weryfikacja-silnika-przed-zakupem.md`, podlinkowany z `zakup-passat-b5.5.md` i `zakup-passat-b6-19tdi.md`. Plan diagnostyczny dla obecnego B5.5 (co po pozytywnym CO2) → `auta/passat-b5.5/stan.md`
-- [2026-06-29] **B5.5 wraca do gry jako backup.** Korekta decyzji z 01.06: nie utylizujemy. Passat zostaje na lata jako auto zapasowe + daily + wozidło "do brudnego", nawet po kupnie B6. Plan: kumpel mechanik (przez Messengera; seb's GARAGE odrzucony — automaty, nie silnik) → pakiet diagnostyczny (test ciśnienia + CO2 + olej), który rozstrzygnie hipotezy uszczelka vs. zapowietrzenie. Mocny sygnał z 28.06: 4-5h jazdy w upale 37-38°C na klimie (BB→Brenna→Soblówka), wskazówka temp bez ruchu, stabilny poziom płynu → rozwinięta uszczelka mało prawdopodobna; w grze zapowietrzenie/słaby korek lub wczesna mała nieszczelność. Test za 0 zł do zrobienia samemu: olej pod korkiem/na bagnecie (emulsja?). Szczegóły w `auta/passat-b5.5/stan.md`
-- [2026-06-01] **Zwrot kierunku auta: sprzedaż Terrano + B5.5, zakup Passata B6 kombi 2.0 TDI manual 6-bieg, Highline/Comfortline.** B5.5 nie ratujemy (uszczelka + zalanie zbyt drogie przy aucie wartym 5-8k). B5.5 dojeździć jako daily/awaryjny. Terrano sprzedać — najpierw zdjęcia, wycena do ustalenia. Budżet zakupu B6: ~18k (do potwierdzenia researchem). Silnik: preferencja CR (CBAB) nad PD (choroba wałków). Plan B na Ostrowo lipiec: B7 taty Kingi jeśli B6 nie zdąży. Utworzono `zakup-passata-b6.md` z researchem PD vs CR, checklistą oględzin, czerwonymi flagami. **Research cen (Otomoto/OLX) i sprzedaży Terrano — do zrobienia przez zewnętrznego asystenta**
-- [2026-05-29] **Kanał "Dojedziemy" — rezerwacja nazwy.** Założony Gmail `dojedziemy.kanal@gmail.com` + IG `@dojedziemy` (prywatne, propozycje kont OFF, awatar minimalistyczny, bio puste) + YT `@Dojedziemy` (niepołączony z innymi usługami Google). TikTok próbowany — nie domknięty (zawiesił się przy weryfikacji kodu), zostawione na później. Plan startu kanału: koniec 2026 / Q1 2027. Pliki: `kanal-dojedziemy/` (koncept.md, konta.md, todo-na-start.md)
-- [2026-05-22] **Passat plenum: doprecyzowanie diagnozy + kolejności robót.** Layout plenum B5.5: akumulator centralnie, filtr powietrza po prawej, E-Box (ECU/przekaźniki) po lewej. Główny (prawdopodobnie jedyny) odpływ pod akumulatorem — reszta to spady w blasze. Liście blokują spady → woda zalega lokalnie → przelewa się przez sparciałe uszczelki filtra powietrza / E-Boxa do środka skrzynek → na podłogę. **Decyzja kolejności: 1) teraz samo czyszczenie plenum (maskownica + liście + odpływ + test wodą, 0 zł, 1-2h); 2) test CO2 w płynie chłodniczym; 3) jeśli Passat przeżyje → silikon uszczelki E-Boxa.** Nie pieścić silikonem zanim wiadomo czy auto zostaje. Szczegóły w `auta/passat-b5.5/odszczurzanie.md` (Etap 2, ★★★ plenum + ★★★ E-Box jako osobne punkty)
-- [2026-05-22] **Passat: nowy objaw — "pszt" przy odkręcaniu korka zbiorniczka wyrównawczego po 18h postoju, płyn się wzburza, poziom rośnie**. Hipoteza: uszczelka pod głowicą (spaliny w układzie chłodzenia). Plan diagnozy zapisany w `auta/passat-b5.5/stan.md` — najpierw test CO2 w płynie (~30-50 zł), potem decyzje. **Wstrzymane pieszczenie wnętrza Passata do rozstrzygnięcia**
-- [2026-05-22] **Terrano: rozmowa Michał+Kinga o sprzedaży**. Powody: białe kopcenie, rdza podwozia, rozjebana elektryka, rozklekotane wnętrze, pleśń → Michał traci siłę do auta. Plan: sprzedać → kasa na Passata/inne. Decyzja powiązana z diagnozą Passata. Pytania do dopytania + wstępne widełki cenowe w `auta/terrano/stan.md`
-- [2026-05-21] Passat odszczurzanie — inspekcja: mokra wykładzina pod wszystkimi dywanikami, masakra pod fotelem kierowcy, bulgotanie wody przy przyspieszaniu + zapach stęchłej wilgoci. Ranking źródeł: ★★★ plenum (zapchane odpływy), ★★ szyberdach, ★ nagrzewnica. Plan: hybryda rodzice (naprawa, 3 km) + blok (suszenie, kontrola). Pogoda 21-22.05 mokra → folia na kratkę pod szybą na noc. Pełny krok-po-kroku w `auta/passat-b5.5/odszczurzanie.md`
-- [2026-05-20] Decyzja: Passat B5.5 (kombi, 1.9 TDI 101 KM, 2004, 424 tys. km) zostaje autem podróżnym. Utworzono `auta/passat-b5.5/stan.md`. Cel: morze połowa lipca 2026 jako test, potem decyzja o Terrano
-
-### Wcześniejsze
-
-- [2026-03-19] Utworzono system asystenta wyprawowego
-- [2026-03-19] Zapisano dane o aucie (Nissan Terrano 2, 2.7 TDI, 4x4, rok 2000)
-- [2026-03-19] Utworzono wyprawę balkany-maj-2026 (trasa.md, budzet.md)
-- [2026-03-19] Dodano konwencję nazw folderów: [nazwa]-[miesiac]-[rok]
-- [2026-03-20] Ustalono przystanek #1: Kiskőrös (kemping termalny)
-- [2026-03-20] Ustalono przystanek #2: Uvac/Gornje Lopiže (meandry, Molitva)
-- [2026-03-28] Utworzono plan przygotowań: przygotowania.md
-- [2026-03-28] Wstępny kosztorys balkany: ~5 800–8 000 zł
-- [2026-03-29] Szczegółowy budżet balkany z cenami paliw
-- [2026-03-29] Uzupełniono auta/terrano/stan.md: ~6 000 zł wydane, do zrobienia mosty/sprzęgło
-- [2026-04-03] Nowy pomysł: Adriatyk — research tras dojazdu, kempingów
-- [2026-04-04] Adriatyk: pełna trasa + budżet w 2 wariantach (A: 9 dni/5 390 zł, B: 10 dni/6 025 zł)
-- [2026-04-04] Albania wywalona z Adriatyku — zostawiona na bałkańską (Theth + Velipoja porządnie)
-- [2026-04-04] 6 kempingów z cenami: Njivice, Zaton, Stobreč, Solitudo, LAKS
-- [2026-04-09] Pelješac: termin ustalony 01.05–09.05 (start piątek); budżet przeliczony na nową logikę kasy (oszczędności + uwolniony wspólny budżet)
-- [2026-04-09] Pelješac: zmiana planu — 1 noc Krk + 6 nocy Pelješac (zamiast 2+5); ceny noclegów skorygowane w górę po researchu (Krk ~220, Pel ~200, Bal ~180 zł/noc)
+- **Za ile i komu poszło Terrano?** Dziura w `auta/terrano/stan.md` — bez tego nie wiadomo, ile realnie jest w kieszeni na B7
+- **Chevrolet Aveo — sprzedany?** Ostatni ślad: 30.06, kupiec marudził o klimę. Od tego czasu cisza
+- **Ostrowo 11–20.07 — pojechaliście?** Jak wyszedł budżet vs. szacowane 5 360 zł
+- **Bałkany X.2026 — nadal aktualne?** Bez auta plan wisi; jaki dokładnie termin
+- **Ile realnie odłożone na dziś?** Determinuje, czy Toruń 23 000 zostawia rezerwę na naprawy

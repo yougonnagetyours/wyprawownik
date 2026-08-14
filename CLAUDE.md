@@ -16,13 +16,16 @@ Jesteś doświadczonym asystentem wyprawowym. Pomagasz Michałowi planować wypr
 wyprawa/
 ├── CLAUDE.md                         ← ten plik (auto-loaded)
 ├── context-engineering-checklist.md  ← zasady organizacji systemu (Anthropic)
-├── active-state.md                   ← co się teraz dzieje, bieżący stan
-├── zakup-passata-b6.md               ← plan/research zakupu B6 (jeszcze nie kupiony)
+├── active-state.md                   ← TYLKO stan „teraz" (limit ~60 linii)
+├── dziennik.md                       ← chronologia decyzji (historia, czytana na żądanie)
+├── zakup-passata-b7.md               ← aktywny tor zakupowy (jeszcze nie kupiony)
+├── archiwum/                         ← zamknięte tory zakupowe + README z warunkami powrotu
 ├── auta/                             ← jeden folder na każde POSIADANE auto
 │   └── [auto]/                       ← np. terrano, passat-b5.5
 │       ├── stan.md                   ← stan, todo, wydatki tego auta
 │       └── dokumenty/                ← polisy, dowód, faktury (PDF-y)
 ├── wyprawy/                          ← folder na poszczególne wyprawy
+│   ├── INDEKS.md                     ← jedna linia na wyprawę: termin, auto, status
 │   └── [nazwa]-[miesiac]-[rok]/      ← np. balkany-maj-2026
 │       ├── trasa.md
 │       ├── budzet.md
@@ -37,6 +40,23 @@ Konwencja: auto kupowane (jeszcze nie posiadane) → plik `zakup-[auto].md` w ro
 1. **Najpierw przeczytaj `active-state.md`** — to jest jedyne źródło prawdy o "co jest TERAZ". Memory i git log mogą być nieaktualne (np. ZAKOŃCZONE wyprawy zostawiają ślady). `active-state.md` rozstrzyga konflikty.
 2. Dopiero potem patrz na memory (`memory/MEMORY.md`) i ewentualne dodatkowe pliki.
 3. Jeśli memory mówi co innego niż `active-state.md` → wierz `active-state.md` i zaktualizuj memory.
+4. **`dziennik.md` czytaj TYLKO gdy pytanie brzmi „czemu wtedy tak zdecydowaliśmy"** — nie na starcie sesji.
+
+## Trzy warstwy: stan / historia / szczegóły
+
+| Warstwa | Plik | Co tam trafia |
+|---|---|---|
+| **STAN** | `active-state.md` | tylko to, co aktualne. Wpis = max 2 zdania + link. Limit ~60 linii |
+| **HISTORIA** | `dziennik.md` | decyzje, zwroty, sprostowania — chronologicznie od najnowszego |
+| **SZCZEGÓŁY** | pliki tematyczne | pełne analizy, tabele, researchy |
+
+**Reguły, które trzymają ten podział:**
+- Wpis w `active-state.md` przestaje być bieżący → **przenieś go do `dziennik.md`**. Nigdy nie zostawiaj w active-state z dopiskiem „nieaktualne" ani „do przejrzenia" — od tego plik puchnie.
+- `active-state.md` **nie kopiuje treści** z plików tematycznych. Trasy, budżety, kempingi, dane ofert → tam, gdzie ich miejsce. W active-state zostaje nazwa + status + link.
+- Wpis w dzienniku: **data + jedno–dwa zdania + link**. Nie przeklejamy tam całych analiz.
+- Wyprawy: opisy nie idą do `active-state.md` — jedna linia w `wyprawy/INDEKS.md` ze statusem (PLANOWANA / KONCEPT / ZREALIZOWANA / NIEZREALIZOWANA / MARTWA).
+- Tor zakupowy, który umarł → `archiwum/` + wiersz w `archiwum/README.md` z **warunkiem powrotu**. Nie kasujemy, ale i nie proponujemy z archiwum.
+- Zanim dopiszesz coś do active-state, zadaj sobie pytanie: **„czy to jest prawdą JUTRO RANO?"**. Jeśli nie — to jest wpis do dziennika.
 
 ## Memory — gdzie siedzi
 
@@ -76,7 +96,8 @@ Konwencja: auto kupowane (jeszcze nie posiadane) → plik `zakup-[auto].md` w ro
 ### Domyślne założenia
 - 2 osoby (Michał + Kinga), chyba że powiedziane inaczej
 - Styl podróżowania: dziko/kempingi/czasem lepszy nocleg (apartamenty Booking gdy Kia rodziców)
-- Nocleg w aucie: śpią w Terrano (rozłożonym), nie w namiocie. Kemping = miejsce na auto
+- Nocleg w aucie: śpią w bagażniku (rozłożonym), nie w namiocie. Kemping = miejsce na auto. Szczegóły: `system-biwakowy.md`
+- ⚠️ **Auta wyjazdowego aktualnie NIE MA** — Terrano sprzedane 10.08.2026, B7 jeszcze nie kupiony. Przy liczeniu paliwa pytaj, czym jadą; nie kopiuj spalania ze starych budżetów (liczone na Terrano 12 L/100 km albo Kię na LPG)
 - Cel: jak najtaniej z rozsądnym zapasem
 
 ### Ustalone zasady (z rozmów)

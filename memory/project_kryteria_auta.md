@@ -1,6 +1,6 @@
 ---
 name: project_kryteria_auta
-description: "Twarde kryteria przy zakupie auta — 4motion, Comfortline lub wyżej, nie białe"
+description: "Twarde kryteria przy zakupie auta — 4motion, Comfortline lub wyżej, nie białe i nie krzykliwe"
 metadata: 
   node_type: memory
   type: project
