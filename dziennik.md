@@ -9,6 +9,14 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [23.08.2026] Zasada kosztów wyegzekwowana hookiem, nie dobrą wolą
+Przy koncepcie Hiszpania/Sardynia napisałem, że kabina na promie jest w cenie przeprawy — nieprawda, u Grimaldiego to osobna dopłata (najtaniej deck passage, bez przypisanego miejsca). Michał słusznie zwrócił uwagę, że sama zasada w memory niczego nie egzekwuje: z memory ładuje się tylko indeks `MEMORY.md`, pliki tematyczne dopiero na żądanie. Stąd cztery warstwy: hook `UserPromptSubmit` (`.claude/scripts/koszty-guard.sh`) wstrzykujący zasadę przy każdym pytaniu o pieniądze, skill `research-cen` z procedurą, `.claude/rules/koszty.md` przy plikach z kwotami i linijka w `CLAUDE.md`.
+Przy okazji sprawdzone u źródła: promy Barcelona → Porto Torres 107–111 € i Olbia → Livorno 68–87 € (2 os. + Passat, wrzesień 2026) — mój wcześniejszy szacunek 1 500–2 500 zł za oba był 2–3× zawyżony. Pokład samochodowy zamknięty na czas rejsu (regulamin Grimaldi pkt 9.4) → `system-biwakowy.md` sekcja 7.
+
+### [22.08.2026] Skan kontrolny B5.5 4motion — tor nadal zamknięty
+Michał poprosił o sprawdzenie, czy pojawiło się coś wartego uwagi w B5 FL 4motion. Wyszły 3 nowe oferty (2x Jaworzno ~40 km, Lwówek Śląski), reszta puli tylko potaniała. Mikołów (kandydat nr 1) nadal żyje i zszedł 8 400 → 8 000 zł, ale wisi już 10 tygodni. Niemcy sprawdzone — pusto, import bez sensu. Wniosek z 10.08 bez zmian: dobrego egzemplarza nie ma, nadal zbieramy na B7.
+Szczegóły: `archiwum/zakup-passat-b5-4motion.md` sekcja „Skan kontrolny 22.08.2026".
+
 ### [14.08.2026] Skan rynku #1 + protokół cotygodniowego researchu
 Michał poprosił o stały rytm (raz na tydzień) — alerty portali są nieszczelne. Przepis zapisany w `zakup-passata-b7.md` („📡 Protokół cotygodniowego skanu rynku"): Otomoto po frazie `q-4motion` (NIE po filtrze 4x4 — kłamie) → OLX (oferty OLX-only) → FB Marketplace → sprzedajemy.pl. Każda oferta weryfikowana po **polu Napęd i polu Skrzynia**, nigdy po tytule.
 

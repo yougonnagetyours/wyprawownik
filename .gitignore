@@ -6,3 +6,5 @@
 .claude/*
 !.claude/settings.json
 !.claude/scripts/
+!.claude/rules/
+!.claude/skills/

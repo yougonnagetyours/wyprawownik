@@ -294,6 +294,24 @@ Bańka 10 l na relingu — **zostaje, dobry patent.** Dwie poprawki:
 **Razem: ~700–1000 zł w wersji minimum, ~1200–1500 zł z komfortem.**
 Box/platforma na hak: **+800–2500 zł** — decyzja dopiero po pierwszym wyjeździe z powyższym systemem.
 
+## 7. Prom — spanie w aucie odpada (sprawdzone 21.08.2026)
+
+Na promie **nie da się spać w aucie** — pokłady samochodowe są zamknięte dla pasażerów na czas rejsu. Grimaldi Lines, regulamin firmowy RA-UPAX-001 rev. 20 (18.06.2026), pkt 9.4: *„Garage decks are not accessible to passengers during the crossing"*. To standard bezpieczeństwa, nie widzimisię przewoźnika — u innych operatorów będzie tak samo.
+
+Wniosek do budżetu: **noc na promie to osobna pozycja**, nie „darmowy nocleg". Do wyboru (Grimaldi):
+
+| Opcja | Co to jest |
+|---|---|
+| Deck passage | najtaniej, **bez przypisanego miejsca** — koczujesz w lounge'u / na pokładzie |
+| Fotel (armchair) | przypisany rozkładany fotel |
+| Kabina | do wyłącznego użytku (nie dzielona z obcymi); wewnętrzna bez okna = najtańsza, zewnętrzna z bulajem drożej. Pościel, ręczniki i zestaw prysznicowy w cenie kabiny |
+
+Przy nocnym rejsie po dniu jazdy kabina wewnętrzna to realnie jedyna sensowna opcja — ale trzeba ją **doliczyć do kosztu przeprawy**, nie założyć, że jest w cenie.
+
+Źródło: [Grimaldi — Accommodations](https://www.grimaldi-lines.com/en/on-board/accommodations/) · [regulamin firmowy PDF](https://www.grimaldi-lines.com/wp-content/uploads/2019/06/REGOLAMENTO-AZIENDALE-GRIMALDI-EN-REV-20.pdf)
+
+**Uwaga przy aucie na LPG** (regulamin pkt 9.3): instalacja musi być wpisana w dowodzie, przewóz **trzeba zgłosić przewoźnikowi na piśmie**, a zawory odcięcia zbiornika muszą być zamknięte na czas rejsu.
+
 ## Źródła
 
 - [Car Camping Guide: How to Pack & Organize Your Vehicle (prked.com)](https://prked.com/post/car-camping-101-how-to-pack-organize-your-car-for-an-epic-trip)

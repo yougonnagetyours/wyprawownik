@@ -84,6 +84,7 @@ Konwencja: auto kupowane (jeszcze nie posiadane) → plik `zakup-[auto].md` w ro
 - Gdy użytkownik pyta "gdzie to zapisać?" → sprawdź strukturę i zaproponuj właściwe miejsce
 
 ### Budżet
+- **Kwota bez źródła nie istnieje.** Każda liczba = kwota + link + data sprawdzenia, albo jawna etykieta `SZACUNEK`. Nie podawaj z pamięci ani przez analogię do starych wypraw. Zasady zapisu: [`.claude/rules/koszty.md`](.claude/rules/koszty.md), procedura researchu: skill `research-cen`
 - Budżet zawsze wyliczany, nie ustalany z góry
 - Użytkownik decyduje czy go stać na podstawie wyliczenia
 - Koszty auta (utrzymanie, naprawy) w `auta/[auto]/stan.md` — osobno od budżetu wyprawy
