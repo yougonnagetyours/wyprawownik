@@ -174,3 +174,56 @@ Minusy: **zero historii serwisowej**, **sprowadzony z Austrii w 2024** (świeży
 ## Znalezione (AutoScout24, do weryfikacji)
 - **2000 Passat Variant, 90 000 km, €15 980, Magdeburg** — mały przebieg, sprawdzić silnik (czy 1.9 TDI 4motion)
 - **2004 Passat 1.9 TDI Variant, 245 600 km, €890, Flensburg** — tani, wyjeżdżony, 4motion niepotwierdzony
+
+---
+
+## Skan kontrolny 22.08.2026 (tor nadal wstrzymany — tylko obserwacja rynku)
+
+OLX + Otomoto, zapytania `passat 4motion 1.9` i `passat b5 4motion`. **Nic nie zmienia wniosku z 10.08: dobrego B5.5 4motion nie ma.** Cała pula to nadal 270–400 tys. km.
+
+| Auto | Rok | Przebieg | Cena | Od BB | Uwagi |
+|---|---|---|---|---|---|
+| **Jaworzno**, kombi, 130 KM Highline, manual | 2005 | 338 000 | **9 500** | ~40 km | NOWE. Skóra, xenon, podgrz. fotele, sprzęgło (sztywne!) wymienione. Sprzedający sam pisze: **lakier/blacharka do poprawy + klima nie działa**. Import DE 2014, 13/14 pól zweryfikowanych |
+| **Jaworzno**, kombi, 130→**170 KM po chipie**, 6-bieg | 2002 | 390 000 (?) | **8 650** | ~40 km | NOWE. Dużo świeżej roboty (zawieszenie, hamulce, rozrząd, sprzęgło), hak, 2 komplety kół, OC+PT do 09–10.2026. Przebieg do potwierdzenia |
+| Lwówek Śląski, kombi, 130 KM Highline, 6-bieg | 2004 | 380 000 | 6 900 | ~350 km | NOWE. Xenon, podgrz. fotele, relingi, hak. „Nic pilnego do naprawy", ale wnętrze i lakier zjechane |
+| **Osiek** (kandydat nr 2) | 2001 | 290 000 | **7 500** ⬇ (było 8 400) | ~30 km | nadal wisi, cena spadła o 900 zł |
+| Tuchola Żarska, 130 KM, 6-bieg | 2001 | 272 000 | 10 500 | ~450 km | **SEDAN — odpada** (najniższy przebieg w puli, ale nie kombi) |
+| Góra Kalwaria | 2004 | 390 000 | 7 500 ⬇ (było 8 000) | ~330 km | bez zmian merytorycznych |
+| Koszalin | 2002 | 400 000 | 5 700 | ~700 km | bez zmian |
+| Pogorzelec | 2002 | 323 000 | 6 500 ⬇ (było 7 200) | — | nadal ODPADA (lista robót od sprzedającego) |
+
+**Wnioski:**
+1. Rynek się nie poprawił, tylko **potaniał** — Osiek, Góra Kalwaria i Pogorzelec zjechały z ceny. To rynek stojących aut, nie okazji.
+2. Jedyne dwa warte telefonu są w **Jaworznie (~40 km)**. Oba mają jawną wadę: 2005 — klima + blacharka, 2002 — chip 170 KM i najpewniej 390 tys. km.
+3. Mikołowa (kandydat nr 1, FB, 8 400) w tym skanie nie było — sprawdzić, czy oferta jeszcze żyje, zanim ktokolwiek gdzieś dzwoni.
+4. **Nadal ZA czekaniem na B7.** Warunek powrotu tego toru (zły test uszczelki B5.5 + konieczność szybkiego zakupu za 15 tys.) się nie spełnił.
+
+### Doskan 22.08.2026 — pozostałe portale (Otomoto bezpośrednio, sprzedajemy.pl, motogratka)
+
+Pierwsze podejście objęło tylko dwa zapytania OLX — za wąsko. Domknięcie pełnego protokołu wyciągnęło **4 kolejne auta z 4motion/syncro, wszystkie odpadają na kryteriach**:
+
+| Auto | Co to | Dlaczego odpada |
+|---|---|---|
+| Henryków (dolnośl.), 1999, 110 KM, 420 tys., 8 600 | sprzedajemy.pl, prywatny | **sedan** + przebieg jak w obecnym B5.5 |
+| Wrocław, 2000, 115 KM, 330 tys., 6 000 | sprzedajemy.pl | **sedan**, bez OC i przeglądu |
+| Kłodzko, 1999, 1.9 TDI AFN 110 KM **syncro**, kombi, 375 tys., 8 000 | OLX, import Austria | **B4, nie B5** — poza kryterium generacji |
+| Błażejów, 2004 B5 FL kombi, **2.5 TDI V6 180 KM** 4motion, 445 tys., 7 000 | OLX | silnik poza kryterium (V6, drogi w utrzymaniu) + rozrząd i klima do roboty |
+| Lublin, 2000, 262 tys., 3 000 | sprzedajemy.pl | **auto na części**, nie do jazdy |
+
+**Otomoto z filtrem kombi + diesel + fraza `4motion` dla B5/B5 FL zwraca dziś dokładnie 1 ofertę** (Jaworzno 2005) — potwierdza ustalenie z 10.08, że pula na Otomoto jest pusta, a realne oferty siedzą na OLX.
+
+**Aktualność:** Kłodzko odświeżone dziś, Wrocław wystawiony 03.08, Henryków wisi od czerwca. Dane są bieżące na 22.08.2026.
+
+### FB Marketplace + Niemcy — 22.08.2026
+
+**🔴 Mikołów (kandydat nr 1) ŻYJE i STANIAŁ: 8 400 → 8 000 zł.** Ogłoszenie wisi już **10 tygodni**. Dane bez zmian: [FB Marketplace](https://www.facebook.com/marketplace/item/1717622112822917/), B5 FL 1.9 TDI 4Motion Comfortline, 2002, 6 biegów, kombi, 270 000 km, srebrny/beżowe wnętrze, tel. 794-966-053. Pytanie „czemu stoi 10 tygodni przy tej cenie" robi się mocniejsze, nie słabsze.
+
+**Reszta FB Marketplace (Bielsko-Biała + 250 km): nic nowego z 4motion.** Potwierdza się ustalenie z 10.08 — wyszukiwarka FB nie trzyma się frazy, na „passat 4motion" wypluwa B7/B8 i oferty czeskie w CZK. Jedyny sąsiedzki trafiony B5.5 to **Spytkowice (pow. wadowicki, ~35 km), 2001 kombi, 265 000 km, 4 500 zł, jeden właściciel od 10 lat** — ale w opisie **ani słowa o 4motion**, czyli to przód. Zapisane wyłącznie jako punkt odniesienia cenowy dla FWD.
+
+**Niemcy — pusto.**
+- **AutoScout24**: 48 ofert Passat Variant diesel 1997–2005 w całych Niemczech. **Dokładnie jedna ma 4Motion** — 07/2000, **2.5 TDI V6 150 PS**, 342 000 km, **1 490 €**, Herzogenaurach. Czyli silnik poza kryterium, przebieg wysoki. Reszta puli to €300–1 500 za auta 300–490 tys. km, głównie 101 KM przód.
+- **Wniosek**: import z Niemiec nie ma sensu. Tam nie ma tańszego ani lepszego B5.5 4motion niż w PL — jest **gorszy wybór**, a do ceny dochodzi transport i akcyza/rejestracja.
+
+**⚠️ Czego NIE domknąłem (do zrobienia przy następnym skanie):**
+- **mobile.de** — filtr Passat Variant 4motion 1997–2005 pokazał licznik **4 ofert**, ale strona wyników uparcie zwracała „podobne pojazdy" zamiast trafień. Nie wiem, co to za 4 auta.
+- **Kleinanzeigen.de** — dwa razy timeout, nie sprawdzone w ogóle.
