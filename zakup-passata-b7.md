@@ -5,8 +5,32 @@ Status: **faza researchu + przygotowania do zakupu**. Zwrot z B6 na B7: 2026-07-
 ## Dlaczego B7 zamiast B6
 
 - **B7 (2010–2015) to wyłącznie 2.0 TDI Common Rail** — odpada choroba wałków rozrządu PD (zmora starych B6 2.0 TDI PD).
-- **Napęd pompy oleju już poprawiony fabrycznie.** Feralny zabierak wydłużono z 77 na 100 mm w IV kw. 2009 (po 04.11.2009). B7 startuje w 2010 → cała generacja jest PO poprawce. W B6 2008–2009 trafiał się jeszcze stary 77 mm.
+- **Napęd pompy oleju już poprawiony fabrycznie.** Feralny zabierak wydłużono z 77 na 100 mm + pogłębiono gniazdo w module wałków. B7 startuje w 2010 → cała generacja jest PO poprawce.
+  - ⚠️ **SPROSTOWANIE 25.08.2026:** data graniczna to NIE jeden dzień. Źródła podają okno **IX–XI 2009**: autoEXPERT „silniki serii CB od października 2009", superbclub.pl „77 mm do września 2009", źródła EN „affected CR up to September 2009". Wcześniejszy zapis „po 04.11.2009" traktować jako środek przedziału, nie pewnik.
+  - ✅ **Mocniejszy argument za B7: seria CF (CFFB/CFGB) miała 100 mm OD POCZĄTKU produkcji.** Czyli B7 jest bezpieczny z definicji serii, nie z rocznika.
 - Kulturalniejszy, cichszy, nowsze wnętrze i elektronika.
+
+## 🔑 REGUŁA NADRZĘDNA: filtruj po dacie produkcji, nie po roczniku (25.08.2026)
+
+**Rocznik z ogłoszenia jest bezużyteczny**, bo granica poprawki zabieraka leży w ŚRODKU roku 2009. Dwa auta „2009" mogą być po dwóch stronach bariery.
+
+| Co widzisz | Werdykt |
+|---|---|
+| Pierwsza rejestracja **2010+** | ✅ Bezpieczne — produkcja na pewno po poprawce |
+| Pierwsza rejestracja **2009** | ⚠️ Loteria — rozstrzyga TYLKO tabliczka znamionowa albo ASO po VIN |
+| **2008 i starsze** | ❌ CR może być, zabierak stary |
+
+**Najpewniejszy skrót: kod silnika z pola P.5.** Seria **CF** (CFFB/CFGB) = 100 mm od początku produkcji, bez patrzenia na daty. Seria **CB** (CBAB) = zależy od daty produkcji.
+
+**Uwaga: VIN NIE wystarcza.** 10. znak koduje **rok modelowy**, nie miesiąc produkcji. VW przełącza rok modelowy ok. maja/czerwca — więc „modelowo 2010" może znaczyć produkcję z czerwca 2009. Twarde źródła to **tabliczka znamionowa** albo **ASO VW po pełnym VIN** (mają realną datę zjazdu z taśmy).
+
+### 🟡 B6 z końcówki produkcji — DOPUSZCZONY warunkowo (25.08.2026)
+
+Skoro decyduje data produkcji, a nie generacja: **B6 wyprodukowany po poprawce (rejestracja 2010) ma dokładnie to samo co B7** — CR + 100 mm. Mechanicznie ten sam silnik, cena ~19–22 tys. zamiast 23–27 tys.
+
+B7 dokłada: nowsze wnętrze, elektronikę, zwykle niższy przebieg. **Nie dokłada nic pod maską.**
+
+→ B6 kombi 4motion manual Comfortline+ **wchodzi do skanu rynku na równych prawach**, pod warunkiem weryfikacji daty produkcji. Reszta kryteriów (4motion, manual, kolor, wersja) bez zmian.
 
 ## Co kupujemy
 
@@ -42,6 +66,32 @@ Ceny bazowe z lat 2016–2018, w 2025 realnie wyżej:
 - **Regeneracja wałków** — ~550 zł + robocizna 200–300 zł
 - **Regenerowany moduł pompy oleju z wałkami** — ~1500 zł (2025: realnie ~2000–2500 z robocizną)
 - **ASO** — 5000+ zł (nie tędy droga)
+
+### ⚠️ Czy da się przerobić 77 mm na 100 mm? (sprawdzone 25.08.2026)
+
+**NIE metodą "wsadź dłuższy zabierak".** Poprawka VW to były DWIE zmiany naraz: dłuższy zabierak **plus pogłębione gniazdo w module wałków**.
+
+> „nie da się włożyć 100 mm zabieraka w nieobrobiony wałek — po prostu nie wejdzie, wałek nie był frezowany pod dłuższy zabierak" (Parts for German Cars / KMB Parts Direct)
+
+Numery katalogowe: **77 mm = `03G115281F`**, **100 mm = `03G115281E`** — nie są zamienne 1:1 ([VAG247](https://www.vag247.com/en_US/p/Oil-pump-hex-drive-key-for-balance-shaft-2.0-TDI-100-mm/2762)).
+
+Dwie realne drogi:
+1. **Pogłębienie gniazda o ~23 mm + nowy zabierak 100 mm** — serwis DE wołał ~249 EUR (Audi-Sport.net) — SZACUNEK
+2. **Wymiana całego modułu** na wersję po poprawce
+
+Silnik zostaje w aucie, wchodzi się od dołu przez miskę. To normalna robota warsztatowa, nie rozbieranie silnika.
+
+**Realny koszt w PL 2026: BRAK DANYCH.** Ekstrapolacja ze starych cen daje 2–3 tys. zł z robocizną, ale to SZACUNEK — przed wpisaniem do budżetu wymagany telefon do warsztatu VAG.
+
+### 💡 Strategia: inspekcja zamiast prewencyjnej wymiany (25.08.2026)
+
+Przy CR problem jest wg forów **marginalny** (dotyka głównie starych PD) — traktować jako głos warsztatowy, nie dane. Dlatego **nie opłaca się prewencyjnie wymieniać modułu** za pewne 2–3 tys. na ryzyko o niskim prawdopodobieństwie.
+
+**Zamiast tego: inspekcja ~800 zł (SZACUNEK)** — zdjęcie miski, ocena gniazda w wałku:
+- gniazdo zdrowe → jeździsz, pilnujesz olejów, temat zamknięty
+- gniazdo wyrobione → **wtedy** moduł
+
+Zastrzeżenie: ten defekt kończy się zatarciem silnika, więc „poczekam aż zastuka" to zła strategia. Inspekcja robi to, czego czekanie nie robi — **rozstrzyga sprawę PRZED wyjazdem** (istotne przed Bałkanami).
 
 **Ważne:** przy oględzinach nie rozbierzesz silnika. Realne „sprawdzenie" przy zakupie = **historia wymian oleju + brak alarmu ciśnienia oleju + opiłki na korku magnetycznym miski + odsłuch na zimno**. Pełna inspekcja kasety (~800 zł) ma sens dopiero jak egzemplarz poważnie rozważany i sprzedawca się zgadza.
 
@@ -409,6 +459,67 @@ Tak, skrzynia to punkt nr 1, ale nie jedyny. **Regeneracja skrzyni 09.2025 znacz
 
 Protokół oględzin na miejscu: `weryfikacja-silnika-przed-zakupem.md`
 
+## 🆕 Skan 25.08.2026 — pięć linków od Michała (2 Passaty + 2 Tuaregi + 1 martwy)
+
+Michał podesłał 5 ogłoszeń. **Weryfikacja przez wtyczkę Chrome, nie tylko przez opis** — i słusznie, bo opis kłamał.
+
+### 🔴 Lekcja metodyczna: pole „Typ nadwozia" też kłamie
+
+Oferta z Nowej Karczmy ma w polach **„Sedan" i „Liczba drzwi: 4"**. Na zdjęciach to **jednoznacznie kombi** (relingi, prosty dach, klapa Variant, 5 drzwi). Gdyby ufać polom — auto wypadłoby z filtra bez powodu.
+
+→ **Do protokołu skanu: nadwozie potwierdzać ZDJĘCIAMI, nie polem.** Dołącza do „Napęd" i „Skrzynia" na liście pól, którym nie wolno ufać.
+
+### Kandydaci
+
+| # | Auto | Cena | Produkcja | Zabierak | Status |
+|---|---|---|---|---|---|
+| **N1** | [Nowa Karczma](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6Idpmn.html), B6 kombi, Comfortline, srebrny, 208 tys. km | **15 900** | 1. rej. **28.07.2009** | ❌ stary 77 mm (pewne) | 🟢 **TOR GŁÓWNY** |
+| **N3** | [Łódź](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-variant-ID6Ibjff.html), B6 kombi, **Highline**, czarny, 224 tys. km | 19 900 | 1. rej. **27.11.2009** | ⚠️ nieznany, szanse przeciw | 🟡 **ZAPAS** |
+
+Oba: 2.0 TDI 140 KM, **manual**, **4x4 (stały)** — potwierdzone w polu „Napęd". Oba z Niemiec.
+
+**N1 — Nowa Karczma, 15 900 zł** (ID 6150151527, wystawione 24.08.2026)
+- ✅ **Jedyne auto, na które stać nas DZIŚ** (mamy 15 tys.)
+- ✅ Rozrząd + pompa wody wymienione **27.02.2025 przy 191 640 km** (~17 tys. km temu)
+- ✅ Bagażnik ładny, płaska podłoga — dobrze rokuje pod `system-biwakowy.md`
+- ✅ Dwa komplety kół, dwa kluczyki
+- ⚠️ CR **nie potwierdzone w ogłoszeniu** (brak kodu, brak zdjęcia komory) — ale rej. 07.2009 + CR od 02.2008 → prawie na pewno **CBAB**
+- ❌ Zabierak stary — tu nie ma loterii, lipiec 2009 to pewniak
+- ❌ Brak haka, historia wymian oleju nieznana, komis
+
+**N3 — Łódź, 19 900 zł** (ID 6149651365, komis ToDo)
+- ⚠️ Sprzedający pisze „koniec listopada 2009 (modelowo 2010 – rozkodowane po VIN)" — **to nie dowód**. „Modelowo 2010" = rok modelowy, nie miesiąc produkcji. „Koniec listopada" = data 1. rejestracji, nie produkcji
+- ⚠️ Rejestracja 27.11.2009 stawia **sufit** na produkcję. Poprawka ruszyła IX–XI.2009 → okno „trafione" to kilka tygodni kontra kilka miesięcy „nietrafionych". **Szanse przeciw**
+- ✅ Highline, czarny, gwarancja pisemna, zgoda na sprawdzenie w dowolnym ASO
+- ❌ Brakuje ~5 tys. zł
+
+**Dlaczego N1 przed N3:** oba prawie na pewno mają stary zabierak, więc N3 nie kupuje spokoju — tylko lepszą wersję wyposażenia za 4 tys. i za czekanie. N1 ma do tego świeży rozrząd, a N3 na ten temat milczy.
+
+### ❌ Odrzucone ze skanu 25.08.2026
+
+- **[ID6IcLoo](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IcLoo.html)** — Passat 2.0 TDI DPF **DSG** 4Motion Highline. **Ogłoszenie nieaktywne.** I tak odpadłoby na DSG
+- **Touareg [Będzin 18 999](https://www.otomoto.pl/osobowe/oferta/volkswagen-touareg-ID6I2EIA.html)** (2007, 3.0 V6 TDI 224 KM, 234 tys.) i **[Bogatynia 21 900](https://www.otomoto.pl/osobowe/oferta/volkswagen-touareg-ID6IaLd2.html)** (2007, 299 tys., automat) — **oba odpadają**:
+  - Spalanie ~14 l/100 km w mieście — inna klasa kosztów niż „jak najtaniej z rozsądnym zapasem"
+  - **Łańcuchy rozrządu 3.0 V6 TDI od strony koła zamachowego** — wymiana wymaga wyjęcia silnika. Przy 230–300 tys. km to kwestia „kiedy", nie „czy"
+  - Pneumatyka (standardowa awaria w tym roczniku)
+  - Za 19–22 tys. zero rezerwy na naprawy przy aucie, które ich potrzebuje pewniej niż Passat
+  - Będzin ma w polu „manualna" — Touareg 3.0 TDI z manualem to w PL jednorożec, prawdopodobnie błąd wpisu
+
+### Pytania wysłane / do wysłania
+
+**Do N1 (Nowa Karczma):**
+1. Kod silnika z dowodu, **pole P.5** (spodziewamy się CBAB)
+2. **Historia wymian oleju** — co udokumentowane, z jakich przebiegów (priorytet przy starym zabieraku)
+3. Zdjęcie komory silnika
+4. Zgoda na inspekcję u mechanika przed zakupem
+
+**Do N3 (Łódź):**
+1. **Zdjęcie tabliczki znamionowej** — dokładny miesiąc produkcji
+2. Zdjęcie pola P.5
+3. Historia wymian oleju
+
+⚠️ **Nie tłumaczyć sprzedającemu, po co ta data.** Inaczej dostaniesz jego interpretację („na pewno po poprawce") zamiast surowej daty — a przy N1 to jest argument cenowy wart ~2–3 tys.
+
 ## 📡 Protokół cotygodniowego skanu rynku (ustalony 14.08.2026)
 
 Michał prosi o research raz na tydzień, bo alerty na portalach są nieszczelne. Poniżej stały przepis — do powtarzania bez pytania o kryteria.
@@ -417,8 +528,8 @@ Michał prosi o research raz na tydzień, bo alerty na portalach są nieszczelne
 
 | Parametr | Wartość |
 |---|---|
-| Model / generacja | Passat **B7 kombi** (2010–2015) |
-| Silnik | 2.0 TDI **Common Rail** — 140 KM (CFFB/CFGB) lub 170 KM (CLLA) |
+| Model / generacja | Passat **B7 kombi** (2010–2015) **+ B6 kombi z produkcji po poprawce** (1. rej. 2010+) — rozszerzone 25.08.2026 |
+| Silnik | 2.0 TDI **Common Rail** — 140 KM (CFFB/CFGB/CBAB) lub 170 KM (CLLA). **Seria CF = 100 mm od początku produkcji** (najbezpieczniejsza) |
 | Skrzynia | **manual** (02Q) — DSG odpada |
 | Napęd | **4motion** — warunek konieczny |
 | Wersja | Comfortline lub wyżej (Business/Highline OK) — **nie Trendline** |
@@ -437,6 +548,8 @@ Michał prosi o research raz na tydzień, bo alerty na portalach są nieszczelne
 
 - **Zawsze wchodzić w ogłoszenie i czytać pole „Napęd"** — tytuł „4Motion" nie znaczy nic (przykład: Kamiennik 24 900 ma w tytule 4Motion, w polu „Na przednie koła")
 - **Sprawdzać skrzynię w polu, nie w tytule** — DSG bywa przemilczane (przykład: Wilków „4 motion 2.0 TDI 170KM", w środku automat)
+- **Nadwozie potwierdzać ZDJĘCIAMI, nie polem** (dodane 25.08.2026) — przykład: Nowa Karczma ma w polach „Sedan / 4 drzwi", a na zdjęciach jest kombi. Pole „Typ nadwozia" dołącza do „Napęd" i „Skrzynia" na liście pól, którym nie wolno ufać
+- **Sprawdzać datę 1. rejestracji, nie rocznik** (dodane 25.08.2026) — granica poprawki zabieraka leży w środku 2009. Patrz sekcja „REGUŁA NADRZĘDNA" na górze pliku
 - Uważać na „BlueMotion" ≠ „4MOTION" na klapie
 - Cofnąć do rocznika: 2010 może być jeszcze **B6** (PD, choroba wałków) — sprawdzać pole „Generacja"
 - Research przez **Chrome (wtyczka)**, nigdy WebFetch

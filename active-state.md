@@ -1,6 +1,6 @@
 # Active State
 
-Ostatnia aktualizacja: **2026-08-14** (przebudowa struktury — historia wyniesiona do `dziennik.md`)
+Ostatnia aktualizacja: **2026-08-25** (skan 5 linków, B6 po poprawce dopuszczony)
 
 > **Zasady tego pliku:** tylko to, co jest AKTUALNE. Wpis = max 2 zdania + link do pliku ze szczegółami.
 > Gdy coś przestaje być bieżące → **przenieś do `dziennik.md`**, nie zostawiaj z dopiskiem „nieaktualne".
@@ -11,15 +11,17 @@ Ostatnia aktualizacja: **2026-08-14** (przebudowa struktury — historia wyniesi
 ## 🚗 Auto — gdzie jesteśmy
 
 **Flota:** jedyne auto na chodzie to **Passat B5.5** (2004, 1.9 TDI 101 KM, 424 tys. km) — z **niezdiagnozowaną sprawą uszczelki pod głowicą**. Terrano sprzedane 10.08.2026.
-**Kupujemy:** Passat B7 kombi, 2.0 TDI CR, manual — [`zakup-passata-b7.md`](zakup-passata-b7.md)
-**Twarde kryteria:** 4motion (pole „Napęd", nie tytuł!) · Comfortline lub wyżej · **nie białe i nie krzykliwe** · budżet ~23–27 tys. z rezerwą na naprawy
+**Kupujemy:** Passat kombi 2.0 TDI CR, manual, 4motion — **B7 (2010–2015) LUB B6 z produkcji po poprawce zabieraka** (rozszerzone 25.08.2026) — [`zakup-passata-b7.md`](zakup-passata-b7.md)
+**Twarde kryteria:** 4motion (pole „Napęd", nie tytuł!) · Comfortline lub wyżej · **nie białe i nie krzykliwe** · **nadwozie i rocznik potwierdzać zdjęciami/tabliczką, nie polami** · budżet do ~27 tys. z rezerwą na naprawy
 
 **💰 Kasa (14.08.2026): 15 000 zł z Terrano — TRZEBA DOZBIERAĆ.** Do Torunia brakuje ~8 000 zł + rezerwa na naprawy. Czyli **teraz zbieramy i obserwujemy rynek, nie kupujemy** — telefony do sprzedających są rozpoznaniem, nie negocjacją finalną.
 
-**Kandydaci po skanie 14.08:**
+**Kandydaci po skanie 25.08:**
 
 | # | Auto | Cena | Stan |
 |---|---|---|---|
+| **N1** | **Nowa Karczma** B6 kombi 2009, Comfortline, srebrny, 208 tys. | **15 900** | 🟢 **tor główny** — jedyne w zasięgu dziś. Zabierak stary (rej. 07.2009). Pytania DO WYSŁANIA |
+| **N3** | **Łódź** B6 kombi 2009, Highline, czarny, 224 tys. | 19 900 | 🟡 zapas — brak ~5 tys. Data produkcji do potwierdzenia tabliczką |
 | 1 | **Toruń** 2011, Comfortline, 268 tys. km | **23 000** (było 25 000) | do telefonu — sprzedający schodzi |
 | 2 | **Zakliczyn** (gm. Siepraw, ~50–55 km od BB) 2011, 245 tys. km, grafit | **26 800** | do telefonu — wersja nieznana |
 | — | Płock 2013, 214 tys. km, niebieski | 28 900 (⬆ z 26 900) | poza limitem, obserwować |
@@ -29,8 +31,10 @@ Ostatnia aktualizacja: **2026-08-14** (przebudowa struktury — historia wyniesi
 1. **Zadzwonić do TORUNIA** — pytanie nr 1: regeneracja skrzyni 09.2025, co i dlaczego, oraz czy przy zdjętej skrzyni poszły dwumasa i sprzęgło. Pełna lista 8 pytań: [`zakup-passata-b7.md`](zakup-passata-b7.md)
 2. **Zadzwonić do ZAKLICZYNA** — 510-675-024. Rozstrzyga: **Comfortline czy Trendline** (Trendline = odpada) + czy ma hak (na zdjęciu wygląda, w opisie brak)
 3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
-4. **Skan rynku ~21.08.2026** — protokół w [`zakup-passata-b7.md`](zakup-passata-b7.md). Otworzyć też zapisane linki znanych kandydatów (oferta, która podrożała, wypada z filtra)
-5. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
+4. **Wysłać pytania do N1 (Nowa Karczma)** — kod silnika P.5, historia wymian oleju, zdjęcie komory, zgoda na inspekcję. Do N3 (Łódź): zdjęcie tabliczki znamionowej (miesiąc produkcji). ⚠️ Nie tłumaczyć, po co ta data
+5. **Wycenić w warsztacie VAG** robotę na module wałków (pogłębienie gniazda + zabierak 100 mm albo cały moduł) — bez tego nie ma kwoty do budżetu
+6. **Skan rynku ~21.08.2026** — protokół w [`zakup-passata-b7.md`](zakup-passata-b7.md). Otworzyć też zapisane linki znanych kandydatów (oferta, która podrożała, wypada z filtra)
+7. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
 
 ## 🧭 Wyprawy
 
