@@ -520,6 +520,88 @@ Oba: 2.0 TDI 140 KM, **manual**, **4x4 (stały)** — potwierdzone w polu „Nap
 
 ⚠️ **Nie tłumaczyć sprzedającemu, po co ta data.** Inaczej dostaniesz jego interpretację („na pewno po poprawce") zamiast surowej daty — a przy N1 to jest argument cenowy wart ~2–3 tys.
 
+## 🚗 Protokół przy dalekim wyjeździe (ustalony 25.08.2026)
+
+Powstało przy N1: **~4 h w jedną stronę, ~700 km w dwie.** Zasada: **maksimum weryfikacji zdalnie, zanim wsiądziesz.**
+
+### Krok 1 — jedna prośba, która robi pół oględzin
+
+> „Czy mógłby Pan nagrać krótkie wideo zimnego rozruchu — auto po nocy, telefon przy otwartej masce, odpalenie i dwie minuty pracy na wolnych obrotach?"
+
+Z tego nagrania słychać naraz: **klekot zabieraka/wałków**, **klekot dwumasy** (najgłośniejsza przy odpalaniu i gaszeniu), kulturę pracy CR (PD słychać z drugiego końca podwórka), dym na zimnym. Odmowa albo nagranie ciepłego silnika (odpala „za pstryknięciem") = odpowiedź bez jazdy.
+
+### Krok 2 — zdjęcia do poproszenia
+
+- **Naklejka z danymi pojazdu** (bagażnik, pod wykładziną, wnęka koła zapasowego; kopia na 1. stronach książki serwisowej) → kody PR + **kod silnika** + VIN naraz
+- Zbiorniczek wyrównawczy (kolor i czystość płynu), **bagnet oleju**, korek wlewu od spodu
+- Komora silnika
+- Faktury: oleje + rozrząd
+
+Kody PR odczytać: [InfoVAG](https://infovag.pl/prcode). **`4A3` = podgrzewane fotele.**
+
+### Krok 3 — darmowa historia, ZANIM kupisz raport
+
+1. **[historiapojazdu.gov.pl](https://historiapojazdu.gov.pl)** — działa dla aut zarejestrowanych w PL, daje odczyty licznika z badań technicznych. Potrzeba: VIN + nr rej. + data 1. rejestracji
+2. **ASO VW po VIN** — data produkcji (**jedyne pewne źródło**, VIN sam daje tylko rok modelowy), kody PR, historia serwisowa. Telefon, darmowe
+
+**CarVertical/AutoDNA dopiero na dziurę, której te dwa nie pokryją: okres niemiecki przed sprowadzeniem.** Tam siedzi ryzyko szkód i cofniętego licznika.
+
+### Krok 4 — pytania telefoniczne (bramka przed wyjazdem)
+
+1. Od kogo i kiedy sprowadzone
+2. Książka serwisowa i faktury na **wymiany oleju** (przy starym zabieraku: priorytet)
+3. **DPF oryginalny czy wycięty**, czy świeciła kontrolka
+4. **Olej i filtr Haldexa** — kiedy (co ~60 tys. km, notorycznie olewane)
+5. Dwumasa/sprzęgło wymieniane?
+6. Zgoda na jazdę próbną min. 20–30 km + na warsztat
+7. Czy cena podlega negocjacji
+8. ⚠️ **„Proszę nie odpalać auta przed moim przyjazdem"** — stawiane przy umawianiu, nie na miejscu
+
+### Krok 5 — inspekcja Otomoto zamiast jazdy w ciemno
+
+Ceny sprawdzone 25.08.2026 na [ogłoszeniu N1](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6Idpmn.html):
+
+| Pakiet | Cena | OBD | Przejazd | Warsztat (podwozie) |
+|---|---|---|---|---|
+| Mini | 459 zł | ❌ | ❌ | ❌ |
+| Midi | 699 zł | ✅ | ✅ | ❌ |
+| **Maxi** | **819 zł** | ✅ | ✅ | ✅ |
+
+**Rekomendacja: Maxi.** Delta 120 zł nad Midi kupuje podwozie — a przy **4motion** tam siedzi wał, łożysko podporowe, krzyżak i tylny dyfer. OBD sprawdza **przebieg vs licznik**, czyli testuje to, czego handlarz nie udowodni gadaniem.
+
+⚠️ **Inspekcja Otomoto NIE zastępuje inspekcji miski olejowej (~800 zł).** Żaden z 350 punktów nie obejmuje zabieraka — to wymaga zdjęcia miski. To dwie różne rzeczy.
+⚠️ Wymaga zgody sprzedającego (Krok 3 w ich procesie) i konta na Otomoto.
+
+### Uszczelka pod głowicą — kalibracja dla 2.0 TDI CR
+
+Pełny protokół: [`weryfikacja-silnika-przed-zakupem.md`](weryfikacja-silnika-przed-zakupem.md) sekcja 3. **Ale kalibracja jest inna niż przy B5.5:**
+
+Uszczelka **nie jest charakterystyczną awarią 2.0 TDI CR** — lista chorób to zabierak, DPF, wtryski, turbo, EGR. Historia z tamtego pliku (B5 1.9 PD) to było **cudze przegrzanie, nie wada konstrukcyjna**.
+
+→ Pytanie brzmi **„czy ktoś to auto przegrzał"**, a nie „czy ten silnik lubi to robić". Sekwencja z pliku jest darmowa i zajmuje 10 min — rób ją, ale nie jako główny wątek. Kolejność: „pszt" przy korku → bagnet i poziom oleju → kolor płynu → zimny rozruch → reszta.
+
+### Sprzęgło i dwumasa
+
+**Zdalnie:** wideo rozruchu i gaszenia (patrz Krok 1).
+**Na miejscu:** klekot na wolnych obrotach znikający po wciśnięciu sprzęgła (dwumasa/łożysko oporowe) · wibracje 1200–1800 obr./min · **test ślizgania**: 5. bieg, ~60 km/h, pod górę, pełny gaz — obroty w górę bez przyspieszenia = do wymiany · punkt łapania przy górze skoku pedału = wyjeżdżone.
+
+### 💰 Kalkulacja zakupu N1 (stan 25.08.2026)
+
+| Pozycja | Kwota | Źródło |
+|---|---|---|
+| Auto | 15 900 (do negocjacji) | ogłoszenie, 25.08.2026 |
+| Inspekcja Maxi | 819 | Otomoto, 25.08.2026 |
+| Inspekcja miski (zabierak) | ~800 | **SZACUNEK** (ceny 2016–18) |
+| Ewentualny moduł wałków | 2 000–3 000 | **SZACUNEK**, brak danych PL 2026 |
+| Przepisanie, OC, przegląd | ? | **DO POLICZENIA** |
+
+**Kasa:** 17 500 zł (25.08.2026) → **~20 500 zł od 01.09.2026**.
+
+- **Dziś (17 500):** auto + Maxi = 16 719 → zostaje ~780 zł. Rezerwy praktycznie zero
+- **Od 01.09 (20 500):** auto + Maxi = 16 719 → **zostaje ~3 780 zł**, czyli starcza na inspekcję miski i większość modułu. **To jest pierwszy moment, w którym zakup domyka się uczciwie**
+
+→ **Rekomendacja: nie kupować przed 01.09**, chyba że uda się zbić cenę. Ryzyko: N1 wisi od 24.08.2026, 4motion kombi za 15 900 schodzi w dni. Dlatego **weryfikację zdalną (Kroki 1–4, wszystkie darmowe) robić OD RAZU** — żeby 01.09 działać bez zwłoki, a jeśli auto zniknie wcześniej, przynajmniej nie stracić na nie dnia.
+
 ## 📡 Protokół cotygodniowego skanu rynku (ustalony 14.08.2026)
 
 Michał prosi o research raz na tydzień, bo alerty na portalach są nieszczelne. Poniżej stały przepis — do powtarzania bez pytania o kryteria.

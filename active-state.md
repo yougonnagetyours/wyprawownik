@@ -1,6 +1,6 @@
 # Active State
 
-Ostatnia aktualizacja: **2026-08-25** (skan 5 linków, B6 po poprawce dopuszczony)
+Ostatnia aktualizacja: **2026-08-25** (skan 5 linków, B6 po poprawce dopuszczony, kasa 17,5k)
 
 > **Zasady tego pliku:** tylko to, co jest AKTUALNE. Wpis = max 2 zdania + link do pliku ze szczegółami.
 > Gdy coś przestaje być bieżące → **przenieś do `dziennik.md`**, nie zostawiaj z dopiskiem „nieaktualne".
@@ -14,7 +14,8 @@ Ostatnia aktualizacja: **2026-08-25** (skan 5 linków, B6 po poprawce dopuszczon
 **Kupujemy:** Passat kombi 2.0 TDI CR, manual, 4motion — **B7 (2010–2015) LUB B6 z produkcji po poprawce zabieraka** (rozszerzone 25.08.2026) — [`zakup-passata-b7.md`](zakup-passata-b7.md)
 **Twarde kryteria:** 4motion (pole „Napęd", nie tytuł!) · Comfortline lub wyżej · **nie białe i nie krzykliwe** · **nadwozie i rocznik potwierdzać zdjęciami/tabliczką, nie polami** · budżet do ~27 tys. z rezerwą na naprawy
 
-**💰 Kasa (14.08.2026): 15 000 zł z Terrano — TRZEBA DOZBIERAĆ.** Do Torunia brakuje ~8 000 zł + rezerwa na naprawy. Czyli **teraz zbieramy i obserwujemy rynek, nie kupujemy** — telefony do sprzedających są rozpoznaniem, nie negocjacją finalną.
+**💰 Kasa (25.08.2026): 17 500 zł. Od 01.09.2026: ~20 500 zł.**
+Od 01.09 **N1 (15 900) staje się kupowalny z realną rezerwą ~4 600 zł** — to pierwszy moment, w którym zakup domyka się arytmetycznie. Pełna kalkulacja: [`zakup-passata-b7.md`](zakup-passata-b7.md) sekcja „Protokół przy dalekim wyjeździe".
 
 **Kandydaci po skanie 25.08:**
 
@@ -57,7 +58,7 @@ Wszystkie pozostałe (zrealizowane, niezrealizowane, koncepty) → [`wyprawy/IND
 
 ## ❓ Otwarte pytania (do Michała)
 
-- **Ile miesięcznie wchodzi na kupkę?** Determinuje, kiedy realnie zakup — bez tego nie da się powiedzieć, czy Bałkany X.2026 są wykonalne
+- **Ile miesięcznie wchodzi na kupkę?** Wiadomo tyle, że 25.08 → 01.09 to +3 000 zł. Czy to stałe tempo miesięczne, czy jednorazowa wypłata? Determinuje, czy Bałkany X.2026 są wykonalne
 - **Komu poszło Terrano?** (kumpel czy rynek — drobiazg do domknięcia `auta/terrano/stan.md`)
 - **Chevrolet Aveo — sprzedany?** Ostatni ślad: 30.06, kupiec marudził o klimę. Od tego czasu cisza
 - **Ostrowo 11–20.07 — pojechaliście?** Jak wyszedł budżet vs. szacowane 5 360 zł
