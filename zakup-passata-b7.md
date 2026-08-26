@@ -479,6 +479,51 @@ Oferta z Nowej Karczmy ma w polach **„Sedan" i „Liczba drzwi: 4"**. Na zdję
 Oba: 2.0 TDI 140 KM, **manual**, **4x4 (stały)** — potwierdzone w polu „Napęd". Oba z Niemiec.
 
 **N1 — Nowa Karczma, 15 900 zł** (ID 6150151527, wystawione 24.08.2026)
+- **VIN: `WVWZZZ3CZAE021115`** · **nr rej. `DZG88936`** (z ogłoszenia i zdjęć, 25.08.2026)
+  - Rozkodowanie: `3C` = Passat B6 · **poz. 10 = `A` = rok modelowy 2010** · poz. 11 = `E` = fabryka Emden
+  - ⚠️ **Rok modelowy 2010 przy rejestracji 28.07.2009 → produkcja ok. V–VII.2009**, czyli nadal PRZED poprawką zabieraka (IX–XI.2009). Potwierdzenie: ASO VW po VIN
+  - To podręcznikowy przykład, dlaczego VIN nie wystarcza: „modelowo 2010" a wyprodukowane w połowie 2009
+- 🟡 **Podgrzewane fotele — prawdopodobnie SĄ.** Michał rozpoznał na zdjęciu konsoli pokrętło identyczne jak w swoim B5.5 (25.08.2026). **To poszlaka ze zdjęcia, NIE potwierdzenie od sprzedającego.** Lista wyposażenia na Otomoto ich nie zawiera → do potwierdzenia kodem PR `4A3` z naklejki albo pytaniem wprost
+- ✅ **Cena do negocjacji** — widnieje w nagłówku ogłoszenia
+- ✅ **Sprzedający zezwala na diagnozę zewnętrzną** — cytat z opisu: „Na życzenie klienta jest możliwość sprawdzenia pojazdu na dowolnej stacji diagnostycznej **oraz raport z pomiaru grubości lakieru, lub pomiar w obecności kupującego**. Zezwalam również na diagnozę auta poprzez firmy specjalizujące się w weryfikacji stanu pojazdów."
+  - **Oferta pomiaru lakieru jest kluczowa** — to narzędzie dokładnie pod wpis „uszkodzony"
+- ✅ **Sprzedaż na polską fakturę VAT/Marża** → **umowa z FIRMĄ, nie z osobą prywatną.** Czyli sprzedaż B2C: przysługuje ustawowa odpowiedzialność sprzedawcy za wady (przy używanym można skrócić, ale nie poniżej roku). Pytanie „kto na umowie" jest zamknięte
+- ✅ **Kupujący zwolniony z PCC 2%** — konsekwencja faktury VAT/Marża. Realna oszczędność ok. **318 zł** przy cenie 15 900 vs zakup od osoby prywatnej
+- ✅ **VIN i data pierwszej rejestracji podane wprost w opisie** przez sprzedającego — „w celu dokładniejszej weryfikacji pojazdu". Zachowanie transparentne
+
+⚠️ **Uwaga metodyczna:** żadna z powyższych informacji nie pochodzi z kontaktu ze sprzedającym — na 26.08.2026 **nikt do Nowej Karczmy nie pisał ani nie dzwonił**. Wszystko to odczyt z ogłoszenia i ze zdjęć.
+
+⚠️ **Lekcja z 26.08.2026:** opis ogłoszenia był czytany częściowo (screenshot do dołu ekranu = uznane za całość) i przez to powstała lista pytań o rzeczy, które sprzedający miał wprost w opisie. **Opis czytać do końca, tekstem, nie screenshotem** — połowa istotnych faktów (VAT/Marża, PCC, zgoda na diagnozę, pomiar lakieru, VIN) siedziała w ostatnim akapicie.
+
+#### 📄 Raport CEP historiapojazdu.gov.pl — pobrany 25.08.2026 21:17
+
+Plik: `Raport historia pojazdu.pdf` (root repo).
+
+**✅ Potwierdzone urzędowo — koniec zgadywania:**
+- **Nadwozie: KOMBI.** CEP mówi „samochód osobowy, kombi". Pole „Sedan" na Otomoto to definitywnie błąd sprzedającego
+- **Silnik: CBAB, czyli Common Rail.** Dwa niezależne dowody: **wariant homologacji `ACCBABX1`** (zawiera `CBAB`) oraz **norma `EURO 5 A`** — PD były EURO 4, CR to EURO 5. **Nie trzeba już pytać o P.5**
+- **103 kW = 140 KM** ✓ · typ `3C` ✓ · rozstaw osi 2 709 mm
+- Masa własna **1 596 kg** — na górnej granicy dla B6 Variant, spójne z 4motion (poszlaka, nie dowód)
+- Kradzież, złomowanie, szkoda całkowita, taxi, rozbieżność licznika, błąd VIN, akcje serwisowe: **nie odnotowano** (Carfax + autoDNA)
+
+**🔴 CZERWONA FLAGA — „Uszkodzony: ODNOTOWANO"**
+Odnotowane **w OBU bazach** (Carfax i autoDNA). Jednocześnie „Powypadkowy: nie odnotowano" i „Szkoda całkowita: nie odnotowano".
+→ Istnieje wpis o uszkodzeniu, ale **CEP nie mówi co, kiedy ani jak poważne**. To może być stłuczka, grad, wpis naprawczy albo poważna szkoda.
+→ **To jest właśnie powód, żeby kupić pełny raport autoDNA/CarVertical** — i to PRZED inspekcją za 819 zł. Wiemy, że jest co szukać.
+
+**⚠️ Historia w Polsce nie dowodzi niczego o przebiegu:**
+
+| Data | Zdarzenie |
+|---|---|
+| 28.07.2009 | Pierwsza rejestracja **za granicą** |
+| **12.05.2026** | **Pierwszy właściciel w Polsce — osoba fizyczna**, dolnośląskie |
+| 14.05.2026 | Badanie techniczne, wynik pozytywny, **licznik 208 335 km** |
+| 19.05.2026 | Pierwsza rejestracja w Polsce, dok.: **pozwolenie czasowe** |
+
+- **Auto jest w PL dopiero od maja 2026** → w CEP jest **JEDEN odczyt licznika**. Zdanie z ogłoszenia „przebieg w pełni potwierdzony" opiera się wyłącznie na danych niemieckich
+- **Licznik: 208 335 km (14.05.2026) vs 208 373 km w ogłoszeniu** → **38 km w ponad trzy miesiące**. Auto praktycznie stoi od maja
+- **Właścicieli w PL: 1, osoba fizyczna** — a sprzedaje firma (K&K AUTO). **Do wyjaśnienia: czy handlarz jest właścicielem, czy sprzedaje w komisie?** Ma wpływ na rękojmię
+- **Ostatni dokument to pozwolenie czasowe z 19.05.2026** — czy jest już stały dowód rejestracyjny?
 - ✅ **Jedyne auto, na które stać nas DZIŚ** (mamy 15 tys.)
 - ✅ Rozrząd + pompa wody wymienione **27.02.2025 przy 191 640 km** (~17 tys. km temu)
 - ✅ Bagażnik ładny, płaska podłoga — dobrze rokuje pod `system-biwakowy.md`
@@ -494,6 +539,84 @@ Oba: 2.0 TDI 140 KM, **manual**, **4x4 (stały)** — potwierdzone w polu „Nap
 - ❌ Brakuje ~5 tys. zł
 
 **Dlaczego N1 przed N3:** oba prawie na pewno mają stary zabierak, więc N3 nie kupuje spokoju — tylko lepszą wersję wyposażenia za 4 tys. i za czekanie. N1 ma do tego świeży rozrząd, a N3 na ten temat milczy.
+
+### 📬 N1 — kontakt ze sprzedającym: stan i kolejne kroki
+
+**Stan na 26.08.2026: wiadomość #1 przygotowana, jeszcze NIE wysłana.**
+
+#### Wiadomość #1 — zbieranie informacji (do wysłania przez Otomoto)
+
+> Dzień dobry,
+>
+> Jestem zainteresowany autem, ale mam do Państwa ponad 300 km z Bielska-Białej, więc wolałbym kilka rzeczy wyjaśnić przed przyjazdem.
+>
+> Sprawdziłem VIN w rządowej Historii pojazdu i w danych zagranicznych wyskakuje wpis o uszkodzeniu (Carfax i autoDNA). Szczegółów tam nie ma — wiecie może, czego dotyczył?
+>
+> Piszecie w ogłoszeniu o raporcie z pomiaru grubości lakieru, chętnie bym taki zobaczył.
+>
+> Poza tym: jest książka serwisowa? Zależy mi głównie na wpisach wymian oleju, daty i przebiegi. I czy został jakiś papier po tym rozrządzie z lutego 2025.
+>
+> Aha, i jeszcze — DPF oryginalny? Był robiony olej z filtrem w Haldexie? Sprzęgło albo dwumasa wymieniane?
+>
+> Jak wszystko będzie się zgadzać, odezwę się w sprawie terminu.
+>
+> Pozdrawiam,
+> Michał
+
+Uwagi do konstrukcji: wiadomość na Otomoto jest przypięta do ogłoszenia, więc **bez ID i bez „w sprawie Passata"**. Odległość podana w pierwszym zdaniu tłumaczy, czemu pytań jest tyle. Pytanie o szkodę idzie pierwsze i **bez sugestii, że coś ukrywa**. Zero słowa o cenie — dźwignia zostaje na później.
+
+#### 🔴 Wiadomość #2 — termin. NIE ZAPOMNIEĆ O ZIMNYM ROZRUCHU
+
+Gdy odpowiedzi z #1 będą OK i ustalamy datę, wiadomość **MUSI** zawierać:
+
+> Miałbym tylko jedną prośbę: żeby nie odpalać auta przed moim przyjazdem, chcę usłyszeć zimny rozruch.
+
+**To jedyna rzecz w całym procesie, której nie da się nadrobić później.** Rozgrzane auto = tracisz zimny odsłuch (zabierak, dwumasa), „pszt" przy korku zbiorniczka i połowę protokołu z [`weryfikacja-silnika-przed-zakupem.md`](weryfikacja-silnika-przed-zakupem.md).
+Weryfikacja na miejscu, czy naprawdę nie odpalał: ręka na masce/chłodnicy/kolektorze · brak plamy skroplin z klimy pod autem · wskazówka temperatury stoi na dole 2–3 min · zimny diesel odpala z oporem, nie „za pstryknięciem".
+
+W tej samej wiadomości: **umówić stację diagnostyczną w okolicy Lubania na ten sam dzień** (sprzedający zezwala na dowolną stację).
+
+#### Bramki decyzyjne po odpowiedzi na #1
+
+| Odpowiedź o szkodzie | Ruch |
+|---|---|
+| Konkret („tył, rok, naprawione, mam zdjęcia") | ✅ ustalamy termin |
+| Mętnie / „nic mi nie wiadomo, bezwypadkowe" | ❌ odpuścić — wpis jest w dwóch bazach, mógł sprawdzić tak samo jak my |
+| Brak książki i żadnych faktur | 🟡 nie dyskwalifikuje, ale mocno obniża cenę wyjściową |
+
+| Odpowiedź o sprzęgle/dwumasie | Co to znaczy |
+|---|---|
+| „Nie wymieniane" | Przy 208 tys. km oba oryginalne → **wliczyć robotę w budżet** (3–5 tys. zł, SZACUNEK) |
+| „Komplet z dwumasą" | ✅ dopytać: kiedy i przy jakim przebiegu |
+| „Sprzęgło wymienione" (bez dwumasy) | 🟡 ktoś zaoszczędził — robocizna zapłacona drugi raz przy dwumasie |
+
+**Poszlaka:** serwis 27.02.2025 (191 640 km) obejmował rozrząd, pompę wody, olej w skrzyni i olej w silniku — **sprzęgła tam nie ma**, choć skrzynia była wtedy ruszana. Sugeruje komplet oryginalny.
+
+#### Kolejność wydatków (ustalona 26.08.2026)
+
+1. **Wiadomość #1** — 0 zł
+2. **Odpowiedź o szkodzie + raport lakieru** — 0 zł, może zamknąć temat bez wydawania grosza
+3. **autoDNA ~79–100 zł** (SZACUNEK) — tylko jeśli jego wersja szkody brzmi mętnie albo lakier coś pokaże
+4. **Termin oględzin + stacja diagnostyczna na miejscu** — ułamek ceny inspekcji Otomoto
+5. ❌ **Inspekcja Otomoto Maxi 819 zł — ODRZUCONA.** Płatna z góry, umawiają się dopiero potem, auto może zejść w międzyczasie. Skoro Michał i tak jedzie, taniej i lepiej na miejscu, będąc obecnym
+
+**Czego nie zrobi ani stacja, ani inspekcja Otomoto:** zabieraka. To zdjęcie miski, osobny termin, po zakupie.
+
+**Warto rozważyć własny interfejs OBD** — jedyna pozycja z pakietu 819 zł, której stacja diagnostyczna nie da, a zostaje na własność (przyda się też przy B5.5).
+
+#### Po zakupie — serwis na start
+
+Olej + filtr (**VW 507 00**, low-SAPS pod DPF) · filtr paliwa · filtr powietrza · filtr kabinowy · **olej i filtr Haldexa** (jeśli nie udowodni, że robiony).
+Powód pilności: olej ma **16 733 km i 18 miesięcy** (27.02.2025 przy 191 640 km → 208 373 km), spec nieznany, auto stoi od maja 2026, a **zabierak zajeżdżają zaniedbane wymiany oleju**.
+Nie robić: rozrząd, pompa wody, olej w skrzyni — zrobione 02.2025.
+
+#### Powrót 350 km do domu
+
+Legalnie OK: OC idzie za autem (ważne do 18.05.2027), badanie do 14.05.2027, tablice zostają.
+Przed startem: poziom oleju i płynu, ciśnienia i DOT opon, pierwsze 20–30 km spokojnie, **postój po ~50 km na sprawdzenie wycieków i poziomu oleju**, potem autostrada.
+⚠️ Kontrolka ciśnienia oleju = **zjeżdżasz natychmiast**, nie „do najbliższego zjazdu".
+Assistance: sprawdzić pakiet w koncie bankowym/kartach (często już jest). Przy kupnie polisy — pytać o **karencję** i o **limit holowania min. 350–400 km / do miejsca zamieszkania**; podstawowe warianty holują tylko do najbliższego warsztatu.
+Paliwo: **SZACUNEK ~25–30 l** (350 km × 7–8 l/100 km — katalogowe 6,1 l z CEP jest nierealne dla 4motion).
 
 ### ❌ Odrzucone ze skanu 25.08.2026
 

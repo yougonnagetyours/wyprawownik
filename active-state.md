@@ -32,10 +32,12 @@ Od 01.09 **N1 (15 900) staje się kupowalny z realną rezerwą ~4 600 zł** — 
 1. **Zadzwonić do TORUNIA** — pytanie nr 1: regeneracja skrzyni 09.2025, co i dlaczego, oraz czy przy zdjętej skrzyni poszły dwumasa i sprzęgło. Pełna lista 8 pytań: [`zakup-passata-b7.md`](zakup-passata-b7.md)
 2. **Zadzwonić do ZAKLICZYNA** — 510-675-024. Rozstrzyga: **Comfortline czy Trendline** (Trendline = odpada) + czy ma hak (na zdjęciu wygląda, w opisie brak)
 3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
-4. **Wysłać pytania do N1 (Nowa Karczma)** — kod silnika P.5, historia wymian oleju, zdjęcie komory, zgoda na inspekcję. Do N3 (Łódź): zdjęcie tabliczki znamionowej (miesiąc produkcji). ⚠️ Nie tłumaczyć, po co ta data
-5. **Wycenić w warsztacie VAG** robotę na module wałków (pogłębienie gniazda + zabierak 100 mm albo cały moduł) — bez tego nie ma kwoty do budżetu
-6. **Skan rynku ~21.08.2026** — protokół w [`zakup-passata-b7.md`](zakup-passata-b7.md). Otworzyć też zapisane linki znanych kandydatów (oferta, która podrożała, wypada z filtra)
-7. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
+4. **Wysłać wiadomość #1 do N1 (Nowa Karczma)** — gotowa treść w [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Pyta o: wpis „uszkodzony" w bazach, raport grubości lakieru, książkę serwisową, fakturę za rozrząd, DPF/Haldex/sprzęgło
+5. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
+6. **Umówić stację diagnostyczną w okolicy Lubania** na dzień oględzin (sprzedający zezwala na dowolną). Inspekcja Otomoto 819 zł — odrzucona
+7. **Wycenić w warsztacie VAG** robotę na module wałków + pakiet serwisowy na start (olej 507 00, filtry, Haldex) — bez tego nie ma kwot do budżetu
+8. **Skan rynku ~21.08.2026** — protokół w [`zakup-passata-b7.md`](zakup-passata-b7.md). Otworzyć też zapisane linki znanych kandydatów (oferta, która podrożała, wypada z filtra)
+9. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
 
 ## 🧭 Wyprawy
 
