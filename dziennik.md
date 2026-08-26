@@ -9,6 +9,16 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [26.08.2026] Zakliczyn wygasł, cztery tropy z OLX odrzucone — rynek kurczy się szybciej, niż rośnie budżet
+
+Na pytanie Michała „Zakliczyn jeszcze jest?" — **nie**. OLX zwraca „To ogłoszenie nie jest już dostępne". Tego samego dnia potwierdził się też zgon Torunia. **Oba auta mieściły się w nowym budżecie 25 200 i oba zeszły z rynku, zanim budżet je dosięgnął** — Zakliczyn był nr 1 po skanie 14.08, Toruń trzymał się w czołówce przez trzy skany.
+
+Cztery tropy z OLX (Dąbrowa Górnicza 22 900, Dobieżyn 25 000, Zielona Góra 22 900, Włocławek 23 900) domknięte i **wszystkie odrzucone: w polu „Napęd" mają „na przednie koła"**, a Dobieżyn dodatkowo DSG. To jest dobra wiadomość o metodzie — filtr Otomoto po polu „Napęd" nie miał luki, te auta po prostu nie są 4motion, a OLX łapał je po słowie z opisu.
+
+**Obejście blokady OLX (do zapamiętania):** gdy pełnoekranowa reklama przechwytuje kliknięcia w karty ogłoszeń, nie klikać — **odczytać `href` z drzewa dostępności** i wejść w ofertę bezpośrednio.
+
+Szczegóły: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcje „DOMKNIĘTE 26.08.2026" i „Bilans dnia".
+
 ### [26.08.2026] Budżet 25 200 na samo auto — B7 wraca do gry, ale rynek jest pusty
 
 Asystent finansowy ustalił **25 200 zł na samo auto** (wcześniej: 20 000 zł na wszystko). To zdejmuje barierę, przez którą od tygodnia graliśmy B6 zamiast B7. Skan powtórzony od zera, z filtrem po polu „Napęd" i pułapem 28 000 (żeby złapać oferty do negocjacji).

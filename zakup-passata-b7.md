@@ -1206,3 +1206,32 @@ Co zostaje do zapłacenia po zakupie B7 za ~25 000:
 | ~~Inspekcja miski / moduł wałków~~ | ~~800 + 2 000–3 000~~ | ✅ **ODPADA przy B7** |
 
 **Werdykt:** formalności (~760 zł) i pakiet serwisowy na start — 4 000 pokrywa z zapasem. **Dwumasa ze sprzęgłem — nie wiadomo, bo ta pozycja nadal nie ma wyceny.** Dopóki jej nie ma, 4 000 to rezerwa na **jeden** średni problem, nie na dwa. Praktyczny wniosek: albo kupować egzemplarz z udokumentowanym rozrządem i zdrowym sprzęgłem (test ślizgania z checklisty oględzin), albo zbić cenę o wartość tego, czego brakuje.
+
+### ✅ DOMKNIĘTE 26.08.2026: cztery tropy z OLX — WSZYSTKIE ODPADAJĄ
+
+Sposób obejścia reklamy blokującej kliknięcia: **nie klikać w kartę, tylko odczytać `href` z drzewa dostępności** i wejść w ogłoszenie bezpośrednio. Działa za każdym razem — **do zapamiętania na przyszłe skany OLX.**
+
+Trzy z czterech okazały się ogłoszeniami Otomoto podpiętymi pod OLX (czyli były w moim zasięgu od początku), a nie wyszły w filtrze po polu „Napęd" **z prostego powodu: nie są 4motion.**
+
+| Auto | Cena | Pole „Napęd" | Werdykt |
+|---|---|---|---|
+| [**Dąbrowa Górnicza**](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6Ib9PQ.html) B7 2011 Comfortline, 199 980 km, granatowy, 1. rej. 18.11.2011 | 22 900 | **Na przednie koła** | ❌ Nie 4motion. Do tego uboga wersja: klima manualna, tapicerka materiałowa, samo radio, felgi 16" |
+| [**Zielona Góra**](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I4dEl.html) 2012, 233 300 km | 22 900 | **Na przednie koła** | ❌ Nie 4motion |
+| [**Włocławek**](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IcDLx.html) 2011, 201 000 km | 23 900 | **Na przednie koła** | ❌ Nie 4motion |
+| [**Dobieżyn**](https://www.olx.pl/d/oferta/volkswagen-passat-b7-CID5-ID1c0Kq0.html) 2011, 200 000 km, brązowy metalik, VIN WVWZZZ3CZBE368963 | 25 000 do neg. | **Na przednie koła** (pole) vs. **„Highline 4MOTION DSG"** (opis) | ❌ Sprzeczność pole↔opis, ale **skrzynia automatyczna w obu** → odpada na DSG niezależnie od napędu |
+
+**Wniosek metodyczny:** filtr Otomoto po polu „Napęd" **nie miał luki** — te cztery auta nie wypadły przez błąd narzędzia, tylko dlatego, że naprawdę nie spełniają kryterium. Wyszukiwanie OLX po słowie „4motion" łapie je, bo słowo pada gdziekolwiek w treści albo w opisie sprzedającego, który sam nie wie, co ma. **Potwierdzenie zasady: rozstrzyga pole, nie tytuł i nie opis.**
+
+### ❌ ZAKLICZYN / SIEPRAW (26 800) — OGŁOSZENIE WYGASŁO
+
+[OLX ID1bLAFv](https://www.olx.pl/d/oferta/volkswagen-passat-b7-4motion-CID5-ID1bLAFv.html) → „To ogłoszenie nie jest już dostępne" (sprawdzone 26.08.2026). Auto, które po skanie 14.08 było nr 1, zeszło z rynku **zanim budżet urósł na tyle, żeby po nie sięgnąć.**
+
+Lustro na FB Marketplace ([item 1015405607924995](https://www.facebook.com/marketplace/item/1015405607924995/)) — **nie do zweryfikowania**: przeglądarka jest zalogowana na profil strony (Page), a Marketplace blokuje strony („Pages can't use Marketplace"). **Do sprawdzenia z prywatnego konta**, jeśli chcemy mieć pewność, że auto naprawdę zeszło, a nie tylko wygasło na OLX.
+
+**Zadanie „zadzwonić do Zakliczyna" (510-675-024) jest nieaktualne** — chyba że FB pokaże, że oferta żyje.
+
+### 📉 Bilans dnia: rynek się kurczy szybciej, niż rośnie budżet
+
+W ciągu jednego dnia z listy zniknęły **dwa** auta, które przez trzy skany trzymały się w czołówce: **Toruń 23 000** i **Zakliczyn 26 800**. Oba były w zasięgu nowego budżetu 25 200 i oba zeszły, zanim budżet ich dosięgnął.
+
+Po tym skanie w grze zostają realnie **trzy** auta: **N1** (B6, Nowa Karczma, 15 900), **M2** (B6, Chojnik, 16 900) i **P1** (B7, Przecław, 26 000 — z tuningiem do rozbrojenia). Podniesienie budżetu do 25 200 **nie dołożyło ani jednego czystego kandydata** — dołożyło jednego z gwiazdką i skasowało dwóch przez upływ czasu.

@@ -22,15 +22,14 @@ Ostatnia aktualizacja: **2026-08-26 wieczór** (budżet 25 200 na samo auto — 
 |---|---|---|---|
 | **N1** | **Nowa Karczma** B6 kombi 2009, Comfortline, srebrny, 208 tys. | **15 900** | 🟢 **tor główny** — wiadomość wysłana, czekamy. Zabierak stary (rej. 07.2009) → trzymać rezerwę na moduł |
 | **P1** | **Przecław** (zachodniopomorskie, ~600 km) B7 2011 Highline, manual, 4x4 stały, niebieski, 253 tys., dane 14/14 | **26 000** do neg. | 🟡 **jedyny B7 w kryteriach w całej PL** — ale „Tuning: Tak": felgi 19", runflaty, **zawieszenie regulowane**. Wejście tylko jeśli oddaje seryjne koła i zawieszenie |
-| **D1** | **Dąbrowa Górnicza** B7 2011, **199 980 km**, ~60 km od domu | **22 900** | 🔵 **najciekawszy trop** — najniższy przebieg w stawce i pod domem. **Napęd i skrzynia NIEZWERYFIKOWANE** (OLX blokuje reklamą) |
 | **M2** | **Chojnik** (małopolskie, ~3 h drogi) B6 2010, srebrny, 4x4, 297 tys. | **16 900** do neg. | 🟡 **wstrzymane** — wiadomość gotowa, nie wysłana. Blachy zasłonięte → CEP zablokowany |
-| 2 | **Zakliczyn** (gm. Siepraw, ~50–55 km od BB) 2011, 245 tys. km, grafit | **26 800** | do telefonu — **teraz w zasięgu negocjacji**, wersja nadal nieznana |
-| — | Dobieżyn 25 000 · Zielona Góra 22 900 · Włocławek 23 900 | — | 🔵 tropy z OLX, wszystkie **niezweryfikowane** |
+
+**W jeden dzień zeszły z rynku dwa auta z czołówki: Toruń 23 000 i Zakliczyn 26 800** — oba mieściły się w nowym budżecie i oba wygasły, zanim budżet ich dosięgnął. Cztery tropy z OLX (Dąbrowa Górnicza, Dobieżyn, Zielona Góra, Włocławek) sprawdzone i **odrzucone — wszystkie mają w polu „Napęd": na przednie koła.**
 
 ## ✅ Zadania
 
-1. 🔵 **Otworzyć cztery ogłoszenia z OLX i sprawdzić pole „Napęd" + skrzynię** — Dąbrowa Górnicza 22 900 (priorytet: 60 km od domu, 199 980 km), Dobieżyn 25 000, Zielona Góra 22 900, Włocławek 23 900. Lista i uzasadnienie: [`zakup-passata-b7.md`](zakup-passata-b7.md)
-2. **Zadzwonić do ZAKLICZYNA** — 510-675-024. Rozstrzyga: **Comfortline czy Trendline** (Trendline = odpada) + czy ma hak (na zdjęciu wygląda, w opisie brak)
+1. 🟡 **Zdecydować, co z P1 (Przecław, 26 000)** — jedyny B7 w kryteriach w całej PL, ale felgi 19", runflaty i zawieszenie regulowane. Pytanie do sprzedającego przed czymkolwiek innym: **czy oddaje seryjne koła i zawieszenie**. Bez tego 600 km w jedną stronę nie ma sensu. [`zakup-passata-b7.md`](zakup-passata-b7.md)
+2. ⚪ **Sprawdzić Zakliczyn na FB z prywatnego konta** — OLX wygasł, lustro FB nie do odczytania (przeglądarka zalogowana na profil strony). Niski priorytet: jeśli oferta żyje, telefon 510-675-024
 3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
 4. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"
    ⏱️ **Deadline ciszy: piątek 28.08, wczesne popołudnie → dzwonić.** Komis ma **otwarte do 16:00**, a Michał może dzwonić w godzinach pracy. Jedyny powód czekania: odpowiedź o szkodzie **na piśmie** od firmy na VAT-marży. **Kasa NIE jest już powodem** — przy 25 200 N1 jest kupowalny dziś z dużym zapasem. Jeśli odpisze dobrze, jedziesz w ten weekend. Przez telefon pytać **tylko o wpis „uszkodzony"**, reszta listy zostaje na piśmie
