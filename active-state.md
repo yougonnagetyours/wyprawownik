@@ -14,15 +14,15 @@ Ostatnia aktualizacja: **2026-08-26** (skan po trasie; M1 Jabłonka odrzucona �
 **Kupujemy:** Passat kombi 2.0 TDI CR, manual, 4motion — **B7 (2010–2015) LUB B6 z produkcji po poprawce zabieraka** (rozszerzone 25.08.2026) — [`zakup-passata-b7.md`](zakup-passata-b7.md)
 **Twarde kryteria:** 4motion (pole „Napęd", nie tytuł!) · Comfortline lub wyżej · **nie białe i nie krzykliwe** · **nadwozie i rocznik potwierdzać zdjęciami/tabliczką, nie polami** · budżet do ~27 tys. z rezerwą na naprawy
 
-**💰 Kasa (26.08.2026): 20 000 zł** (17 500 + **2 500**, o których Michał mówił wcześniej — nie trafiły do pliku i przepadły przy `/clear`). **Od 01.09.2026: ~23 000 zł.**
-❓ **Do potwierdzenia jednym zdaniem:** czy te 2 500 doliczają się do dzisiejszych 17 500 (→ 20 000 teraz), czy dopiero do kwoty po 01.09.
+**💰 Kasa: 20 000 zł — PŁASKO, bez skoku we wrześniu** (ustalone 26.08.2026). Wpływ z 01.09 zjada zakup telefonu (~2 500 zł), więc kwota do dyspozycji nie rośnie.
 
-| Auto | Dziś (20 000) | Od 01.09 (23 000) |
+| Auto | Cena | Rezerwa po zakupie |
 |---|---|---|
-| N1 — 15 900 | rezerwa **4 100** | rezerwa 7 100 |
-| N3 — 19 900 | rezerwa 100 | rezerwa 3 100 |
+| **N1** — Nowa Karczma | 15 900 | **4 100** ✅ |
+| **M2** — Chojnik | 16 900 | 3 100 ✅ |
+| **N3** — Łódź | 19 900 | **100** ❌ |
 
-**N1 jest kupowalny DZIŚ** z rezerwą 4 100 zł. Stary wpis „dopiero od 01.09 domyka się arytmetycznie" był liczony bez tych 2 500 — **nieaktualny**.
+**N1 kupowalny DZIŚ.** **N3 za cenę wywoławczą jest poza zasięgiem na stałe** — czekanie do września już nic nie zmienia, wraca do gry tylko przy zejściu do ~16–17 tys.
 
 **Kandydaci po skanie 26.08:**
 
@@ -30,7 +30,7 @@ Ostatnia aktualizacja: **2026-08-26** (skan po trasie; M1 Jabłonka odrzucona �
 |---|---|---|---|
 | **N1** | **Nowa Karczma** B6 kombi 2009, Comfortline, srebrny, 208 tys. | **15 900** | 🟢 **tor główny** — jedyne w zasięgu dziś. Zabierak stary (rej. 07.2009). Pytania DO WYSŁANIA |
 | **M2** | **Chojnik** (małopolskie, ~170 km, ale **~3 h drogi** — Beskidy, nie autostrada) B6 2010, srebrny, 4x4, 297 tys. | **16 900** do neg. | 🟡 **wstrzymane** — wiadomość #1 gotowa, ale nie wysłana. Czekamy na N1. Blachy zasłonięte → CEP zablokowany do czasu podania nr rej. |
-| **N3** | **Łódź** B6 kombi 2009, Highline, czarny, 224 tys. | 19 900 **do neg.** | 🟡 zapas — od 01.09 zostaje tylko 600 zł rezerwy. **Tabliczka znamionowa rozstrzyga**, czy wchodzi na tor główny |
+| **N3** | **Łódź** B6 kombi 2009, Highline, czarny, 224 tys. | 19 900 **do neg.** | 🔴 **poza zasięgiem za tę cenę** (rezerwa 100 zł, i to się już nie poprawi). Wraca dopiero przy ~16–17 tys. **Tabliczka znamionowa** = argument cenowy |
 | 1 | **Toruń** 2011, Comfortline, 268 tys. km | **23 000** (było 25 000) | do telefonu — sprzedający schodzi |
 | 2 | **Zakliczyn** (gm. Siepraw, ~50–55 km od BB) 2011, 245 tys. km, grafit | **26 800** | do telefonu — wersja nieznana |
 | — | Płock 2013, 214 tys. km, niebieski | 28 900 (⬆ z 26 900) | poza limitem, obserwować |
@@ -41,7 +41,7 @@ Ostatnia aktualizacja: **2026-08-26** (skan po trasie; M1 Jabłonka odrzucona �
 2. **Zadzwonić do ZAKLICZYNA** — 510-675-024. Rozstrzyga: **Comfortline czy Trendline** (Trendline = odpada) + czy ma hak (na zdjęciu wygląda, w opisie brak)
 3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
 4. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"
-   ⏱️ **Deadline ciszy: piątek 28.08 wieczór. Brak odpowiedzi → telefon w sobotę 29.08 rano.** Jedyny powód czekania: odpowiedź o szkodzie **na piśmie** od firmy na VAT-marży. **Kasa NIE jest już powodem** — przy 20 000 N1 jest kupowalny dziś. Jeśli odpisze dobrze, jedziesz w ten weekend, nie po 01.09. Przez telefon pytać **tylko o wpis „uszkodzony"**, reszta listy zostaje na piśmie
+   ⏱️ **Deadline ciszy: piątek 28.08 wieczór. Brak odpowiedzi → telefon w sobotę 29.08 rano.** Jedyny powód czekania: odpowiedź o szkodzie **na piśmie** od firmy na VAT-marży. **Kasa NIE jest już powodem** — przy 20 000 N1 jest kupowalny dziś, a czekanie do września nic nie dokłada. Jeśli odpisze dobrze, jedziesz w ten weekend. Przez telefon pytać **tylko o wpis „uszkodzony"**, reszta listy zostaje na piśmie
 5. ⏸️ **M2 (Chojnik) — WSTRZYMANE do rozstrzygnięcia N1.** Wiadomość #1 gotowa do wklejenia: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „M2 (Chojnik) — kontakt ze sprzedającym". Wysłać dopiero gdy N1 odpadnie — **~3 h w jedną stronę**, to pełny dzień, nie objazd przy okazji
 7. 📤 **Napisać do N3 (Łódź) o zdjęcie tabliczki znamionowej** — do zrobienia RÓWNOLEGLE z czekaniem na N1, kosztuje zero. Pełna lista 3 pytań: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „Pytania wysłane / do wysłania". ⚠️ **Nie tłumaczyć, po co ta data**
 8. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji

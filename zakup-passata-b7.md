@@ -536,7 +536,7 @@ Odnotowane **w OBU bazach** (Carfax i autoDNA). Jednocześnie „Powypadkowy: ni
 - ⚠️ Sprzedający pisze „koniec listopada 2009 (modelowo 2010 – rozkodowane po VIN)" — **to nie dowód**. „Modelowo 2010" = rok modelowy, nie miesiąc produkcji. „Koniec listopada" = data 1. rejestracji, nie produkcji
 - ⚠️ Rejestracja 27.11.2009 stawia **sufit** na produkcję. Poprawka ruszyła IX–XI.2009 → okno „trafione" to kilka tygodni kontra kilka miesięcy „nietrafionych". **Szanse przeciw**
 - ✅ Highline, czarny, gwarancja pisemna, zgoda na sprawdzenie w dowolnym ASO
-- ⚠️ **Kasa (aktualizacja 26.08.2026):** stare „brakuje ~5 tys." było liczone przy 15–17,5 tys. Od 01.09 (20 500) gap to **600 zł rezerwy po zakupie** — formalnie stać, realnie zero zapasu na naprawy przy 224 tys. km
+- ❌ **Kasa (aktualizacja 26.08.2026): poza zasięgiem za cenę wywoławczą, i to na stałe.** Budżet stoi płasko na **20 000 zł** (wpływ z 01.09 idzie na telefon), więc 19 900 zostawia **100 zł rezerwy** przy aucie z 224 tys. km. Czekanie do września nic nie zmienia — **N3 wraca do gry dopiero przy zejściu do ~16–17 tys.**
 - 🔵 **Ogłoszenie żyje:** odświeżone 17.08.2026, **„do negocjacji"**, stoi ~10 dni (stan na 26.08). Zejście do ~17,5 tys. zmienia całe porównanie z N1
 
 **Dlaczego N1 przed N3:** oba prawie na pewno mają stary zabierak, więc N3 nie kupuje spokoju — tylko lepszą wersję wyposażenia za 4 tys. i za czekanie. N1 ma do tego świeży rozrząd, a N3 na ten temat milczy.
