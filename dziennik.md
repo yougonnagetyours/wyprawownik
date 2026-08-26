@@ -9,6 +9,12 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [26.08.2026] N3 to świeży import bez blach; Niemcy przy granicy odpadają dwukrotnie
+
+Michał zauważył, że auto z Łodzi nie ma tablic. Przegląd ogłoszenia wyjaśnił dlaczego: **kraj pochodzenia Niemcy, „po wszystkich opłatach – przygotowany do rejestracji"** — nigdy nie było zarejestrowane w Polsce. Skutek: **CEP nie istnieje dla tego auta**, a pytaniem rozstrzygającym staje się **Brief (Zulassungsbescheinigung Teil II)** — bez niego nie ma rejestracji, a z nim dostajemy datę pierwszej rejestracji i liczbę właścicieli, czyli to, po co chcieliśmy tabliczkę.
+
+Przy okazji sprawdzony rynek niemiecki przy granicy (mobile.de, Passat / diesel / manual / Allrad / od 2009, promień od Görlitz): **do 5 500 € — zero ofert w promieniu 100 i 250 km.** Najtańszy egzemplarz w pasie przygranicznym to 8 990 € (2014, 150 tys. km), czyli **SZACUNEK ~38 tys. zł przed akcyzą i rejestracją**. Wniosek: sprowadzanie samemu nie jest tańszą drogą do tego auta, tylko droższą — komisy typu ToDo sprzedają ten sam towar z papierami zrobionymi i marżą. Szczegóły: [`zakup-passata-b7.md`](zakup-passata-b7.md).
+
 ### [26.08.2026] Budżet płasko na 20 000 — N3 wypada na stałe
 
 Wpływ z 01.09 pójdzie na telefon (~2 500 zł), więc kwota do dyspozycji **nie rośnie**: 20 000 dziś i 20 000 we wrześniu. Skutek: N1 (15 900) i M2 (16 900) są kupowalne od zaraz, ale **N3 z Łodzi za 19 900 jest poza zasięgiem na stałe** — 100 zł rezerwy przy 224 tys. km to nie jest zakup. Wcześniejszy status „zapas, we wrześniu będzie stać" przestał obowiązywać. N3 wraca dopiero przy zejściu do ~16–17 tys., więc prośba o tabliczkę znamionową staje się głównie **argumentem cenowym**.

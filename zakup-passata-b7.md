@@ -541,6 +541,41 @@ Odnotowane **w OBU bazach** (Carfax i autoDNA). Jednocześnie „Powypadkowy: ni
 
 **Dlaczego N1 przed N3:** oba prawie na pewno mają stary zabierak, więc N3 nie kupuje spokoju — tylko lepszą wersję wyposażenia za 4 tys. i za czekanie. N1 ma do tego świeży rozrząd, a N3 na ten temat milczy.
 
+### 🔍 N3 (Łódź) — przegląd ogłoszenia 26.08.2026: to ŚWIEŻY IMPORT bez polskiej rejestracji
+
+[Ogłoszenie](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-variant-ID6Ibjff.html) · komis **ToDo**, Łódź, Szczecińska 2 · 69 ofert, na Otomoto od 2017 · odświeżone 17.08.2026 · **19 900 zł do negocjacji**
+
+**Kryteria — komplet ✅:** kombi · **manualna** · 4Mot · **Highline** · **czarny** · 2.0 TDI DPF 140 KM · 224 000 km · B6, 1. rej. **27.11.2009** · 36 zdjęć · bezwypadkowy i serwis w ASO (deklaracja) · gwarancja pisemna z certyfikatem · zgoda na sprawdzenie w dowolnym ASO lub stacji
+
+#### ⚠️ Kluczowe odkrycie: auto NIE JEST zarejestrowane w Polsce
+
+Pole **Kraj pochodzenia: Niemcy**, a w opisie: *„SAMOCHÓD PO WSZYSTKICH OPŁATACH – PRZYGOTOWANY DO REJESTRACJI"*. Michał zauważył brak blach na zdjęciach — **nie są zasłonięte, tych tablic po prostu nie ma.**
+
+Konsekwencje:
+
+1. **CEP nie zadziała — i nie chodzi o brak numeru.** Auto nigdy nie było zarejestrowane w PL, więc polska historia pojazdu **nie istnieje**. To inna sytuacja niż M2, gdzie CEP jest tylko zablokowany. Weryfikacja idzie wyłącznie przez **niemieckie papiery + płatny raport z VIN**
+2. **VIN nie jest jawny** — Otomoto pokazuje go dopiero po zalogowaniu
+3. 🔴 **PYTANIE ROZSTRZYGAJĄCE: czy jest Brief (Zulassungsbescheinigung Teil II)?** Bez niego rejestracja jest niemożliwa. Przy okazji **Brief zawiera liczbę właścicieli i datę pierwszej rejestracji** — czyli daje to, po co chcieliśmy tabliczkę znamionową, tylko wiarygodniej
+4. **„Po wszystkich opłatach" rozbić na części** — to skrót marketingowy. Pytać osobno i o dokument na każde: **akcyza** (dokument z urzędu celnego), **tłumaczenia przysięgłe**, **przegląd techniczny w PL**
+5. **Transport:** bez rejestracji nie wjedzie na drogę. Laweta z Łodzi (~250 km) albo tablice tymczasowe. ⚠️ **Procedurę i opłaty potwierdzić w starostwie** — nie zapisujemy tu kwot, bo nie zostały sprawdzone u źródła
+
+#### Negocjacje — kolejność
+
+Nie zaczynać od ceny. **Najpierw Brief i akcyza.** Jeśli papiery są komplet, a data produkcji z Briefa wypadnie po poprawce zabieraka — dopiero wtedy jest o czym rozmawiać. Przy budżecie 20 000 zł sprzedający musiałby zejść do **~16–17 tys.**, czyli ~15% z ceny komisu. Ogłoszenie wisi od 17.08 i jest „do negocjacji", więc próba nic nie kosztuje — ale to duże cięcie jak na firmę.
+
+### 🇩🇪 Skan Niemiec przy granicy — 26.08.2026: PUSTO
+
+Sprawdzone na [mobile.de](https://www.mobile.de): VW Passat (wszystkie) · Diesel · **Schaltgetriebe** · **Allrad** · Erstzulassung od 2009 · nieuszkodzone · punkt odniesienia **Görlitz (02826)**.
+
+| Promień | Do 5 500 € | Bez limitu ceny |
+|---|---|---|
+| 100 km | **0 ofert** | 1 (Passat **CC**, 13 000 €) |
+| 250 km | **0 ofert** | 14, najtańsza **8 990 €** |
+
+Najtańszy manualny 4motion w pasie przygranicznym: **Passat Variant Highline 4Motion, EZ 03/2014, 150 351 km, 140 KM — 8 990 €**, AS Autocenter, Chemnitz (sprawdzone 26.08.2026). To **SZACUNEK ~38 000 zł** przy kursie ~4,25 zł/€ (kurs niesprawdzony u źródła) — i to **przed** akcyzą, tłumaczeniami, przeglądem, rejestracją i transportem.
+
+**Wniosek: Niemcy odpadają nie o włos, tylko dwukrotnie.** Za 20 000 zł ten segment tam nie istnieje. Dokładnie dlatego takie auta trafiają do Polski przez komisy — **N3 to ten sam towar, tylko z papierami zrobionymi za nas i z doliczoną marżą sprowadzającego.** Kupowanie samemu w Niemczech nie jest tańszą drogą do tego auta; jest droższą.
+
 ### 📬 M2 (Chojnik) — kontakt ze sprzedającym
 
 **Stan na 26.08.2026: wiadomość #1 przygotowana, ale WSTRZYMANA — czekamy na rozstrzygnięcie N1.**
