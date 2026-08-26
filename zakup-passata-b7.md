@@ -560,7 +560,7 @@ VIN jest w ogłoszeniu (`WVWZZZ3CZAE084271`), ale [historiapojazdu.gov.pl](https
 
 > Dzień dobry,
 >
-> Piszę w sprawie Passata 2.0 TDI 4motion z 2010. Mam do Pana jakieś 170 km z Bielska-Białej, więc wolałbym parę rzeczy ustalić przed przyjazdem.
+> Mam do Pana jakieś 170 km z Bielska-Białej, więc wolałbym parę rzeczy ustalić przed przyjazdem.
 >
 > Widzę, że podał Pan VIN — do sprawdzenia w rządowej Historii pojazdu potrzebny jest jeszcze numer rejestracyjny i data pierwszej rejestracji. Mógłby Pan je podać?
 >
@@ -596,7 +596,7 @@ VIN jest w ogłoszeniu (`WVWZZZ3CZAE084271`), ale [historiapojazdu.gov.pl](https
 | Zdjęcia progów i nadkoli | **Polski egzemplarz z 2010 po 297 tys. km** — po M1 wiemy, że korozja jest tym, co wywala auto z gry. Sprawdzamy to ZANIM wsiądziemy |
 | Zdjęcie wnęki koła zapasowego | Zalanie, rdza od środka, ślady naprawy tyłu |
 
-**Konstrukcja:** wiadomość na OLX jest przypięta do ogłoszenia, ale sprzedający może mieć kilka aut — stąd jedno zdanie identyfikujące. Odległość w pierwszym zdaniu tłumaczy długość listy. **Zero słowa o cenie**, mimo że ogłoszenie jest „do negocjacji" — dźwignia zostaje na po oględzinach.
+**Konstrukcja:** wiadomość na OLX jest przypięta do ogłoszenia — **bez „piszę w sprawie Passata” i bez ID**, sprzedający i tak widzi, czego dotyczy. Pierwsze zdanie od razu robi robotę: odległość tłumaczy, czemu pytań jest tyle. **Zero słowa o cenie**, mimo że ogłoszenie jest „do negocjacji" — dźwignia zostaje na po oględzinach.
 
 #### Bramki decyzyjne
 
