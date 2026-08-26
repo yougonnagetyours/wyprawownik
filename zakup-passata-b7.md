@@ -1118,3 +1118,91 @@ B7 jako **wabik narracyjny kanału** (`kanal-dojedziemy/koncept.md`):
 - Antyteza luksusowych kamperów i Defenderów
 - Dokumentowanie zakupu, przygotowania, wypraw — content na start (koniec 2026 / Q1 2027)
 - Porażki też idą do contentu (zalany B5.5, sprzedaż Terrano) — część historii, nie wstyd
+
+---
+
+## 🔍 Skan rynku 26.08.2026 (wieczorny) — po podniesieniu budżetu do 25 200
+
+**Powód skanu:** budżet na samo auto skoczył z 20 000 na **25 200 zł** (ustalone z asystentem finansowym). Przy 20 000 B7 był poza zasięgiem i graliśmy B6 (N1, M2). Przy 25 200 B7 wraca do gry — dlatego cały skan powtórzony od zera.
+
+### Metoda
+
+Otomoto, filtr po **polu „Napęd"**, nie po słowie „4motion" w tytule. Poprawny parametr URL to `search[filter_enum_transmission][]` = `all-wheel-auto` / `all-wheel-lock` / `all-wheel-permanent` (NIE `filter_enum_drive` — ten przelatuje jako zwykły tekst i nic nie filtruje).
+
+🔗 [Otomoto — B7 kombi / diesel / manual / 4x4 / do 28 000](https://www.otomoto.pl/osobowe/volkswagen/passat/seg-combi?search%5Bfilter_enum_fuel_type%5D=diesel&search%5Bfilter_enum_gearbox%5D=manual&search%5Bfilter_enum_generation%5D=gen-b7-2010-2014&search%5Bfilter_enum_transmission%5D%5B0%5D=all-wheel-auto&search%5Bfilter_enum_transmission%5D%5B1%5D=all-wheel-lock&search%5Bfilter_enum_transmission%5D%5B2%5D=all-wheel-permanent&search%5Bfilter_float_price%3Ato%5D=28000)
+
+**Kontrola metody (sprawdzone 26.08.2026):**
+- wyszukiwanie po słowie `q-4motion` przy tych samych filtrach: **3 ogłoszenia**
+- filtr po polu „Napęd" bez limitu ceny: 97 → po zaznaczeniu trzech wariantów 4x4: **2 ogłoszenia** (do 25 200) / **3 ogłoszenia** (do 28 000)
+
+Potwierdza wcześniejszą lekcję: **oba narzędzia kłamią w różne strony i trzeba puszczać oba.**
+
+### 🔴 Główny wniosek: rynek B7 4motion + MANUAL jest praktycznie pusty
+
+W całej Polsce, B7 kombi + diesel + **manual** + pole Napęd = 4x4, do 28 000 zł → **trzy ogłoszenia**. Dwa z nich już wcześniej odrzuciliśmy. Wąskim gardłem nie jest cena, tylko **manual** — cała reszta B7 4motion w tym paśmie to DSG.
+
+| # | Auto | Cena | Werdykt |
+|---|---|---|---|
+| **P1** | [**Przecław** (policki, zachodniopomorskie)](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I6WjV.html) — B7 2011, 2.0 TDI 140 KM, manual, **4x4 (stały)**, kombi, niebieski metalik, 253 000 km | **26 000** do neg. | 🟡 **jedyny nowy** — patrz niżej |
+| — | [Zabierzów](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IcoDY.html) 2013, 298 255 km | 19 000 | ❌ odrzucone 14.08.2026 (sprzeczność przebiegu 100 tys. km, „samochód uszkodzony", zero zdjęć). Ogłoszenie odświeżone, treść bez zmian |
+| — | [Jabłonka](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IdiYQ.html) 333 867 km | 17 500 | ❌ odrzucone 26.08.2026 decyzją Michała — zgnite |
+
+### 🟡 P1 — Przecław, 26 000 zł: jedyny B7 w kryteriach, ale z gwoździem
+
+[Ogłoszenie](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I6WjV.html) · ID 6148606088 · wystawione **16.08.2026** · osoba prywatna, na Otomoto od 2022 · **cena do negocjacji** · sprzedający chce **zamiany na automat** (czyli jest zmotywowany)
+
+**Dane zweryfikowane 14/14** przez Otomoto z bazą rządową:
+- 1. rejestracja **5 grudnia 2011** → ✅ daleko po poprawce zabieraka, seria CF, temat wałków zamknięty z definicji
+- Napęd: **4x4 (stały)** · skrzynia: **manualna** · nadwozie: **kombi** · kolor: **niebieski metalik** (✅ nie białe, nie krzykliwe)
+- Wersja: **2.0 TDI 4Mot Highline** ✅ · 140 KM · 253 000 km
+- Zarejestrowany w PL, nr rej. **ZPL0876A**, kraj pochodzenia: **import**
+
+**Wyposażenie (mocna strona):** skóra, fotele wentylowane z pamięcią, podgrzewane fotele przód i tył, **ogrzewanie postojowe (Webasto)**, podgrzewana przednia szyba, panorama/szyberdach, ksenony + doświetlanie zakrętów, kamera cofania, park assist, **hak**, blokada mechanizmu różnicowego.
+
+**⚠️ CZERWONA FLAGA — pole „Tuning: Tak":**
+- **felgi aluminiowe 19"** + **opony runflat**
+- **zawieszenie sportowe** ORAZ **zawieszenie regulowane** — opis potwierdza: „z możliwością regulacji wysokości auta w górę i w dół"
+
+To auto jest zmodyfikowane **dokładnie w przeciwną stronę niż wyprawowa**. 19-tki na runflatach na bałkańskiej dziurze to gięta felga i rozbita opona, a regulowane zawieszenie (gwinty albo pneumatyka) to kolejny układ, który się psuje 2 000 km od domu. Michał myślał o **lekkim lifcie** (sekcja „Pomysł: lekki lift"), a ten egzemplarz jest zaniżony.
+
+**Warunek wejścia:** sprzedający oddaje komplet oryginalnych 16–17" i standardowe zawieszenie, ALBO cena schodzi na tyle, że mieści się w niej koszt kół i sprężyn. **Koszt przywrócenia seryjnego zawieszenia + kół: NIE WYCENIONE.**
+
+Dodatkowo: **~600 km od domu** (Przecław k. Szczecina) — pełne dwa dni, nie objazd przy okazji.
+
+### ❌ TORUŃ (23 000) — OGŁOSZENIE WYGASŁO
+
+[ID6Ia7VB](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6Ia7VB.html) → „To ogłoszenie nie jest już dostępne" (sprawdzone 26.08.2026). Auto, które przez trzy skany trzymało się w czołówce i zeszło z 25 000 na 23 000, zniknęło z rynku. **Zadanie „zadzwonić do Torunia" jest nieaktualne.**
+
+### 🔎 OLX — do sprawdzenia, NIEZWERYFIKOWANE
+
+🔗 [OLX — q-passat-4motion, od 2010, do 28 000](https://www.olx.pl/motoryzacja/samochody/volkswagen/q-passat-4motion/?search%5Bfilter_float_price%3Ato%5D=28000&search%5Bfilter_float_year%3Afrom%5D=2010) — 89 ogłoszeń, w większości DSG albo nie-kombi.
+
+⚠️ **Poniższych NIE udało się otworzyć** — OLX wrzuca pełnoekranową reklamę, która przechwytuje kliknięcia w karty ogłoszeń (trzy próby, za każdym razem otwiera się reklama banku zamiast oferty). Dane są z listy wyników, **pole „Napęd" i skrzynia nieustalone**. Zadanie do domknięcia.
+
+| Auto | Cena | Dlaczego warto | Co sprawdzić |
+|---|---|---|---|
+| **Dąbrowa Górnicza** — „Volkswagen Passat B7 2011", 2011, **199 980 km** | **22 900** | 🥇 **Najniższy przebieg w całej stawce i ~60 km od domu.** Odświeżone 19.08.2026 | Napęd (4x4 czy przód), skrzynia, wersja, kolor |
+| **Dobieżyn** (wielkopolskie) — „Volkswagen Passat B7", 2011, 200 000 km | 25 000 do neg. | Drugi najniższy przebieg. Dodane 24.08.2026 | j.w. + odległość |
+| **Zielona Góra** — „Gwarancja przebiegu - 100% HAK", 2012, 233 300 km | 22 900 | Deklarowana gwarancja przebiegu, hak. Odświeżone 26.08.2026 | j.w. |
+| **Włocławek** — „LED_Panorama_4x PodgrzFotele_Alu 17cali", 2011, 201 000 km | 23 900 do neg. | Niski przebieg, **alu 17"** (a nie 19"), bogata wersja | j.w. |
+
+Odrzucone z OLX w tym skanie (DSG albo nie ta generacja/nadwozie): Okszów 25 900 (DSG), Chojnice 16 900 (DSG), Marki 25 900 (DSG), Szczecin 25 900 (DSG), Warszawa-Ursynów 28 000 (DSG), Działoszyce 24 900 (DSG + 440 tys.), Świedziebnia (B8), Passat CC ×2 (nie kombi), Alltrack Warszawa i Poznań (DSG).
+
+### 💰 Co zmiana budżetu robi z rachunkiem — i odpowiedź na „czy 4 000 na start wystarczy"
+
+**Największa oszczędność przy przejściu B6 → B7 nie jest w cenie auta, tylko w rezerwie.** Przy B6 (N1, M2) trzeba było trzymać 2 000–3 000 zł na ewentualny moduł wałków, bo zabierak 77 mm to loteria. **B7 (seria CF, 100 mm od początku produkcji) kasuje tę pozycję w całości** — razem z inspekcją miski za ~800 zł.
+
+Co zostaje do zapłacenia po zakupie B7 za ~25 000:
+
+| Pozycja | Kwota | Status |
+|---|---|---|
+| PCC 2% od ceny z umowy | **~500** przy 25 000 | stawka ustawowa |
+| Rejestracja + tablice | ~160 | **SZACUNEK** |
+| Przegląd techniczny | 99 | stawka ustawowa |
+| OC na rok | ? | **DO SPRAWDZENIA** — kalkulator, nie z pamięci |
+| Pakiet serwisowy na start (olej 507 00, filtry, **Haldex**) | ? | **NIE WYCENIONE** — zadanie otwarte od 25.08 |
+| Rozrząd, jeśli brak udokumentowanego | ? | **NIE WYCENIONE** |
+| Dwumasa + sprzęgło | ? | **NIE WYCENIONE** — przy 250–300 tys. km to „kiedy", nie „czy" |
+| ~~Inspekcja miski / moduł wałków~~ | ~~800 + 2 000–3 000~~ | ✅ **ODPADA przy B7** |
+
+**Werdykt:** formalności (~760 zł) i pakiet serwisowy na start — 4 000 pokrywa z zapasem. **Dwumasa ze sprzęgłem — nie wiadomo, bo ta pozycja nadal nie ma wyceny.** Dopóki jej nie ma, 4 000 to rezerwa na **jeden** średni problem, nie na dwa. Praktyczny wniosek: albo kupować egzemplarz z udokumentowanym rozrządem i zdrowym sprzęgłem (test ślizgania z checklisty oględzin), albo zbić cenę o wartość tego, czego brakuje.

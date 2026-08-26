@@ -9,6 +9,14 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [26.08.2026] Budżet 25 200 na samo auto — B7 wraca do gry, ale rynek jest pusty
+
+Asystent finansowy ustalił **25 200 zł na samo auto** (wcześniej: 20 000 zł na wszystko). To zdejmuje barierę, przez którą od tygodnia graliśmy B6 zamiast B7. Skan powtórzony od zera, z filtrem po polu „Napęd" i pułapem 28 000 (żeby złapać oferty do negocjacji).
+
+Wynik: w całej Polsce **trzy** B7 kombi / diesel / manual / 4x4 do 28 000 zł — dwa już wcześniej odrzucone. Wąskim gardłem okazała się nie cena, tylko **manual**: reszta B7 4motion w tym paśmie to DSG. Jedyny nowy kandydat (Przecław, 26 000) ma pole „Tuning: Tak" — felgi 19", runflaty i regulowane zawieszenie, czyli modyfikacje odwrotne do wyprawowych.
+
+Przy okazji: **Toruń 23 000 wygasł**, a przejście z B6 na B7 kasuje z budżetu pozycję „moduł wałków 2 000–3 000 zł" (seria CF ma zabierak 100 mm od początku produkcji). Szczegóły i lista tropów z OLX: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „Skan rynku 26.08.2026 (wieczorny)".
+
 ### [26.08.2026] N3 Łódź odrzucona — „za dużo kombinacji"
 
 Auto spełniało wszystkie kryteria i miało najbogatsze wyposażenie ze stawki (Highline, 224 tys. km, czarne), ale jako świeży import bez polskiej rejestracji wymagało naraz Briefa, weryfikacji akcyzy i tłumaczeń oraz lawety albo rejestracji czasowej — przy jednoczesnym braku 3 tys. zł w budżecie. **Warunek powrotu: ~16–17 tys. i potwierdzony Brief.**

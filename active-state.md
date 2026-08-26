@@ -1,6 +1,6 @@
 # Active State
 
-Ostatnia aktualizacja: **2026-08-26** (odpadły M1 Jabłonka i N3 Łódź; w grze N1 + M2)
+Ostatnia aktualizacja: **2026-08-26 wieczór** (budżet 25 200 na samo auto — B7 wraca do gry; Toruń wygasł)
 
 > **Zasady tego pliku:** tylko to, co jest AKTUALNE. Wpis = max 2 zdania + link do pliku ze szczegółami.
 > Gdy coś przestaje być bieżące → **przenieś do `dziennik.md`**, nie zostawiaj z dopiskiem „nieaktualne".
@@ -12,38 +12,32 @@ Ostatnia aktualizacja: **2026-08-26** (odpadły M1 Jabłonka i N3 Łódź; w grz
 
 **Flota:** jedyne auto na chodzie to **Passat B5.5** (2004, 1.9 TDI 101 KM, 424 tys. km) — z **niezdiagnozowaną sprawą uszczelki pod głowicą**. Terrano sprzedane 10.08.2026.
 **Kupujemy:** Passat kombi 2.0 TDI CR, manual, 4motion — **B7 (2010–2015) LUB B6 z produkcji po poprawce zabieraka** (rozszerzone 25.08.2026) — [`zakup-passata-b7.md`](zakup-passata-b7.md)
-**Twarde kryteria:** 4motion (pole „Napęd", nie tytuł!) · Comfortline lub wyżej · **nie białe i nie krzykliwe** · **nadwozie i rocznik potwierdzać zdjęciami/tabliczką, nie polami** · budżet do ~27 tys. z rezerwą na naprawy
+**Twarde kryteria:** 4motion (pole „Napęd", nie tytuł!) · Comfortline lub wyżej · **nie białe i nie krzykliwe** · **nadwozie i rocznik potwierdzać zdjęciami/tabliczką, nie polami** · **manual** (to on, a nie cena, jest wąskim gardłem rynku)
 
-**💰 Kasa: 20 000 zł — PŁASKO, bez skoku we wrześniu** (ustalone 26.08.2026). Wpływ z 01.09 zjada zakup telefonu (~2 500 zł), więc kwota do dyspozycji nie rośnie.
+**💰 Kasa: 25 200 zł na SAMO AUTO + ~4 000 rezerwy na start** (ustalone z asystentem finansowym 26.08.2026). Podniesienie z 20 000 otwiera B7. Przy B7 z rezerwy znika pozycja „moduł wałków 2 000–3 000" — seria CF ma zabierak 100 mm od początku produkcji.
 
-| Auto | Cena | Rezerwa po zakupie |
-|---|---|---|
-| **N1** — Nowa Karczma | 15 900 | **4 100** ✅ |
-| **M2** — Chojnik | 16 900 | 3 100 ✅ |
-
-**N1 kupowalny DZIŚ.** W grze zostały **dwa auta: N1 i M2.**
-
-**Kandydaci po skanie 26.08:**
+**Kandydaci — stan po skanie 26.08 wieczór** ([szczegóły](zakup-passata-b7.md), sekcja „Skan rynku 26.08.2026 (wieczorny)"):
 
 | # | Auto | Cena | Stan |
 |---|---|---|---|
-| **N1** | **Nowa Karczma** B6 kombi 2009, Comfortline, srebrny, 208 tys. | **15 900** | 🟢 **tor główny** — jedyne w zasięgu dziś. Zabierak stary (rej. 07.2009). Pytania DO WYSŁANIA |
-| **M2** | **Chojnik** (małopolskie, ~170 km, ale **~3 h drogi** — Beskidy, nie autostrada) B6 2010, srebrny, 4x4, 297 tys. | **16 900** do neg. | 🟡 **wstrzymane** — wiadomość #1 gotowa, ale nie wysłana. Czekamy na N1. Blachy zasłonięte → CEP zablokowany do czasu podania nr rej. |
-| 1 | **Toruń** 2011, Comfortline, 268 tys. km | **23 000** (było 25 000) | do telefonu — sprzedający schodzi |
-| 2 | **Zakliczyn** (gm. Siepraw, ~50–55 km od BB) 2011, 245 tys. km, grafit | **26 800** | do telefonu — wersja nieznana |
-| — | Płock 2013, 214 tys. km, niebieski | 28 900 (⬆ z 26 900) | poza limitem, obserwować |
+| **N1** | **Nowa Karczma** B6 kombi 2009, Comfortline, srebrny, 208 tys. | **15 900** | 🟢 **tor główny** — wiadomość wysłana, czekamy. Zabierak stary (rej. 07.2009) → trzymać rezerwę na moduł |
+| **P1** | **Przecław** (zachodniopomorskie, ~600 km) B7 2011 Highline, manual, 4x4 stały, niebieski, 253 tys., dane 14/14 | **26 000** do neg. | 🟡 **jedyny B7 w kryteriach w całej PL** — ale „Tuning: Tak": felgi 19", runflaty, **zawieszenie regulowane**. Wejście tylko jeśli oddaje seryjne koła i zawieszenie |
+| **D1** | **Dąbrowa Górnicza** B7 2011, **199 980 km**, ~60 km od domu | **22 900** | 🔵 **najciekawszy trop** — najniższy przebieg w stawce i pod domem. **Napęd i skrzynia NIEZWERYFIKOWANE** (OLX blokuje reklamą) |
+| **M2** | **Chojnik** (małopolskie, ~3 h drogi) B6 2010, srebrny, 4x4, 297 tys. | **16 900** do neg. | 🟡 **wstrzymane** — wiadomość gotowa, nie wysłana. Blachy zasłonięte → CEP zablokowany |
+| 2 | **Zakliczyn** (gm. Siepraw, ~50–55 km od BB) 2011, 245 tys. km, grafit | **26 800** | do telefonu — **teraz w zasięgu negocjacji**, wersja nadal nieznana |
+| — | Dobieżyn 25 000 · Zielona Góra 22 900 · Włocławek 23 900 | — | 🔵 tropy z OLX, wszystkie **niezweryfikowane** |
 
 ## ✅ Zadania
 
-1. **Zadzwonić do TORUNIA** — pytanie nr 1: regeneracja skrzyni 09.2025, co i dlaczego, oraz czy przy zdjętej skrzyni poszły dwumasa i sprzęgło. Pełna lista 8 pytań: [`zakup-passata-b7.md`](zakup-passata-b7.md)
+1. 🔵 **Otworzyć cztery ogłoszenia z OLX i sprawdzić pole „Napęd" + skrzynię** — Dąbrowa Górnicza 22 900 (priorytet: 60 km od domu, 199 980 km), Dobieżyn 25 000, Zielona Góra 22 900, Włocławek 23 900. Lista i uzasadnienie: [`zakup-passata-b7.md`](zakup-passata-b7.md)
 2. **Zadzwonić do ZAKLICZYNA** — 510-675-024. Rozstrzyga: **Comfortline czy Trendline** (Trendline = odpada) + czy ma hak (na zdjęciu wygląda, w opisie brak)
 3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
 4. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"
-   ⏱️ **Deadline ciszy: piątek 28.08, wczesne popołudnie → dzwonić.** Komis ma **otwarte do 16:00**, a Michał może dzwonić w godzinach pracy. Jedyny powód czekania: odpowiedź o szkodzie **na piśmie** od firmy na VAT-marży. **Kasa NIE jest już powodem** — przy 20 000 N1 jest kupowalny dziś, a czekanie do września nic nie dokłada. Jeśli odpisze dobrze, jedziesz w ten weekend. Przez telefon pytać **tylko o wpis „uszkodzony"**, reszta listy zostaje na piśmie
+   ⏱️ **Deadline ciszy: piątek 28.08, wczesne popołudnie → dzwonić.** Komis ma **otwarte do 16:00**, a Michał może dzwonić w godzinach pracy. Jedyny powód czekania: odpowiedź o szkodzie **na piśmie** od firmy na VAT-marży. **Kasa NIE jest już powodem** — przy 25 200 N1 jest kupowalny dziś z dużym zapasem. Jeśli odpisze dobrze, jedziesz w ten weekend. Przez telefon pytać **tylko o wpis „uszkodzony"**, reszta listy zostaje na piśmie
 5. ⏸️ **M2 (Chojnik) — WSTRZYMANE do rozstrzygnięcia N1.** Wiadomość #1 gotowa do wklejenia: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „M2 (Chojnik) — kontakt ze sprzedającym". Wysłać dopiero gdy N1 odpadnie — **~3 h w jedną stronę**, to pełny dzień, nie objazd przy okazji
 6. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
 7. **Umówić stację diagnostyczną w okolicy Lubania** na dzień oględzin (sprzedający zezwala na dowolną). Inspekcja Otomoto 819 zł — odrzucona
-8. **Wycenić w warsztacie VAG** robotę na module wałków + pakiet serwisowy na start (olej 507 00, filtry, Haldex) — bez tego nie ma kwot do budżetu
+8. 🔴 **Wycenić w warsztacie VAG: dwumasa + sprzęgło** oraz pakiet serwisowy na start (olej 507 00, filtry, Haldex) i moduł wałków (tylko dla B6). **To jedyna pozycja, która rozstrzyga, czy 4 000 rezerwy wystarczy** — przy 250–300 tys. km sprzęgło to „kiedy", nie „czy"
 9. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
 
 ## 🧭 Wyprawy
