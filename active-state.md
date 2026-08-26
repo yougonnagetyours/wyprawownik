@@ -21,14 +21,15 @@ Ostatnia aktualizacja: **2026-08-26 wieczór** (budżet 25 200 na samo auto — 
 | # | Auto | Cena | Stan |
 |---|---|---|---|
 | **N1** | **Nowa Karczma** B6 kombi 2009, Comfortline, srebrny, 208 tys. | **15 900** | 🟢 **tor główny** — wiadomość wysłana, czekamy. Zabierak stary (rej. 07.2009) → trzymać rezerwę na moduł |
-| **P1** | **Przecław** (zachodniopomorskie, ~600 km) B7 2011 Highline, manual, 4x4 stały, niebieski, 253 tys., dane 14/14 | **26 000** do neg. | 🟡 **jedyny B7 w kryteriach w całej PL** — ale „Tuning: Tak": felgi 19", runflaty, **zawieszenie regulowane**. Wejście tylko jeśli oddaje seryjne koła i zawieszenie |
 | **M2** | **Chojnik** (małopolskie, ~3 h drogi) B6 2010, srebrny, 4x4, 297 tys. | **16 900** do neg. | 🟡 **wstrzymane** — wiadomość gotowa, nie wysłana. Blachy zasłonięte → CEP zablokowany |
 
-**W jeden dzień zeszły z rynku dwa auta z czołówki: Toruń 23 000 i Zakliczyn 26 800** — oba mieściły się w nowym budżecie i oba wygasły, zanim budżet ich dosięgnął. Cztery tropy z OLX (Dąbrowa Górnicza, Dobieżyn, Zielona Góra, Włocławek) sprawdzone i **odrzucone — wszystkie mają w polu „Napęd": na przednie koła.**
+🔻 **W budżecie 25 200 nie ma czego kupić w B7.** Cała Polska = 3 auta, wszystkie odrzucone (Przecław odrzucony 26.08 — 600 km + tuning). Pasmo 25–28 tys. dla B7 manual 4motion jest puste, bo ta półka rynku to DSG. **B6 nie jest kompromisem, jest jedyną opcją.** Nowy budżet nie zmienia CO kupujemy — zmienia rezerwę: przy N1 zostaje ~9 tys. zamiast ~4 tys., czyli moduł wałków przestaje być ryzykiem.
+
+⚠️ **Niezbadane pole: B6 w paśmie 21–25 200.** Wszystkie skany B6 miały sufit ~18–21 tys., bo tyle było kasy. Za 25 tys. w B6 dostaje się Highline z niższym przebiegiem zamiast Comfortline z 300 tys. km — **to jest najsensowniejszy następny ruch.**
 
 ## ✅ Zadania
 
-1. 🟡 **Zdecydować, co z P1 (Przecław, 26 000)** — jedyny B7 w kryteriach w całej PL, ale felgi 19", runflaty i zawieszenie regulowane. Pytanie do sprzedającego przed czymkolwiek innym: **czy oddaje seryjne koła i zawieszenie**. Bez tego 600 km w jedną stronę nie ma sensu. [`zakup-passata-b7.md`](zakup-passata-b7.md)
+1. 🔵 **Przeczesać B6 w paśmie 21–25 200** — nigdy nie robione, bo budżet nie pozwalał. Filtry: kombi · diesel · manual · pole Napęd 4x4 · gen. B6 · 1. rej. 2010+ · do 25 200 (przejrzeć do 28 000 pod negocjacje). [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „LUKA W DZISIEJSZYM SKANIE"
 2. ⚪ **Sprawdzić Zakliczyn na FB z prywatnego konta** — OLX wygasł, lustro FB nie do odczytania (przeglądarka zalogowana na profil strony). Niski priorytet: jeśli oferta żyje, telefon 510-675-024
 3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
 4. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"

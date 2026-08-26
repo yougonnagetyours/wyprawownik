@@ -9,6 +9,14 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [26.08.2026] Przecław odrzucony — i wniosek, że w budżecie 25 200 nie ma czego kupić w B7
+
+Michał odrzucił P1 (Przecław, 26 000): **~600 km w jedną stronę do auta na felgach 19", runflatach i regulowanym zawieszeniu.** Ani odległość, ani tuning osobno nie byłyby wyrokiem — razem tak. **Warunek powrotu: seryjne koła i zawieszenie w cenie ORAZ poniżej 24 tys.**
+
+Tym samym domyka się główny wniosek dnia: **podniesienie budżetu z 20 000 na 25 200 nie dało ani jednego kupowalnego B7.** W całej Polsce są trzy takie auta i wszystkie odpadły. Pasmo 25–28 tys. dla kombinacji B7 + manual + 4motion jest puste, bo ta półka rynku to DSG. **B6 przestaje być kompromisem — staje się jedyną opcją**, a nowy budżet zmienia nie to, CO kupujemy, tylko rezerwę po zakupie (przy N1 ~9 tys. zamiast ~4 tys., czyli moduł wałków przestaje być ryzykiem finansowym).
+
+Przy okazji wyszła luka: **wszystkie dotychczasowe skany B6 miały sufit ~18–21 tys.**, bo tyle było kasy. Pasmo 21–25 200 w B6 nigdy nie było przeczesane — a to dokładnie tam za B6 dostaje się Highline z niższym przebiegiem zamiast Comfortline z 300 tys. km. To jest następny ruch. Szczegóły: [`zakup-passata-b7.md`](zakup-passata-b7.md).
+
 ### [26.08.2026] Zakliczyn wygasł, cztery tropy z OLX odrzucone — rynek kurczy się szybciej, niż rośnie budżet
 
 Na pytanie Michała „Zakliczyn jeszcze jest?" — **nie**. OLX zwraca „To ogłoszenie nie jest już dostępne". Tego samego dnia potwierdził się też zgon Torunia. **Oba auta mieściły się w nowym budżecie 25 200 i oba zeszły z rynku, zanim budżet je dosięgnął** — Zakliczyn był nr 1 po skanie 14.08, Toruń trzymał się w czołówce przez trzy skany.

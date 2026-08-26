@@ -1235,3 +1235,33 @@ Lustro na FB Marketplace ([item 1015405607924995](https://www.facebook.com/marke
 W ciągu jednego dnia z listy zniknęły **dwa** auta, które przez trzy skany trzymały się w czołówce: **Toruń 23 000** i **Zakliczyn 26 800**. Oba były w zasięgu nowego budżetu 25 200 i oba zeszły, zanim budżet ich dosięgnął.
 
 Po tym skanie w grze zostają realnie **trzy** auta: **N1** (B6, Nowa Karczma, 15 900), **M2** (B6, Chojnik, 16 900) i **P1** (B7, Przecław, 26 000 — z tuningiem do rozbrojenia). Podniesienie budżetu do 25 200 **nie dołożyło ani jednego czystego kandydata** — dołożyło jednego z gwiazdką i skasowało dwóch przez upływ czasu.
+
+### ❌ P1 PRZECŁAW (26 000) — ODRZUCONE 26.08.2026 decyzją Michała
+
+[Ogłoszenie](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I6WjV.html) · B7 2011 Highline, manual, 4x4 stały, niebieski metalik, 253 tys. km, dane zweryfikowane 14/14.
+
+**Powód: odległość × tuning.** Ani jedno, ani drugie samo w sobie nie byłoby wyrokiem — ale razem tak. ~600 km w jedną stronę to dwa dni albo nocleg, a na końcu tej drogi stoi auto na **felgach 19", runflatach i regulowanym zawieszeniu**, czyli z modyfikacjami, które przed Bałkanami trzeba by cofnąć za nieznane pieniądze. Płacić dniem wolnym i paliwem za przywilej rozbrajania cudzego tuningu — nie.
+
+Michał kojarzył to auto z własnego przeglądania OLX (wisi tam jako „Pasat B7 4motion 2.0TDI ZAMIANA" od 16.08.2026), więc nie było to nowe odkrycie, tylko potwierdzenie, że stoi i się nie sprzedaje.
+
+**Warunek powrotu:** sprzedający sam z siebie deklaruje **komplet seryjnych kół i standardowe zawieszenie w cenie** ORAZ cena schodzi wyraźnie poniżej 24 tys. Bez obu naraz nie ma o czym rozmawiać — 600 km musi się czymś odkupić.
+
+### 🔻 Stan rynku po odrzuceniu P1: w budżecie 25 200 nie ma czego kupić w B7
+
+To jest najważniejszy wniosek z całego dnia i wymaga zapisania wprost:
+
+**Podniesienie budżetu z 20 000 na 25 200 nie dało ani jednego kupowalnego B7.** Skan całej Polski (Otomoto, filtr po polu „Napęd") zwrócił trzy auta — dwa odrzucone wcześniej, trzecie (P1) odrzucone dziś. Pasmo 25–28 tys. jest **puste dla kombinacji B7 + manual + 4motion**, bo cała ta półka rynku to DSG.
+
+**Konsekwencja praktyczna:** dopóki rynek się nie odświeży, **B6 nie jest kompromisem — jest jedyną opcją.** W grze zostają N1 (Nowa Karczma, 15 900) i M2 (Chojnik, 16 900), oba z zabierakiem 77 mm do zweryfikowania. Nowy budżet nie zmienia tego, **co** kupujemy — zmienia tylko **rezerwę po zakupie**, i to znacząco: przy N1 zostaje ~9 tys. zamiast ~4 tys., czyli moduł wałków przestaje być ryzykiem finansowym.
+
+**Do następnego skanu tygodniowego:** obserwować, czy w pasmo do 25 200 wpadnie B7 manual 4motion. Jeśli przez 2–3 tygodnie nic się nie pojawi, to jest sygnał, że **albo odpuszczamy manual, albo odpuszczamy B7** — i tę decyzję trzeba będzie podjąć świadomie, a nie przez zmęczenie szukaniem.
+
+### ⚠️ LUKA W DZISIEJSZYM SKANIE: B6 w paśmie 20–25 tys. nie był sprawdzany
+
+Dzisiejszy skan filtrował **po generacji B7**. To było uzasadnione pytaniem („będą jakieś fajne B7 za to?"), ale zostawia niezbadane pole:
+
+**Wszystkie dotychczasowe skany B6 miały sufit ceny ~18–21 tys.**, bo tyle wynosił budżet. N1 (15 900) i M2 (16 900) pochodzą z tamtej półki. **Pasmo 21–25 200 zł w generacji B6 nigdy nie zostało przeczesane** — a to jest dokładnie ten przedział, w którym za B6 dostaje się Highline z niższym przebiegiem zamiast Comfortline z 300 tys. km.
+
+Skoro B6 po poprawce zabieraka jest dopuszczony warunkowo (25.08.2026), a B7 z manualem po prostu nie istnieje w budżecie, to **ten skan jest najbardziej sensownym następnym ruchem** — i może dać coś lepszego od N1 za te same pieniądze, którymi i tak dysponujemy.
+
+Filtry do użycia: Passat · **kombi** · diesel · **manual** · pole Napęd = 4x4 (trzy warianty) · generacja **B6** · 1. rejestracja **2010+** (albo 2009 z tabliczką) · cena **do 25 200**, przejrzeć do 28 000 pod negocjacje.
