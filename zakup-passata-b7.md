@@ -634,6 +634,32 @@ Przed startem: poziom oleju i płynu, ciśnienia i DOT opon, pierwsze 20–30 km
 Assistance: sprawdzić pakiet w koncie bankowym/kartach (często już jest). Przy kupnie polisy — pytać o **karencję** i o **limit holowania min. 350–400 km / do miejsca zamieszkania**; podstawowe warianty holują tylko do najbliższego warsztatu.
 Paliwo: **SZACUNEK ~25–30 l** (350 km × 7–8 l/100 km — katalogowe 6,1 l z CEP jest nierealne dla 4motion).
 
+### 🔎 Skan po trasie — zadanie na nową sesję (zlecone 26.08.2026)
+
+**Po co:** N1 leży ~400 km od Bielska. Jeden wyjazd na jedno auto to słaby zwrot z dnia i paliwa. Jeśli po drodze albo bliżej domu stoi coś porównywalnego, **obejrzeć 2–3 sztuki za jednym razem** — albo w ogóle znaleźć coś bliżej i darować sobie Dolny Śląsk.
+
+**Korytarz trasy Bielsko-Biała → Nowa Karczma (lubański), głównie A4:**
+Katowice · Gliwice · Opole · **Wrocław** · Legnica · Bolesławiec · Zgorzelec/Lubań
+
+**Druga pula — blisko domu:** śląskie i małopolskie (Bielsko, Katowice, Kraków, Tychy, Rybnik, Żywiec).
+
+**Kryteria (te same co w protokole skanu, plus realny budżet):**
+
+| Parametr | Wartość |
+|---|---|
+| Nadwozie | **kombi** — potwierdzać zdjęciami, nie polem |
+| Napęd | **4motion** — pole „Napęd", nie tytuł |
+| Skrzynia | **manual**, nie DSG |
+| Silnik | 2.0 TDI **CR** — seria **CF** najbezpieczniejsza (100 mm od początku), CBAB tylko z weryfikacją daty produkcji |
+| Rocznik | **1. rej. 2010+** bezpiecznie · 2009 tylko z tabliczką · 2008 i starsze odpada |
+| Wersja | Comfortline lub wyżej |
+| Kolor | nie białe, nie krzykliwe |
+| **Cena** | **do ~18 tys.**, wyjątkowo do 20 tys. przy bardzo dobrym egzemplarzu |
+
+**Budżet realny:** 17 500 zł (25.08.2026) → ~20 500 zł od 01.09.2026. Rezerwa po zakupie musi zostać — patrz kalkulacja w sekcji „Protokół przy dalekim wyjeździe".
+
+**Punkt odniesienia:** N1 = kombi, 4motion, manual, Comfortline, 208 tys. km, świeży rozrząd, **15 900 zł**. Cokolwiek droższego musi być wyraźnie lepsze, żeby miało sens.
+
 ### ❌ Odrzucone ze skanu 25.08.2026
 
 - **[ID6IcLoo](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IcLoo.html)** — Passat 2.0 TDI DPF **DSG** 4Motion Highline. **Ogłoszenie nieaktywne.** I tak odpadłoby na DSG
