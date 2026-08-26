@@ -9,6 +9,12 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [26.08.2026] M1 Jabłonka odrzucona — korozja przebija papiery
+
+Papierowo M1 była najmocniejszą pozycją ze skanu: dane zweryfikowane 14/14 z bazą rządową, 4x4 stały, Comfortline, 90 km od domu. Odrzucona przez Michała na jednym argumencie — **za bardzo zgnita**. Sprzedający sam pisał o poprawkach lakierniczych i śladach korozji, a przy 334 tys. km blacharka to koszt bez dna i bez zwrotu.
+
+**Zasada, która z tego zostaje:** silnik można naprawić, przegniłego progu się nie odkręca. Przy każdym kolejnym aucie **zdjęcia progów i nadkoli idą do wiadomości #1**, nie do oględzin. Grają dalej N1 (tor główny) i M2 Chojnik.
+
 ### [26.08.2026] Skan po trasie: korytarz do Lubania pusty, rynek płytszy niż zakładaliśmy
 
 Przeskanowano Otomoto i OLX pod kątem Passata kombi 4motion manual diesel od 2009 do ~21 tys. **Cała Polska daje 2 oferty na Otomoto i garść na OLX** — pomysł „obejrzeć 2–3 auta przy okazji wyjazdu do N1" upadł, bo na trasie A4 nie stoi nic kwalifikującego się. Zamiast tego wyszły dwa auta **bliżej domu niż N1**: M1 Jabłonka (17 500) i M2 Chojnik (16 900), oba jednak z przebiegiem ~300 tys. km. Wyniki i odrzucone: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „WYNIKI skanu po trasie".

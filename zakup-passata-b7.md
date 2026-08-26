@@ -540,6 +540,74 @@ Odnotowane **w OBU bazach** (Carfax i autoDNA). Jednocześnie „Powypadkowy: ni
 
 **Dlaczego N1 przed N3:** oba prawie na pewno mają stary zabierak, więc N3 nie kupuje spokoju — tylko lepszą wersję wyposażenia za 4 tys. i za czekanie. N1 ma do tego świeży rozrząd, a N3 na ten temat milczy.
 
+### 📬 M2 (Chojnik) — kontakt ze sprzedającym
+
+**Stan na 26.08.2026: wiadomość #1 przygotowana, DO WYSŁANIA przez Michała.**
+
+**Ogłoszenie:** [OLX — Vw passat 2.0 tdi 4 motion 2010 r., Chojnik, 16 900 zł do neg.](https://www.olx.pl/d/oferta/vw-passat-2-0-tdi-4-motion-2010-r-CID5-ID1bRORb.html)
+**Sprzedający:** Czesław, osoba prywatna, na OLX od 2015. ⚠️ **Ostatnio online 16.08.2026** — tego samego dnia, w którym dodał ogłoszenie. Jeśli po ~2 dniach cisza na czacie, **dzwonić**, nie czekać
+
+#### ⚠️ Blachy zasłonięte — co to znaczy dla CEP
+
+VIN jest w ogłoszeniu (`WVWZZZ3CZAE084271`), ale [historiapojazdu.gov.pl](https://historiapojazdu.gov.pl) wymaga **trzech** danych naraz: VIN + **nr rejestracyjny** + **data pierwszej rejestracji**. Zamazane tablice = darmowa ścieżka zamknięta, dopóki sprzedający nie poda numeru.
+
+- Prośba o nr rejestracyjny idzie do wiadomości #1 jako zwykłe pytanie, **bez tłumaczenia się i bez sugestii, że coś ukrywa**
+- **Odmowa albo wykręt to sama w sobie odpowiedź** — przy aucie „z polskiego salonu, nieuszkodzonym" nie ma czego chronić
+- Ścieżka awaryjna: płatny raport z samego VIN-u (autoDNA / carVertical, **SZACUNEK 50–100 zł** — cena niesprawdzona u źródła). Zgodnie z kolejnością wydatków **dopiero gdy auto przejdzie wiadomość #1**, nie wcześniej
+- Co już wiadomo z samego VIN-u za darmo: `3C` = platforma Passata B6/B7, 10. znak `A` = rocznik modelowy 2010. **Zgadza się z ogłoszeniem** — to jedyna rzecz, którą VIN sam potwierdza
+
+#### Wiadomość #1 — do wysłania
+
+> Dzień dobry,
+>
+> Piszę w sprawie Passata 2.0 TDI 4motion z 2010. Mam do Pana jakieś 170 km z Bielska-Białej, więc wolałbym parę rzeczy ustalić przed przyjazdem.
+>
+> Widzę, że podał Pan VIN — do sprawdzenia w rządowej Historii pojazdu potrzebny jest jeszcze numer rejestracyjny i data pierwszej rejestracji. Mógłby Pan je podać?
+>
+> Poza tym:
+> - jaka to wersja wyposażenia — Trendline, Comfortline czy Highline?
+> - czy jest książka serwisowa albo faktury? Zależy mi głównie na wymianach oleju: daty i przebiegi
+> - kiedy ostatnio rozrząd i przy jakim przebiegu?
+> - czy był wymieniany olej z filtrem w Haldexie?
+> - sprzęgło i dwumasa — wymieniane, czy oryginalne?
+> - DPF oryginalny?
+>
+> I jedna prośba: czy mógłby Pan nagrać krótkie wideo zimnego rozruchu — auto po nocy, telefon przy otwartej masce, odpalenie i dwie minuty pracy na wolnych obrotach? Oszczędziłoby mi to kursu w obie strony.
+>
+> Przydałyby się też zdjęcia komory silnika, wnęki koła zapasowego i progów oraz nadkoli.
+>
+> Z góry dziękuję
+>
+> Pozdrawiam,
+> Michał
+
+**O co pytamy i po co:**
+
+| Pytanie | Czego szuka |
+|---|---|
+| Nr rejestracyjny + data 1. rej. | Odblokowuje darmowy CEP: przebiegi z badań, liczba właścicieli, wpisy o uszkodzeniach. **Odmowa = czerwona flaga** |
+| Wersja wyposażenia | **Trendline = odpada** z automatu. Opis milczy, a to twarde kryterium |
+| Wymiany oleju: daty i przebiegi | Przy 297 tys. km to jedyna rzecz, która odróżnia auto zajeżdżone od użytkowanego. Liczą się interwały, nie słowo „serwisowany" |
+| Rozrząd | 2.0 TDI CR co ~180 tys. km — przy 297 tys. **musiał być robiony minimum raz**. „Nie wiem" znaczy, że nie był |
+| Olej + filtr Haldexa | 4motion, co ~60 tys. km, olewane nagminnie. Przy 297 tys. powinno być 4–5 wymian |
+| Sprzęgło / dwumasa | Przy 297 tys. km oryginał jest mało prawdopodobny. „Nie wymieniane" = wliczyć **3–5 tys. zł (SZACUNEK)** w budżet |
+| DPF oryginalny | Wycięty = kłopot na badaniu i przy odsprzedaży |
+| Wideo zimnego rozruchu | Robi pół oględzin zdalnie: klekot zabieraka, klekot dwumasy, kultura pracy, dym. Szczegóły: sekcja „Protokół przy dalekim wyjeździe" |
+| Zdjęcia progów i nadkoli | **Polski egzemplarz z 2010 po 297 tys. km** — po M1 wiemy, że korozja jest tym, co wywala auto z gry. Sprawdzamy to ZANIM wsiądziemy |
+| Zdjęcie wnęki koła zapasowego | Zalanie, rdza od środka, ślady naprawy tyłu |
+
+**Konstrukcja:** wiadomość na OLX jest przypięta do ogłoszenia, ale sprzedający może mieć kilka aut — stąd jedno zdanie identyfikujące. Odległość w pierwszym zdaniu tłumaczy długość listy. **Zero słowa o cenie**, mimo że ogłoszenie jest „do negocjacji" — dźwignia zostaje na po oględzinach.
+
+#### Bramki decyzyjne
+
+| Odpowiedź | Ruch |
+|---|---|
+| Podaje nr rejestracyjny → CEP czysty, wersja Comfortline+ | ✅ prosimy o wideo, potem termin |
+| Odmawia numeru albo zbywa | ❌ odpuścić — przy „nieuszkodzonym z polskiego salonu" nie ma czego chronić |
+| Trendline | ❌ twarde kryterium |
+| Zero papierów na olej i rozrząd przy 297 tys. km | ❌ to nie jest „obniża cenę", to jest „nie wiadomo, co się kupuje" |
+| Zdjęcia progów pokazują rdzę | ❌ ta sama decyzja co przy M1, bez dyskusji |
+
 ### 📬 N1 — kontakt ze sprzedającym: stan i kolejne kroki
 
 **Stan na 26.08.2026: wiadomość #1 WYSŁANA. Czekamy na odpowiedź.**
@@ -674,7 +742,6 @@ Katowice · Gliwice · Opole · **Wrocław** · Legnica · Bolesławiec · Zgorz
 
 | # | Auto | Cena | Od Bielska | Uwagi |
 |---|---|---|---|---|
-| **M1** | [**Jabłonka** (Orawa, małopolskie) — B7 2011, 2.0 Blue TDI SCR **Comfortline**, kombi, manual, **4x4 (stały)**, 140 KM, czarny, 333 867 km](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IdiYQ.html) | **17 500** | **~90 km** | Dane **zweryfikowane 14/14** z bazą rządową — nadwozie, napęd i skrzynia potwierdzone polem, nie tytułem. 1. rej. 01.06.2011 → rocznik bezpieczny. Import. Sprzedający: prywatny, auto używa od 10 lat, „usterki na bieżąco”. ⚠️ **333 tys. km** i wprost przyznane: **wymaga poprawek lakierniczych, widoczne ślady korozji**. Wystawiony też na OLX (to samo auto) |
 | **M2** | [**Chojnik** (gm. Gródek n. Dunajcem, małopolskie) — B6 2010, 2.0 TDI 140 KM, kombi, manual, **4x4 (dołączany autom.)**, srebrny, 297 443 km](https://www.olx.pl/d/oferta/vw-passat-2-0-tdi-4-motion-2010-r-CID5-ID1bRORb.html) | **16 900** (do neg.) | ~170 km | **VIN podany w ogłoszeniu: WVWZZZ3CZAE084271** → CEP można wbić od ręki, bez pytania sprzedającego. Polski salon, nieuszkodzony. ⚠️ Opis czterozdaniowy, **zero słowa o serwisie**, 297 tys. km. Wersja (Comfortline/Trendline) **nieznana** |
 
 **Jak to wygląda względem N1 (15 900, 208 tys. km, 400 km w jedną stronę):**
@@ -688,6 +755,7 @@ N1 nadal ma **najniższy przebieg z całej trójki** — o 90–125 tys. km mnie
 
 #### ❌ Odrzucone ze skanu 26.08.2026
 
+- [**M1 Jabłonka 17 500**](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IdiYQ.html) — **ODRZUCONE 26.08.2026 decyzją Michała: za bardzo zgnity.** Papierowo auto było najmocniejsze z całego skanu (dane zweryfikowane 14/14, 4x4 stały, Comfortline, 90 km od domu), ale sprzedający sam pisze o poprawkach lakierniczych i widocznych śladach korozji. Przy 334 tys. km blacharka to koszt bez dna i bez zwrotu — silnik można naprawić, przegniłego progu się nie odkręca
 - [**Zabierzów 19 000**](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IcoDY.html) — ogłoszenie oznaczone **„samochód uszkodzony”**, **zero zdjęć**, kolor **czerwony**, a do tego pola kłócą się z opisem: pole mówi 1896 cm³ / 105 KM / 298 255 km, opis mówi 2.0 TDI 140 KM / **400 tys. km**. Sprzeczność przebiegu 100 tys. km to koniec rozmowy
 - [**Zakopane 21 900**](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-passat-b7-4x4-ID6I01gh.html) — B7 2012 Highline 4Motion 177 KM, blisko domu, ładne zdjęcia, ale **DSG** + 300 tys. km + ponad budżet
 - **Wrocław Krzyki, Alltrack 18 999** (OLX) — 2014, 177 KM, 273 tys. km, w korytarzu trasy. **Automat** i **biały** — dwa twarde kryteria naraz
