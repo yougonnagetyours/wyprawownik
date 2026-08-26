@@ -160,7 +160,7 @@ Zastrzeżenie: ten defekt kończy się zatarciem silnika, więc „poczekam aż 
 - Olej z mlekiem na bagnecie
 - DMF klekocze przy odpaleniu (chyba że cena uwzględnia wymianę)
 - DPF wycięty + ECU "przerobione" bez dokumentacji
-- DSG zamiast manuala — odpada z definicji
+- DSG zamiast manuala — odpada, ale **nie z powodu wady skrzyni**: B7 4motion ma DQ250 (mokre sprzęgło), nie feralne DQ200. Powód jest rynkowy — w naszym budżecie DSG kupuje wyższy przebieg, nie lepsze auto. Pełna rewizja kryterium: sekcja „Rewizja kryterium «DSG odpada z definicji»”
 
 ## Rynek — research ogłoszeń 06.08.2026 (Otomoto)
 
@@ -1265,3 +1265,52 @@ Dzisiejszy skan filtrował **po generacji B7**. To było uzasadnione pytaniem (�
 Skoro B6 po poprawce zabieraka jest dopuszczony warunkowo (25.08.2026), a B7 z manualem po prostu nie istnieje w budżecie, to **ten skan jest najbardziej sensownym następnym ruchem** — i może dać coś lepszego od N1 za te same pieniądze, którymi i tak dysponujemy.
 
 Filtry do użycia: Passat · **kombi** · diesel · **manual** · pole Napęd = 4x4 (trzy warianty) · generacja **B6** · 1. rejestracja **2010+** (albo 2009 z tabliczką) · cena **do 25 200**, przejrzeć do 28 000 pod negocjacje.
+
+## 🔧 Rewizja kryterium „DSG odpada z definicji" (26.08.2026, na pytanie Michała)
+
+**Powód rewizji:** skan wykazał, że pasmo 25–28 tys. w B7 4motion to niemal wyłącznie DSG. Michał zapytał, czy w takim razie nie szukać DSG. Kryterium było w tym pliku **zapisane bez ani jednego argumentu** („DSG zamiast manuala — odpada z definicji", sekcja Czerwone flagi) — więc zostało sprawdzone od zera.
+
+### ✅ Argument techniczny przeciw DSG jest SŁABSZY, niż zakładaliśmy
+
+**Passat B7 2.0 TDI 4Motion ma DQ250 (02E) — sprzęgło MOKRE, 6-biegowe.** Nie ma tam DQ200, czyli tej suchej siedmiobiegowej, która zrobiła DSG złą reputację. DQ200 przenosi max 250 Nm i do 2.0 TDI z 4x4 się nie nadaje; DQ250 jest przewidziana do 350 Nm i to ona siedzi w mocniejszych i cięższych VAG-ach, w tym w Passatach B6/B7 4motion ([autoEXPERT](https://autoexpert.pl/artykuly/skrzynie-dsg-dq250-i-dq200-budowa-diagnostyka-i-serwis), sprawdzone 26.08.2026).
+
+Różnica jest realna: wg autoEXPERT **„znacznie szybszemu zużyciu ulega zestaw suchy"** — czyli to DQ200 się zajeżdża, nie DQ250.
+
+**Czego DQ250 wymaga:** wymiana oleju (spec. VW G052 182) **co 60 tys. km**, a przy jeździe z przyczepą lub ostrzejszej **co 30–40 tys. km**. Typowe usterki: wycieki przy obudowie filtra i korku, ślizganie sprzęgieł, łożysko pilotujące, **mechatronika**.
+
+⚠️ **Koszt regeneracji: BRAK DANYCH.** Serwisy specjalistyczne podają „wycena indywidualna, po diagnozie i demontażu skrzyni" ([elektroskrzynie.pl](https://www.elektroskrzynie.pl/skrzynie/dq250-02e-dsg), sprawdzone 26.08.2026). Przed wpisaniem czegokolwiek do budżetu — telefon.
+
+**Wniosek uczciwy:** DQ250 to nie jest bomba zegarowa. Ale to nadal **układ, którego manual nie ma**: dodatkowy serwis co 60 tys. km, mechatronika jako pozycja ryzyka bez znanej ceny, i naprawa, której nie zrobi się w przygodnym warsztacie na Bałkanach. Przy aucie wyprawowym prostota ma wartość, której nie widać w tabelce.
+
+### ❌ Ale rynek i tak zamyka temat: DSG kupuje PRZEBIEG, nie jakość
+
+Skan 26.08.2026 (Otomoto, B7 kombi, diesel, pole Napęd = 4x4, **bez filtra skrzyni**):
+
+| Limit ceny | Z manualem | Ze wszystkimi skrzyniami |
+|---|---|---|
+| do **25 200** | 2 | **6** |
+| do **28 000** | 3 | **10** |
+
+Otwarcie kryterium potraja stawkę. Tylko że oto, co dokładnie dochodzi:
+
+| Auto | Cena | Rok | Przebieg |
+|---|---|---|---|
+| [Szczecin](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I5pSi.html) Highline 170 KM, ACC, dane zweryfikowane | 25 900 | 2011 | **244 999 km** |
+| Police Highline (link nieodczytany — z listy wyników) | 27 900 | 2013 | 293 000 km |
+| Bojano Highline | 25 000 | 2012 | 299 862 km |
+| Zakopane Highline | 21 900 | 2012 | 300 000 km |
+| Sierakowice Highline | 26 500 | 2012 | 305 000 km |
+| Gorzów Wlkp. Highline | 24 300 | 2013 | 340 000 km |
+| Kopki Highline | 23 000 | 2011 | **370 000 km** |
+
+**Wszystkie siedem to Highline** — czyli DSG faktycznie idzie w parze z bogatszą wersją. Ale **sześć z siedmiu ma 293–370 tys. km.** Jedyne poniżej 250 tys. to Szczecin za 25 900 — i to jest **ten sam odległy róg Polski, przez który dziś odrzuciliśmy Przecław** (~600 km).
+
+### 🎯 Werdykt: kryterium zostaje, ale z INNEGO powodu niż było zapisane
+
+Stary zapis („DSG odpada z definicji") był **nieuzasadniony i mylący** — sugerował wadę konstrukcyjną, której w DQ250 nie ma. Zastąpiony przez:
+
+> **DSG (DQ250) nie jest dyskwalifikujące technicznie.** Skrzynia mokra, przewidziana do tego momentu obrotowego, nie ma wady DQ200. Ale kosztuje: serwis oleju co 60 tys. km i mechatronika jako ryzyko bez wyceny. **Odrzucamy ją, bo w naszym budżecie DSG nie kupuje lepszego auta — kupuje wyższy przebieg.** Sześć z siedmiu dostępnych sztuk ma 293–370 tys. km.
+>
+> **Warunek ponownego otwarcia:** pojawi się B7 4motion DSG **poniżej 250 tys. km, bliżej niż 300 km od domu, z udokumentowanym serwisem skrzyni** (olej co 60 tys.). Wtedy liczymy jeszcze raz.
+
+**Nie zmienia to nic w dzisiejszej kolejności:** N1 (deadline piątek) i M2 pozostają torem głównym.

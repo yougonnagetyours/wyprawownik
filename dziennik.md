@@ -9,6 +9,18 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [26.08.2026] Kryterium „DSG odpada" przepisane — powód jest rynkowy, nie techniczny
+
+Michał zauważył, że skoro pasmo 25–28 tys. to niemal wyłącznie DSG, to może szukać DSG. Kryterium okazało się w pliku **zapisane bez ani jednego argumentu**, więc zostało sprawdzone od zera — i częściowo się nie obroniło.
+
+**B7 2.0 TDI 4Motion ma DQ250 (mokre sprzęgło, 6 biegów), nie feralne DQ200** — sucha siódemka przenosi max 250 Nm i do 2.0 TDI z 4x4 w ogóle nie trafiała. To DQ200 się zajeżdża, nie DQ250 ([autoEXPERT](https://autoexpert.pl/artykuly/skrzynie-dsg-dq250-i-dq200-budowa-diagnostyka-i-serwis)). Czyli stary zapis sugerował wadę konstrukcyjną, której tam nie ma.
+
+**Ale decyzja została ta sama, z innego powodu.** Skan bez filtra skrzyni potraja stawkę (3 → 10 aut do 28 tys.), tylko że **sześć z siedmiu dochodzących sztuk ma 293–370 tys. km.** Jedyna poniżej 250 tys. (Szczecin, 25 900, 244 999 km) leży w tym samym odległym rogu Polski, przez który tego samego dnia odrzuciliśmy Przecław. W tym budżecie **DSG nie kupuje lepszego auta — kupuje wyższy przebieg.**
+
+**Warunek ponownego otwarcia:** B7 4motion DSG poniżej 250 tys. km, bliżej niż 300 km od domu, z udokumentowanym serwisem skrzyni (olej co 60 tys. km). Szczegóły i koszty: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „Rewizja kryterium «DSG odpada z definicji»".
+
+**Lekcja ogólna:** twarde kryterium zapisane bez uzasadnienia jest później nie do zweryfikowania i zaczyna działać jak przesąd. **Każde kryterium w tym pliku ma mieć przy sobie powód** — inaczej po miesiącu nikt nie wie, czy nadal obowiązuje.
+
 ### [26.08.2026] Przecław odrzucony — i wniosek, że w budżecie 25 200 nie ma czego kupić w B7
 
 Michał odrzucił P1 (Przecław, 26 000): **~600 km w jedną stronę do auta na felgach 19", runflatach i regulowanym zawieszeniu.** Ani odległość, ani tuning osobno nie byłyby wyrokiem — razem tak. **Warunek powrotu: seryjne koła i zawieszenie w cenie ORAZ poniżej 24 tys.**
