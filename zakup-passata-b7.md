@@ -660,6 +660,46 @@ Katowice · Gliwice · Opole · **Wrocław** · Legnica · Bolesławiec · Zgorz
 
 **Punkt odniesienia:** N1 = kombi, 4motion, manual, Comfortline, 208 tys. km, świeży rozrząd, **15 900 zł**. Cokolwiek droższego musi być wyraźnie lepsze, żeby miało sens.
 
+### 🔎 WYNIKI skanu po trasie (wykonany 26.08.2026)
+
+**Zakres:** Otomoto (filtr: Passat · kombi · diesel · manual · Napęd 4x4 · od 2009 · do 21 tys.) + OLX (te same filtry, dodatkowo przejrzane do 22 tys.). Cała Polska — rynek okazał się na tyle płytki, że zawężanie do korytarza nie miało sensu.
+
+**Skala rynku:** Otomoto z tymi filtrami zwraca **2 oferty w całej Polsce** do 21 tys. i **3** do 28 tys. OLX — 27 wyników, z czego większość to Tiguany, Golfy i powypadkowe.
+
+**Wniosek główny: korytarz A4 do Lubańa jest PUSTY.** Nic po drodze nie da się obejrzeć przy okazji N1. Za to **dwa auta leżą bliżej domu niż N1** — i to one zmieniają układ.
+
+#### ✅ Nowi kandydaci
+
+*Wszystkie ceny sprawdzone bezpośrednio w ogłoszeniach 26.08.2026.*
+
+| # | Auto | Cena | Od Bielska | Uwagi |
+|---|---|---|---|---|
+| **M1** | [**Jabłonka** (Orawa, małopolskie) — B7 2011, 2.0 Blue TDI SCR **Comfortline**, kombi, manual, **4x4 (stały)**, 140 KM, czarny, 333 867 km](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IdiYQ.html) | **17 500** | **~90 km** | Dane **zweryfikowane 14/14** z bazą rządową — nadwozie, napęd i skrzynia potwierdzone polem, nie tytułem. 1. rej. 01.06.2011 → rocznik bezpieczny. Import. Sprzedający: prywatny, auto używa od 10 lat, „usterki na bieżąco”. ⚠️ **333 tys. km** i wprost przyznane: **wymaga poprawek lakierniczych, widoczne ślady korozji**. Wystawiony też na OLX (to samo auto) |
+| **M2** | [**Chojnik** (gm. Gródek n. Dunajcem, małopolskie) — B6 2010, 2.0 TDI 140 KM, kombi, manual, **4x4 (dołączany autom.)**, srebrny, 297 443 km](https://www.olx.pl/d/oferta/vw-passat-2-0-tdi-4-motion-2010-r-CID5-ID1bRORb.html) | **16 900** (do neg.) | ~170 km | **VIN podany w ogłoszeniu: WVWZZZ3CZAE084271** → CEP można wbić od ręki, bez pytania sprzedającego. Polski salon, nieuszkodzony. ⚠️ Opis czterozdaniowy, **zero słowa o serwisie**, 297 tys. km. Wersja (Comfortline/Trendline) **nieznana** |
+
+**Jak to wygląda względem N1 (15 900, 208 tys. km, 400 km w jedną stronę):**
+N1 nadal ma **najniższy przebieg z całej trójki** — o 90–125 tys. km mniej. M1 i M2 kupują bliskość i łatwość oględzin za cenę auta z przebiegiem 300 tys.+. To nie jest zamiennik N1, to **plan B, który można obejrzeć w sobotę po śniadaniu** zamiast brać dzień wolny.
+
+**Kolejność działań, która się z tego robi:**
+1. Czekamy na odpowiedź N1 (wiadomość #1 wysłana 26.08)
+2. **Niezależnie** — wbić VIN M2 w CEP (darmowe, natychmiastowe: przebiegi z badań, liczba właścicieli, wpisy o uszkodzeniach)
+3. Do M1 i M2 wysłać tę samą prośbę o **wideo zimnego rozruchu** co do N1 — kosztuje zero, a przy 300 tys. km rozstrzyga więcej niż przy 208 tys.
+4. Do M2 dodatkowo: **wersja wyposażenia** (Trendline = odpada) i **historia wymian oleju**
+
+#### ❌ Odrzucone ze skanu 26.08.2026
+
+- [**Zabierzów 19 000**](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IcoDY.html) — ogłoszenie oznaczone **„samochód uszkodzony”**, **zero zdjęć**, kolor **czerwony**, a do tego pola kłócą się z opisem: pole mówi 1896 cm³ / 105 KM / 298 255 km, opis mówi 2.0 TDI 140 KM / **400 tys. km**. Sprzeczność przebiegu 100 tys. km to koniec rozmowy
+- [**Zakopane 21 900**](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-passat-b7-4x4-ID6I01gh.html) — B7 2012 Highline 4Motion 177 KM, blisko domu, ładne zdjęcia, ale **DSG** + 300 tys. km + ponad budżet
+- **Wrocław Krzyki, Alltrack 18 999** (OLX) — 2014, 177 KM, 273 tys. km, w korytarzu trasy. **Automat** i **biały** — dwa twarde kryteria naraz
+- **Świerzawa 7 500** (dolnośląskie, w korytarzu) — B6 2010 4motion za ułamek ceny, ale: **DSG**, **uszkodzony po kolizji**, i sprzedający sam pisze „odpala, ale nie równo pracuje”. Wtryski po regeneracji = historia, której się nie chce
+- **Jarocin 21 500** (B7 2011, 341 tys. km) — DSG
+- **Grudziądz 21 300** (2012) i **Bydgoszcz 18 500** (2010, 288 tys. km) — kujawsko-pomorskie, ani po trasie, ani blisko; przy tym przebiegu nie warte 500+ km dojazdu
+- **Wieliczka 15 000** — Passat Variant 2023 4Motion **po wypadku**. Inna liga naprawy
+
+#### ⚠️ Ograniczenie tego skanu (ważne przy następnym)
+
+Filtr „Napęd = 4x4” na Otomoto **gubi oferty**, w których sprzedający nie wypełnił tego pola — Zakopane wyszło dopiero z OLX, mimo że ogłoszenie stoi na Otomoto. Kandydaci znani z 25.08 (Toruń 23 000, Zakliczyn 26 800) też **nie pojawili się** w filtrze. Wniosek: **skanować zawsze dwoma torami** — filtr pola + wyszukiwanie tekstowe „passat 4motion” — i nie ufać samemu filtrowi.
+
 ### ❌ Odrzucone ze skanu 25.08.2026
 
 - **[ID6IcLoo](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IcLoo.html)** — Passat 2.0 TDI DPF **DSG** 4Motion Highline. **Ogłoszenie nieaktywne.** I tak odpadłoby na DSG

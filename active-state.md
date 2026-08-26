@@ -1,6 +1,6 @@
 # Active State
 
-Ostatnia aktualizacja: **2026-08-25** (skan 5 linków, B6 po poprawce dopuszczony, kasa 17,5k)
+Ostatnia aktualizacja: **2026-08-26** (skan po trasie: korytarz do Lubania pusty, dwa auta bliżej domu)
 
 > **Zasady tego pliku:** tylko to, co jest AKTUALNE. Wpis = max 2 zdania + link do pliku ze szczegółami.
 > Gdy coś przestaje być bieżące → **przenieś do `dziennik.md`**, nie zostawiaj z dopiskiem „nieaktualne".
@@ -17,11 +17,13 @@ Ostatnia aktualizacja: **2026-08-25** (skan 5 linków, B6 po poprawce dopuszczon
 **💰 Kasa (25.08.2026): 17 500 zł. Od 01.09.2026: ~20 500 zł.**
 Od 01.09 **N1 (15 900) staje się kupowalny z realną rezerwą ~4 600 zł** — to pierwszy moment, w którym zakup domyka się arytmetycznie. Pełna kalkulacja: [`zakup-passata-b7.md`](zakup-passata-b7.md) sekcja „Protokół przy dalekim wyjeździe".
 
-**Kandydaci po skanie 25.08:**
+**Kandydaci po skanie 26.08:**
 
 | # | Auto | Cena | Stan |
 |---|---|---|---|
 | **N1** | **Nowa Karczma** B6 kombi 2009, Comfortline, srebrny, 208 tys. | **15 900** | 🟢 **tor główny** — jedyne w zasięgu dziś. Zabierak stary (rej. 07.2009). Pytania DO WYSŁANIA |
+| **M1** | **Jabłonka** (Orawa, ~90 km) B7 2011, Comfortline, czarny, 4x4 stały, 334 tys. | **17 500** | 🟢 nowy — dane zweryfikowane 14/14, ale 334 tys. km + korozja i lakier do poprawek |
+| **M2** | **Chojnik** (małopolskie, ~170 km) B6 2010, srebrny, 4x4, 297 tys. | **16 900** | 🟢 nowy — **VIN w ogłoszeniu**, do CEP od ręki. Wersja nieznana, zero info o serwisie |
 | **N3** | **Łódź** B6 kombi 2009, Highline, czarny, 224 tys. | 19 900 | 🟡 zapas — brak ~5 tys. Data produkcji do potwierdzenia tabliczką |
 | 1 | **Toruń** 2011, Comfortline, 268 tys. km | **23 000** (było 25 000) | do telefonu — sprzedający schodzi |
 | 2 | **Zakliczyn** (gm. Siepraw, ~50–55 km od BB) 2011, 245 tys. km, grafit | **26 800** | do telefonu — wersja nieznana |
@@ -33,11 +35,11 @@ Od 01.09 **N1 (15 900) staje się kupowalny z realną rezerwą ~4 600 zł** — 
 2. **Zadzwonić do ZAKLICZYNA** — 510-675-024. Rozstrzyga: **Comfortline czy Trendline** (Trendline = odpada) + czy ma hak (na zdjęciu wygląda, w opisie brak)
 3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
 4. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"
-5. 🔎 **SKAN: podobne Passaty PO TRASIE do Nowej Karczmy i bliżej Bielska** (zlecone 26.08.2026). Cel: obejrzeć 2–3 auta na jednym wyjeździe zamiast jednego za 800 km. Kryteria i korytarz trasy: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „Skan po trasie"
-6. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
-7. **Umówić stację diagnostyczną w okolicy Lubania** na dzień oględzin (sprzedający zezwala na dowolną). Inspekcja Otomoto 819 zł — odrzucona
-8. **Wycenić w warsztacie VAG** robotę na module wałków + pakiet serwisowy na start (olej 507 00, filtry, Haldex) — bez tego nie ma kwot do budżetu
-9. **Skan rynku ~21.08.2026** — protokół w [`zakup-passata-b7.md`](zakup-passata-b7.md). Otworzyć też zapisane linki znanych kandydatów (oferta, która podrożała, wypada z filtra)
+5. 🔵 **Wbić VIN M2 w CEP** — `WVWZZZ3CZAE084271`. Darmowe, natychmiastowe, nie wymaga kontaktu ze sprzedającym
+6. 🔵 **Wysłać do M1 i M2 prośbę o wideo zimnego rozruchu** (ta sama formuła co do N1). Przy ~300 tys. km rozstrzyga więcej niż przy 208 tys. Do M2 dodatkowo: wersja wyposażenia (Trendline = odpada) + historia wymian oleju
+7. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
+8. **Umówić stację diagnostyczną w okolicy Lubania** na dzień oględzin (sprzedający zezwala na dowolną). Inspekcja Otomoto 819 zł — odrzucona
+9. **Wycenić w warsztacie VAG** robotę na module wałków + pakiet serwisowy na start (olej 507 00, filtry, Haldex) — bez tego nie ma kwot do budżetu
 10. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
 
 ## 🧭 Wyprawy

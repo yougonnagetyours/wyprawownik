@@ -9,6 +9,12 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [26.08.2026] Skan po trasie: korytarz do Lubania pusty, rynek płytszy niż zakładaliśmy
+
+Przeskanowano Otomoto i OLX pod kątem Passata kombi 4motion manual diesel od 2009 do ~21 tys. **Cała Polska daje 2 oferty na Otomoto i garść na OLX** — pomysł „obejrzeć 2–3 auta przy okazji wyjazdu do N1" upadł, bo na trasie A4 nie stoi nic kwalifikującego się. Zamiast tego wyszły dwa auta **bliżej domu niż N1**: M1 Jabłonka (17 500) i M2 Chojnik (16 900), oba jednak z przebiegiem ~300 tys. km. Wyniki i odrzucone: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „WYNIKI skanu po trasie".
+
+Efekt uboczny: **filtr „Napęd = 4x4" na Otomoto gubi oferty** — auto z Zakopanego stoi na Otomoto, a wyszło dopiero z OLX. Od teraz skan idzie dwoma torami: filtr pola + wyszukiwanie tekstowe.
+
 ### [23.08.2026] Zasada kosztów wyegzekwowana hookiem, nie dobrą wolą
 Przy koncepcie Hiszpania/Sardynia napisałem, że kabina na promie jest w cenie przeprawy — nieprawda, u Grimaldiego to osobna dopłata (najtaniej deck passage, bez przypisanego miejsca). Michał słusznie zwrócił uwagę, że sama zasada w memory niczego nie egzekwuje: z memory ładuje się tylko indeks `MEMORY.md`, pliki tematyczne dopiero na żądanie. Stąd cztery warstwy: hook `UserPromptSubmit` (`.claude/scripts/koszty-guard.sh`) wstrzykujący zasadę przy każdym pytaniu o pieniądze, skill `research-cen` z procedurą, `.claude/rules/koszty.md` przy plikach z kwotami i linijka w `CLAUDE.md`.
 Przy okazji sprawdzone u źródła: promy Barcelona → Porto Torres 107–111 € i Olbia → Livorno 68–87 € (2 os. + Passat, wrzesień 2026) — mój wcześniejszy szacunek 1 500–2 500 zł za oba był 2–3× zawyżony. Pokład samochodowy zamknięty na czas rejsu (regulamin Grimaldi pkt 9.4) → `system-biwakowy.md` sekcja 7.
