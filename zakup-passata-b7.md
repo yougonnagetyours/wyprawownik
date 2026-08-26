@@ -542,28 +542,44 @@ Odnotowane **w OBU bazach** (Carfax i autoDNA). Jednocześnie „Powypadkowy: ni
 
 ### 📬 N1 — kontakt ze sprzedającym: stan i kolejne kroki
 
-**Stan na 26.08.2026: wiadomość #1 przygotowana, jeszcze NIE wysłana.**
+**Stan na 26.08.2026: wiadomość #1 WYSŁANA. Czekamy na odpowiedź.**
 
-#### Wiadomość #1 — zbieranie informacji (do wysłania przez Otomoto)
+#### Wiadomość #1 — wysłana 26.08.2026 przez Otomoto
 
 > Dzień dobry,
 >
-> Jestem zainteresowany autem, ale mam do Państwa ponad 300 km z Bielska-Białej, więc wolałbym kilka rzeczy wyjaśnić przed przyjazdem.
+> Jestem zainteresowany autem, ale mam do Państwa ok 400 km z Bielska-Białej, więc wolałbym o kilka rzeczy dopytać przed przyjazdem.
 >
-> Sprawdziłem VIN w rządowej Historii pojazdu i w danych zagranicznych wyskakuje wpis o uszkodzeniu (Carfax i autoDNA). Szczegółów tam nie ma — wiecie może, czego dotyczył?
+> Sprawdziłem VIN w rządowej Historii pojazdu i w danych zagranicznych wyskakuje wpis o uszkodzeniu (Carfax i autoDNA). Szczegółów tam nie ma, wiecie może, czego dotyczył?
 >
 > Piszecie w ogłoszeniu o raporcie z pomiaru grubości lakieru, chętnie bym taki zobaczył.
 >
-> Poza tym: jest książka serwisowa? Zależy mi głównie na wpisach wymian oleju, daty i przebiegi. I czy został jakiś papier po tym rozrządzie z lutego 2025.
+> Poza tym, czy jest może książka serwisowa? Zależy mi głównie na wpisach wymian oleju, daty i przebiegi. I czy został jakiś dokument po tym rozrządzie z lutego 2025?
 >
-> Aha, i jeszcze — DPF oryginalny? Był robiony olej z filtrem w Haldexie? Sprzęgło albo dwumasa wymieniane?
+> Czy DPF oryginalny i czy był zmieniany olej z filtrem w Haldexie? Czy sprzęgło albo dwumasa wymieniane? I czy klimatyzacja chłodzi, była kiedyś nabijana?
 >
-> Jak wszystko będzie się zgadzać, odezwę się w sprawie terminu.
+> Poprosiłbym jeszcze o zdjęcie wnęki koła zapasowego
+>
+> Z góry dziękuję
 >
 > Pozdrawiam,
 > Michał
 
-Uwagi do konstrukcji: wiadomość na Otomoto jest przypięta do ogłoszenia, więc **bez ID i bez „w sprawie Passata"**. Odległość podana w pierwszym zdaniu tłumaczy, czemu pytań jest tyle. Pytanie o szkodę idzie pierwsze i **bez sugestii, że coś ukrywa**. Zero słowa o cenie — dźwignia zostaje na później.
+**O co pytamy i po co** (do czytania przy odpowiedzi):
+
+| Pytanie | Czego szuka |
+|---|---|
+| Wpis „uszkodzony" | Jedyna czerwona flaga z CEP. Mętna odpowiedź = odpuszczamy |
+| Raport grubości lakieru | Sprzedający sam go oferuje. Narzędzie pod tę samą flagę |
+| Książka + wpisy wymian oleju | **Priorytet przy starym zabieraku** — liczą się interwały, nie słowo „serwisowany" |
+| Dokument po rozrządzie 02.2025 | Jedyny konkret w opisie; serwis był jeszcze w Niemczech |
+| DPF oryginalny | Wycięty = kłopot przy badaniu i przy odsprzedaży |
+| Olej + filtr Haldexa | 4motion, co ~60 tys. km, olewane nagminnie |
+| Sprzęgło / dwumasa | Przy 208 tys. km w widełkach zużycia. Łapie odpowiedź „sprzęgło tak, dwumasa nie" |
+| Klimatyzacja | Sprzedaż od firmy na VAT/Marża → **pisemne „chłodzi" ma wartość przy rękojmi** |
+| Zdjęcie wnęki koła zapasowego | Zalanie i rdza od środka + **ślady naprawy tyłu** (klasyczne miejsce po uderzeniu w tył) |
+
+Uwagi do konstrukcji: wiadomość na Otomoto jest przypięta do ogłoszenia, więc **bez ID i bez „w sprawie Passata"**. Odległość w pierwszym zdaniu tłumaczy, czemu pytań jest tyle. Pytanie o szkodę idzie pierwsze i **bez sugestii, że coś ukrywa**. **Zero słowa o cenie** — dźwignia zostaje na po oględzinach.
 
 #### 🔴 Wiadomość #2 — termin. NIE ZAPOMNIEĆ O ZIMNYM ROZRUCHU
 
