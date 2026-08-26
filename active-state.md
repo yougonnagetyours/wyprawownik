@@ -23,7 +23,7 @@ Od 01.09 **N1 (15 900) staje się kupowalny z realną rezerwą ~4 600 zł** — 
 |---|---|---|---|
 | **N1** | **Nowa Karczma** B6 kombi 2009, Comfortline, srebrny, 208 tys. | **15 900** | 🟢 **tor główny** — jedyne w zasięgu dziś. Zabierak stary (rej. 07.2009). Pytania DO WYSŁANIA |
 | **M2** | **Chojnik** (małopolskie, ~170 km, ale **~3 h drogi** — Beskidy, nie autostrada) B6 2010, srebrny, 4x4, 297 tys. | **16 900** do neg. | 🟡 **wstrzymane** — wiadomość #1 gotowa, ale nie wysłana. Czekamy na N1. Blachy zasłonięte → CEP zablokowany do czasu podania nr rej. |
-| **N3** | **Łódź** B6 kombi 2009, Highline, czarny, 224 tys. | 19 900 | 🟡 zapas — brak ~5 tys. Data produkcji do potwierdzenia tabliczką |
+| **N3** | **Łódź** B6 kombi 2009, Highline, czarny, 224 tys. | 19 900 **do neg.** | 🟡 zapas — od 01.09 zostaje tylko 600 zł rezerwy. **Tabliczka znamionowa rozstrzyga**, czy wchodzi na tor główny |
 | 1 | **Toruń** 2011, Comfortline, 268 tys. km | **23 000** (było 25 000) | do telefonu — sprzedający schodzi |
 | 2 | **Zakliczyn** (gm. Siepraw, ~50–55 km od BB) 2011, 245 tys. km, grafit | **26 800** | do telefonu — wersja nieznana |
 | — | Płock 2013, 214 tys. km, niebieski | 28 900 (⬆ z 26 900) | poza limitem, obserwować |
@@ -36,10 +36,11 @@ Od 01.09 **N1 (15 900) staje się kupowalny z realną rezerwą ~4 600 zł** — 
 4. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"
    ⏱️ **Deadline ciszy: piątek 28.08 wieczór. Brak odpowiedzi → telefon w sobotę 29.08 rano.** Nie dzwonić wcześniej: odpowiedź na piśmie ma wartość przy firmie na VAT-marży, a i tak nie ma czym klepnąć przed 01.09 (dziś rezerwa po zakupie = 1 600 zł). Przez telefon pytać **tylko o wpis „uszkodzony"**, reszta listy zostaje na piśmie
 5. ⏸️ **M2 (Chojnik) — WSTRZYMANE do rozstrzygnięcia N1.** Wiadomość #1 gotowa do wklejenia: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „M2 (Chojnik) — kontakt ze sprzedającym". Wysłać dopiero gdy N1 odpadnie — **~3 h w jedną stronę**, to pełny dzień, nie objazd przy okazji
-7. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
-8. **Umówić stację diagnostyczną w okolicy Lubania** na dzień oględzin (sprzedający zezwala na dowolną). Inspekcja Otomoto 819 zł — odrzucona
-9. **Wycenić w warsztacie VAG** robotę na module wałków + pakiet serwisowy na start (olej 507 00, filtry, Haldex) — bez tego nie ma kwot do budżetu
-10. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
+7. 📤 **Napisać do N3 (Łódź) o zdjęcie tabliczki znamionowej** — do zrobienia RÓWNOLEGLE z czekaniem na N1, kosztuje zero. Pełna lista 3 pytań: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „Pytania wysłane / do wysłania". ⚠️ **Nie tłumaczyć, po co ta data**
+8. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
+9. **Umówić stację diagnostyczną w okolicy Lubania** na dzień oględzin (sprzedający zezwala na dowolną). Inspekcja Otomoto 819 zł — odrzucona
+10. **Wycenić w warsztacie VAG** robotę na module wałków + pakiet serwisowy na start (olej 507 00, filtry, Haldex) — bez tego nie ma kwot do budżetu
+11. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
 
 ## 🧭 Wyprawy
 
