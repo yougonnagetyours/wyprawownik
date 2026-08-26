@@ -9,6 +9,12 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [26.08.2026] Zgubione 2 500 zł — kasa to 20 000, nie 17 500
+
+Michał mówił wcześniej o **dodatkowych 2 500 zł**, ale kwota nigdy nie trafiła do pliku i przepadła przy `/clear`. Skutek: doradziłem czekanie z telefonem do N1 argumentem „i tak nie masz czym klepnąć przed 01.09" — **nieprawdziwym**. Przy 20 000 zł N1 (15 900) jest kupowalny dziś z rezerwą 4 100 zł.
+
+**Wniosek operacyjny:** każda kwota podana w rozmowie idzie **natychmiast** do `active-state.md`, zanim padnie jakakolwiek rekomendacja na jej podstawie. Zasada „dane → pliki, nie pamięć" istnieje dokładnie po to i tym razem nie zadziałała.
+
 ### [26.08.2026] M1 Jabłonka odrzucona — korozja przebija papiery
 
 Papierowo M1 była najmocniejszą pozycją ze skanu: dane zweryfikowane 14/14 z bazą rządową, 4x4 stały, Comfortline, 90 km od domu. Odrzucona przez Michała na jednym argumencie — **za bardzo zgnita**. Sprzedający sam pisał o poprawkach lakierniczych i śladach korozji, a przy 334 tys. km blacharka to koszt bez dna i bez zwrotu.

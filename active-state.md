@@ -14,8 +14,15 @@ Ostatnia aktualizacja: **2026-08-26** (skan po trasie; M1 Jabłonka odrzucona �
 **Kupujemy:** Passat kombi 2.0 TDI CR, manual, 4motion — **B7 (2010–2015) LUB B6 z produkcji po poprawce zabieraka** (rozszerzone 25.08.2026) — [`zakup-passata-b7.md`](zakup-passata-b7.md)
 **Twarde kryteria:** 4motion (pole „Napęd", nie tytuł!) · Comfortline lub wyżej · **nie białe i nie krzykliwe** · **nadwozie i rocznik potwierdzać zdjęciami/tabliczką, nie polami** · budżet do ~27 tys. z rezerwą na naprawy
 
-**💰 Kasa (25.08.2026): 17 500 zł. Od 01.09.2026: ~20 500 zł.**
-Od 01.09 **N1 (15 900) staje się kupowalny z realną rezerwą ~4 600 zł** — to pierwszy moment, w którym zakup domyka się arytmetycznie. Pełna kalkulacja: [`zakup-passata-b7.md`](zakup-passata-b7.md) sekcja „Protokół przy dalekim wyjeździe".
+**💰 Kasa (26.08.2026): 20 000 zł** (17 500 + **2 500**, o których Michał mówił wcześniej — nie trafiły do pliku i przepadły przy `/clear`). **Od 01.09.2026: ~23 000 zł.**
+❓ **Do potwierdzenia jednym zdaniem:** czy te 2 500 doliczają się do dzisiejszych 17 500 (→ 20 000 teraz), czy dopiero do kwoty po 01.09.
+
+| Auto | Dziś (20 000) | Od 01.09 (23 000) |
+|---|---|---|
+| N1 — 15 900 | rezerwa **4 100** | rezerwa 7 100 |
+| N3 — 19 900 | rezerwa 100 | rezerwa 3 100 |
+
+**N1 jest kupowalny DZIŚ** z rezerwą 4 100 zł. Stary wpis „dopiero od 01.09 domyka się arytmetycznie" był liczony bez tych 2 500 — **nieaktualny**.
 
 **Kandydaci po skanie 26.08:**
 
@@ -34,7 +41,7 @@ Od 01.09 **N1 (15 900) staje się kupowalny z realną rezerwą ~4 600 zł** — 
 2. **Zadzwonić do ZAKLICZYNA** — 510-675-024. Rozstrzyga: **Comfortline czy Trendline** (Trendline = odpada) + czy ma hak (na zdjęciu wygląda, w opisie brak)
 3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
 4. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"
-   ⏱️ **Deadline ciszy: piątek 28.08 wieczór. Brak odpowiedzi → telefon w sobotę 29.08 rano.** Nie dzwonić wcześniej: odpowiedź na piśmie ma wartość przy firmie na VAT-marży, a i tak nie ma czym klepnąć przed 01.09 (dziś rezerwa po zakupie = 1 600 zł). Przez telefon pytać **tylko o wpis „uszkodzony"**, reszta listy zostaje na piśmie
+   ⏱️ **Deadline ciszy: piątek 28.08 wieczór. Brak odpowiedzi → telefon w sobotę 29.08 rano.** Jedyny powód czekania: odpowiedź o szkodzie **na piśmie** od firmy na VAT-marży. **Kasa NIE jest już powodem** — przy 20 000 N1 jest kupowalny dziś. Jeśli odpisze dobrze, jedziesz w ten weekend, nie po 01.09. Przez telefon pytać **tylko o wpis „uszkodzony"**, reszta listy zostaje na piśmie
 5. ⏸️ **M2 (Chojnik) — WSTRZYMANE do rozstrzygnięcia N1.** Wiadomość #1 gotowa do wklejenia: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „M2 (Chojnik) — kontakt ze sprzedającym". Wysłać dopiero gdy N1 odpadnie — **~3 h w jedną stronę**, to pełny dzień, nie objazd przy okazji
 7. 📤 **Napisać do N3 (Łódź) o zdjęcie tabliczki znamionowej** — do zrobienia RÓWNOLEGLE z czekaniem na N1, kosztuje zero. Pełna lista 3 pytań: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „Pytania wysłane / do wysłania". ⚠️ **Nie tłumaczyć, po co ta data**
 8. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
