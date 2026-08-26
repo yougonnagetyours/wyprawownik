@@ -7,6 +7,7 @@
 - [ZAWSZE linki do ogłoszeń](feedback_zawsze_linki_do_ogloszen.md) — każda pozycja w researchu z klikalnym URL, w czacie i w pliku; bez linku research jest bezużyteczny
 - [ZAWSZE Chrome do ogłoszeń](feedback_zawsze_chrome_do_ogloszen.md) — research Otomoto/OLX/stron przez wtyczkę Claude in Chrome, nigdy WebFetch (zmyśla dane)
 - [Sprawdzaj kontekst wyprawy](feedback_sprawdzaj_kontekst_wyprawy.md) — przed pisaniem o aucie/stylu konkretnej wyprawy → pliki wyprawy + memory, nie domyślne z CLAUDE.md
+- [Kwoty natychmiast do pliku](feedback_kwoty_natychmiast_do_pliku.md) — kwota z rozmowy ląduje w active-state.md ZANIM zbudujesz na niej radę; zgubione 2 500 zł dało błędną rekomendację
 - [Nowe info → do pliku projektu](feedback_nowe_info_do_pliku.md) — po researchu/ustaleniu od razu dopisuj do właściwego pliku albo wprost proponuj; nie zostawiaj w czacie
 - [Droga, nie sprzęt](feedback_droga_nie_sprzet.md) — minimalizm, używać tego co już jest, mechanika przed stylingiem; nie pchać upgradów ani estetyki sprzętu
 - [Michał pracuje w dzień](feedback_michal_pracuje_w_dzien.md) — nie planuj zadań na środek dnia roboczego; realne okna to wieczory i weekendy
