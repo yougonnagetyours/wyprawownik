@@ -22,7 +22,7 @@ Od 01.09 **N1 (15 900) staje się kupowalny z realną rezerwą ~4 600 zł** — 
 | # | Auto | Cena | Stan |
 |---|---|---|---|
 | **N1** | **Nowa Karczma** B6 kombi 2009, Comfortline, srebrny, 208 tys. | **15 900** | 🟢 **tor główny** — jedyne w zasięgu dziś. Zabierak stary (rej. 07.2009). Pytania DO WYSŁANIA |
-| **M2** | **Chojnik** (małopolskie, ~170 km) B6 2010, srebrny, 4x4, 297 tys. | **16 900** do neg. | 🟢 **tor drugi** — wiadomość #1 przygotowana. Blachy zasłonięte → CEP zablokowany do czasu podania nr rej. |
+| **M2** | **Chojnik** (małopolskie, ~170 km, ale **~3 h drogi** — Beskidy, nie autostrada) B6 2010, srebrny, 4x4, 297 tys. | **16 900** do neg. | 🟡 **wstrzymane** — wiadomość #1 gotowa, ale nie wysłana. Czekamy na N1. Blachy zasłonięte → CEP zablokowany do czasu podania nr rej. |
 | **N3** | **Łódź** B6 kombi 2009, Highline, czarny, 224 tys. | 19 900 | 🟡 zapas — brak ~5 tys. Data produkcji do potwierdzenia tabliczką |
 | 1 | **Toruń** 2011, Comfortline, 268 tys. km | **23 000** (było 25 000) | do telefonu — sprzedający schodzi |
 | 2 | **Zakliczyn** (gm. Siepraw, ~50–55 km od BB) 2011, 245 tys. km, grafit | **26 800** | do telefonu — wersja nieznana |
@@ -34,8 +34,8 @@ Od 01.09 **N1 (15 900) staje się kupowalny z realną rezerwą ~4 600 zł** — 
 2. **Zadzwonić do ZAKLICZYNA** — 510-675-024. Rozstrzyga: **Comfortline czy Trendline** (Trendline = odpada) + czy ma hak (na zdjęciu wygląda, w opisie brak)
 3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
 4. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"
-5. 📤 **Wysłać wiadomość #1 do M2 (Chojnik)** — gotowa treść: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „M2 (Chojnik) — kontakt ze sprzedającym". Kluczowe: **prośba o nr rejestracyjny** (blachy zamazane → CEP zablokowany) + wideo zimnego rozruchu + zdjęcia progów
-6. ☎️ **Jeśli po 2 dniach cisza na OLX — dzwonić.** Sprzedający ostatnio online 16.08.2026, tego samego dnia dodał ogłoszenie
+   ⏱️ **Deadline ciszy: piątek 28.08 wieczór. Brak odpowiedzi → telefon w sobotę 29.08 rano.** Nie dzwonić wcześniej: odpowiedź na piśmie ma wartość przy firmie na VAT-marży, a i tak nie ma czym klepnąć przed 01.09 (dziś rezerwa po zakupie = 1 600 zł). Przez telefon pytać **tylko o wpis „uszkodzony"**, reszta listy zostaje na piśmie
+5. ⏸️ **M2 (Chojnik) — WSTRZYMANE do rozstrzygnięcia N1.** Wiadomość #1 gotowa do wklejenia: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „M2 (Chojnik) — kontakt ze sprzedającym". Wysłać dopiero gdy N1 odpadnie — **~3 h w jedną stronę**, to pełny dzień, nie objazd przy okazji
 7. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
 8. **Umówić stację diagnostyczną w okolicy Lubania** na dzień oględzin (sprzedający zezwala na dowolną). Inspekcja Otomoto 819 zł — odrzucona
 9. **Wycenić w warsztacie VAG** robotę na module wałków + pakiet serwisowy na start (olej 507 00, filtry, Haldex) — bez tego nie ma kwot do budżetu

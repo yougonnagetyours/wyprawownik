@@ -542,7 +542,9 @@ Odnotowane **w OBU bazach** (Carfax i autoDNA). Jednocześnie „Powypadkowy: ni
 
 ### 📬 M2 (Chojnik) — kontakt ze sprzedającym
 
-**Stan na 26.08.2026: wiadomość #1 przygotowana, DO WYSŁANIA przez Michała.**
+**Stan na 26.08.2026: wiadomość #1 przygotowana, ale WSTRZYMANA — czekamy na rozstrzygnięcie N1.**
+
+⚠️ **Korekta odległości:** 170 km na mapie to **~3 h w jedną stronę** (wg Michała — Beskidy, nie autostrada). To nie jest „obejrzeć przy okazji", tylko **pełny dzień, podobnie jak N1**. Cała przewaga M2 nad N1 sprowadza się więc do 6 h zamiast 8 h w aucie — przy przebiegu o 90 tys. km wyższym. **M2 wchodzi do gry dopiero, gdy N1 odpadnie.**
 
 **Ogłoszenie:** [OLX — Vw passat 2.0 tdi 4 motion 2010 r., Chojnik, 16 900 zł do neg.](https://www.olx.pl/d/oferta/vw-passat-2-0-tdi-4-motion-2010-r-CID5-ID1bRORb.html)
 **Sprzedający:** Czesław, osoba prywatna, na OLX od 2015. ⚠️ **Ostatnio online 16.08.2026** — tego samego dnia, w którym dodał ogłoszenie. Jeśli po ~2 dniach cisza na czacie, **dzwonić**, nie czekać
@@ -742,7 +744,7 @@ Katowice · Gliwice · Opole · **Wrocław** · Legnica · Bolesławiec · Zgorz
 
 | # | Auto | Cena | Od Bielska | Uwagi |
 |---|---|---|---|---|
-| **M2** | [**Chojnik** (gm. Gródek n. Dunajcem, małopolskie) — B6 2010, 2.0 TDI 140 KM, kombi, manual, **4x4 (dołączany autom.)**, srebrny, 297 443 km](https://www.olx.pl/d/oferta/vw-passat-2-0-tdi-4-motion-2010-r-CID5-ID1bRORb.html) | **16 900** (do neg.) | ~170 km | **VIN podany w ogłoszeniu: WVWZZZ3CZAE084271** → CEP można wbić od ręki, bez pytania sprzedającego. Polski salon, nieuszkodzony. ⚠️ Opis czterozdaniowy, **zero słowa o serwisie**, 297 tys. km. Wersja (Comfortline/Trendline) **nieznana** |
+| **M2** | [**Chojnik** (gm. Gródek n. Dunajcem, małopolskie) — B6 2010, 2.0 TDI 140 KM, kombi, manual, **4x4 (dołączany autom.)**, srebrny, 297 443 km](https://www.olx.pl/d/oferta/vw-passat-2-0-tdi-4-motion-2010-r-CID5-ID1bRORb.html) | **16 900** (do neg.) | 170 km, ale **~3 h** | **VIN podany w ogłoszeniu: WVWZZZ3CZAE084271** → CEP można wbić od ręki, bez pytania sprzedającego. Polski salon, nieuszkodzony. ⚠️ Opis czterozdaniowy, **zero słowa o serwisie**, 297 tys. km. Wersja (Comfortline/Trendline) **nieznana** |
 
 **Jak to wygląda względem N1 (15 900, 208 tys. km, 400 km w jedną stronę):**
 N1 nadal ma **najniższy przebieg z całej trójki** — o 90–125 tys. km mniej. M1 i M2 kupują bliskość i łatwość oględzin za cenę auta z przebiegiem 300 tys.+. To nie jest zamiennik N1, to **plan B, który można obejrzeć w sobotę po śniadaniu** zamiast brać dzień wolny.
