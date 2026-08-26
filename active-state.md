@@ -1,6 +1,6 @@
 # Active State
 
-Ostatnia aktualizacja: **2026-08-26** (skan po trasie; M1 Jabłonka odrzucona — korozja; gramy N1 + M2)
+Ostatnia aktualizacja: **2026-08-26** (odpadły M1 Jabłonka i N3 Łódź; w grze N1 + M2)
 
 > **Zasady tego pliku:** tylko to, co jest AKTUALNE. Wpis = max 2 zdania + link do pliku ze szczegółami.
 > Gdy coś przestaje być bieżące → **przenieś do `dziennik.md`**, nie zostawiaj z dopiskiem „nieaktualne".
@@ -20,9 +20,8 @@ Ostatnia aktualizacja: **2026-08-26** (skan po trasie; M1 Jabłonka odrzucona �
 |---|---|---|
 | **N1** — Nowa Karczma | 15 900 | **4 100** ✅ |
 | **M2** — Chojnik | 16 900 | 3 100 ✅ |
-| **N3** — Łódź | 19 900 | **100** ❌ |
 
-**N1 kupowalny DZIŚ.** **N3 za cenę wywoławczą jest poza zasięgiem na stałe** — czekanie do września już nic nie zmienia, wraca do gry tylko przy zejściu do ~16–17 tys.
+**N1 kupowalny DZIŚ.** W grze zostały **dwa auta: N1 i M2.**
 
 **Kandydaci po skanie 26.08:**
 
@@ -30,7 +29,6 @@ Ostatnia aktualizacja: **2026-08-26** (skan po trasie; M1 Jabłonka odrzucona �
 |---|---|---|---|
 | **N1** | **Nowa Karczma** B6 kombi 2009, Comfortline, srebrny, 208 tys. | **15 900** | 🟢 **tor główny** — jedyne w zasięgu dziś. Zabierak stary (rej. 07.2009). Pytania DO WYSŁANIA |
 | **M2** | **Chojnik** (małopolskie, ~170 km, ale **~3 h drogi** — Beskidy, nie autostrada) B6 2010, srebrny, 4x4, 297 tys. | **16 900** do neg. | 🟡 **wstrzymane** — wiadomość #1 gotowa, ale nie wysłana. Czekamy na N1. Blachy zasłonięte → CEP zablokowany do czasu podania nr rej. |
-| **N3** | **Łódź** B6 kombi 2009, Highline, czarny, 224 tys. — **świeży import z Niemiec, BEZ polskiej rejestracji** | 19 900 **do neg.** | 🔴 poza zasięgiem za tę cenę (rezerwa 100 zł). Kryteria spełnia w komplecie. **Rozstrzyga: czy jest Brief (Teil II)** — bez niego nie zarejestrujesz |
 | 1 | **Toruń** 2011, Comfortline, 268 tys. km | **23 000** (było 25 000) | do telefonu — sprzedający schodzi |
 | 2 | **Zakliczyn** (gm. Siepraw, ~50–55 km od BB) 2011, 245 tys. km, grafit | **26 800** | do telefonu — wersja nieznana |
 | — | Płock 2013, 214 tys. km, niebieski | 28 900 (⬆ z 26 900) | poza limitem, obserwować |
@@ -43,11 +41,10 @@ Ostatnia aktualizacja: **2026-08-26** (skan po trasie; M1 Jabłonka odrzucona �
 4. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"
    ⏱️ **Deadline ciszy: piątek 28.08, wczesne popołudnie → dzwonić.** Komis ma **otwarte do 16:00**, a Michał może dzwonić w godzinach pracy. Jedyny powód czekania: odpowiedź o szkodzie **na piśmie** od firmy na VAT-marży. **Kasa NIE jest już powodem** — przy 20 000 N1 jest kupowalny dziś, a czekanie do września nic nie dokłada. Jeśli odpisze dobrze, jedziesz w ten weekend. Przez telefon pytać **tylko o wpis „uszkodzony"**, reszta listy zostaje na piśmie
 5. ⏸️ **M2 (Chojnik) — WSTRZYMANE do rozstrzygnięcia N1.** Wiadomość #1 gotowa do wklejenia: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „M2 (Chojnik) — kontakt ze sprzedającym". Wysłać dopiero gdy N1 odpadnie — **~3 h w jedną stronę**, to pełny dzień, nie objazd przy okazji
-7. 📤 **Napisać do N3 (Łódź)** — RÓWNOLEGLE z czekaniem na N1, kosztuje zero. **Pytać w tej kolejności: (1) czy jest Brief / Zulassungsbescheinigung Teil II, (2) akcyza, tłumaczenia i przegląd — osobno, każde z dokumentem, (3) zdjęcie tabliczki znamionowej.** Brief daje datę produkcji i liczbę właścicieli, czyli zastępuje tabliczkę. ⚠️ **Nie tłumaczyć, po co ta data.** Szczegóły: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N3 (Łódź) — przegląd ogłoszenia"
-8. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
-9. **Umówić stację diagnostyczną w okolicy Lubania** na dzień oględzin (sprzedający zezwala na dowolną). Inspekcja Otomoto 819 zł — odrzucona
-10. **Wycenić w warsztacie VAG** robotę na module wałków + pakiet serwisowy na start (olej 507 00, filtry, Haldex) — bez tego nie ma kwot do budżetu
-11. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
+6. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
+7. **Umówić stację diagnostyczną w okolicy Lubania** na dzień oględzin (sprzedający zezwala na dowolną). Inspekcja Otomoto 819 zł — odrzucona
+8. **Wycenić w warsztacie VAG** robotę na module wałków + pakiet serwisowy na start (olej 507 00, filtry, Haldex) — bez tego nie ma kwot do budżetu
+9. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
 
 ## 🧭 Wyprawy
 
@@ -65,7 +62,7 @@ Wszystkie pozostałe (zrealizowane, niezrealizowane, koncepty) → [`wyprawy/IND
 | Wszystkie wyprawy ze statusami | [`wyprawy/INDEKS.md`](wyprawy/INDEKS.md) |
 | **„Czemu wtedy tak zdecydowaliśmy"** | [`dziennik.md`](dziennik.md) |
 | Zamknięte tory zakupowe (B5.5 4motion, XC70, B6) | [`archiwum/README.md`](archiwum/README.md) |
-| **Czemu nie kupujemy w Niemczech** | [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „Skan Niemiec przy granicy" |
+| **Czemu nie kupujemy w Niemczech / importów** | [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcje „Skan Niemiec przy granicy" i „N3 (Łódź)" |
 | Luźne pomysły „jak podróżować lepiej" | [`pomysly-usprawnienia.md`](pomysly-usprawnienia.md) |
 | Kanał „Dojedziemy" (faza 0, wraca jesień 2026) | [`kanal-dojedziemy/`](kanal-dojedziemy/) |
 

@@ -9,6 +9,12 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [26.08.2026] N3 Łódź odrzucona — „za dużo kombinacji"
+
+Auto spełniało wszystkie kryteria i miało najbogatsze wyposażenie ze stawki (Highline, 224 tys. km, czarne), ale jako świeży import bez polskiej rejestracji wymagało naraz Briefa, weryfikacji akcyzy i tłumaczeń oraz lawety albo rejestracji czasowej — przy jednoczesnym braku 3 tys. zł w budżecie. **Warunek powrotu: ~16–17 tys. i potwierdzony Brief.**
+
+**Zasada:** świeży import kosztuje więcej niż cena z ogłoszenia (transport + formalności) i **wyłącza CEP**, czyli najtańsze narzędzie weryfikacji. Przy budżecie bez rezerwy to zły interes. W grze zostają **N1 i M2**.
+
 ### [26.08.2026] N3 to świeży import bez blach; Niemcy przy granicy odpadają dwukrotnie
 
 Michał zauważył, że auto z Łodzi nie ma tablic. Przegląd ogłoszenia wyjaśnił dlaczego: **kraj pochodzenia Niemcy, „po wszystkich opłatach – przygotowany do rejestracji"** — nigdy nie było zarejestrowane w Polsce. Skutek: **CEP nie istnieje dla tego auta**, a pytaniem rozstrzygającym staje się **Brief (Zulassungsbescheinigung Teil II)** — bez niego nie ma rejestracji, a z nim dostajemy datę pierwszej rejestracji i liczbę właścicieli, czyli to, po co chcieliśmy tabliczkę.

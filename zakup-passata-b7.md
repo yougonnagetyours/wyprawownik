@@ -541,6 +541,16 @@ Odnotowane **w OBU bazach** (Carfax i autoDNA). Jednocześnie „Powypadkowy: ni
 
 **Dlaczego N1 przed N3:** oba prawie na pewno mają stary zabierak, więc N3 nie kupuje spokoju — tylko lepszą wersję wyposażenia za 4 tys. i za czekanie. N1 ma do tego świeży rozrząd, a N3 na ten temat milczy.
 
+### ❌ N3 (Łódź) — ODRZUCONE 26.08.2026: za dużo kombinacji
+
+**Decyzja Michała:** *„za dużo kombinacji"*. Auto spełniało kryteria w komplecie i miało najlepsze wyposażenie z całej stawki, ale wymagało naraz: **Briefa**, **weryfikacji akcyzy/tłumaczeń/przeglądu**, **lawety albo rejestracji czasowej** — i do tego brakowało na nie 3 tys. zł. Trzy niewiadome proceduralne przy aucie, którego i tak nie było stać.
+
+**Warunek powrotu:** zejście do **~16–17 tys.** *i* potwierdzony Brief. Same obniżka nie wystarczy — bez Briefa auta się nie zarejestruje.
+
+**Zasada, która z tego zostaje:** świeży import bez polskiej rejestracji kosztuje więcej niż cena z ogłoszenia — dochodzi transport i formalności, a **CEP nie działa**, więc tracisz najtańsze narzędzie weryfikacji. Przy budżecie bez rezerwy to zły interes.
+
+Pełna analiza ogłoszenia poniżej — zostaje jako materiał na wypadek powrotu i jako wzorzec, na co patrzeć przy każdym innym imporcie.
+
 ### 🔍 N3 (Łódź) — przegląd ogłoszenia 26.08.2026: to ŚWIEŻY IMPORT bez polskiej rejestracji
 
 [Ogłoszenie](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-variant-ID6Ibjff.html) · komis **ToDo**, Łódź, Szczecińska 2 · 69 ofert, na Otomoto od 2017 · odświeżone 17.08.2026 · **19 900 zł do negocjacji**
