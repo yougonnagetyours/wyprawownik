@@ -1,6 +1,6 @@
 # Active State
 
-Ostatnia aktualizacja: **2026-08-26 wieczór** (budżet 25 200 na samo auto — B7 wraca do gry; Toruń wygasł)
+Ostatnia aktualizacja: **2026-08-27** (Škoda wchodzi do gry — S1 Kraków nowym torem głównym; w B7 pusto)
 
 > **Zasady tego pliku:** tylko to, co jest AKTUALNE. Wpis = max 2 zdania + link do pliku ze szczegółami.
 > Gdy coś przestaje być bieżące → **przenieś do `dziennik.md`**, nie zostawiaj z dopiskiem „nieaktualne".
@@ -21,24 +21,29 @@ Ostatnia aktualizacja: **2026-08-26 wieczór** (budżet 25 200 na samo auto — 
 | # | Auto | Cena | Stan |
 |---|---|---|---|
 | **N1** | **Nowa Karczma** B6 kombi 2009, Comfortline, srebrny, 208 tys. | **15 900** | 🟢 **tor główny** — wiadomość wysłana, czekamy. Zabierak stary (rej. 07.2009) → trzymać rezerwę na moduł |
+| **S1** | **Kraków Podgórze (~80 km!)** — **Škoda Superb II Combi** 2.0 TDI 140 KM, manual, **4x4 stały**, szary, **249 tys.**, 1. rej. 03.2014, **polski**, felgi 16" | **27 900** do neg. („poniżej średniej") | 🟢 **NOWY TOR GŁÓWNY** — komplet twardych kryteriów, najniższy przebieg ze wszystkiego, blisko domu. ⚠️ 2 700 ponad budżet, **brak haka**, brak znacznika „dane zweryfikowane" |
 | **M2** | **Chojnik** (małopolskie, ~3 h drogi) B6 2010, srebrny, 4x4, 297 tys. | **16 900** do neg. | 🟡 **wstrzymane** — wiadomość gotowa, nie wysłana. Blachy zasłonięte → CEP zablokowany |
 
-🔻 **W budżecie 25 200 nie ma czego kupić w B7.** Cała Polska = 3 auta, wszystkie odrzucone (Przecław odrzucony 26.08 — 600 km + tuning). Pasmo 25–28 tys. dla B7 manual 4motion jest puste, bo ta półka rynku to DSG. **B6 nie jest kompromisem, jest jedyną opcją.** Nowy budżet nie zmienia CO kupujemy — zmienia rezerwę: przy N1 zostaje ~9 tys. zamiast ~4 tys., czyli moduł wałków przestaje być ryzykiem.
+✅ **Škoda potwierdzona 27.08: rynek głębszy niż Passata.** Superb II Combi 4x4+manual = 9 ofert do 28 tys., Octavia = 14. Passat B7 z tymi samymi filtrami: 3. Ta sama technika (CFGB, 02Q, Haldex), tańszy znaczek, większy bagażnik.
+
+🔻 **W budżecie 25 200 nie ma czego kupić w B7.** Cała Polska = 3 auta, wszystkie odrzucone (Przecław odrzucony 26.08 — 600 km + tuning). Pasmo 25–28 tys. dla B7 manual 4motion jest puste, bo ta półka rynku to DSG. **Dlatego pole poszło na Škodę** (27.08) — i to się opłaciło. Nowy budżet zmienia też rezerwę: przy N1 zostaje ~9 tys. zamiast ~4 tys., czyli moduł wałków przestaje być ryzykiem.
 
 ⚠️ **Niezbadane pole: B6 w paśmie 21–25 200.** Wszystkie skany B6 miały sufit ~18–21 tys., bo tyle było kasy. Za 25 tys. w B6 dostaje się Highline z niższym przebiegiem zamiast Comfortline z 300 tys. km — **to jest najsensowniejszy następny ruch.**
 
 ## ✅ Zadania
 
-1. 🔵 **Dwa skany do zrobienia** (przeglądarka rozłączyła się 27.08 w trakcie): **(a) B6 w paśmie 21–25 200** — nigdy nie robione, bo budżet nie pozwalał; **(b) Škoda Superb II kombi i Octavia II Scout**, 4x4 + manual, do 25 200. Filtry i uzasadnienie: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcje „LUKA W DZISIEJSZYM SKANIE" i „Alternatywa: Škoda"
-2. ⚪ **Sprawdzić Zakliczyn na FB z prywatnego konta** — OLX wygasł, lustro FB nie do odczytania (przeglądarka zalogowana na profil strony). Niski priorytet: jeśli oferta żyje, telefon 510-675-024
-3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
-4. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"
+1. 🟢 **S1 KRAKÓW (Superb) — wbić VIN w CEP i ZADZWONIĆ.** 80 km, można obejrzeć w sobotę przed południem. Pytania: ile zejdzie z 27 900 · hak (brak w wyposażeniu) · historia oleju · dwumasa/sprzęgło przy 249 tys. [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „SKAN RYNKU ŠKODY"
+2. 🔵 **Domknąć Octavie** (Sieraków 21 000 / 176 tys. km · Swarzędz Scout 19 999 · Mysłowice 25 900) — wejść w ogłoszenia, sprawdzić pola
+3. 🔵 **Przeczesać B6 w paśmie 21–25 200** — nadal nierobione, bo budżet nie pozwalał
+4. ⚪ **Sprawdzić Zakliczyn na FB z prywatnego konta** — OLX wygasł, lustro FB nie do odczytania (przeglądarka zalogowana na profil strony). Niski priorytet: jeśli oferta żyje, telefon 510-675-024
+5. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
+6. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"
    ⏱️ **Deadline ciszy: piątek 28.08, wczesne popołudnie → dzwonić.** Komis ma **otwarte do 16:00**, a Michał może dzwonić w godzinach pracy. Jedyny powód czekania: odpowiedź o szkodzie **na piśmie** od firmy na VAT-marży. **Kasa NIE jest już powodem** — przy 25 200 N1 jest kupowalny dziś z dużym zapasem. Jeśli odpisze dobrze, jedziesz w ten weekend. Przez telefon pytać **tylko o wpis „uszkodzony"**, reszta listy zostaje na piśmie
-5. ⏸️ **M2 (Chojnik) — WSTRZYMANE do rozstrzygnięcia N1.** Wiadomość #1 gotowa do wklejenia: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „M2 (Chojnik) — kontakt ze sprzedającym". Wysłać dopiero gdy N1 odpadnie — **~3 h w jedną stronę**, to pełny dzień, nie objazd przy okazji
-6. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
-7. **Umówić stację diagnostyczną w okolicy Lubania** na dzień oględzin (sprzedający zezwala na dowolną). Inspekcja Otomoto 819 zł — odrzucona
-8. 🔴 **Wycenić w warsztacie VAG: dwumasa + sprzęgło** oraz pakiet serwisowy na start (olej 507 00, filtry, Haldex) i moduł wałków (tylko dla B6). **To jedyna pozycja, która rozstrzyga, czy 4 000 rezerwy wystarczy** — przy 250–300 tys. km sprzęgło to „kiedy", nie „czy"
-9. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
+7. ⏸️ **M2 (Chojnik) — WSTRZYMANE do rozstrzygnięcia N1.** Wiadomość #1 gotowa do wklejenia: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „M2 (Chojnik) — kontakt ze sprzedającym". Wysłać dopiero gdy N1 odpadnie — **~3 h w jedną stronę**, to pełny dzień, nie objazd przy okazji
+8. 🔴 **Wiadomość #2 (termin) MUSI zawierać prośbę o nieodpalanie auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później. Szczegóły w tej samej sekcji
+9. **Umówić stację diagnostyczną w okolicy Lubania** na dzień oględzin (sprzedający zezwala na dowolną). Inspekcja Otomoto 819 zł — odrzucona
+10. 🔴 **Wycenić w warsztacie VAG: dwumasa + sprzęgło** oraz pakiet serwisowy na start (olej 507 00, filtry, Haldex) i moduł wałków (tylko dla B6). **To jedyna pozycja, która rozstrzyga, czy 4 000 rezerwy wystarczy** — przy 250–300 tys. km sprzęgło to „kiedy", nie „czy"
+11. **Zmierzyć bagażnik** (do systemu biwakowego) — po kupnie auta, nie wcześniej: wartość S z tabliczki haka, wysokość C, długość A, szerokość B. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
 
 ## 🧭 Wyprawy
 

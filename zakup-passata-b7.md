@@ -1370,3 +1370,76 @@ Filtry (te same zasady co przy Passacie — **rozstrzyga pole „Napęd", nie ty
 **Jeśli skan da sensowną stawkę → zakładamy `zakup-skoda-superb.md`** i ten tor przestaje być przypisem w pliku o Passacie.
 
 **Co to zmienia w kolejności działań: NIC na dziś.** N1 ma deadline w piątek 28.08 i pozostaje torem głównym. Škoda to poszerzenie pola, nie powód, żeby wstrzymać N1.
+
+### 🔍 SKAN RYNKU ŠKODY — wykonany 27.08.2026
+
+Otomoto, filtr po polu „Napęd" (`search[filter_enum_transmission][]`), kombi · diesel · **manual** · 4x4 · 1. rej. 2010+.
+
+| Model | do 25 200 | do 28 000 |
+|---|---|---|
+| **Superb II Combi** | 6 | **9** |
+| **Octavia kombi** | — | **14** |
+
+**Dla porównania: Passat B7 z tymi samymi filtrami dawał 2 i 3.** Teza Michała się potwierdza — **Škoda faktycznie spina budżet lepiej.** Ta sama technika, wyraźnie głębszy rynek.
+
+### 🥇 S1 — KRAKÓW, Superb II Combi 2.0 TDI 4x4 Ambition, 27 900 zł do negocjacji
+
+🔗 [Ogłoszenie](https://www.otomoto.pl/osobowe/oferta/skoda-superb-ID6I7jFA.html) · ID 6148699686 · wystawione **23.08.2026** · osoba prywatna, na Otomoto od 2014 · **cena „Poniżej średniej"** wg Otomoto · 41 zdjęć
+
+| Parametr | Wartość | Ocena |
+|---|---|---|
+| 1. rejestracja | **11.03.2014** | ✅ Daleko po poprawce zabieraka — temat wałków zamknięty |
+| Silnik | 2.0 TDI CR **140 KM** | ✅ |
+| Skrzynia | **Manualna** | ✅ |
+| Napęd (pole!) | **4x4 (stały)** | ✅ |
+| Nadwozie | **Kombi** | ✅ |
+| Kolor | **Szary** | ✅ Nie białe, nie krzykliwe |
+| Przebieg | **249 099 km** | ✅ Niski jak na tę półkę |
+| **Kraj pochodzenia** | **POLSKA** | ✅✅ Nie import — CEP działa, historia dostępna |
+| Odległość | **Kraków Podgórze, ~80 km** | ✅✅ Objazd, nie wyprawa |
+| Felgi | **16"** | ✅ Odwrotność Przecławia |
+
+**Wyposażenie (Ambition):** dwustrefowa klimatyzacja automatyczna, **podgrzewane fotele przednie**, **podgrzewana przednia szyba**, ksenony + doświetlanie zakrętów, tempomat, czujniki parkowania tył, LED-y, kierownica wielofunkcyjna, blokada mechanizmu różnicowego.
+
+**⚠️ Minusy i znaki zapytania:**
+- **27 900 to 2 700 ponad budżet 25 200** — ale „Do negocjacji" i wycena Otomoto „poniżej średniej", więc jest o co grać
+- **BRAK HAKA** w wyposażeniu — przy wyprawowym aucie to realny koszt do doliczenia (**NIE WYCENIONE**)
+- **Brak znacznika „Zweryfikowane dane"** — inaczej niż przy Przecławiu. Dane trzeba potwierdzić samemu: CEP + tabliczka
+- Tapicerka materiałowa, felgi stalowe→alu 16" — wersja średnia, nie Highline. To nie wada, tylko realia ceny
+
+**Dlaczego to jest najlepszy kandydat od tygodnia:** spełnia **komplet twardych kryteriów** (kombi · manual · 4x4 w polu · nie białe · 2010+), ma **najniższy przebieg** ze wszystkiego, co przeszło filtry, jest **polski, nie z importu**, i leży **80 km od domu**. Żadne auto z listy Passatów nie miało tego kompletu naraz.
+
+### Reszta stawki Superb (do 28 000)
+
+| Auto | Cena | Rok | Przebieg | Werdykt |
+|---|---|---|---|---|
+| **Katowice** Platinum | 27 500 | 2014 | 312 400 km | ⚪ Blisko (~50 km), ale przebieg |
+| **Rokietnica** Platinum | 27 000 | 2011 | 345 215 km | ❌ Przebieg |
+| **Brodnica** Comfort | 24 500 | 2010 | 350 000 km | ❌ Przebieg |
+| **Brzezówka** (śląskie) Active | 19 900 | 2012 | 370 000 km | ❌ Przebieg |
+| **Zakopane** Elegance | 15 500 | 2010 | 374 000 km | ❌ Przebieg |
+| **Żuków** | 11 500 | 2013 | 412 735 km | ❌ Przebieg |
+| [**Warszawa** Ambition](https://www.otomoto.pl/osobowe/oferta/skoda-superb-ID6Iaz9u.html) | **8 900** | 2014 | 227 000 km | ❌ **SPRAWDZONE: pole „Uszkodzony: Tak".** Anomalia cenowa wyjaśniona |
+| **Gdów** „1.6 TDI Elegance" | 18 900 | 2011 | 220 000 km | ⚠️ Wpadł w filtr 4x4, ale **1.6 TDI nie miało 4x4** — błędne pole. Do weryfikacji albo odrzucenia |
+
+### Octavia kombi 4x4 manual (14 ofert) — do domknięcia
+
+Najciekawsze, **niesprawdzone w środku**:
+
+| Auto | Cena | Rok | Przebieg |
+|---|---|---|---|
+| **Sieraków** (wlkp.) | 21 000 | 2013 | **176 000 km** ← najniższy przebieg z całego dzisiejszego skanu |
+| **Swarzędz** — **Scout 4x4** 2.0 TDI | 19 999 | 2011 | 277 000 km |
+| **Mysłowice** (śląskie!) 2.0 TDI 4x4 | 25 900 | 2014 | 318 480 km |
+| **Świdnica** | 27 800 | 2014 | 249 000 km |
+
+⚠️ **Uwaga metodyczna — pole „Napęd" myli się też w DRUGĄ stronę.** W wynikach siedzi kilka „Octavia **1.6 TDI 4x4**" (Wałbrzych, Koprzywnica, Ostrów Wlkp.). **Octavia z 1.6 TDI nie była oferowana z 4x4** — 4x4 szło z 2.0 TDI. Czyli pole bywa zaznaczone błędnie także tam, gdzie napędu nie ma. Dotąd zakładaliśmy, że pole jest wiarygodne; **od teraz: pole odsiewa, ale przy egzemplarzu i tak potwierdzamy silnik i napęd u źródła.**
+
+### 📋 Co dalej
+
+1. **S1 Kraków — wbić VIN w CEP i zadzwonić.** 80 km to jedyny kandydat, którego można obejrzeć w sobotę przed południem
+2. Pytania rozstrzygające: **ile zejdzie z 27 900** · hak (brak w wyposażeniu — czy jest, czy do dorobienia) · historia serwisowa i olej · dwumasa/sprzęgło przy 249 tys.
+3. Zmierzyć **długość leżyska po złożeniu** — Superb Combi ma dawać przewagę nad Passatem, ale to trzeba zmierzyć, nie założyć ([`system-biwakowy.md`](system-biwakowy.md) sekcja 3c)
+4. Octavie z tabeli wyżej — wejść w ogłoszenia i sprawdzić pola
+
+**Jeśli S1 przejdzie telefon → zakładamy `zakup-skoda-superb.md`** i Škoda przestaje być przypisem w pliku o Passacie.

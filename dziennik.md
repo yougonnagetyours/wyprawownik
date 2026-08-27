@@ -9,6 +9,18 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [27.08.2026] Škoda się potwierdziła — S1 Kraków nowym torem głównym
+
+Skan wykonany. **Teza Michała, że Škoda „bardziej spięłaby budżet", okazała się prawdziwa i to z zapasem:** Superb II Combi 4x4+manual daje **9 ofert do 28 tys.**, Octavia kombi 4x4+manual **14** — przy **3** dla Passata B7 z tymi samymi filtrami. Ta sama technika, trzy do pięciu razy głębszy rynek.
+
+**Nowy tor główny: S1 — Škoda Superb II Combi 2.0 TDI 4x4 Ambition, Kraków Podgórze, 27 900 do negocjacji.** 2014, 140 KM, manual, 4x4 (stały) w polu, szary, **249 tys. km**, **polski, nie import**, felgi 16", **~80 km od domu**. To pierwszy egzemplarz od tygodnia, który ma **komplet twardych kryteriów naraz** — i jedyny, który da się obejrzeć w sobotę przed południem zamiast brać dzień wolny. Minusy: 2 700 ponad budżet (ale „do negocjacji" i wycena Otomoto „poniżej średniej"), brak haka, brak znacznika „dane zweryfikowane".
+
+Przy okazji domknięta anomalia: Superb za **8 900** (Warszawa, 2014, 227 tys.) ma w polu **„Uszkodzony: Tak"**. Cena wyjaśniona.
+
+**Nowa lekcja metodyczna — pole „Napęd" myli się w OBIE strony.** Dotąd wiedzieliśmy, że tytuł kłamie, a pole odsiewa. W wynikach Octavii siedzą jednak egzemplarze **„1.6 TDI 4x4"**, a Octavia z 1.6 TDI nigdy nie miała 4x4. Czyli pole bywa zaznaczone także tam, gdzie napędu nie ma. **Pole nadal odsiewa, ale przy konkretnym egzemplarzu silnik i napęd potwierdzamy u źródła.**
+
+Szczegóły, pełna stawka i lista pytań: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „SKAN RYNKU ŠKODY".
+
 ### [27.08.2026] Pole poszerzone o Škodę — bo to ta sama technika za mniejsze pieniądze
 
 Michał zapytał, czy nie szukać Škody, m.in. dlatego, że bardziej spięłaby budżet. Sprawdzone technicznie: **to nie jest zmiana tematu, tylko ta sama technika w innej blasze.** Superb II kombi 4x4 z manualem ma silniki **CBBB/CFGB** (CFGB = seria CF, czyli zabierak 100 mm od początku produkcji) i skrzynię **02Q** — dokładnie te same podzespoły, o które chodziło w Passacie. Cały dotychczasowy research o wałkach, pompie oleju, Haldeksie i checklist skrzyni **przenosi się 1:1**.
