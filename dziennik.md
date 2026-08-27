@@ -9,6 +9,16 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Sierpień 2026
 
+### [27.08.2026] Pole poszerzone o Škodę — bo to ta sama technika za mniejsze pieniądze
+
+Michał zapytał, czy nie szukać Škody, m.in. dlatego, że bardziej spięłaby budżet. Sprawdzone technicznie: **to nie jest zmiana tematu, tylko ta sama technika w innej blasze.** Superb II kombi 4x4 z manualem ma silniki **CBBB/CFGB** (CFGB = seria CF, czyli zabierak 100 mm od początku produkcji) i skrzynię **02Q** — dokładnie te same podzespoły, o które chodziło w Passacie. Cały dotychczasowy research o wałkach, pompie oleju, Haldeksie i checklist skrzyni **przenosi się 1:1**.
+
+Dwa kandydaci modelowi: **Superb II Combi** (660/1950 l, po złożeniu fotela pasażera 310 cm — istotne, bo śpimy w bagażniku) i **Octavia II Scout** (prześwit 180 mm fabrycznie, czyli gotowy „lekki lift" z sekcji o lifcie, tylko z homologacją i za ułamek ceny Alltracka).
+
+**Ceny i dostępność NIESPRAWDZONE** — wtyczka Chrome rozłączyła się w trakcie. Teza „Škoda spina budżet lepiej" jest na razie przeczuciem, nie liczbą, i tak jest zapisana. Skan to zadanie otwarte, razem z niezrobionym skanem B6 w paśmie 21–25 200.
+
+Nie zmienia to kolejności: **N1 ma deadline w piątek 28.08 i pozostaje torem głównym.** Szczegóły: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „Alternatywa: Škoda".
+
 ### [26.08.2026] Kryterium „DSG odpada" przepisane — powód jest rynkowy, nie techniczny
 
 Michał zauważył, że skoro pasmo 25–28 tys. to niemal wyłącznie DSG, to może szukać DSG. Kryterium okazało się w pliku **zapisane bez ani jednego argumentu**, więc zostało sprawdzone od zera — i częściowo się nie obroniło.

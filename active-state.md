@@ -11,7 +11,7 @@ Ostatnia aktualizacja: **2026-08-26 wieczór** (budżet 25 200 na samo auto — 
 ## 🚗 Auto — gdzie jesteśmy
 
 **Flota:** jedyne auto na chodzie to **Passat B5.5** (2004, 1.9 TDI 101 KM, 424 tys. km) — z **niezdiagnozowaną sprawą uszczelki pod głowicą**. Terrano sprzedane 10.08.2026.
-**Kupujemy:** Passat kombi 2.0 TDI CR, manual, 4motion — **B7 (2010–2015) LUB B6 z produkcji po poprawce zabieraka** (rozszerzone 25.08.2026) — [`zakup-passata-b7.md`](zakup-passata-b7.md)
+**Kupujemy:** kombi 2.0 TDI CR, manual, 4x4 — **Passat B7 (2010–2015) LUB B6 po poprawce zabieraka** (25.08.2026), a od 27.08 **także Škoda Superb II Combi / Octavia II Scout** — ta sama technika (silniki CBBB/CFGB, skrzynia 02Q, Haldex), tańszy znaczek, większy bagażnik. [`zakup-passata-b7.md`](zakup-passata-b7.md)
 **Twarde kryteria:** 4motion (pole „Napęd", nie tytuł!) · Comfortline lub wyżej · **nie białe i nie krzykliwe** · **nadwozie i rocznik potwierdzać zdjęciami/tabliczką, nie polami** · **manual** — powód **rynkowy, nie techniczny**: DQ250 w B7 4motion to mokre sprzęgło, nie feralne DQ200, ale 6 z 7 dostępnych DSG ma 293–370 tys. km. [Rewizja kryterium](zakup-passata-b7.md)
 
 **💰 Kasa: 25 200 zł na SAMO AUTO + ~4 000 rezerwy na start** (ustalone z asystentem finansowym 26.08.2026). Podniesienie z 20 000 otwiera B7. Przy B7 z rezerwy znika pozycja „moduł wałków 2 000–3 000" — seria CF ma zabierak 100 mm od początku produkcji.
@@ -29,7 +29,7 @@ Ostatnia aktualizacja: **2026-08-26 wieczór** (budżet 25 200 na samo auto — 
 
 ## ✅ Zadania
 
-1. 🔵 **Przeczesać B6 w paśmie 21–25 200** — nigdy nie robione, bo budżet nie pozwalał. Filtry: kombi · diesel · manual · pole Napęd 4x4 · gen. B6 · 1. rej. 2010+ · do 25 200 (przejrzeć do 28 000 pod negocjacje). [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „LUKA W DZISIEJSZYM SKANIE"
+1. 🔵 **Dwa skany do zrobienia** (przeglądarka rozłączyła się 27.08 w trakcie): **(a) B6 w paśmie 21–25 200** — nigdy nie robione, bo budżet nie pozwalał; **(b) Škoda Superb II kombi i Octavia II Scout**, 4x4 + manual, do 25 200. Filtry i uzasadnienie: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcje „LUKA W DZISIEJSZYM SKANIE" i „Alternatywa: Škoda"
 2. ⚪ **Sprawdzić Zakliczyn na FB z prywatnego konta** — OLX wygasł, lustro FB nie do odczytania (przeglądarka zalogowana na profil strony). Niski priorytet: jeśli oferta żyje, telefon 510-675-024
 3. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
 4. ⏳ **Wiadomość #1 do N1 WYSŁANA 26.08.2026 — czekamy na odpowiedź.** Treść i klucz do czytania odpowiedzi: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „N1 — kontakt ze sprzedającym". Rozstrzyga odpowiedź o wpisie „uszkodzony"

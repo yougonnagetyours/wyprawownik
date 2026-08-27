@@ -1314,3 +1314,59 @@ Stary zapis („DSG odpada z definicji") był **nieuzasadniony i mylący** — s
 > **Warunek ponownego otwarcia:** pojawi się B7 4motion DSG **poniżej 250 tys. km, bliżej niż 300 km od domu, z udokumentowanym serwisem skrzyni** (olej co 60 tys.). Wtedy liczymy jeszcze raz.
 
 **Nie zmienia to nic w dzisiejszej kolejności:** N1 (deadline piątek) i M2 pozostają torem głównym.
+
+## 🇨🇿 Alternatywa: Škoda zamiast Passata (otwarte 27.08.2026, pytanie Michała)
+
+**Kontekst:** B7 z manualem i 4motion w budżecie nie istnieje (skan 26.08). Michał zapytał, czy Škoda nie byłaby lepsza — także dlatego, że **„bardziej spięłaby budżet"**. Hipoteza sprawdzona technicznie; **rynek NIE sprawdzony** (rozłączyła się wtyczka Chrome) — to zadanie otwarte.
+
+### ✅ Dlaczego to jest dobry trop, a nie zmiana tematu
+
+**Cały dotychczasowy research NIE idzie do kosza — przenosi się 1:1.** To ta sama technika, inna blacha:
+
+| Element | Passat B6/B7 | Škoda Superb II | Wniosek |
+|---|---|---|---|
+| Silnik | 2.0 TDI CR | **2.0 TDI CR, kody CBBB / CFGB** | ✅ **CFGB to seria CF** — ta sama, która ma zabierak 100 mm od początku produkcji. **Cała analiza wałków/pompy oleju obowiązuje bez zmian** |
+| Skrzynia manualna | 02Q | **02Q** | ✅ Ta sama. Checklist skrzyni z tego pliku działa |
+| Napęd 4x4 | Haldex | Haldex | ✅ Ten sam serwis, ten sam olej |
+| DSG (gdyby) | DQ250 | DQ250 | ✅ Ta sama rewizja kryterium |
+
+Źródło kodów silnika i skrzyni: [sprzegla24 — Superb II kombi 2.0 TDI 4x4 170 KM, CBBB/CFGB, 10.2009–05.2015](https://www.sprzegla24.pl/samochod/zastaw-naprawczy-skrzyni-biegow-skoda-superb-ii-kombi-3t5-2-0-tdi-4x4-170km-125kw-cbbb-cfgb-102009-052015/24532789) (sprawdzone 27.08.2026).
+
+**Potwierdzone: Superb II kombi 2.0 TDI 4x4 z manualem istnieje** — 6-biegowy manual przy 4x4, produkcja 10.2009–05.2015 ([superbclub.pl](https://www.superbclub.pl/viewtopic.php?t=1287)). Silniki: 140 KM (2010–2013) i 170 KM.
+
+### 🎯 Dwa realne kandydaty modelowe
+
+#### 1. Superb II Combi — bagażnik bije wszystko, co oglądaliśmy
+
+**660 l / 1 950 l po złożeniu**, a po złożeniu dodatkowo fotela pasażera mieści przedmiot **310 cm** ([Auto Świat](https://www.auto-swiat.pl/testy/skoda-superb-combi-kombi-w-rozmiarze-xxl/bw8z2fj), sprawdzone 27.08.2026).
+
+To jest **bezpośrednio istotne dla `system-biwakowy.md`**: śpimy w bagażniku, nie w namiocie. Passat B7 kombi ma 603/1731 l. Superb daje realnie więcej podłogi na spanie za mniejsze pieniądze — a długość leżyska to jedyny parametr, który w tym systemie naprawdę boli.
+
+⚠️ **Do zmierzenia przy oględzinach, nie do założenia:** litry to nie centymetry. Interesuje nas **długość płaskiej podłogi po złożeniu oparć**, nie pojemność. Pomiar wg [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c.
+
+#### 2. Octavia II Scout — fabryczny lift, którego szukaliśmy
+
+2.0 TDI CR 140 KM, 4x4, manual, **prześwit 180 mm** fabrycznie, bagażnik do 1 620 l ([wyborkierowcow.pl](https://wyborkierowcow.pl/danetechniczne/technical-data/skoda/octavia/2-gen-octavia/octavia-ii-scout-05-09-04-12/skoda-octavia-scout-2-0-tdi-4x4-2009-2012-dane-techniczne-2/), sprawdzone 27.08.2026).
+
+**To jest dokładnie to, co opisuje sekcja „Pomysł: lekki lift po zakupie"** — tylko zrobione fabrycznie, z fabryczną geometrią, osłonami i homologacją, zamiast dokładania sprężyn po zakupie. Scout jest też **wyraźnie tańszy od Passata Alltrack** (Alltrack: 32 900–39 500 zł wg skanu 06.08.2026 — poza budżetem od zawsze).
+
+Minus: Octavia II jest mniejsza od Passata — **bagażnik trzeba zmierzyć pod spanie, zanim cokolwiek**.
+
+### ⚠️ Czego NIE wiem i co trzeba sprawdzić
+
+1. **Ceny i dostępność w PL — NIESPRAWDZONE.** Teza „Škoda spina budżet lepiej" jest prawdopodobna (ta sama technika, słabszy znaczek), ale **bez skanu to jest przeczucie, nie liczba.** Nie wpisywać do budżetu.
+2. **Czy Superb II kombi 4x4 + manual + 140 KM realnie występuje na rynku wtórnym w PL**, czy 4x4 szło głównie z 170 KM i DSG.
+3. **Rdza** — Superb II i Octavia II mają inną historię antykorozyjną niż Passat. Do zbadania osobno, nie zakładać, że „VAG to VAG".
+4. **Długość leżyska** w obu modelach — decydujący parametr, a nie ma go w tabelkach.
+
+### 📋 Zadanie: skan rynku Škody
+
+Filtry (te same zasady co przy Passacie — **rozstrzyga pole „Napęd", nie tytuł**):
+
+- **Superb II kombi** · diesel · manual · pole Napęd = 4x4 (trzy warianty) · 1. rej. 2010+ · do **25 200**, przejrzeć do 28 000
+- **Octavia II Scout** · diesel · manual · 4x4 · 1. rej. 2010+ · do 25 200
+- Parametr URL napędu na Otomoto: `search[filter_enum_transmission][]` = `all-wheel-auto` / `all-wheel-lock` / `all-wheel-permanent`
+
+**Jeśli skan da sensowną stawkę → zakładamy `zakup-skoda-superb.md`** i ten tor przestaje być przypisem w pliku o Passacie.
+
+**Co to zmienia w kolejności działań: NIC na dziś.** N1 ma deadline w piątek 28.08 i pozostaje torem głównym. Škoda to poszerzenie pola, nie powód, żeby wstrzymać N1.
