@@ -33,7 +33,7 @@ Ostatnia aktualizacja: **2026-08-27** (Škoda wchodzi do gry — S1 Kraków nowy
 ## ✅ Zadania
 
 1. 🟢 **S1 KRAKÓW (Superb) — wbić VIN w CEP i ZADZWONIĆ.** 80 km, można obejrzeć w sobotę przed południem. Pytania: ile zejdzie z 27 900 · hak (brak w wyposażeniu) · historia oleju · dwumasa/sprzęgło przy 249 tys. [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „SKAN RYNKU ŠKODY"
-2. 🔵 **Domknąć Octavie** (Sieraków 21 000 / 176 tys. km · Swarzędz Scout 19 999 · Mysłowice 25 900) — wejść w ogłoszenia, sprawdzić pola
+2. 🔵 **Domknąć Octavie** (Sieraków 21 000 / 176 tys. km · Swarzędz Scout 19 999 · Mysłowice 25 900 · **plus trzy „1.6 TDI 4x4"**, które błędnie odrzuciłem — ta wersja istnieje, Scout miał 4x4 też z 1.6) — wejść w ogłoszenia, sprawdzić pola
 3. 🔵 **Przeczesać B6 w paśmie 21–25 200** — nadal nierobione, bo budżet nie pozwalał
 4. ⚪ **Sprawdzić Zakliczyn na FB z prywatnego konta** — OLX wygasł, lustro FB nie do odczytania (przeglądarka zalogowana na profil strony). Niski priorytet: jeśli oferta żyje, telefon 510-675-024
 5. **Umówić diagnostykę B5.5** — wisi od 30.06, **termin nigdy nie był ustalony**. Pakiet CO2 + test ciśnienia + ocena oleju, ~150–300 zł, auto jedzie do warsztatu **ZIMNE**. Sam CO2 nie wystarczy (fałszywe negatywy). [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md)
