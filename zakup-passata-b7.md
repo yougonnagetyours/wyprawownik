@@ -1433,7 +1433,15 @@ Najciekawsze, **niesprawdzone w środku**:
 | **Mysłowice** (śląskie!) 2.0 TDI 4x4 | 25 900 | 2014 | 318 480 km |
 | **Świdnica** | 27 800 | 2014 | 249 000 km |
 
-⚠️ **Uwaga metodyczna — pole „Napęd" myli się też w DRUGĄ stronę.** W wynikach siedzi kilka „Octavia **1.6 TDI 4x4**" (Wałbrzych, Koprzywnica, Ostrów Wlkp.). **Octavia z 1.6 TDI nie była oferowana z 4x4** — 4x4 szło z 2.0 TDI. Czyli pole bywa zaznaczone błędnie także tam, gdzie napędu nie ma. Dotąd zakładaliśmy, że pole jest wiarygodne; **od teraz: pole odsiewa, ale przy egzemplarzu i tak potwierdzamy silnik i napęd u źródła.**
+✅ **SPROSTOWANIE 27.08.2026 — „Octavia 1.6 TDI 4x4" ISTNIEJE, pole było poprawne.**
+
+W pierwszej wersji tej sekcji napisałem, że egzemplarze „Octavia **1.6 TDI 4x4**" (Wałbrzych, Koprzywnica, Ostrów Wlkp.) mają błędnie zaznaczone pole, bo „4x4 szło tylko z 2.0 TDI". **To nieprawda.** Octavia III miała 4x4 z pięcioma jednostkami, w tym **1.6 TDI 105 i 110 KM** — Scout był oferowany z 4x4 niezależnie od silnika, także z najsłabszą ropniakówką ([auto-data.net](https://www.auto-data.net/pl/skoda-octavia-iii-1.6-tdi-110hp-4x4-25539), [Auto Świat — test Octavia Scout 1.6 TDI 4x4](https://www.auto-swiat.pl/testy/skoda-octavia-scout-16-tdi-4x4-z-niewielka-moca/s732kde), sprawdzone 27.08.2026).
+
+**Konsekwencja: te trzy Octavie NIE są odrzucone** i wracają do puli do sprawdzenia. Wyciągnięta z tego „lekcja metodyczna", że pole „Napęd" myli się w obie strony, **też jest do skasowania** — nie miała podstawy.
+
+**Co zostaje w mocy:** pole odsiewa wiarygodnie co do **faktu** napędu, ale nie co do **typu** (patrz sekcja o trzech etykietach Haldeksa). Przy konkretnym egzemplarzu silnik i napęd i tak potwierdzamy u źródła — ale to zasada ogólna, nie wniosek z tej pomyłki.
+
+**Lekcja z samej pomyłki:** nie wyprowadzać reguły o narzędziu z jednego „to na pewno nie istnieje" wziętego z głowy. Sprawdzić katalog, potem pisać.
 
 ### 📋 Co dalej
 
@@ -1443,3 +1451,38 @@ Najciekawsze, **niesprawdzone w środku**:
 4. Octavie z tabeli wyżej — wejść w ogłoszenia i sprawdzić pola
 
 **Jeśli S1 przejdzie telefon → zakładamy `zakup-skoda-superb.md`** i Škoda przestaje być przypisem w pliku o Passacie.
+
+### 🔩 Superb II — silniki i napęd (sprawdzone 27.08.2026, pytanie Michała)
+
+#### Silniki Superba II (2008–2015)
+
+| Diesel | Uwagi |
+|---|---|
+| **1.9 TDI PD** (BXE/BLS) | Tylko ~2 lata na starcie. **Pompowtryski** — ta rodzina, której unikamy |
+| **1.6 TDI CR** 105 KM | Od 2010, zastąpił 1.9. Common Rail |
+| **2.0 TDI CR** 140 / 170 KM | ✅ **To jest nasz silnik.** Common Rail, nie PD |
+
+Benzyny: 1.4 TSI, 1.8 TSI 160 KM, 2.0 TSI 200 KM, 3.6 FSI V6 260 KM.
+
+**Z 4x4 chodziło 2.0 TDI CR** (manual albo automat) oraz 1.8 TSI. **2.0 TSI nie miało 4x4.** Źródło: [wyborkierowcow.pl](https://www.wyborkierowcow.pl/uzywana-skoda-superb-ii-2008-2015-ktory-silnik-wybrac/), [autokult](https://autokult.pl/skoda-superb-ii-2008-2015-opinie-i-typowe-usterki,7016154379262784a) (sprawdzone 27.08.2026).
+
+→ **S1 Kraków (2.0 TDI CR 140 KM + manual + 4x4) to konfiguracja fabrycznie istniejąca.** Nie ma tu sprzeczności do wyjaśniania.
+
+#### To NIE jest quattro — to Haldex
+
+Superb II 4x4 = **stały napęd na przód + elektronicznie sterowane sprzęgło Haldex dosyłające moment na tył.** Silnik leży poprzecznie, więc konstrukcyjnie nie ma tam miejsca na centralny dyferencjał Torsena, który stoi za wzdłużnym quattro w Audi. To ten sam układ co 4motion w Passacie B6/B7 — **cały nasz research o Haldeksie i jego serwisie przenosi się bez zmian.**
+
+#### ⚠️ „Blokada mechanizmu różnicowego" w ogłoszeniu to EDS/XDS, nie mechaniczna blokada
+
+Ta pozycja z listy wyposażenia **nie oznacza szpery**. To **elektroniczna** blokada: układ działa **hamulcami**, przyhamowując koło, które traci przyczepność, żeby moment poszedł na to z przyczepnością. XDS jest rozszerzeniem EDS i działa jak poprzeczny mechanizm różnicowy przy szybszym pokonywaniu zakrętów. Źródła: [instrukcja Škody](https://ws.skoda-auto.com/OwnersManualService/Data/pl/Octavia_1Z/11-2012/Manual/Octavia/online/pages/page_00256.htm), [autofakty](https://autofakty.pl/autoencyklopedia/eds-elektroniczna-blokada-mechanizmu-roznicowego-co-to-jest/) (sprawdzone 27.08.2026).
+
+**Praktycznie:** EDS/XDS siedzi w praktycznie każdym Superbie, także przednionapędowym. **Obecność tej pozycji w ogłoszeniu NIE jest dowodem na 4x4** i nie daje żadnej zdolności terenowej ponad to, co daje sam Haldex.
+
+#### 🔴 Pole „Napęd: 4x4 (stały)" w ogłoszeniu S1 jest BŁĘDNE co do typu
+
+Haldex to napęd **dołączany automatycznie**, nie stały. Czyli sprzedawca S1 kliknął w niewłaściwą pozycję z listy — **dokładnie ta sama pułapka, którą mamy opisaną przy Passacie** (sekcja o trzech etykietach: „stały" / „dołączany ręcznie" / „dołączany automatycznie", z których B7 ma tylko tę ostatnią).
+
+**To nie dyskwalifikuje S1** — deklaracja pozostaje wiarygodna co do **faktu** napędu, a wersja „2.0 TDI 4x4 Ambition" jest w polu „Wersja", co jest mocniejszą przesłanką. **Ale oznacza, że sprzedawca nie jest precyzyjny**, więc:
+
+- **potwierdzić 4x4 fizycznie przy oględzinach** — wał napędowy pod autem, tylny dyferencjał, pompa Haldeksa
+- zapytać wprost o **serwis Haldeksa** (olej + filtr) — przy 249 tys. km to pozycja, która albo była robiona, albo jest do zrobienia od razu

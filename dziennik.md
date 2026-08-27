@@ -17,7 +17,7 @@ Skan wykonany. **Teza Michała, że Škoda „bardziej spięłaby budżet", okaz
 
 Przy okazji domknięta anomalia: Superb za **8 900** (Warszawa, 2014, 227 tys.) ma w polu **„Uszkodzony: Tak"**. Cena wyjaśniona.
 
-**Nowa lekcja metodyczna — pole „Napęd" myli się w OBIE strony.** Dotąd wiedzieliśmy, że tytuł kłamie, a pole odsiewa. W wynikach Octavii siedzą jednak egzemplarze **„1.6 TDI 4x4"**, a Octavia z 1.6 TDI nigdy nie miała 4x4. Czyli pole bywa zaznaczone także tam, gdzie napędu nie ma. **Pole nadal odsiewa, ale przy konkretnym egzemplarzu silnik i napęd potwierdzamy u źródła.**
+**SPROSTOWANIE (jeszcze 27.08):** napisałem tu, że „Octavia 1.6 TDI 4x4" to błędnie zaznaczone pole, bo taka wersja nie istniała — i wyciągnąłem z tego lekcję, że pole „Napęd" myli się w obie strony. **Obie rzeczy były nieprawdziwe.** Octavia III miała 4x4 także z 1.6 TDI (105 i 110 KM), a Scout był oferowany z 4x4 niezależnie od silnika. Trzy Octavie wracają do puli, „lekcja" skasowana. Prawdziwa lekcja jest inna: **nie wyprowadzać reguły o narzędziu z jednego „to na pewno nie istnieje" wziętego z pamięci.**
 
 Szczegóły, pełna stawka i lista pytań: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „SKAN RYNKU ŠKODY".
 
