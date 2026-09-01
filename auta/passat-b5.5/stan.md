@@ -86,13 +86,24 @@ Argumenty taty: płyn nie ubywa · syczenie bierze się „spod ciśnienia" · p
 Trzy sposoby, od najpewniejszego. Wszystkie **na ZIMNYM aucie**, po nocy postoju.
 
 **A) Ściśnięcie grubej górnej gumy chłodnicy — najpewniejszy, robić zawsze:**
-1. Silnik zimny, maska otwarta. Znajdź grubą gumę idącą z góry chłodnicy do silnika.
-2. **Zanim dotkniesz korka** — ściśnij ją mocno dłonią. Zapamiętaj: twarda i sprężysta jak napompowana opona, czy miękko się zgniata?
-3. Odkręć korek zbiorniczka (powoli, do pierwszego oporu).
-4. **Ściśnij gumę drugi raz.** Porównaj z punktem 2.
-- **Była twarda, po odkręceniu zmiękła** → układ był pod NADciśnieniem na zimno. To jest ten zły wynik i idziesz do warsztatu.
-- **Za pierwszym razem miękka albo wręcz zapadnięta/wklęsła** → PODciśnienie. Kupujesz korek.
-- Bez zmiany, cały czas tak samo twarda → guma po prostu zesztywniała ze starości (424 tys. km), test nierozstrzygający — przechodzisz do B i C.
+
+*Który wąż:* najgrubszy gumowy przewód, ~3–4 cm średnicy, wpięty w **górny króciec chłodnicy** (chłodnica = duża płaska krata na samym przodzie, za grillem). Wychodzi z jej górnego rogu do silnika, spięty metalową opaską. Odróżnienie od rur intercoolera: prowadź wzrokiem — ta kończy się **na chłodnicy**, rury intercoolera idą do turbo, niżej i bardziej z boku.
+
+*Przebieg:*
+1. Silnik zimny, maska otwarta. **Zanim dotkniesz korka** — ściśnij gumę mocno dłonią i zapamiętaj wrażenie.
+2. Odkręć korek zbiorniczka (powoli, do pierwszego oporu).
+3. **Ściśnij tę samą gumę drugi raz.** Porównaj.
+
+⚠️ **Nie chodzi o to, czy wąż „sflaczeje"** — gruby, zbrojony przewód nigdy nie będzie wiotki jak balonik, nawet przy zerowym ciśnieniu trzyma kształt. Chodzi o to, czy **daje się ścisnąć palcami**, a przede wszystkim o **różnicę przed/po**.
+
+| Co czujesz | Co to znaczy |
+|---|---|
+| Daje się ścisnąć przed i po, **bez różnicy** | Zdrowo — na zimno nie ma ciśnienia. **Ten wynik chcemy** |
+| **Twarda przed, wyraźnie mięknie po** odkręceniu | Nadciśnienie na zimno → gaz w układzie. **Zły wynik → mechanik** |
+| **Zapadnięta/wklęsła przed**, prostuje się po odkręceniu | Podciśnienie → zawór podciśnieniowy w korku. **Korek ~30 zł** |
+| Twarda przed i po, bez zmiany | Guma zesztywniała ze starości (424 tys. km). Nierozstrzygające → zostaje balonik (C) |
+
+*Zastrzeżenie:* na zimnym silniku **termostat jest zamknięty**, więc obieg chłodnicy bywa częściowo odcięty od bloku. Przy wyniku z ostatniego wiersza **powtórz próbę na grubym wężu przy samym silniku**, bliżej zbiorniczka. Ciśnienie w połączonym układzie jest wszędzie równe, więc każdy gruby wąż po stronie płynu się nadaje.
 
 **B) Chusteczka — potwierdzenie kierunku podmuchu:**
 Urwij pasek chusteczki higienicznej ~2 cm szerokości, ~10 cm długi (ma być lekki i wiotki — ręcznik papierowy jest za sztywny, nie zadziała). Trzymaj go za jeden koniec tak, żeby drugi koniec zwisał **luźno tuż nad otworem szyjki, jakieś 2–3 cm**, i **z boku, nie nad środkiem** (gdyby chlusnęło płynem). Drugą ręką odkręcaj korek **bardzo powoli**, milimetr po milimetrze, i patrz na chusteczkę w momencie „pszt":
@@ -100,15 +111,20 @@ Urwij pasek chusteczki higienicznej ~2 cm szerokości, ~10 cm długi (ma być le
 - **przyklei ją do szyjki / wciąga do środka** → powietrze wchodzi = podciśnienie
 ⚠️ Podmuch trwa ułamek sekundy — dlatego odkręcasz powoli i patrzysz na chusteczkę, nie na korek. Jak przegapisz, dokręć, odczekaj kilka minut i powtórz. Ten test daje wynik tylko gdy zobaczysz ruch — brak reakcji to „nie wiem", nie „nic nie ma".
 
-**C) Balonik przez noc — jedyny, który wprost pokazuje, że gaz POWSTAJE (rozstrzygający):**
-Testy A i B mówią, co jest w układzie teraz. Balonik mówi, czy w stojącym, zimnym aucie gaz **przybywa** — a tego korek nie potrafi zrobić.
-1. Auto zimne. Zdejmij korek zbiorniczka.
-2. Naciągnij zwykły balonik (albo palec gumowej rękawiczki) na szyjkę zbiorniczka i przewiąż gumką/opaską, żeby trzymał szczelnie. Balonik ma być **całkiem sflaczały**.
-3. Zostaw auto na noc, ~12–18 h. **Nie odpalaj.**
-4. Rano: **balonik napęczniał** → w zimnym, niepracującym silniku powstaje gaz. Korek tego nie tłumaczy w żaden sposób → spaliny w układzie, jedziesz do warsztatu z gotową odpowiedzią. **Balonik sflaczały jak był** → mocny argument, że gazu nie przybywa, a „pszt" to sprawa korka.
-⚠️ Zasady: robić tylko na **stojącym** aucie · **nie odpalać silnika z balonikiem** zamiast korka (układ bez korka nie trzyma 1,4 bar i przy nagrzaniu wyrzuci płyn) · po teście **wkręcić korek z powrotem**, zanim ruszysz.
+**C) Balonik przez NOC — jedyny, który wprost pokazuje, że gaz POWSTAJE (rozstrzygający):**
+Testy A i B mówią, co jest w układzie teraz. Balonik mówi, czy w stojącym, zimnym aucie gaz **przybywa** — a tego zepsuty korek nie potrafi zrobić w żadnym scenariuszu.
+1. **Wieczorem, na ZIMNYM aucie** (czyli w dniu, w którym auto stało — nie po powrocie z trasy). Zdejmij korek zbiorniczka.
+2. Naciągnij zwykły balonik (albo palec gumowej rękawiczki) na szyjkę i przewiąż gumką/opaską, żeby trzymał szczelnie. Ma być **całkiem sflaczały**.
+3. Zostaw na noc, ~10–14 h. **Nie odpalaj.**
+4. Rano: **napęczniał** → w zimnym, niepracującym silniku powstaje gaz → spaliny w układzie, jedziesz do warsztatu z gotową odpowiedzią. **Sflaczały jak był** → mocny argument, że gazu nie przybywa i „pszt" to sprawa korka.
 
-Kolejność: **A rano → C przez najbliższą noc**. B robisz przy okazji A, jako dodatkowe potwierdzenie.
+⚠️ **MUSI być noc, nie dzień — poprawka 01.09.2026.** Wcześniejsza wersja („załóż rano, zostaw na dzień") była błędna: auto stojące we wrześniowym słońcu nagrzewa płyn, ten się rozszerza i **balonik napęcznieje bez żadnych spalin — fałszywy alarm**. Przez noc temperatura spada, płyn się kurczy, a kurczenie działa **przeciw** napęcznieniu. Napompowany balonik po chłodnej nocy nie ma innego wytłumaczenia niż gaz w układzie.
+⚠️ Reszta zasad: tylko **stojące** auto · **nie odpalać silnika z balonikiem** zamiast korka (bez korka układ nie trzyma 1,4 bar i przy nagrzaniu wyrzuci płyn) · **wkręcić korek z powrotem**, zanim ruszysz.
+
+**Kolejność i warunki:**
+- **A + B: rano, po zwykłej nocy po jeździe.** 9 h postoju w zupełności wystarczy (układ schodzi do otoczenia po 6–8 h). To okno jest nawet **czulsze** niż długi postój bez jazdy: wieczorna jazda świeżo napompowała układ gazem, a stygnięcie wypycha go z roztworu. Im chłodniejsza noc, tym ostrzejszy wynik — mocne kurczenie płynu powinno dać gumę miękką, więc twarda guma po zimnej nocy to sygnał tym mocniejszy.
+- **C: pierwszy dzień, w którym auto stoi od rana** — balonik zakładasz wieczorem, zdejmujesz rano.
+- Przed każdym odkręceniem korka: **dotknij górnej gumy ręką** i upewnij się, że jest temperatury otoczenia, nie letnia.
 
 **🔧 CHŁODNICA EGR — czemu daje ten sam objaw co uszczelka:**
 Chłodnica EGR to mały wymiennik, przez który przechodzą **spaliny zawracane do dolotu**, chłodzone **płynem z układu chłodzenia**. Dwa media, jedna ścianka. Gdy ścianka pęknie (typowe zmęczenie: spaliny 600–700°C kontra płyn 90°C, cykl za cyklem), **spaliny wchodzą do płynu dokładnie tak samo jak przez uszczelkę pod głowicą** — ciśnienie w zbiorniczku, wzburzanie, CO2 w płynie, ciemnienie płynu. Objaw nie do odróżnienia bez leak-downu.
