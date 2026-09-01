@@ -965,7 +965,10 @@ Michał prosi o research raz na tydzień, bo alerty na portalach są nieszczelne
 
 Otomoto: `q-4motion` + kombi + diesel + manual + do 27 tys. + 2010–2015 → **6 ogłoszeń**. OLX: `q-passat-4motion`, 2010–2015, do 28 tys. → 92 wyniki (luźne dopasowanie), z tego realnych B7 4motion manual: 2 nowe.
 
-### ❌ ODRZUCONY 14.08.2026 — Zabierzów (Małopolskie), 19 000 zł
+### ❌ ODRZUCONY 14.08.2026 — Zabierzów (Małopolskie), 19 000 zł · ⚠️ SPROSTOWANIE 27.08.2026
+
+⚠️ **Sprawdzone ponownie 27.08.2026 — ogłoszenie się zmieniło i moje dane poniżej są nieaktualne.** Otomoto pokazuje teraz: **1 896 cm³ / 105 KM** (nie 2.0 TDI CR 140 KM, jak zapisałem 14.08), **zdjęcia usunięte** („Brak zdjęcia"), auto oznaczone jako **uszkodzone** i **importowane**. B7 nigdy nie miał 1.9 TDI, więc albo sprzedający pomylił pola, albo to nie jest B7. **Tak czy siak — odpada, niezależnie od koloru.** Zapis poniżej zostaje jako ślad tego, co było w ogłoszeniu 14.08.
+
 
 **Powód: kolor.** Michał: „czerwony, zbyt krzykliwy". Auto ma jeździć na wyprawy i pod dziki nocleg — jaskrawy lakier odpada. **Skutek: kryterium koloru rozszerzone z „nie białe" na „nie białe, nie krzykliwe"** (patrz tabela filtrów wyżej). Reszta parametrów była mocna (4x4 potwierdzone, Comfortline, Webasto, hak, nowa turbina, 19 tys. = jedyna oferta z rezerwą w budżecie), ale to nie przebija codziennego patrzenia na auto przez lata.
 
@@ -1429,7 +1432,7 @@ Najciekawsze, **niesprawdzone w środku**:
 | Auto | Cena | Rok | Przebieg |
 |---|---|---|---|
 | **Sieraków** (wlkp.) | 21 000 | 2013 | **176 000 km** ← najniższy przebieg z całego dzisiejszego skanu |
-| **Swarzędz** — **Scout 4x4** 2.0 TDI | 19 999 | 2011 | 277 000 km |
+| **Swarzędz** — **Scout 4x4** 2.0 TDI ([ogłoszenie](https://www.otomoto.pl/osobowe/oferta/skoda-octavia-ID6HOckE.html)) | 19 999 | 2011 | 277 000 km | ⚠️ **IMPORT — auto stoi na niemieckich blachach HB (Brema)**, widać na zdjęciu 7/41. Komis „Imperium Aut", ocena **2,8/5**. Zdjęcia słabej jakości. Wnętrze: bazowe radio Swing, szary plastik, bez ekranu |
 | **Mysłowice** (śląskie!) 2.0 TDI 4x4 | 25 900 | 2014 | 318 480 km |
 | **Świdnica** | 27 800 | 2014 | 249 000 km |
 
@@ -1486,3 +1489,479 @@ Haldex to napęd **dołączany automatycznie**, nie stały. Czyli sprzedawca S1 
 
 - **potwierdzić 4x4 fizycznie przy oględzinach** — wał napędowy pod autem, tylny dyferencjał, pompa Haldeksa
 - zapytać wprost o **serwis Haldeksa** (olej + filtr) — przy 249 tys. km to pozycja, która albo była robiona, albo jest do zrobienia od razu
+
+---
+
+## 🔴 S1 Kraków — CEP NIE ZNAJDUJE AUTA (27.08.2026)
+
+Michał wbił dane z ogłoszenia w [historiapojazdu.gov.pl](https://historiapojazdu.gov.pl/) → „Nie znaleźliśmy pojazdu w Centralnej Ewidencji Pojazdów". **Powtórzone niezależnie przez asystenta z tymi samymi danymi — ten sam wynik. Michał niczego nie przekręcił.**
+
+Dane użyte (wprost z ogłoszenia):
+
+| Pole | Wartość | Skąd |
+|---|---|---|
+| Nr rejestracyjny | `KR2KR22` | sekcja „Stan i historia" + zdjęcie tablicy (ramka INTER AUTO Kraków) |
+| VIN | `TMBRE73T4E9046814` | pole VIN w ogłoszeniu (wpisywane ręcznie przez sprzedającego) |
+| 1. rejestracja | `11.03.2014` | „Data pierwszej rejestracji w historii pojazdu" |
+
+**VIN jest strukturalnie poprawny dla tego auta** — `3T` (poz. 7–8) = Superb II, `E` (poz. 10) = rocznik modelowy 2014, `9` (poz. 11) = Kvasiny, gdzie Superba II składano. Czyli to nie jest VIN wklejony z innego modelu. Błąd, jeśli jest, siedzi w 6-cyfrowym numerze seryjnym (`046814`), którego żadna struktura nie zweryfikuje.
+
+**Trzy możliwe przyczyny, w kolejności prawdopodobieństwa:**
+1. **Literówka sprzedającego w VIN-ie w ogłoszeniu** — VIN na Otomoto wpisuje się z palca, jeden znak wystarczy. Ten sam sprzedawca **już raz pomylił pole** („Napęd: 4x4 stały" przy Haldeksie).
+2. **Tablica nieaktualna** — auto przerejestrowane / wyrejestrowane, a w ogłoszeniu stara blacha. CEP wymaga zgodności wszystkich trzech pól naraz.
+3. **Data pierwszej rejestracji nie ta** — gdyby auto jednak było sprowadzone (ogłoszenie deklaruje „kraj pochodzenia: Polska"), CEP chce daty pierwszej rejestracji za granicą. Okno dialogowe gov.pl samo proponuje „sprawdź w rejestrach zagranicznych" (wymaga login.gov.pl).
+
+**Rozstrzygnięcie: jedno pytanie do sprzedającego — zdjęcie dowodu rejestracyjnego, pola A (nr rej.), B (data 1. rej.), E (VIN).** To zamyka temat w jednej wiadomości i jednocześnie jest naturalnym pytaniem kupującego, nie zaczepką. Dopiero przy odmowie/wykręcie to jest czerwona flaga.
+
+⚠️ **Do czasu rozstrzygnięcia S1 zostaje torem głównym, ale bez telefonu w sprawie ceny** — nie ma sensu negocjować auta, którego historii nie da się sprawdzić.
+
+---
+
+## 🚙 Skan: Golf Variant 4Motion, diesel, manual (27.08.2026)
+
+Pytanie Michała: „czy Golfy Variant będą tańsze?". **Odpowiedź: nie taniej w sposób, który cokolwiek zmienia — i rynek jest jeszcze płytszy niż w B7.**
+
+🔗 [Otomoto — filtr: Golf · kombi · diesel · manual · pole „Napęd" = 4x4 · od 2010 · do 32 000](https://www.otomoto.pl/osobowe/volkswagen/golf/seg-combi/od-2010?search%5Bfilter_enum_fuel_type%5D=diesel&search%5Bfilter_enum_gearbox%5D=manual&search%5Bfilter_enum_transmission%5D%5B0%5D=all-wheel-auto&search%5Bfilter_enum_transmission%5D%5B1%5D=all-wheel-lock&search%5Bfilter_enum_transmission%5D%5B2%5D=all-wheel-permanent&search%5Bfilter_float_price%3Ato%5D=32000) — sprawdzone 27.08.2026, **3 ogłoszenia w całej Polsce** (podniosłem próg do 32 000, żeby nie ucinać rynku sztucznie).
+
+| Auto | Cena | Rok | Przebieg | Uwagi |
+|---|---|---|---|---|
+| [Kraków](https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6I6MfF.html) 1.6 TDI 105 KM Comfortline, czarny | 22 800 | 2013 | 249 000 km | prywatny, „w granicach średniej" |
+| [Skoczów](https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6IdtXz.html) (śląskie, blisko!) 1.6 TDI 105 KM 4Motion Comfortline, czarny | 22 900 | 2015 | **337 162 km** | firma |
+| [Płońsk](https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-ID6HZ9Lz.html) (mazowieckie) 1.6 TDI 110 KM, czerwony | 24 900 | 2016 | 245 000 km | firma, „gwarancja", door-to-door |
+
+**Wnioski:**
+- **Oszczędność to ~3–5 tys. zł wobec S1 (27 900)** — i to przy tym samym rzędzie przebiegu. Za te pieniądze schodzimy o klasę w dół.
+- **Wszystkie trzy to 1.6 TDI, nie 2.0 CR.** Golf Variant 4Motion z 2.0 TDI + manualem w tym budżecie po prostu nie występuje. Traci się zapas mocy pod obciążeniem i pod hakiem — a to auto ma jechać na Bałkany z bagażem.
+- **Kluczowy minus: bagażnik.** Śpimy w bagażniku (`system-biwakowy.md`), a Golf Variant to segment C — leżysko po złożeniu jest krótsze niż w Superbie/Passacie. **Nie mam zmierzonej długości leżyska dla Golfa Variant — to jest do sprawdzenia, nie do założenia**, ale kierunek jest jednoznaczny i to jedyny parametr, który w tym systemie naprawdę boli.
+- **Rynek: 3 auta.** Ta sama pułapka co w B7 — filtr po polu „Napęd" wycina prawie wszystko, bo Golf Variant 4Motion to w PL rzadkość.
+
+**Werdykt: Golf Variant nie wchodzi jako tor główny.** Wchodzi jako plan awaryjny, gdyby S1 i Škody padły, a budżet się nie ruszył — i to raczej Skoczów (blisko, ale 337 tys. km) niż reszta. Škoda nadal spina to lepiej: ta sama technika co Passat, większy bagażnik, cena porównywalna.
+
+---
+
+## 💸 DSG DQ250 — realne koszty serwisu (sprawdzone 27.08.2026)
+
+Zamyka lukę „BRAK DANYCH" z rewizji kryterium DSG z 26.08. **Uwaga na status: to ceny z porównywarek i serwisów specjalistycznych, nie wycena konkretnego warsztatu na nasze auto.** Przed wpisaniem do budżetu konkretnego egzemplarza — telefon.
+
+| Pozycja | Kwota | Źródło |
+|---|---|---|
+| Wymiana oleju + filtr, warsztat niezależny | **500–750 zł** | [dieseldr.pl](https://dieseldr.pl/ile-kosztuje-wymiana-oleju-w-skrzyni-dsg-sprawdz-co-wplywa-na-cene) |
+| To samo w ASO | **od ~1 200 zł** | jw. |
+| Sam zestaw (olej G052 182, 5,5 l + filtr) — jeśli warsztat swoje | 430–480 zł | [Allegro](https://allegro.pl/oferta/zestaw-do-wymiany-oleju-skrzyni-dsg-6-sp-dq250-10105793684) |
+| **Test mechatroniki bez naprawy** (diagnoza) | **500 zł** | [elektroskrzynie.pl](https://www.elektroskrzynie.pl/skrzynie/dq250-02e-dsg) |
+| Regeneracja mechatroniki | **~2 500 zł** (2 221–3 200) | [cenauslug.pl](https://cenauslug.pl/motoryzacja/regeneracja-mechatroniki-skrzyni-automatycznej) |
+| **Wymiana sprzęgieł DQ250** | **3 000–5 500 zł** typowo, do **7 000** z oryginałem | [tdi-tuning.pl](https://tdi-tuning.pl/koszt-wymiany-sprzegiel-w-dsg-dq200-i-dq250-porownanie/) |
+
+**Interwał: olej + filtr co 60 tys. km lub 4 lata**, co nastąpi wcześniej. Przy jeździe z przyczepą — co 30–40 tys.
+
+### 🔴 Wniosek budżetowy, który zmienia grę
+
+**Sprzęgła w DQ250 kosztują 3 000–5 500 zł — czyli tyle, co CAŁA nasza rezerwa 4 000 zł, albo więcej.** Przy manualu odpowiednikiem jest dwumasa + sprzęgło (nadal niewycenione, zadanie 4). Czyli: **kupując DSG trzeba podnieść rezerwę, a nie tylko cenę auta.** To jest realny koszt kryterium „manual", policzony w drugą stronę.
+
+### ✅ Jak sprawdzić PRZED zakupem (kolejność od najtańszego)
+
+1. **Dokumenty wymiany oleju DSG.** Przy 250 tys. km powinny być ~4 wymiany. Brak papierów = zakładamy 0 wymian → ~600 zł na wejście **i** podwyższone ryzyko sprzęgieł/mechatroniki.
+2. **Jazda próbna od ZIMNEJ skrzyni** (ten sam wymóg co przy zimnym rozruchu silnika): szarpanie przy ruszaniu, drgania przy pełzaniu w korku na 1–2 biegu, opóźnienie po dodaniu gazu, kopnięcie przy D↔R. Objawy zużytych sprzęgieł widać najwyraźniej na zimno i przy niskich prędkościach.
+3. **Odczyt sterownika 02 (VCDS/OBD)** — błędy sprzęgieł i mechatroniki + wartości adaptacji sprzęgieł. Robi to każdy warsztat VAG, to pozycja rzędu diagnostyki, nie naprawy.
+4. **Test mechatroniki za 500 zł** — dopiero gdy punkty 2–3 dają sygnał, a auto poza tym jest warte walki.
+
+---
+
+## 🧯 SPROSTOWANIE 27.08.2026 — 1.9 TDI PD NIE ma choroby wałków ani zabieraka
+
+Napisałem Michałowi, że B6 1.9 odpada m.in. dlatego, że „to silnik PD, czyli z powrotem w wałki rozrządu". **To nieprawda i mieszało dwa różne silniki.** Porządek jest taki:
+
+| Silnik | Wałek rozrządu | Zabierak / napęd pompy oleju |
+|---|---|---|
+| **1.9 TDI PD** (BXE i pochodne, 105 KM) | ✅ zdrowy — 8 zaworów, prosta konstrukcja | ✅ zdrowy — pompa napędzana od wału korbowego, bez sześciokąta |
+| **2.0 TDI PD** (BKD/BKP, 140/170 KM) | ❌ **TO JEST TEN** — zużycie wałka i popychaczy od pompowtryskiwaczy | ❌ **I TEN** — sześciokątny zabierak na module wałków wyrównoważających |
+| **2.0 TDI CR do ~IX–XI 2009** | ✅ | ⚠️ krótki zabierak 77 mm |
+| **2.0 TDI CR seria CF** (CFFB/CFGB) | ✅ | ✅ 100 mm od początku produkcji |
+
+**1.9 TDI PD jest jednym z trwalszych diesli VAG-a, nie jednym z felernych.** Jego realne słabe punkty to turbina (zapiekanie geometrii), EGR, dwumasa i wtryskiwacze przy dużych przebiegach — nie wałek.
+
+**Powód odrzucenia B6 1.9 zostaje, ale jest tylko jeden: 1.9 TDI nigdy nie było łączone z 4motion, a 105 KM to za mało pod obciążenie wyprawowe.** Silnik nie ma z tym nic wspólnego.
+
+---
+
+## 🔬 „Ile jeszcze przejedzie auto z 330 tys. km?" (27.08.2026)
+
+**Pytanie postawione przez Michała, przy założeniu ~20 tys. km rocznie.** Przy takim tempie od 330 tys. do 400 tys. to **3,5 roku**.
+
+### Odpowiedź: blok nie jest wąskim gardłem — peryferia i blacha są
+
+2.0 TDI CR (seria CF) to jednostka, w której **sam silnik rzadko kończy życie auta**. Kończą je: turbina, DPF, wtryskiwacze, dwumasa, zawieszenie, Haldex, elektryka i rdza. Dlatego pytanie „ile jeszcze przejedzie" jest źle postawione — właściwe brzmi: **„ile mnie będzie kosztowało dowiezienie go do 400 tys."**
+
+### Cennik dojazdu z 330 do 400 tys. km (sprawdzone 27.08.2026)
+
+⚠️ **Status: ceny z porównywarek i serwisów specjalistycznych, nie wycena naszego auta.** To widełki do planowania rezerwy, nie kosztorys.
+
+| Pozycja | Kwota | Kiedy realnie wypada | Źródło |
+|---|---|---|---|
+| **Dwumasa + sprzęgło**, warsztat niezależny, części OEM (LUK/Sachs) | **3 200–4 200 zł** | 250–350 tys. — „kiedy", nie „czy" | [kosztserwisu.pl](https://kosztserwisu.pl/modele-samochodow/koszty-napraw-volkswagen-passat/) |
+| To samo w ASO | 5 200–6 800 zł | — | jw. |
+| **Regeneracja turbiny** (całość: część + robocizna + materiały) | **2 000–5 000 zł** | 250–400 tys., zależnie od jazdy | [tdi-tuning.pl](https://tdi-tuning.pl/koszt-naprawy-turbo-cennik-regeneracji-wymiany-i-robocizny/) |
+| **Regeneracja kompletu 4 wtryskiwaczy** CR (z demontażem i kodowaniem) | **2 600–3 500 zł** | 300–400 tys. | [kosztserwisu.pl](https://kosztserwisu.pl/koszty-napraw/silnik/regeneracja-wtryskiwaczy/) |
+| Nowe wtryskiwacze Bosch CRI (gdyby regeneracja nie wchodziła) | 4 800–8 000 zł | — | jw. |
+
+**Suma realistycznego scenariusza „nic dramatycznego, ale wszystko po kolei": ~8–13 tys. zł rozłożone na 3,5 roku**, czyli **rzędu 200–300 zł miesięcznie odkładane na auto**. To jest liczba, którą trzeba porównywać z ratą kredytu na nowsze auto — nie z zerem.
+
+### Co decyduje, czy TEN egzemplarz dojedzie
+
+Nie przebieg, tylko:
+1. **Jak jeździł** — trasy czy miasto. Diesel z DPF na krótkich dystansach zjada się dwa razy szybciej niż ten sam silnik w trasie. Passat taty Kingi robi Bałkany i morze — to jest wzorzec dobrej eksploatacji.
+2. **Historia oleju** — przy CR to najważniejszy pojedynczy papier.
+3. **Blacha i podłoga** — to zwykle kończy te auta, nie silnik. Michał sam zauważył przy Passacie taty Kingi: „błotnik gnije, ale podłoga cała". To jest właściwa kolejność patrzenia.
+4. **Co już zrobione** — auto po turbinie i dwumasie przy 300 tys. jest **warte więcej** niż auto z 250 tys. bez historii, bo najdroższe pozycje ma za sobą.
+
+### 🔁 Konsekwencja dla kryteriów
+
+**Sztywny limit przebiegu ~250 tys. nie ma uzasadnienia** — wkradł się bez podstawy. Wzorzec „bardzo dobre auto wyprawowe" w tym projekcie ma **330 tys. km** i właśnie wrócił z Chorwacji. Właściwe kryterium to nie liczba na liczniku, tylko **udokumentowana historia + co z drogiej listy jest już zrobione**.
+
+---
+
+## 🎯 SKAN 27.08.2026 z nowym limitem przebiegu (do 360 tys.) — B7
+
+**Wynik zaskakujący: poluzowanie przebiegu NIE poszerzyło pola B7. Nadal trzy auta.** To potwierdza, że wąskim gardłem w Passacie jest kombinacja **manual + 4x4**, a nie przebieg.
+
+🔗 [Otomoto — B7 kombi · diesel · manual · pole „Napęd" = 4x4 · od 2010 · do 27 000 · do 360 tys. km](https://www.otomoto.pl/osobowe/volkswagen/passat/seg-combi/od-2010?search%5Bfilter_enum_fuel_type%5D=diesel&search%5Bfilter_enum_gearbox%5D=manual&search%5Bfilter_enum_transmission%5D%5B0%5D=all-wheel-auto&search%5Bfilter_enum_transmission%5D%5B1%5D=all-wheel-lock&search%5Bfilter_enum_transmission%5D%5B2%5D=all-wheel-permanent&search%5Bfilter_float_mileage%3Ato%5D=360000&search%5Bfilter_float_price%3Ato%5D=27000)
+
+| Auto | Cena | Rok | Przebieg | Status |
+|---|---|---|---|---|
+| **Przecław** (zachodniopomorskie) 2.0 TDI 4Mot Highline, „Zweryfikowane dane" | 26 000 | 2011 | 253 000 | ⚪ Znany, odrzucony 27.08 na odległość (~600 km) |
+| **Zabierzów** | 19 000 | 2013 | 298 255 | ❌ Wróciło na Otomoto („opublikowano wczoraj"), ale **bez zdjęć**, pole silnika 1 896 cm³ / 105 KM, oznaczone jako **uszkodzone i importowane** |
+| **[Jabłonka](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IdiYQ.html)** (małopolskie) 2.0 Blue TDI SCR Comfortline | **17 500** | 2011 | **333 867** | 🟢 **NOWY — patrz niżej** |
+
+### 🟢 J1 — JABŁONKA, B7 Comfortline 2.0 TDI 140 KM, 17 500 zł
+
+🔗 [Ogłoszenie](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IdiYQ.html) · ID 6150127004 · wystawione **23.08.2026** · osoba prywatna
+
+**To jest niemal kopia Passata taty Kingi** — B7 Comfortline, 2011, 2.0 TDI 140 KM, manual, ~330 tys. km. Czyli auta, którym Michał i Kinga przejechali Chorwację i dwa razy morze.
+
+| Parametr | Wartość | Ocena |
+|---|---|---|
+| Cena | **17 500** | ✅✅ **7 700 pod budżetem 25 200** → rezerwa rośnie z 4 000 do ~11 700 |
+| Silnik / skrzynia | 2.0 TDI CR **140 KM** · **manual** | ✅ |
+| Napęd | przeszedł filtr pola „Napęd" = 4x4 | ✅ (potwierdzić przy oględzinach fizycznie) |
+| Kolor | **Czarny** | ✅ Nie białe, nie krzykliwe |
+| Dane | **„14/14 zweryfikowanych pól" — porównane z rządową bazą danych** | ✅✅ **Odwrotność S1**, gdzie CEP nie znajduje auta |
+| Właściciel | **„Auto jest użytkowane przez mnie od 10 lat"** | ✅✅ Jeden właściciel, jedna historia |
+| Eksploatacja | **„Był wykorzystywany do pracy w delegacji"** | ✅✅ **Trasowiec — dokładnie ta hipoteza, którą postawił Michał.** Najlepszy możliwy scenariusz dla diesla z DPF |
+| Odległość | Jabłonka, małopolskie (~100 km od BB) | ✅ Objazd, nie wyprawa |
+
+**⚠️ Minusy, uczciwie:**
+- **„Wymaga poprawek lakierniczych. Widoczne są również ślady korozji"** — sprzedający pisze to wprost. Plus za uczciwość, ale **korozja to jest ta rzecz, która kończy te auta**. Musi być obejrzana: progi, nadkola, podłoga, misa koła zapasowego
+- **Auto importowane**
+- **Wersja SCR (AdBlue)** — rzadka w B7 i dokładająca własne pozycje kosztowe (czujniki NOx, pompa AdBlue). **NIEWYCENIONE**
+- 333 867 km — najwyższy przebieg, jaki dopuściliśmy
+
+**Dlaczego to jest mocny trop mimo przebiegu:** cena 17 500 zostawia **~11 700 zł rezerwy** — czyli więcej, niż wynosi cały scenariusz „dwumasa + turbina + wtryski" (8–13 tys.). To jedyne auto w tym projekcie, przy którym rezerwa pokrywa całą znaną listę drogich pozycji.
+
+**Pytania na telefon: pełna lista w [`weryfikacja-silnika-przed-zakupem.md`](weryfikacja-silnika-przed-zakupem.md), sekcja 8b.**
+
+---
+
+## 🗺️ Gdzie właściwie szukamy — mapa pokrycia (27.08.2026)
+
+Pytanie Michała: „szukasz na OLX-ie? I na innych?". Uczciwa odpowiedź: **pokrycie było nierówne.**
+
+| Serwis | Stan pokrycia | Uwagi |
+|---|---|---|
+| **Otomoto** | ✅ Pełne — Passat, Superb, Octavia, Golf | Filtr po polu „Napęd" działa (`filter_enum_transmission`). Główne narzędzie |
+| **OLX** | ⚠️ **Passat tak (13–14.08), Škoda NIE — nadrobione 27.08** | Ma własny filtr „Napęd". **Zawiera auta, których nie ma na Otomoto** — patrz niżej |
+| **Facebook Marketplace** | 🔴 **DZIURA** — przeglądarka zalogowana na profil strony, Marketplace blokuje strony | Tu siedzą najtańsze oferty prywatne. **Do zrobienia z prywatnego konta Michała** |
+| **Sprzedajemy.pl** | ⚪ Niesprawdzone | Mały wolumen w motoryzacji, w praktyce dubluje OLX |
+| **Autoscout24 / mobile.de** | ⚫ Świadomie pominięte | Decyzja: nie kupujemy z importu, patrz sekcja „Skan Niemiec przy granicy" |
+
+### 🆕 Skan OLX — Škoda Superb 4x4, do 28 000, od 2010 (27.08.2026)
+
+🔗 [OLX — `q-superb-4x4`, od 2010, do 28 000](https://www.olx.pl/motoryzacja/samochody/skoda/q-superb-4x4/?search%5Bfilter_float_price%3Ato%5D=28000&search%5Bfilter_float_year%3Afrom%5D=2010) — **92 ogłoszenia** (luźne dopasowanie, dużo szumu: benzyny 1.8, 3.6 V6, DSG).
+
+**Auta, których NIE było w skanie Otomoto — do zweryfikowania (nadwozie, skrzynia, pole Napęd):**
+
+| Auto | Cena | Rok | Przebieg | Dlaczego ciekawe |
+|---|---|---|---|---|
+| **[Międzyrzecze](https://www.olx.pl/d/oferta/skoda-superb-4x4-full-opcja-nawi-el-fotele-bi-xenon-paktroniki-grzane-fotele-krajowka-CID5-ID1bOZRn.html)** — „Superb 4x4 full opcja, nawi, el. fotele, bi-xenon, paktroniki, grzane fotele, **krajówka**" | **21 000** do neg. | 2011 | **202 000 km** | 🥇 **Najniższy przebieg z całego skanu Superba** + **~10 km od Bielska** + polski. Priorytet nr 1 do sprawdzenia |
+| **[Piekary Śląskie](https://www.olx.pl/d/oferta/skoda-superb-ii-kombi-4x4-2010r-CID5-ID18P4cj.html)** — „Superb II Kombi 4x4" | 18 900 do neg. | 2010 | 242 000 km | Śląskie, tanio, kombi w tytule |
+| **[Dzierżoniów](https://www.olx.pl/d/oferta/skoda-superb-kombi-lift-2-0-tdi-170-panorama-manual-salon-pl-CID5-ID1bRysU.html)** — „kombi lift, 2.0 TDI 170, panorama, **manual**, salon PL" | 27 900 do neg. | 2013 | 258 600 km | Manual i salon PL wprost w tytule |
+| **[Nowy Sącz](https://www.olx.pl/d/oferta/skoda-superb-klima-alu-4-x-4-serwis-CID5-ID1bQjbZ.html)** — „Klima Alu 4x4 serwis" | 25 200 | 2011 | 282 035 km | Dokładnie w budżecie, małopolskie |
+| **[Miejsce Piastowe](https://www.otomoto.pl/osobowe/oferta/skoda-superb-140km-4x4-rok-produkcji-2012-ID6Idc5Z.html)** — „140KM / 4X4" | 15 900 do neg. | 2012 | 325 173 km | Najtańsze 4x4 z 140 KM. Duży przebieg, ale rezerwa ~13 tys. |
+
+⚠️ **Wszystkie powyższe to dane z listingu OLX, nie z otwartego ogłoszenia.** Nadwozie, skrzynia i pole „Napęd" niepotwierdzone.
+
+**Wniosek metodyczny: OLX nie jest dodatkiem do Otomoto — ma inny zbiór aut.** Od teraz skan = Otomoto **i** OLX, dla każdego modelu. FB Marketplace zostaje dziurą do zamknięcia z prywatnego konta.
+
+---
+
+## ❌ J1 Jabłonka — ODRZUCONY 27.08.2026 przez Michała
+
+Po obejrzeniu zdjęć. Papierowo był najmocniejszy w całym projekcie (14/14 pól zweryfikowanych z bazą rządową, jeden właściciel od 10 lat, delegacje = trasa, 11 700 rezerwy), ale sprzedający sam deklarował korozję i poprawki lakiernicze — i to widać. **Nie proponować ponownie.**
+
+---
+
+## ⚪ N2 — NYSA (opolskie), B7 4Motion Comfortline 2014, 29 900 zł — zgłoszony przez Michała
+
+🔗 [Ogłoszenie](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I4mH1.html) · ID 6147996323 · wystawione 22.08.2026 · osoba prywatna · **„Zweryfikowane dane"**
+
+**Czemu nie było go w moich skanach: cena.** Filtrowałem do 27 000, a to auto stoi za 29 900.
+
+| Parametr | Wartość | Ocena |
+|---|---|---|
+| Rok / silnik | **2014** · 2.0 TDI CR **140 KM** | ✅✅ Najmłodszy B7, jaki widzieliśmy. Seria CF — zabierak zamknięty |
+| Skrzynia / napęd | **Manual** · **4Motion** (w tytule i opisie) | ✅ |
+| Wersja | **Comfortline** | ✅ Dokładnie ta, którą Michał chwalił u taty Kingi |
+| Przebieg | 279 000 km | 🟡 W nowym kryterium OK |
+| **Rozrząd** | **kompletny, wymieniony w ASO VW przy 200 tys.** | ✅✅ Jedna z drogich pozycji **odhaczona i udokumentowana** |
+| Serwis | ASO VW, książka serwisowa | ✅ |
+| Wyposażenie | bi-xenon + LED, podgrzewane fotele, parktronic przód+tył, dwustrefowa klima | ✅ To jest ten „nowocześniejszy środek", o który Michałowi chodziło |
+| Odległość | Nysa, ~180 km od BB | 🟡 Pół dnia |
+
+**⚠️ Minusy:**
+- **29 900 = 4 700 ponad budżet 25 200**, i to bez adnotacji „do negocjacji". **To jest główny problem tej oferty.** Zostawia ~0 rezerwy przy budżecie 29 200 łącznie
+- **BIAŁY** — Michał wie; decyzja wspólna z Kingą
+- **Alufelgi 18"** — przy aucie wyprawowym to minus: niski profil, wrażliwość na dziury, droższe opony. Odwrotność 16" w krakowskim Superbie
+- **Import**
+- Tylko **7 zdjęć**
+- „Samochód nie wymaga żadnego wkładu finansowego" — standardowa formuła sprzedażowa, nie informacja
+
+**Werdykt: mechanicznie to najciekawszy B7, jaki przeszedł nam przez ręce** — 2014, udokumentowany rozrząd w ASO, komplet kryteriów technicznych. **Ale cena go wywala z budżetu**, a biały kolor i 18-tki to dwa dodatkowe minusy. Sensowny tylko, jeśli sprzedający zejdzie do ~26 tys. — czyli pytanie na telefon brzmi wprost o cenę, zanim cokolwiek innego.
+
+---
+
+## 🔴 N1 NOWA KARCZMA — RAPORT CEP ROZSTRZYGA. „Uszkodzony" potwierdzony w dwóch bazach (27.08.2026)
+
+Michał wygenerował raport „Historia pojazdu" z gov.pl **25.08.2026 21:17** i wrzucił do root (`Raport historia pojazdu.pdf`). Dopasowanie do N1 pewne: **VW Passat kombi, rok produkcji 2009, 208 335 km, 1. rej. za granicą 28.07.2009** — zgadza się co do kilometra z ogłoszeniem.
+
+**Dane z raportu:** nr rej. **DZG88936** (powiat zgorzelecki, dolnośląskie) · VIN **WVWZZZ3CZAE021115** · 1 968 cm³ · **103 kW (140 KM)** · EURO 5 · masa własna **1 596 kg** · CO2 **159 g/km** · średnie zużycie **6,1 l/100 km** · typ 3C.
+
+### 🔴 Co dyskwalifikuje
+
+| Ustalenie | Znaczenie |
+|---|---|
+| **Carfax: „Uszkodzony — ODNOTOWANO"** | To jest odpowiedź na pytanie, które mieliśmy zadać przez telefon w piątek. **Nie trzeba już dzwonić, żeby to ustalić** |
+| **autoDNA: „Uszkodzony — ODNOTOWANO"** | **Dwie niezależne bazy, ten sam wpis.** To nie jest pomyłka jednego dostawcy |
+| **Pierwsza rejestracja w Polsce: 14.05.2026** (za granicą 28.07.2009) | **Auto sprowadzone trzy miesiące temu.** 17 lat historii poza polską ewidencją — CEP jej nie pokrywa |
+| **Dokument: „pozwolenie czasowe", wydane 19.05.2026** | Po trzech miesiącach nadal nie ma docelowego dowodu w ewidencji. **Do wyjaśnienia — czemu rejestracja nie została domknięta** |
+| **„Liczba właścicieli: 1"** | ⚠️ **Pułapka interpretacyjna.** To 1 właściciel **od 14.05.2026**, nie od 2009. Ta liczba nie mówi nic o historii auta |
+
+### 🟡 Do zweryfikowania: czy to w ogóle jest 4motion
+
+W pliku N1 figuruje jako „kombi, **4motion**, manual, Comfortline". **Raport tego nie potwierdza i wręcz sugeruje coś innego:**
+- **CO2 159 g/km** i **6,1 l/100 km** to wartości charakterystyczne dla B6 Variant 2.0 TDI **na przód**; wersja 4motion ma wyraźnie wyższe
+- **masa własna 1 596 kg** jest niska jak na 4motion (napęd na cztery koła dokłada ~60–100 kg)
+
+⚠️ **To jest przesłanka, nie dowód** — raport nie ma pola „napęd". Ale w połączeniu z resztą wystarczy, żeby nie jechać 400 km bez wyjaśnienia tego jednym pytaniem.
+
+### ✅ Co raport oczyszcza
+
+- **Rozbieżność licznika: nie odnotowano.** 208 335 km potwierdzone odczytem na SKP 14.05.2026
+- **Szkoda całkowita: nie odnotowano** · kradzież, złomowanie, taxi, niedopuszczenie do ruchu: **czysto**
+- Badanie techniczne **pozytywne, ważne do 14.05.2027** · OC do 18.05.2027
+- Błąd cyfry kontrolnej VIN: nie odnotowano · akcje serwisowe: nie odnotowano
+
+### 📌 Potwierdzone: stary zabierak
+
+**1. rejestracja 28.07.2009** — czyli przed oknem poprawki (IX–XI 2009). Nasz wcześniejszy zapis „stary 77 mm (pewne)" ma teraz twarde potwierdzenie w dokumencie, nie w domyśle.
+
+### 🎯 Werdykt
+
+**N1 spada z toru głównego.** Obraz, który się składa: **auto sprowadzone w maju 2026, z odnotowanym uszkodzeniem w dwóch bazach, na pozwoleniu czasowym, ze starym zabierakiem, prawdopodobnie bez 4x4** — czyli świeży import komisowy, nie „polski Comfortline z niskim przebiegiem".
+
+**Deadline piątkowy (28.08) traci sens** — pytanie, dla którego istniał, jest już rozstrzygnięte na niekorzyść auta. Jeśli Michał i tak chce zadzwonić, jedyne sensowne pytanie brzmi: **„raport CEP pokazuje wpis o uszkodzeniu i rejestrację w Polsce od maja 2026 — co się z tym autem stało za granicą i czy są na to dokumenty?"** Odpowiedź wymijająca = temat zamknięty.
+
+---
+
+## 🟢 N2 NYSA — RAPORT CEP CZYSTY. Udokumentowana historia licznika z Czech (27.08.2026)
+
+Raport wygenerowany **27.08.2026 13:18**, plik: [`raporty-cep/n2-nysa-passat-b7-2014-ONY64249.pdf`](raporty-cep/n2-nysa-passat-b7-2014-ONY64249.pdf).
+
+**Nr rej. ONY64249** (nyski, opolskie) · VIN **WVWZZZ3CZFE044672** · 2014 · 1 968 cm³ · **103 kW (140 KM)** · **278 885 km** · masa własna **1 656 kg**.
+
+### ✅ Wszystkie ryzyka czyste — w obu bazach
+
+| Ryzyko | Carfax | autoDNA |
+|---|---|---|
+| Uszkodzony | ✅ nie odnotowano | ✅ nie odnotowano |
+| Powypadkowy | ✅ nie odnotowano | — |
+| Szkoda całkowita | — | ✅ nie odnotowano |
+| **Rozbieżność licznika** | ✅ nie odnotowano | ✅ nie odnotowano |
+| Kradzież / złomowanie / taxi / niedopuszczony | ✅ czysto | ✅ czysto |
+
+**To jest dokładna odwrotność N1** (Nowa Karczma), gdzie „uszkodzony" wisiał w obu bazach.
+
+### 🏆 Najmocniejszy element: 8 odczytów licznika z Czech
+
+Raport zawiera **udokumentowaną historię przebiegu** — czegoś takiego nie miało żadne auto w tym projekcie:
+
+| Data | Przebieg | Kraj |
+|---|---|---|
+| 20.09.2018 | 147 336 km | Czechy |
+| 26.05.2020 | 202 955 km | Czechy |
+| 30.06.2020 | 204 124 km | Czechy |
+| 04.11.2020 | 210 715 km | Czechy |
+| 12.11.2021 | 226 010 km | Czechy |
+| 24.11.2023 | 260 862 km | Czechy |
+| 08.12.2023 | 261 529 km | Czechy |
+| ~01.09.2025 (SKP PL, ONY/032) | **278 885 km** | Polska |
+
+**Ciąg jest monotonicznie rosnący, bez ani jednego cofnięcia.** Przebieg jest realny, nie deklarowany.
+
+**Tempo eksploatacji — to jest odpowiedź na pytanie „trasa czy miasto":**
+
+| Okres | km/rok |
+|---|---|
+| 2014 → 2018 | **~37 000** |
+| 2018 → 2020 | **~33 000** |
+| 2020 → 2021 | ~15 700 |
+| 2021 → 2023 | ~17 200 |
+| 2023 → 2025 | ~10 200 |
+| **Średnia z 11 lat** | **~25 600 km/rok** |
+
+Pierwsze cztery lata po ~35 tys. rocznie to auto flotowe/delegacyjne — **czyli trasa, dokładnie wg hipotezy Michała** (`weryfikacja-silnika-przed-zakupem.md`, sekcja 8a: >25 tys./rok = najlepszy scenariusz dla diesla z DPF).
+
+### 📋 Reszta ustaleń
+
+- **Dowód rejestracyjny** (nie pozwolenie czasowe), wydany 05.09.2025 — rejestracja domknięta ✅
+- Pierwsza rejestracja za granicą **01.10.2014**, pierwszy właściciel w Polsce **01.09.2025** → **import z Czech**, w Polsce od roku
+- Właścicieli w Polsce: 1
+- Masa własna **1 656 kg** — o 60 kg więcej niż FWD-owy B6 z raportu N1 (1 596 kg). **Pośrednio potwierdza 4Motion**
+
+### 🔴 DWA TERMINY, KTÓRE TRZEBA ZOBACZYĆ
+
+1. **Badanie techniczne ważne do 01.09.2026** — czyli **za 5 dni**
+2. **OC ważne do 03.09.2026** — czyli **za 7 dni**
+
+### ❓ Pytanie, które raport otwiera: auto stoi od roku
+
+Odczyt na SKP **01.09.2025: 278 885 km**. Ogłoszenie podaje **279 000 km**. To **~115 km w ciągu roku**.
+
+**Auto praktycznie nie jeździło od ostatniego przeglądu.** Możliwe wyjaśnienia: właściciel kupił coś innego, auto stało po sprowadzeniu, albo coś jest niesprawne. **To jest pytanie nr 1 na telefon** — i jednocześnie mocny argument cenowy: auto stojące rok, z badaniem i OC wygasającymi w przyszłym tygodniu, ma słabszą pozycję niż sugeruje cena 29 900.
+
+### 🎯 Werdykt
+
+**N2 przeskakuje na tor główny.** Ma coś, czego nie miało żadne inne auto w projekcie: **udokumentowaną, rosnącą historię licznika plus czyste ryzyka w dwóch bazach**. Do tego 2014 (najmłodszy), rozrząd w ASO przy 200 tys., manual + 4Motion + Comfortline.
+
+**Zostaje jeden problem: cena.** 29 900 to 4 700 ponad budżet i zero rezerwy. Ale pozycja negocjacyjna jest teraz mocna:
+- auto stoi od roku (~115 km)
+- badanie wygasa za 5 dni, OC za 7
+- import z Czech
+- biały kolor (mniejszy popyt)
+
+**Cel negocjacyjny: 25–26 tys.** Przy 26 tys. zostaje ~3 tys. rezerwy — cienko, ale przy udokumentowanym przebiegu i świeżym rozrządzie to inny poziom ryzyka niż auto bez historii.
+
+---
+
+## 🔗 Skan OLX — Passat 4motion, do 28 000, od 2010 (27.08.2026)
+
+🔗 [OLX — `q-passat-4motion`, od 2010, do 28 000](https://www.olx.pl/motoryzacja/samochody/volkswagen/q-passat-4motion/?search%5Bfilter_float_price%3Ato%5D=28000&search%5Bfilter_float_year%3Afrom%5D=2010) — **88 ogłoszeń**, w większości szum: DSG, benzyny 1.4/1.8, Passat CC, B8, Alltrack z automatem.
+
+**Do sprawdzenia (skrzynia i nadwozie NIEPOTWIERDZONE — dane z listingu):**
+
+| Auto | Cena | Rok | Przebieg | Dlaczego |
+|---|---|---|---|---|
+| **[Kamiennik](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-idealny-stan-4x4-kilometry-gwarantowane-oryginal-ID6HSgtw.html)** (opolskie) — „Idealny stan, 4x4, **kilometry gwarantowane**, oryginał" | 24 900 | 2012 | 250 000 | Najniższy przebieg z tej czwórki, blisko Nysy — **można obejrzeć przy okazji N2** |
+| **[Gorzów Wlkp.](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-highline-4mition-webasto-panorama-parkpilot-ID6Ia6WC.html)** — „Highline, 4motion, **webasto**, panorama, parkpilot" | 24 300 do neg. | 2013 | 340 000 | **Webasto** = realny zysk przy spaniu w aucie. Highline. Ale 340 tys. i daleko |
+| **[Kraków Podgórze](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-bogata-wersja-po-duzym-serwisie-ID6I4VX0.html)** — „Bogata wersja, **po dużym serwisie**" | 23 900 | 2011 | 284 000 | 80 km od domu, „po dużym serwisie" = potencjalnie drogie pozycje odhaczone |
+| **[Łapsze Wyżne](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-passat-b6-4motion-ID6I4Igp.html)** (Podhale) — „Passat b6 4Motion" | **13 999** | 2010 | 329 000 | Najtańsze 4motion w skanie. B6 → zabierak do sprawdzenia. Zostawia ~15 tys. rezerwy |
+
+⚠️ **Trzy z czterech to lustra ogłoszeń Otomoto** (linki prowadzą na Otomoto) — czyli OLX dubluje część rynku. Ale Škoda pokazała, że **nie cały**: tam trzy z pięciu były OLX-only.
+
+---
+
+## ⚖️ N2 Nysa vs N1 Nowa Karczma — porównanie raportów CEP (27.08.2026)
+
+**Sprostowanie do mojego wcześniejszego zdania „w Nysie wszystko na odwrót".** Michał słusznie zapytał, czy różnica nie polega wyłącznie na udokumentowanych przebiegach. **Sprawdzone w obu PDF-ach: różnice są dwie, niezależne od siebie.**
+
+| | **N2 Nysa** (29 900) | **N1 Nowa Karczma** (15 900) |
+|---|---|---|
+| Auto | Passat B7 kombi **2014**, 278 885 km | Passat B6 kombi **2009**, 208 335 km |
+| Nr rej. / VIN | ONY64249 · WVWZZZ3CZ**F**E044672 | DZG88936 · WVWZZZ3CZ**A**E021115 |
+| **Uszkodzony — Carfax** | ✅ **nie odnotowano** | 🔴 **ODNOTOWANO** |
+| **Uszkodzony — autoDNA** | ✅ **nie odnotowano** | 🔴 **ODNOTOWANO** |
+| Powypadkowy / szkoda całkowita | ✅ czysto | ✅ czysto |
+| Rozbieżność licznika | ✅ nie odnotowano | ✅ nie odnotowano |
+| Kradzież / złomowanie / taxi | ✅ czysto | ✅ czysto |
+| **Sekcja „Odczyty licznika"** | ✅ **8 odczytów z Czech, 2018–2023** | 🔴 **SEKCJI W OGÓLE NIE MA** — raport ma 4 strony zamiast 5 |
+| Historia przebiegu | 147 336 → 278 885 km, **monotonicznie rosnąca** | **Jeden odczyt: 208 335 km na SKP 14.05.2026.** Nic wcześniej |
+| Kraj pochodzenia | Czechy | zagranica (kraj niepodany w raporcie) |
+| 1. rej. za granicą | 01.10.2014 | 28.07.2009 |
+| **1. rej. w Polsce** | 01.09.2025 (**rok temu**) | **14.05.2026 (trzy miesiące temu)** |
+| **Typ dokumentu** | ✅ **dowód rejestracyjny** (05.09.2025) | 🔴 **pozwolenie czasowe** (19.05.2026) — po 3 miesiącach nadal niedomknięte |
+| Badanie techniczne | ważne do **01.09.2026** ⚠️ | ważne do 14.05.2027 |
+| OC | ważne do **03.09.2026** ⚠️ | ważne do 18.05.2027 |
+| Masa własna | 1 656 kg | 1 596 kg |
+| Zabierak pompy oleju | ✅ seria CF, poprawiony | 🔴 rej. 07.2009 → **stary 77 mm** |
+
+### 🎯 Wniosek: to są DWIE różnice, nie jedna
+
+**1. Wpis o uszkodzeniu.** Michał ma rację, że „byśmy te uszkodzenia musieli sprawdzić" — ale warto rozumieć, co już wiemy: **wpis jest w obu bazach niezależnie.** Carfax i autoDNA ciągną dane z różnych źródeł, więc zgodność wyklucza pomyłkę jednego dostawcy. **Fakt uszkodzenia jest ustalony. Nieznany jest tylko jego zakres.**
+
+**2. Brak jakiejkolwiek historii przebiegu.** To nie jest „słabsza dokumentacja" — w raporcie N1 **sekcji „Odczyty licznika" po prostu nie ma**. Jedyny odczyt to SKP z maja 2026, czyli z momentu rejestracji w Polsce. **17 lat i 208 tys. km bez ani jednego potwierdzenia.** Przy N2 mamy osiem punktów pomiarowych układających się w rosnący ciąg.
+
+Do tego dochodzi trzecia rzecz, która nie jest różnicą w raporcie, tylko w technice: **N1 ma stary zabierak 77 mm** (potwierdzone datą 28.07.2009), N2 ma serię CF.
+
+### 💰 Czy warto kupić raport autoDNA za ~90 zł na N1?
+
+**Co już masz za darmo:** flagi ryzyka z Carfax i autoDNA — to gov.pl podaje w raporcie.
+**Co dokupujesz:** zakres i opis szkody, zdjęcia z aukcji, wpisy aukcyjne, więcej odczytów licznika, historia ogłoszeń.
+
+**Rekomendacja: nie kupować teraz.** Kolejność jest odwrotna:
+1. **Najpierw telefon** — pytanie brzmi: *„raport CEP pokazuje wpis o uszkodzeniu i rejestrację w Polsce od maja 2026. Co się z tym autem stało za granicą i czy są na to dokumenty?"*
+2. **Przy okazji zapytać wprost, czy to na pewno 4motion** — raport N1 tego nie potwierdza, a masa własna 1 596 kg jest niska jak na napęd na cztery koła (N2 z 4Motion ma 1 656 kg)
+3. **90 zł na autoDNA wydać dopiero**, jeśli odpowiedzi są konkretne i auto nadal się broni. Płacenie za opis szkody auta, które i tak odpada na starym zabieraku i pozwoleniu czasowym, to wyrzucone pieniądze
+
+**Przy N2 raport autoDNA jest zbędny** — wszystkie flagi czyste, a historia licznika już jest w darmowym raporcie.
+
+---
+
+## 🔧 PROTOKÓŁ SKANU — poprawka metodologiczna (27.08.2026)
+
+**Zgłoszone przez Michała:** czy filtruję po polach formularza, czy wpisuję w pasek wyszukiwania? Bo w pasku „nie każdy wpisuje 4Motion".
+
+**Miał rację i to kosztowało nas ogłoszenia.** Stan faktyczny był taki:
+
+| Serwis | Jak szukałem | Poprawnie? |
+|---|---|---|
+| **Otomoto** | pole „Napęd" (`search[filter_enum_transmission][]` = `all-wheel-auto` / `all-wheel-lock` / `all-wheel-permanent`) | ✅ **TAK** — od początku po polu |
+| **OLX** | **pasek wyszukiwania** (`q-passat-4motion`, `q-superb-4x4`) | ❌ **NIE** — bo nie umiałem ustawić filtra |
+
+### ✅ Rozwiązane: OLX ma inną nazwę parametru niż Otomoto
+
+**To była pułapka:** na OLX `filter_enum_transmission` oznacza **Skrzynię biegów**, a nie Napęd (na Otomoto jest odwrotnie). Napęd na OLX to:
+
+```
+search[filter_enum_drive][0]=all-wheel-auto
+search[filter_enum_drive][1]=all-wheel-permanent
+search[filter_enum_drive][2]=all-wheel-lock
+```
+
+**Skala różnicy: 146 ogłoszeń po polu vs 88 z wyszukiwarki tekstowej.** Czyli **58 aut, czyli 40% rynku, było poza zasięgiem** wszystkich dotychczasowych skanów OLX.
+
+⚠️ **Czego OLX nadal nie przyjmuje w URL-u:** paliwa, skrzyni, typu nadwozia i modelu. Nazwy `filter_enum_petrol` / `filter_enum_fuel` / `filter_enum_car_body` / `filter_enum_body` / `filter_enum_model` wywalają stronę na „Ups! Coś poszło nie tak". Te trzy kryteria trzeba odsiewać ręcznie przy przeglądaniu wyników albo doklikać w formularzu.
+
+**Gotowe skany są w [`krotka-lista.md`](krotka-lista.md).**
+
+---
+
+## 🔴 WERYFIKACJA KANDYDATÓW Z LISTINGÓW — 6 z 8 odpadło (27.08.2026)
+
+**Powód weryfikacji:** Michał zwrócił uwagę, że nie chce sedana, i że część moich pozycji to mogą być sedany. **Otworzyłem wszystkie ogłoszenia, których wcześniej nie sprawdziłem w środku. Wynik jest brutalny.**
+
+| Auto | Cena | Werdykt |
+|---|---|---|
+| **Kamiennik** Passat | 24 900 | ✅ **KOMPLET** — kombi · diesel · manual · 4Motion · 2.0 TDI 140 KM · srebrny · 250 tys. ⚠️ austriackie blachy (VO) = import nieprzerejestrowany |
+| **Łapsze Wyżne** Passat | 13 999 | ✅ kombi · diesel · manual · 2.0 TDI 140 Highline R-Style · polskie blachy. ⚠️ 4Motion **niepotwierdzony w polu** · B6 → zabierak · 8 zdjęć |
+| **Międzyrzecze** Superb | 21 000 | 🔴 **SEDAN + BENZYNA 1.8 TSI 160 KM** |
+| **Nowy Sącz** Superb | 25 200 | 🔴 **SEDAN + pole „Napęd: Na przednie koła"** — mimo „4 x 4" w tytule **i** w opisie. Komis, VIN w ogłoszeniu to atrapa (`tmbcd010201010100`) |
+| **Piekary Śląskie** Superb | 18 900 | 🔴 kombi+manual+4x4 ✅, ale **BENZYNA 1.8 TSI** |
+| **Miejsce Piastowe** Superb | 15 900 | 🔴 kombi+diesel+4x4 ✅, ale **DSG** |
+| **Kraków Podgórze** Passat | 23 900 | 🔴 **1.4 TSI benzyna + DSG, 122 KM** |
+| **Gorzów Wlkp.** Passat | 24 300 | 🔴 **DSG** |
+
+### 📌 Lekcja, tym razem uzasadniona danymi
+
+**Listing OLX pokazuje tylko rok i przebieg.** Nie pokazuje paliwa, skrzyni, nadwozia ani napędu. Budowanie z niego tabeli kandydatów — nawet z zastrzeżeniem „niepotwierdzone" — daje **75% trafień fałszywych**. To nie jest lista do przekazania Michałowi, tylko lista do samodzielnego sprawdzenia.
+
+**Nowa zasada: pozycja wchodzi do [`krotka-lista.md`](krotka-lista.md) dopiero po otwarciu ogłoszenia i sprawdzeniu czterech pól: Paliwo · Skrzynia · Typ nadwozia · Napęd.** Wcześniej nie istnieje.
+
+**Nowy Sącz jest tu przykładem wzorcowym:** tytuł mówi „4 x 4", opis mówi „NAPĘD 4 x 4", a pole mówi „Na przednie koła". **Reguła „rozstrzyga pole, nie tytuł" właśnie się obroniła po raz drugi.**

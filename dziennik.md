@@ -7,7 +7,55 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ---
 
+## Wrzesień 2026
+
+### [01.09.2026] B5.5: olej czysty — dwa najdroższe scenariusze odpadają
+
+Bagnet i spód korka wlewu sprawdzone: normalny czarny olej, **zero emulsji**. Wyklucza to płyn w oleju, czyli **pęknięty blok i uszczelkę przepuszczającą do kanału olejowego — scenariusze 5,5–9 tys. schodzą ze stołu.** Nie wyklucza przedmuchu spalin do płynu (uszczelka „w drugą stronę" albo chłodnica EGR) — te wyglądałyby dokładnie tak. Rozpisany darmowy protokół rozstrzygający nadciśnienie vs podciśnienie w zimnym układzie: **ściśnięcie górnej gumy przed/po odkręceniu korka + balonik na szyjce przez noc** (jedyny test pokazujący, że gaz *przybywa* w stojącym aucie). Szczegóły: [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md).
+
+---
+
+## Wrzesień 2026
+
+### [27.08–01.09.2026] Sesja weryfikacyjna: 6 z 8 kandydatów było fałszywych. Zmiana metody skanu
+
+**Co się stało.** Michał zapytał, czy filtruję po polach formularza, czy po pasku wyszukiwania. Okazało się, że na Otomoto po polach (dobrze), a na OLX **po słowie „4motion" w tytule** (źle) — bo nie umiałem ustawić filtra. Po znalezieniu właściwego parametru (`search[filter_enum_drive][]`, **inna nazwa niż na Otomoto**, gdzie `filter_enum_transmission` to Napęd, a na OLX Skrzynia) skan dał **146 ofert zamiast 88 — 40% rynku było poza zasięgiem** wszystkich wcześniejszych skanów OLX.
+
+**Druga rzecz, gorsza.** Budowałem tabele kandydatów z listingów OLX, które pokazują tylko rok i przebieg. Po otwarciu ogłoszeń **6 z 8 pozycji odpadło**: Międzyrzecze i Nowy Sącz to sedany, Piekary i Międzyrzecze to benzyny 1.8 TSI, Miejsce Piastowe i Gorzów to DSG, Kraków Podgórze to 1.4 TSI z automatem. Później doszły Dzierżoniów i Łapsze Wyżne — oba z **„4x4" w tytule i „Na przednie koła" w polu**.
+
+**Konsekwencja:** powstały [`.claude/rules/skan-rynku.md`](.claude/rules/skan-rynku.md) (twarde kryteria, gotowe parametry filtrów, zakaz listy kandydatów bez otwarcia ogłoszenia, zasada zero: każda wzmianka z linkiem) i [`krotka-lista.md`](krotka-lista.md) — plik roboczy weryfikowany co sesję.
+
+### [01.09.2026] Zostały trzy auta z kompletem kryteriów
+
+Po weryfikacji wszystkich pozycji w polach: **[K1 Kamiennik](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-idealny-stan-4x4-kilometry-gwarantowane-oryginal-ID6HSgtw.html) 24 900** (jedyne w budżecie), **[N2 Nysa](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I4mH1.html) 29 900** (jedyne z udokumentowaną historią licznika) i **[M2 Chojnik](https://www.olx.pl/d/oferta/vw-passat-2-0-tdi-4-motion-2010-r-CID5-ID1bRORb.html) 16 900** (najtańsze, VIN w ogłoszeniu). Szczegóły: [`zakup-passata-b7.md`](zakup-passata-b7.md).
+
+---
+
 ## Sierpień 2026
+
+### [27.08.2026] Limit przebiegu skasowany — nie miał uzasadnienia
+
+Michał zapytał, ile jeszcze przejedzie auto z 330 tys. km. Odpowiedź: **blok 2.0 TDI CR nie jest wąskim gardłem** — kończą te auta peryferia i blacha. Właściwe pytanie to koszt dowiezienia do 400 tys.: dwumasa+sprzęgło 3 200–4 200 · turbina 2 000–5 000 · wtryski 2 600–3 500, razem **~8–13 tys. na 3,5 roku, czyli 200–300 zł/mies.**
+
+Rozstrzygający argument był jego: **wzorzec dobrego auta wyprawowego (B7 4Motion taty Kingi) ma 330 tys. km i właśnie zrobił Chorwację.** Limit ~250 tys. wkradł się bez podstawy. Nowe kryterium: **udokumentowana historia + co z drogiej listy jest już zrobione.**
+
+### [27.08.2026] Priorytet marek: Passat → Škoda → Golf
+
+Golf odstawiony (3 auta w kraju, wszystkie 1.6 TDI, krótsze leżysko). Škoda **nie skasowana, tylko przesunięta na alternatywę** — Passat z manualem i 4x4 to 3 auta w Polsce, Škoda to głębia rynku, gdyby Passat padł.
+
+### [27.08.2026] Sprostowanie: 1.9 TDI PD nie ma choroby wałków
+
+Napisałem Michałowi, że B6 1.9 odpada m.in. przez „wałki rozrządu". **Nieprawda — to 2.0 TDI PD.** 1.9 PD jest jednym z trwalszych diesli VAG-a. Powód odrzucenia zostaje, ale jest jeden: 1.9 nigdy nie szło z 4motion, a 105 KM to za mało. Tabela silników: [`zakup-passata-b7.md`](zakup-passata-b7.md).
+
+### [28.08.2026] B5.5: hipoteza taty rozpatrzona — spór zawęża się do „EGR czy korek czy wczesna nieszczelność"
+
+Tata twierdzi, że to nie uszczelka: płyn nie ubywa, syczenie „spod ciśnienia", płyn różowy tylko przybrudzony, a u Kuby na pękniętej głowicy płyn znikał szybko i silnik się grzał. **Porównanie z Kubą uznane za trafne** — rozwinięta uszczelka odpada, zgodnie z obserwacją z 28.06. Nie tłumaczy jednak ciśnienia na ZIMNYM aucie po 18 h postoju. **Nowy najtańszy krok: darmowy test kierunku powietrza przy odkręcaniu korka** (wychodzi = gaz w układzie, wchodzi = zawór podciśnieniowy w korku, 30 zł). Do puli hipotez dopisana **chłodnica EGR** — identyczny objaw, głowica zdrowa, 600–1 500 zł zamiast 3–4 tys. **Sprostowanie:** nie ma testu CO2 „na zimnym silniku" — zimne ma być auto przyjeżdżające do warsztatu (żeby dało się zdjąć korek i wpiąć tester), odczyt idzie na pracującym i przegazowywanym. Szczegóły: [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md).
+
+### [27.08.2026] S1 Kraków: CEP nie znajduje auta + Golf Variant sprawdzony i odpada
+
+**CEP pusty dla S1.** Michał wbił nr rej. `KR2KR22`, VIN `TMBRE73T4E9046814` i datę 11.03.2014 w historiapojazdu.gov.pl → „nie znaleźliśmy pojazdu". Powtórzyłem niezależnie: ten sam wynik, **dane były wpisane poprawnie**. VIN jest strukturalnie zgodny z Superbem II z Kvasin, rocznik modelowy 2014 — więc to nie jest VIN z innego auta. Najpewniej literówka sprzedającego w numerze seryjnym albo nieaktualna tablica. **Rozstrzygnięcie: prośba o zdjęcie dowodu (pola A, B, E) przed jakimkolwiek telefonem o cenę.** Szczegóły: [`zakup-passata-b7.md`](zakup-passata-b7.md).
+
+**Golf Variant sprawdzony — nie wchodzi.** Pytanie „czy Golfy będą tańsze": w filtrze kombi+diesel+manual+4x4 od 2010 do 32 tys. **całe trzy ogłoszenia w Polsce**, wszystkie 1.6 TDI (nie 2.0 CR), 22 800–24 900, przebiegi 245–337 tys. Oszczędność 3–5 tys. wobec S1 kupuje się zejściem o klasę w dół — słabszy silnik pod obciążeniem i **krótsze leżysko w bagażniku**, a to jedyny parametr, który w naszym systemie biwakowym naprawdę boli. Zostaje jako plan awaryjny, nie tor główny.
 
 ### [27.08.2026] Škoda się potwierdziła — S1 Kraków nowym torem głównym
 

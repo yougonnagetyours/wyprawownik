@@ -267,3 +267,53 @@ Historia serwisowa w tych raportach jest **szczątkowa** — pojawia się głów
 - [MojPojazd — najlepsze strony do sprawdzania VIN](https://mojpojazd.com/najlepsze-strony-do-sprawdzania-numeru-vin/)
 - [VW Tuning — 6 most common VW 1.9 TDI engine problems](https://vwtuning.co/vw-1-9-tdi-engine-problems/)
 - [Engine Checklist — VW 1.9 TDI problems, service bulletins, stats](https://enginechecklist.com/vw-1-9-tdi-engine-problems-service-bulletins-stats/)
+
+---
+
+## 8. Auta z dużym przebiegiem (300 tys.+) — jak je czytać i o co pytać
+
+Dodane 27.08.2026, po zmianie kryterium z „mało kilometrów" na „udokumentowana historia". Kontekst i cennik dojazdu do 400 tys. km: [`zakup-passata-b7.md`](zakup-passata-b7.md), sekcja „Ile jeszcze przejedzie auto z 330 tys. km".
+
+### 8a. Kluczowa liczba to nie przebieg, tylko km/rok
+
+Michał zauważył słusznie: auta z bardzo dużym przebiegiem statystycznie jeździły w trasie, nie po mieście — bo takiego przebiegu nie da się nabić na dojazdach po mieście. **Ale to nie jest reguła, tylko przesłanka.** Liczy się tempo:
+
+| km / rok | Co to zwykle znaczy | Ocena dla diesla z DPF |
+|---|---|---|
+| **> 25 tys.** | Delegacje, dojazdy międzymiastowe, trasa | ✅ **Najlepszy scenariusz** — silnik i DPF pracowały w warunkach, do których je zbudowano |
+| 15–25 tys. | Mieszane | 🟡 Trzeba dopytać |
+| **< 12 tys. przy wysokim przebiegu ogółem** | Auto po prostu stare, dużo krótkich cykli | 🔴 Najgorsze — dużo zimnych rozruchów na kilometr |
+
+**Kontrprzykłady, które łamią hipotezę „duży przebieg = trasa":** taxi/przewóz osób, kurier, auto szkoły jazdy, auto firmowe rozwożące po mieście. Wszystkie robią 40 tys. rocznie **w mieście**. Dlatego pytanie „do czego auto służyło" jest ważniejsze niż sam licznik.
+
+### 8b. Spis pytań na telefon — auta 300 tys.+
+
+Kolejność nieprzypadkowa: najpierw to, co dyskwalifikuje, potem to, co się wycenia.
+
+**Blok 1 — dyskwalifikatory (jak coś tu padnie, dalej nie ma sensu)**
+1. Czy auto jest w ewidencji jako **uszkodzone**? (pole na Otomoto bywa milczące)
+2. **Ile ma właścicieli i od kiedy Pan/Pani je ma?** Jeden właściciel od 10 lat to inna historia niż trzeci właściciel od pół roku
+3. **Do czego auto służyło?** Delegacje / dojazdy do pracy / firma / taxi / kurier — to jest to pytanie o trasę vs. miasto
+4. Czy jest **książka serwisowa albo faktury**? Ile z tego papierowo, ile „na słowo"
+
+**Blok 2 — co z drogiej listy jest już zrobione (to buduje wartość, nie odejmuje)**
+5. **Dwumasa i sprzęgło** — robione? kiedy, przy jakim przebiegu, na jakich częściach?
+6. **Turbina** — oryginalna czy regenerowana? Jeśli regenerowana: kiedy i **dlaczego padła**
+7. **Wtryskiwacze** — regenerowane? kodowane?
+8. **DPF** — obecny i sprawny, czy „usunięty"? (usunięty = problem na przeglądzie i przy odsprzedaży)
+9. **Rozrząd** — kiedy ostatnio, pasek czy łańcuch, przy jakim przebiegu
+10. **Haldex** (jeśli 4x4) — olej i filtr wymieniane? kiedy?
+11. **Olej silnikowy** — co ile i jaki. Przy CR to najważniejszy pojedynczy papier
+
+**Blok 3 — blacha, bo to zwykle kończy te auta**
+12. **Progi, nadkola, podłoga, misa koła zapasowego** — gdzie są ogniska korozji, na jakim etapie
+13. Czy auto było **lakierowane**, a jeśli tak, to które elementy i dlaczego
+14. **Czy auto jest z importu** i z jakiego kraju
+
+**Blok 4 — ustawienie oględzin**
+15. **Prośba, żeby nie odpalać auta przed przyjazdem** — zimnego rozruchu nie da się nadrobić później
+16. Czy da się zabrać auto **na diagnostykę do warsztatu** albo przyjechać z mechanikiem
+
+### 8c. Zasada przewartościowania
+
+**Auto z 320 tys. km po turbinie, dwumasie i wtryskach jest lepszym zakupem niż auto z 250 tys. bez żadnej historii** — bo najdroższe pozycje ma za sobą, a przy tym drugim wszystkie dopiero przed Tobą. Cena powinna to odzwierciedlać w drugą stronę, niż podpowiada intuicja.

@@ -1,5 +1,6 @@
 - [Flota aut](project_flota_aut.md) — Terrano SPRZEDANE 10.08.2026; na chodzie tylko B5.5 z uszczelką; docelowo kupujemy B7 4motion
 - [Kryteria auta](project_kryteria_auta.md) — 4motion + Comfortline lub wyżej (nie Trendline) + nie białe i nie krzykliwe; filtrować PRZED budowaniem tabeli kandydatów
+- [Zasady skanu rynku](../.claude/rules/skan-rynku.md) — twarde kryteria (diesel/kombi/manual/4x4), gotowe parametry filtrów Otomoto i OLX, zakaz listy kandydatów z listingu bez otwarcia ogłoszenia
 - [Tylko 4motion](project_tylko_4motion.md) — AWD to warunek konieczny przy zakupie auta, FWD nie bierzemy nawet przy lepszym przebiegu
 - [Tygodniowy skan rynku](project_tygodniowy_skan_rynku.md) — research ogłoszeń raz na tydzień; protokół w `zakup-passata-b7.md`, nie wymyślać kryteriów od nowa
 - [Oświadczyny na Bałkanach X.2026](project_oswiadzyny.md) — przesunięte z maja (brakło na pierścionek); autem, którego jeszcze nie kupiliśmy

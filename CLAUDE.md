@@ -91,6 +91,9 @@ Konwencja: auto kupowane (jeszcze nie posiadane) → plik `zakup-[auto].md` w ro
 - Budżet wyprawy w `wyprawy/[nazwa]/budzet.md`
 
 ### Samochód
+- **Szukanie aut do kupienia → zasady w [`.claude/rules/skan-rynku.md`](.claude/rules/skan-rynku.md)**: twarde kryteria (diesel/kombi/manual/4x4 — brak = auto nie istnieje), gotowe parametry filtrów Otomoto i OLX, zakaz budowania listy kandydatów z listingu bez otwarcia ogłoszenia, **każda wzmianka o aucie z linkiem**
+- Krótka lista aut w grze (co sesję weryfikowana) → [`krotka-lista.md`](krotka-lista.md)
+- Raporty CEP aut rozważanych → [`raporty-cep/`](raporty-cep/README.md)
 - Stan auta, co zrobione, co do zrobienia, wydatki → `auta/[auto]/stan.md`
 - To jest centralny plik do śledzenia gotowości danego auta na kolejne wyprawy
 

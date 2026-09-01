@@ -66,6 +66,60 @@
 - **Kolejność wg mechanika = nasza:** 1) test uszczelki miernikiem; 2) jeśli głowica OK → tanie rzeczy (EGR/przepustnica/przewody, kilkaset zł, odzysk mocy); 3) drogie (głowica) tylko wg tabeli opłacalności — backupowi nie wkładamy 4k+
 - **Decyzja invest vs dojeździć:** nie na ślepo. Test rozstrzyga skalę. Backup = tylko tanie/niezbędne naprawy, reszta kasy na B6
 
+**🗣️ HIPOTEZA TATY (28.08.2026) — „to nie uszczelka, płyn jest po prostu stary":**
+
+Argumenty taty: płyn nie ubywa · syczenie bierze się „spod ciśnienia" · płyn jest różowy, tylko przybrudzony od przewodów · u Kuby na pękniętej głowicy **płyn znikał szybko i silnik się grzał** — tu nic takiego.
+
+**Co się z tego broni:** porównanie z Kubą jest trafne i zgodne z obserwacją z 28.06. **Rozwiniętą uszczelkę / pękniętą głowicę można uznać za mało prawdopodobną.** To nie jest ten scenariusz.
+**Czego nie tłumaczy:** ciśnienia narastającego na ZIMNYM aucie po ~18 h postoju. „Spod ciśnienia" to opis objawu, nie przyczyna. Stary płyn nie produkuje gazu.
+**Zastrzeżenie do mechanika (słuszne):** mechanik ma interes w tym, żeby była robota — ocena „mocno spalinowy" na oko jest tyle samo warta co ocena „różowy" na oko. **Ale** ten sam mechanik powiedział też „skoro w upały się nie grzał, to raczej OK" i kazał odłożyć drogie rzeczy do czasu werdyktu miernikiem — czyli argumentował **przeciw** robocie. Ten konkretny konflikt interesów się nie potwierdza.
+**Wniosek:** spór zawęził się z „uszczelka czy nie" do **„mała/wczesna nieszczelność vs chłodnica EGR vs korek"**. Różnica w kosztach: **SZACUNEK** ~3 000 vs ~600–1 500 vs ~30 zł (rzędy wielkości, nie wyceny). Nadal do rozstrzygnięcia miernikiem.
+
+**✅ OLEJ SPRAWDZONY 01.09.2026 — CZYSTO.** Bagnet i spód korka wlewu: normalny czarny olej, **zero emulsji, zero „kawy z mlekiem"**, poziom bez uwag. Co to wyklucza: przedostawanie się płynu do oleju, czyli **pęknięty blok i nieszczelność uszczelki w stronę kanału olejowego — dwa najdroższe scenariusze z tabeli (5,5–9 tys.) schodzą ze stołu.** Czego NIE wyklucza: przedmuchu spalin do płynu (uszczelka w stronę kanału chłodzenia albo chłodnica EGR) — te dwa nie mieszają oleju z płynem i wyglądałyby dokładnie tak. Punkt 4 z pakietu diagnostycznego odhaczony za 0 zł.
+
+**🆓 DARMOWY TEST DO ZROBIENIA JAKO PIERWSZY — czy w zimnym układzie jest NADCIŚNIENIE czy PODCIŚNIENIE:**
+
+„Pszt" przy odkręcaniu korka brzmi tak samo, gdy powietrze **wychodzi** i gdy **wchodzi** — a to dwie zupełnie różne diagnozy:
+- **wychodzi (nadciśnienie)** → w zimnym, stojącym układzie coś wytwarza gaz → spaliny: uszczelka albo chłodnica EGR
+- **wchodzi (podciśnienie)** → zawór podciśnieniowy w korku nie oddaje płynu ze zbiorniczka przy stygnięciu → **korek za ~30 zł, temat zamknięty**
+
+Trzy sposoby, od najpewniejszego. Wszystkie **na ZIMNYM aucie**, po nocy postoju.
+
+**A) Ściśnięcie grubej górnej gumy chłodnicy — najpewniejszy, robić zawsze:**
+1. Silnik zimny, maska otwarta. Znajdź grubą gumę idącą z góry chłodnicy do silnika.
+2. **Zanim dotkniesz korka** — ściśnij ją mocno dłonią. Zapamiętaj: twarda i sprężysta jak napompowana opona, czy miękko się zgniata?
+3. Odkręć korek zbiorniczka (powoli, do pierwszego oporu).
+4. **Ściśnij gumę drugi raz.** Porównaj z punktem 2.
+- **Była twarda, po odkręceniu zmiękła** → układ był pod NADciśnieniem na zimno. To jest ten zły wynik i idziesz do warsztatu.
+- **Za pierwszym razem miękka albo wręcz zapadnięta/wklęsła** → PODciśnienie. Kupujesz korek.
+- Bez zmiany, cały czas tak samo twarda → guma po prostu zesztywniała ze starości (424 tys. km), test nierozstrzygający — przechodzisz do B i C.
+
+**B) Chusteczka — potwierdzenie kierunku podmuchu:**
+Urwij pasek chusteczki higienicznej ~2 cm szerokości, ~10 cm długi (ma być lekki i wiotki — ręcznik papierowy jest za sztywny, nie zadziała). Trzymaj go za jeden koniec tak, żeby drugi koniec zwisał **luźno tuż nad otworem szyjki, jakieś 2–3 cm**, i **z boku, nie nad środkiem** (gdyby chlusnęło płynem). Drugą ręką odkręcaj korek **bardzo powoli**, milimetr po milimetrze, i patrz na chusteczkę w momencie „pszt":
+- **odrzuca ją w górę / od szyjki** → powietrze wychodzi = nadciśnienie
+- **przyklei ją do szyjki / wciąga do środka** → powietrze wchodzi = podciśnienie
+⚠️ Podmuch trwa ułamek sekundy — dlatego odkręcasz powoli i patrzysz na chusteczkę, nie na korek. Jak przegapisz, dokręć, odczekaj kilka minut i powtórz. Ten test daje wynik tylko gdy zobaczysz ruch — brak reakcji to „nie wiem", nie „nic nie ma".
+
+**C) Balonik przez noc — jedyny, który wprost pokazuje, że gaz POWSTAJE (rozstrzygający):**
+Testy A i B mówią, co jest w układzie teraz. Balonik mówi, czy w stojącym, zimnym aucie gaz **przybywa** — a tego korek nie potrafi zrobić.
+1. Auto zimne. Zdejmij korek zbiorniczka.
+2. Naciągnij zwykły balonik (albo palec gumowej rękawiczki) na szyjkę zbiorniczka i przewiąż gumką/opaską, żeby trzymał szczelnie. Balonik ma być **całkiem sflaczały**.
+3. Zostaw auto na noc, ~12–18 h. **Nie odpalaj.**
+4. Rano: **balonik napęczniał** → w zimnym, niepracującym silniku powstaje gaz. Korek tego nie tłumaczy w żaden sposób → spaliny w układzie, jedziesz do warsztatu z gotową odpowiedzią. **Balonik sflaczały jak był** → mocny argument, że gazu nie przybywa, a „pszt" to sprawa korka.
+⚠️ Zasady: robić tylko na **stojącym** aucie · **nie odpalać silnika z balonikiem** zamiast korka (układ bez korka nie trzyma 1,4 bar i przy nagrzaniu wyrzuci płyn) · po teście **wkręcić korek z powrotem**, zanim ruszysz.
+
+Kolejność: **A rano → C przez najbliższą noc**. B robisz przy okazji A, jako dodatkowe potwierdzenie.
+
+**🔧 CHŁODNICA EGR — czemu daje ten sam objaw co uszczelka:**
+Chłodnica EGR to mały wymiennik, przez który przechodzą **spaliny zawracane do dolotu**, chłodzone **płynem z układu chłodzenia**. Dwa media, jedna ścianka. Gdy ścianka pęknie (typowe zmęczenie: spaliny 600–700°C kontra płyn 90°C, cykl za cyklem), **spaliny wchodzą do płynu dokładnie tak samo jak przez uszczelkę pod głowicą** — ciśnienie w zbiorniczku, wzburzanie, CO2 w płynie, ciemnienie płynu. Objaw nie do odróżnienia bez leak-downu.
+Różnica jest w koszcie i w tym, że **głowica jest wtedy zdrowa**: chłodnica EGR to część zewnętrzna, przykręcana — 600–1 500 zł zamiast 3–4 tys., bez zdejmowania głowicy.
+**Jak się to rozstrzyga:** leak-down cylinder po cylindrze z obserwacją zbiorniczka. Wszystkie 4 cylindry szczelne + barwnik mimo to żółknie → **chłodnica EGR, nie głowica**. To jest ten jeden krok, o który trzeba się u mechanika dopomnieć samemu.
+Bonus: 1.9 TDI przy 424 tys. km i tak ma zasyfiony EGR, a utrata mocy przy przyspieszaniu (objaw „turbo odcina") może się z tym spinać.
+
+**⏱️ Sprostowanie do „testu na zimnym silniku" (28.08.2026):**
+Nie ma czegoś takiego jak test CO2 na zimnym silniku i nigdy o takim tu nie było mowy — tata ma rację, **odczyt idzie na pracującym, dochodzącym do temperatury i przegazowywanym silniku**. Warunek „ZIMNE" dotyczy wyłącznie **stanu, w jakim auto ma przyjechać do warsztatu**, bo korek zbiorniczka wolno odkręcić tylko na zimnym (gorący układ = poparzenie + utrata płynu), a tester musi wejść na szyjkę **przed** odpaleniem. Kolejność: przyjeżdża zimne → korek zdjęty → tester na szyjce → **dopiero teraz silnik odpala** → odczyt przy rozgrzewaniu i na gazie. Auto przyjechane rozgrzane z trasy = wizyta do powtórzenia następnego dnia.
+Osobna sprawa: **test ciśnienia (1,4 bar) i tak warto zrobić na zimnym**, bo to właśnie na zimnym występuje objaw.
+
 **Hipoteza alternatywna: zapowietrzony układ / słaby korek** (podpowiedź z innego źródła, zweryfikowana):
 - Samo "pszt" przy odkręcaniu to może być normalne odpowietrzanie — korek pełni też rolę odpowietrznika i trzyma układ pod ciśnieniem
 - ALE: ciśnienie narastające na ZIMNO po ~18h postoju + podnoszący się poziom to objawy, których czyste zapowietrzenie nie tłumaczy (powietrze nie produkuje ciśnienia samo z siebie na stojącym zimnym aucie)
@@ -95,7 +149,7 @@ Pozytywny barwnik **zamyka temat korka i zapowietrzenia** — korek nie produkuj
 1. **Skala przedmuchu** — barwnik żółknie w 10 s czy po 2 min pompowania? Błyskawicznie = duży przedmuch, decyzja prosta. Powoli = wczesna faza, wchodzi kalkulacja dojeżdżamy vs naprawiamy
 2. **Leak-down cylinder po cylindrze, z obserwacją zbiorniczka** — ★ najważniejszy krok, dopomnieć się o niego:
    - bąbelki przy **konkretnym** cylindrze → uszczelka albo pęknięta głowica przy tym cylindrze
-   - **wszystkie 4 szczelne, a barwnik żółknie → chłodnica EGR**, nie głowica. Różnica 600–1 500 zł zamiast 3–4 tys.
+   - **wszystkie 4 szczelne, a barwnik żółknie → chłodnica EGR**, nie głowica. Różnica **SZACUNEK** 600–1 500 zł zamiast 3–4 tys.
 3. **Endoskop przez otwory po świecach żarowych** — tanie i wymowne. Jeden tłok **nienaturalnie czysty, wymyty** przy normalnym nagarze na pozostałych = ten cylinder bierze płyn. Przy okazji ocena gładzi. Wiele warsztatów ma endoskop, ale sam nie zaproponuje — poprosić
 4. **Weryfikacja chłodnicy EGR** (jeśli krok 2 = wszystkie cylindry szczelne) — demontaż i próba ciśnieniowa poza autem albo wypięcie z obiegu płynu i powtórzenie barwnika
 5. **Próba ciśnieniowa przy pracującym silniku** — szybkie wybicie ponad wartość otwarcia korka potwierdza duży przedmuch
