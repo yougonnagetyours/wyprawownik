@@ -13,3 +13,4 @@
 - [Droga, nie sprzęt](feedback_droga_nie_sprzet.md) — minimalizm, używać tego co już jest, mechanika przed stylingiem; nie pchać upgradów ani estetyki sprzętu
 - [Michał pracuje w dzień](feedback_michal_pracuje_w_dzien.md) — nie planuj zadań na środek dnia roboczego; realne okna to wieczory i weekendy
 - [Koszty zawsze sprawdzone](feedback_koszty_zawsze_sprawdzone.md) — ceny i „co jest w cenie" weryfikować u źródła; nie zakładać z pamięci, szacunek nazywać szacunkiem
+- [Bez kodów aut](feedback_bez_kodow_aut.md) — w czacie nigdy K1/N2/M2/S1, zawsze miejscowość + model + cena; tak samo z nazwami procedur z repo

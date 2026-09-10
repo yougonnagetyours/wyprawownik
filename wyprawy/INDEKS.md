@@ -6,7 +6,7 @@ Statusy: **PLANOWANA** (w grze) · **KONCEPT** (bez terminu) · **ZREALIZOWANA**
 
 | Wyprawa | Termin | Auto | Status | Folder |
 |---|---|---|---|---|
-| **Bałkany — oświadczyny** | X.2026 | Passat B7 (do kupienia) | 🟢 **PLANOWANA** — trasa jeszcze nie zaplanowana, **brak folderu** | — |
+| **Bałkany — oświadczyny** | **bez terminu — WARUNEK, nie data** | **Passat B5.5** (zakup B7 wstrzymany) | 🟡 **WARUNKOWA** (10.09.2026) — jedzie, jeśli auto będzie w stanie; jeśli nie, odpuszczamy. Trasa niezaplanowana, brak folderu | — |
 | **Gruzja** | brak | Passat B7 zliftowany | 🔵 **KONCEPT** (22.07.2026) | [gruzja/](gruzja/) |
 | **Morze / Ostrowo** | 11–20.07.2026 | Passat B7 taty Kingi | ⚪ **ZREALIZOWANA?** — ⚠️ nie potwierdzone, budżet po fakcie nierozliczony (szacunek 5 360 zł) | [morze-lipiec-2026/](morze-lipiec-2026/) |
 | **Pelješac** | 01–09.05.2026 | Kia Soul rodziców | ⚪ **ZREALIZOWANA** — oświadczyn nie było (brak kasy na pierścionek) | [peljesac-maj-2026/](peljesac-maj-2026/) |

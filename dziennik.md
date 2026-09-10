@@ -9,6 +9,34 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Wrzesień 2026
 
+### [10.09.2026] Bałkany: warunek zamiast terminu
+
+Michał postawił sprawę tak: **żadnej daty.** „Jeżeli się uda zrobić z autem i będzie w stanie jechać, to jedziemy. Jeżeli nie, to odpuszczamy." Wyprawa przechodzi z PLANOWANEJ na **WARUNKOWĄ**, autem staje się **B5.5** (zakup B7 wstrzymany).
+**Dlaczego to ma znaczenie praktyczne:** brak terminu = brak presji = **nic nie robimy „na zapas"**. Rozrząd zostaje na luty/marzec 2027, a decyzja o wydaniu 4–5 tys. czeka na wynik diagnostyki, nie na kalendarz.
+**Warunek zapisany wprost** (żeby dało się go kiedyś rozstrzygnąć, a nie „chyba da radę"): płyn nie ubywa w tempie wymagającym dolewania w trasie · CO2 bez zieleni · temperatura trzyma się pod obciążeniem · wspomaganie, hamulce, opony ogarnięte. Cokolwiek wskaże na głowicę → nie jedzie, a naprawa jest osobną decyzją. Szczegóły: [stan B5.5](auta/passat-b5.5/stan.md).
+
+### [07.09.2026] B5.5: termin u mechanika na 17.09 — pierwszy realny od 30.06
+
+Michał zadzwonił i umówił się: **17.09, po 9:00, auto zostaje na cały dzień.** Mechanik nie sądzi, że to uszczelka (auto nie grzeje się nawet w korkach przy ~40°C), nie ma testera CO2 i proponuje tańszą drogę: **wymienić płyn chłodniczy i obserwować, czy świeży znowu ściemnieje**. Zgłoszona też pompa wspomagania — jego recepta to zlanie, przepłukanie i właściwy płyn VW, bo tak uratował B5 kolegi 2 lata temu.
+**Co przyjmujemy, co nie:** wymiana płynu jako punkt odniesienia i płukanie wspomagania — tak, to dobre i tanie. Tłumaczenie „pszt po dwóch dniach = było mało płynu" — **tylko połowicznie**: działa przy podciśnieniu, nie przy nadciśnieniu, bo w zimnym aucie nic nie produkuje gazu. Rozstrzyga darmowy test gumy, nie dyskusja.
+**Zasada, która z tego zostaje:** darmowe testy i zdjęcie zbiorniczka **przed** wymianą płynu — świeżo napełniony układ jest zapowietrzony i psuje odczyt na tygodnie. Szczegóły: [auta/passat-b5.5/stan.md](auta/passat-b5.5/stan.md).
+
+### [07.09.2026] Zakup auta WSTRZYMANY — priorytet wraca na B5.5
+
+Michał ma robotę i wstrzymuje dzwonienie do sprzedających. Pierwszeństwo ma **diagnostyka obecnego Passata B5.5** (telefon do mechanika 07.09). Tabela kandydatów zostaje jako zdjęcie rynku z przełomu sierpnia i września — **nie jako lista do obdzwonienia**; przy powrocie najpierw sprawdzamy, które ogłoszenia jeszcze żyją.
+**Nowa Karczma:** Michał wysłał do K&K AUTO pytanie o wpis „uszkodzony” — **odpowiedzi brak**. Przy komisie długie wiszenie ogłoszenia nic nie znaczy (to stan magazynowy), ale brak odpowiedzi na pytanie o szkodę tak. Auto zostaje na „prawie odpadł”, bez dzwonienia.
+**B5.5 4motion z archiwum:** nie odmrażamy — warunek powrotu („test uszczelki wypada źle **i** trzeba kupować szybko”) nie jest spełniony, bo diagnostyki jeszcze nie ma.
+
+### [07.09.2026] SPROSTOWANIE: sam VIN nie otwiera CEP
+
+Darmowy CEP (historiapojazdu.gov.pl) wymaga **trzech** danych naraz: VIN + **numer rejestracyjny** + data pierwszej rejestracji. Wcześniejszy zapis przy Chojniku („VIN w ogłoszeniu → CEP od ręki”) był **błędny** — sprzedający ma zasłonięte blachy, więc CEP jest niedostępny tak samo jak przy Superbie z Krakowa. Z samego VIN-u zostaje płatne autoDNA/Carfax.
+**Zasada:** przy każdym aucie pytanie o **numer rejestracyjny** idzie do pierwszej wiadomości, obok zdjęć progów. Bez niego auto jest niesprawdzalne za darmo.
+
+### [07.09.2026] Passat B6 z pompowtryskiem (PD) — nie schodzimy niżej
+
+Rozważone świadomie: 2.0 TDI PD (2005–2008) jest tańszy, ale ma własną chorobę — **wycieranie wałka rozrządu i popychaczy**, bo wałek napędza jeszcze wtryskiwacze. Naprawa = głowica w dół, SZACUNEK 3 000–5 000 zł. Do tego wtryski PD zapiekające się w głowicy.
+**Decyzja:** nie warto — nie dlatego, że PD to złom, tylko dlatego, że **Chojnik (2010, Common Rail po poprawce zabieraka) daje tę samą oszczędność bez tego ryzyka**. Tło techniczne: [zakup-passata-b7.md](zakup-passata-b7.md).
+
 ### [01.09.2026] B5.5: olej czysty — dwa najdroższe scenariusze odpadają
 
 Bagnet i spód korka wlewu sprawdzone: normalny czarny olej, **zero emulsji**. Wyklucza to płyn w oleju, czyli **pęknięty blok i uszczelkę przepuszczającą do kanału olejowego — scenariusze 5,5–9 tys. schodzą ze stołu.** Nie wyklucza przedmuchu spalin do płynu (uszczelka „w drugą stronę" albo chłodnica EGR) — te wyglądałyby dokładnie tak. Rozpisany darmowy protokół rozstrzygający nadciśnienie vs podciśnienie w zimnym układzie: **ściśnięcie górnej gumy przed/po odkręceniu korka + balonik na szyjce przez noc** (jedyny test pokazujący, że gaz *przybywa* w stojącym aucie). Szczegóły: [`auta/passat-b5.5/stan.md`](auta/passat-b5.5/stan.md).

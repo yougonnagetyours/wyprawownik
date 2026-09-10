@@ -30,13 +30,13 @@ Pełne analizy: [`zakup-passata-b7.md`](zakup-passata-b7.md) · raporty CEP: [`r
 
 ## 🚗 W GRZE — PASSAT (tor główny)
 
-| Status | # | Auto | Cena | Rok / przebieg | Link | Sprawdzone | Co dalej |
-|---|---|---|---|---|---|---|---|
-| 🟢 | **N2** | **B7 Combi** 2.0 TDI 140 KM, manual, 4Motion, Comfortline, **biały** · Nysa (~180 km) | **29 900** | 2014 · 279 tys. | [Otomoto](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I4mH1.html) | 27.08 | **DZWONIĆ.** Raport CEP czysty + 8 odczytów licznika. ⏰ **badanie WYGASŁO 01.09**, OC **03.09**, auto stoi rok → **cel 25–26 tys.** |
-| 🟢 | **K1** | **Kamiennik** (opolskie) — B7 **2.0 TDI 140 KM 4Motion** BlueMotion Business Edition, **kombi**, **manual**, srebrny | 24 900 | 2012 · 250 tys. | [Otomoto](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-idealny-stan-4x4-kilometry-gwarantowane-oryginal-ID6HSgtw.html) | **27.08 ZWERYFIKOWANE** | ✅ **KOMPLET twardych kryteriów, w budżecie (–300 zł).** Osoba prywatna. ⚠️ austriackie blachy (VO Vöcklabruck) = import, jeszcze nieprzerejestrowany. **Blisko Nysy — obejrzeć przy okazji N2** |
+| Status | Auto | Cena | Rok / przebieg | Link | Sprawdzone | Co dalej |
+|---|---|---|---|---|---|---|
+| 🟢 | **Nysa** — B7 Combi 2.0 TDI 140 KM, manual, 4Motion, Comfortline, **biały** · Nysa (~180 km) | **29 900** | 2014 · 279 tys. | [Otomoto](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I4mH1.html) | 27.08 | **DZWONIĆ.** Raport CEP czysty + 8 odczytów licznika. ⏰ **badanie WYGASŁO 01.09**, OC **03.09**, auto stoi rok → **cel 25–26 tys.** |
+| 🟢 | **Kamiennik** (opolskie) — B7 **2.0 TDI 140 KM 4Motion** BlueMotion Business Edition, **kombi**, **manual**, srebrny | 24 900 | 2012 · 250 tys. | [Otomoto](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-idealny-stan-4x4-kilometry-gwarantowane-oryginal-ID6HSgtw.html) | **27.08 ZWERYFIKOWANE** | ✅ **KOMPLET twardych kryteriów, w budżecie (–300 zł).** Osoba prywatna. ⚠️ austriackie blachy (VO Vöcklabruck) = import, jeszcze nieprzerejestrowany. **Blisko Nysy — obejrzeć przy jednym wyjeździe** |
 | ⏸️ | | **Przecław** (zachodniopomorskie) 4Mot Highline — **pole: Kombi · Manualna · Diesel · 4x4 (stały)**, „Zweryfikowane dane" | 26 000 | 2011 · 253 tys. | [Otomoto](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I6WjV.html) | **27.08 ZWERYFIKOWANE** | ✅ Komplet kryteriów, ale **~600 km**. Wraca gdy reszta padnie |
-| 🔵 | **M2** | **Chojnik** (małopolskie) B6 — **2.0 TDI 140 KM · kombi · manual · 4x4 (dołączany autom.) · srebrny · salon PL** | 16 900 do neg. | 2010 · 297 tys. | [OLX](https://www.olx.pl/d/oferta/vw-passat-2-0-tdi-4-motion-2010-r-CID5-ID1bRORb.html) | **27.08 ZWERYFIKOWANE** | ✅ **KOMPLET kryteriów.** VIN w ogłoszeniu: WVWZZZ3CZAE084271 → **CEP można wbić od ręki**. Osoba prywatna. ⚠️ ~3 h drogi · B6 → zabierak · opis czterozdaniowy, zero o serwisie |
-| 🟠 | **N1** | **Nowa Karczma** (lubański, ~400 km) B6 — 2.0 TDI DPF **4Mot Comfortline**, manual, srebrny. Pole mówi „Sedan", **zdjęcia pokazują kombi** | 15 900 do neg. | 2009 · 208 373 km | [Otomoto](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6Idpmn.html) | **27.08 ZWERYFIKOWANE** | **Prawie odpadł na raporcie CEP.** Firma (K&K AUTO), blachy DZG 88936 = zgodne z raportem. Jedno pytanie: co się stało z autem za granicą. Wymijająco = 🔴 |
+| 🔵 | **Chojnik** (małopolskie) B6 — **2.0 TDI 140 KM · kombi · manual · 4x4 (dołączany autom.) · srebrny · salon PL** | 16 900 do neg. | 2010 · 297 tys. | [OLX](https://www.olx.pl/d/oferta/vw-passat-2-0-tdi-4-motion-2010-r-CID5-ID1bRORb.html) | **27.08 ZWERYFIKOWANE** | ✅ **KOMPLET kryteriów.** VIN w ogłoszeniu: WVWZZZ3CZAE084271, ale **blachy zasłonięte → CEP niedostępny** (potrzebny też nr rejestracyjny). ⏳ wisi od 16.08. Osoba prywatna. ⚠️ ~3 h drogi · B6 → zabierak · opis czterozdaniowy, zero o serwisie |
+| 🟠 | **Nowa Karczma** (lubański, ~400 km) B6 — 2.0 TDI DPF **4Mot Comfortline**, manual, srebrny. Pole mówi „Sedan", **zdjęcia pokazują kombi** | 15 900 do neg. | 2009 · 208 373 km | [Otomoto](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6Idpmn.html) | **27.08 ZWERYFIKOWANE** | **Prawie odpadł na raporcie CEP.** Firma (K&K AUTO), blachy DZG 88936 = zgodne z raportem. Jedno pytanie: co się stało z autem za granicą. Wymijająco = 🔴 |
 
 ⚠️ **Skrzynia i nadwozie przy pozycjach 🔵 są NIEPOTWIERDZONE** — to dane z listingu OLX, nie z otwartego ogłoszenia.
 
@@ -52,11 +52,11 @@ Pełne analizy: [`zakup-passata-b7.md`](zakup-passata-b7.md) · raporty CEP: [`r
 
 ## 🟡 ALTERNATYWA — ŠKODA (nie gonimy, ale nie kasujemy)
 
-**Powód, dla którego zostaje:** rynek Passata z manualem i 4x4 to **3 auta w całej Polsce**. Škoda ma 9 (Superb) + 14 (Octavia). Jeśli N2 padnie, to jest cała reszta pola.
+**Powód, dla którego zostaje:** rynek Passata z manualem i 4x4 to **3 auta w całej Polsce**. Škoda ma 9 (Superb) + 14 (Octavia). Jeśli Nysa padnie, to jest cała reszta pola.
 
 | Status | Auto | Cena | Rok / przebieg | Link | Co dalej |
 |---|---|---|---|---|---|
-| 🟠 | **S1 Kraków Podgórze** — Superb II 2.0 TDI 140 KM · **pole: Kombi · Manualna · Diesel · 4x4 (stały)** · szary | 27 900 do neg. | 2014 · 249 tys. | [Otomoto](https://www.otomoto.pl/osobowe/oferta/skoda-superb-ID6I7jFA.html) | **27.08 ZWERYFIKOWANE w polach.** ⚠️ **CEP nie znajduje auta** — czeka na zdjęcie dowodu (pola A, B, E) |
+| 🟠 | **Kraków Podgórze** — Superb II 2.0 TDI 140 KM · **pole: Kombi · Manualna · Diesel · 4x4 (stały)** · szary | 27 900 do neg. | 2014 · 249 tys. | [Otomoto](https://www.otomoto.pl/osobowe/oferta/skoda-superb-ID6I7jFA.html) | **27.08 ZWERYFIKOWANE w polach.** ⚠️ **CEP nie znajduje auta** — czeka na zdjęcie dowodu (pola A, B, E) |
 
 [Skan OLX Superb do powtórzenia](https://www.olx.pl/motoryzacja/samochody/skoda/q-superb-4x4/?search%5Bfilter_float_price%3Ato%5D=28000&search%5Bfilter_float_year%3Afrom%5D=2010)
 
