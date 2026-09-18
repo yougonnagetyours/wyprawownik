@@ -47,6 +47,13 @@
 - [ ] **Wilgoć w kabinie** — dywaniki mokre, capi (zwłaszcza po deszczu), centralny zamek sam się zamyka (prawdopodobnie zamoczony sterownik). Znaleźć źródło wycieku (typowe w B5: pióra wycieraczek/nadkole, uszczelka szyberdachu, odpływy klimy w komorze akumulatora), osuszyć, ew. wymienić sterownik. **Inspekcja 21.05 wskazała plenum (zapchane odpływy pod podszybiem) jako TOP hipotezę** — szczegóły w `auta/passat-b5.5/odszczurzanie.md`
 - [ ] **Diagnostyka ogólna** — niech mechanik popatrzy "co jeszcze" przy okazji (zawieszenie pod kątem >3000 km trasy, hamulce, geometria, paski klinowe, alternator, łożyska)
 
+### ✅ WIZYTA 17–18.09.2026 — co zrobione
+
+- **Wspomaganie:** płyn wymieniony, układ przepłukany. Pompa została. Mechanik: „jest OK"
+- **Chłodzenie:** wymieniony **cały płyn**. Od teraz obserwacja: poziom na ZIMNYM (znacznik na zbiorniczku), kolor (ciemnieje = spaliny albo syf z bloku), wycie wspomagania, wycieki
+- ⚠️ Pierwsze dni po wymianie układ się odpowietrza — lekki spadek poziomu i „pszt" przez parę dni to jeszcze nie dowód
+- ❓ Do dopytania: jaki płyn chłodniczy (G12+/G13?), czy robił leak-down, czy wymienił korek, czy auto ma Webasto
+
 ### 📅 TERMIN UMÓWIONY: 17.09.2026, po 9:00 — auto zostaje na cały dzień (ustalone 07.09.2026)
 
 **Pierwszy realny termin od 30.06.** Michał zostawia auto u kumpla mechanika.

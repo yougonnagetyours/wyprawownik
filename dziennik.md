@@ -9,6 +9,10 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Wrzesień 2026
 
+### [18.09.2026] B5.5 od mechanika: płyn wspomagania + cały płyn chłodniczy wymienione
+
+Mechanik wymienił płyn wspomagania i przepłukał układ (bez wymiany pompy) oraz **cały płyn chłodniczy**. Werdykt: „jest OK". Od teraz świeży płyn = punkt odniesienia: czy ubywa, czy ciemnieje. Argument „nie grzeje się = nie ma spalin" wyklucza tylko rozwiniętą nieszczelność, nie małą — [stan B5.5](auta/passat-b5.5/stan.md).
+
 ### [10.09.2026] Bałkany: warunek zamiast terminu
 
 Michał postawił sprawę tak: **żadnej daty.** „Jeżeli się uda zrobić z autem i będzie w stanie jechać, to jedziemy. Jeżeli nie, to odpuszczamy." Wyprawa przechodzi z PLANOWANEJ na **WARUNKOWĄ**, autem staje się **B5.5** (zakup B7 wstrzymany).
