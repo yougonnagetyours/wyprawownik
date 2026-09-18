@@ -113,7 +113,7 @@ Gumowa uszczelka w korku **twardnieje i przykleja się do szyjki**. Odrywanie je
 ⚠️ Kupując: sprawdzić wartość wybitą na wierzchu obecnego (zwykle **1,4 bar**) i wziąć z tym samym oznaczeniem.
 
 **💸 PLAN ZA ~60 ZŁ (zamiast 3 000):**
-1. **Nowy korek zbiorniczka — numer oryginału `1J0121321B`** (sprawdzone 10.09.2026; pasuje do B5.5 3B3 2000–2005, ten sam co w Golfie IV / Borze / Audi, więc tani i dostępny). [Rex Auto — oryginał](https://skoda-rex-auto.pl/pl/p/KOREK-ZBIORNIKA-WYROWNAWCZEGO-1J0121321B-ORYGINALNY/2813) · [Allegro](https://allegro.pl/listing?string=korek+zbiorniczka+wyr%C3%B3wnawczego+vw+passat+b5+org) · [Deler](https://deler.pl/c/uklad-chlodzenia/korki-zbiornika-wyrownawczego/lp-vw/passat/passat-v). ⚠️ **Najpierw sprawdzić wartość wybitą na obecnym korku (powinno być 1,4 bar) i kupić z tą samą** — najtańszy podejrzany, nietknięty od maja
+1. **Nowy korek zbiorniczka — numer oryginału `1J0121321B`** (sprawdzone 10.09.2026; pasuje do B5.5 3B3 2000–2005, ten sam co w Golfie IV / Borze / Audi, więc tani i dostępny). [Rex Auto — oryginał](https://skoda-rex-auto.pl/pl/p/KOREK-ZBIORNIKA-WYROWNAWCZEGO-1J0121321B-ORYGINALNY/2813) **55,61 zł** (sprawdzone 18.09.2026, promo do 30.09; wcześniejsze ~30 zł było szacunkiem) · [Allegro](https://allegro.pl/listing?string=korek+zbiorniczka+wyr%C3%B3wnawczego+vw+passat+b5+org) · [Deler](https://deler.pl/c/uklad-chlodzenia/korki-zbiornika-wyrownawczego/lp-vw/passat/passat-v). ⚠️ **Najpierw sprawdzić wartość wybitą na obecnym korku (powinno być 1,4 bar) i kupić z tą samą** — najtańszy podejrzany, nietknięty od maja
 2. **Tester CO2** ~28 zł — konkretna odpowiedź o spaliny
 3. **17.09 u mechanika:** wymiana płynu + przepłukanie wspomagania. Tyle
 
