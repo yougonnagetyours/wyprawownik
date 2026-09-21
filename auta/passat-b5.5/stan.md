@@ -54,6 +54,19 @@
 - ⚠️ Pierwsze dni po wymianie układ się odpowietrza — lekki spadek poziomu i „pszt" przez parę dni to jeszcze nie dowód
 - ❓ Do dopytania: jaki płyn chłodniczy (G12+/G13?), czy robił leak-down, czy wymienił korek, czy auto ma Webasto
 
+### 📈 Dziennik obserwacji po wymianie płynu (od 18.09.2026)
+
+**Temperatura — kryterium praktycznie odhaczone.** Seria przejazdów bez drgnięcia wskazówki:
+| Data | Trasa | km | Warunki |
+|---|---|---|---|
+| 28.06 | BB → Brenna → Soblówka | 4–5 h | **37–38°C, klima** |
+| ~08–09 | 2× na kajaki (trasa + dojazd) | ~185 w jedną stronę | do 110 km/h |
+| 19.09 (sob) | BB → Nowy Targ i z powrotem | **224** | bez ekspresówek, podjazdy |
+| 20.09 (niedz) | BB → Ostrawa (Dni NATO) | ~180 | dwupas BB–Cieszyn |
+
+➡️ Ponad 400 km w 2 dni **po wymianie płynu** = układ odpowietrzony bez czekania tygodnia + próba generalna zrobiona przy okazji. **Obserwacja poziomu startuje 21.09 (taśma na zbiorniczku).**
+⚠️ Temperatura już nic więcej nie powie — dalsza jazda nie dokłada informacji. Zostają: **poziom** (tydzień) i **test CO2** (po dostawie).
+
 ### 📅 TERMIN UMÓWIONY: 17.09.2026, po 9:00 — auto zostaje na cały dzień (ustalone 07.09.2026)
 
 **Pierwszy realny termin od 30.06.** Michał zostawia auto u kumpla mechanika.
