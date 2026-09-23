@@ -12,6 +12,7 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 ### [23.09.2026] Nowy kandydat: Gliwice, B7 2012 — komplet kryteriów, ale „uszkodzony" w CEP
 
 [Otomoto](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IdND8.html), 26 000 zł, wystawione 28.08 (umknęło skanowi z 27.08). Pola i opis na plus (dwumasa+sprzęgło 01.2023), ale Carfax i autoDNA zgodnie mówią „uszkodzony" — szkoda sprzed importu w 2018, po niej 8 lat normalnej jazdy w PL. Status 🟠 do wyjaśnienia jednym pytaniem, nie 🔴 jak Nowa Karczma (tam świeży import) — [raport](raporty-cep/gliwice-passat-b7-2012-SG4431U.pdf).
+Sprowadzony najpewniej przez obecnych właścicieli (1. rejestracja w PL 12.09.2018, bez zmiany głównego właściciela); dziś na **2 osoby** — umowę podpisują obaj. Michał: chciałby go kupić, ale nawet po utargowaniu nie zostaje kasa na wyjazd bez stresu.
 
 ### [18.09.2026] B5.5 od mechanika: płyn wspomagania + cały płyn chłodniczy wymienione
 
