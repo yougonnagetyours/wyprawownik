@@ -1,6 +1,8 @@
 # Active State
 
-Ostatnia aktualizacja: **2026-09-18** (B5.5 odebrany od mechanika — płyny wymienione)
+Ostatnia aktualizacja: **2026-09-23** (nowy kandydat Gliwice B7 2012 + raport CEP)
+
+Poprzednio: **2026-09-18** (B5.5 odebrany od mechanika — płyny wymienione)
 
 Poprzednio: **2026-09-07** (skasowane symbole aut — auta nazywamy miejscowością. Sprostowanie: **sam VIN nie otwiera CEP**, trzeba nr rejestracyjnego)
 
@@ -25,6 +27,7 @@ Poprzednio: **2026-09-01** (wszystkie auta zweryfikowane w polach — zostały 3
 | **[Kamiennik](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-idealny-stan-4x4-kilometry-gwarantowane-oryginal-ID6HSgtw.html)** (opolskie, ~200 km) — Passat B7 2012, 2.0 TDI 140 KM, **kombi · manual · 4Motion**, srebrny, 250 tys. | **24 900** | 🟢 **TOR GŁÓWNY** — komplet twardych kryteriów **i mieści się w budżecie** (25 200). Osoba prywatna. ⚠️ austriackie blachy (VO) = import nieprzerejestrowany · **CEP niewbity** |
 | **[Nysa](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I4mH1.html)** (opolskie, ~180 km) — Passat B7 **2014**, 2.0 TDI 140 KM, **kombi · manual · 4Motion**, Comfortline, **biały**, 279 tys. | **29 900** | 🟢 **Najlepiej udokumentowany** — raport CEP czysty w obu bazach + **8 odczytów licznika z Czech bez cofnięcia**, rozrząd w ASO przy 200 tys. ⏰ **badanie wygasło 01.09, OC 03.09** · stoi od roku · **4 700 ponad budżet → cel 25–26 tys.** |
 | **[Chojnik](https://www.olx.pl/d/oferta/vw-passat-2-0-tdi-4-motion-2010-r-CID5-ID1bRORb.html)** (małopolskie, **~3 h drogi**) — Passat B6 2010, 2.0 TDI 140 KM, **kombi · manual · 4x4**, srebrny, salon PL, 297 tys. | **16 900** do neg. | 🟢 **Komplet kryteriów, najtańszy** — zostawia ~12 tys. rezerwy. VIN w ogłoszeniu: WVWZZZ3CZAE084271, ale **blachy zasłonięte → CEP NIEDOSTĘPNY** (wymaga też nr rejestracyjnego). ⚠️ B6 → zabierak 77 mm · opis czterozdaniowy, zero o serwisie |
+| **[Gliwice](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IdND8.html)** (śląskie) — Passat B7 2012, 2.0 TDI 140 KM, **kombi · manual · 4x4**, Comfortline, szary, 254 tys. | 26 000 do neg. | 🟠 **Komplet kryteriów + dwumasa/sprzęgło zrobione 01.2023.** ⚠️ CEP: **„uszkodzony" w obu bazach** (sprzed importu 2018; potem 8 lat SKP w PL bez uwag). Wystawione 28.08. [Raport](raporty-cep/gliwice-passat-b7-2012-SG4431U.pdf) |
 | **[Kraków Podgórze](https://www.otomoto.pl/osobowe/oferta/skoda-superb-ID6I7jFA.html)** (~80 km) — Superb II 2014, **kombi · manual · 4x4 (stały)**, szary, 249 tys. | 27 900 do neg. | 🟠 **ZABLOKOWANY** — CEP nie znajduje auta po danych z ogłoszenia. Czeka na zdjęcie dowodu (pola A, B, E) |
 | **[Nowa Karczma](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6Idpmn.html)** (lubański, ~400 km) — Passat B6 2009, 208 tys. | 15 900 | 🔴 **PRAWIE ODPADŁ** — „uszkodzony" w Carfax **i** autoDNA, import od 05.2026, pozwolenie czasowe, zabierak 77 mm. **Michał wysłał wiadomość do K&K AUTO o wpis „uszkodzony" — brak odpowiedzi (stan 07.09).** Nie dzwonić: milczenie na to pytanie to już odpowiedź |
 | — | **[Przecław](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6I6WjV.html)** (zachodniopomorskie, ~600 km) — B7 2011 4Mot Highline, komplet kryteriów, „Zweryfikowane dane" | 26 000 | ⏸️ Odrzucony na odległość. Wraca gdy reszta padnie |

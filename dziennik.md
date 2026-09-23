@@ -9,6 +9,10 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Wrzesień 2026
 
+### [23.09.2026] Nowy kandydat: Gliwice, B7 2012 — komplet kryteriów, ale „uszkodzony" w CEP
+
+[Otomoto](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IdND8.html), 26 000 zł, wystawione 28.08 (umknęło skanowi z 27.08). Pola i opis na plus (dwumasa+sprzęgło 01.2023), ale Carfax i autoDNA zgodnie mówią „uszkodzony" — szkoda sprzed importu w 2018, po niej 8 lat normalnej jazdy w PL. Status 🟠 do wyjaśnienia jednym pytaniem, nie 🔴 jak Nowa Karczma (tam świeży import) — [raport](raporty-cep/gliwice-passat-b7-2012-SG4431U.pdf).
+
 ### [18.09.2026] B5.5 od mechanika: płyn wspomagania + cały płyn chłodniczy wymienione
 
 Mechanik wymienił płyn wspomagania i przepłukał układ (bez wymiany pompy) oraz **cały płyn chłodniczy**. Werdykt: „jest OK". Od teraz świeży płyn = punkt odniesienia: czy ubywa, czy ciemnieje. Argument „nie grzeje się = nie ma spalin" wyklucza tylko rozwiniętą nieszczelność, nie małą — [stan B5.5](auta/passat-b5.5/stan.md).

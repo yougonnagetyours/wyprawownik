@@ -14,6 +14,7 @@ Np. `n1-nowa-karczma-passat-b6-2009-DZG88936.pdf`. Oznaczenie (N1, S1, M2…) zg
 
 | Plik | Auto | Data raportu | Werdykt |
 |---|---|---|---|
+| [`gliwice-passat-b7-2012-SG4431U.pdf`](gliwice-passat-b7-2012-SG4431U.pdf) | **Gliwice** — Passat B7 kombi 2012, 245 259 km (SKP 10.2025), 26 000 zł · [Otomoto](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IdND8.html) | 23.09.2026 | 🟠 **„Uszkodzony" w Carfax I autoDNA** — ale import z 2018, 8 lat w PL, 1 właściciel, SKP co roku pozytywne. W DE 3 odczyty 164 510 km (X.2017–V.2018) = auto stało ~7 mies. przed importem; pierwsze SKP w PL negatywne, dzień później OK. ⚠️ SKP 10.09.2018 pokazał **164 445 — 65 km mniej** niż ostatni odczyt z DE (bazy nie flagują). OC do 11.09.2027, badanie do 28.10.2026 |
 | [`n2-nysa-passat-b7-2014-ONY64249.pdf`](n2-nysa-passat-b7-2014-ONY64249.pdf) | **N2** — Passat B7 kombi 2014, 278 885 km, 29 900 zł | 27.08.2026 | 🟢 **CZYSTY** — wszystkie ryzyka „nie odnotowano" w Carfax **i** autoDNA, **8 odczytów licznika z Czech bez cofnięcia**, dowód rejestracyjny. ⚠️ badanie do 01.09.2026, OC do 03.09.2026, auto stoi od roku |
 | [`n1-nowa-karczma-passat-b6-2009-DZG88936.pdf`](n1-nowa-karczma-passat-b6-2009-DZG88936.pdf) | **N1** — Passat B6 kombi 2009, 208 335 km, 15 900 zł | 25.08.2026 | 🔴 **ODPADA** — „Uszkodzony" odnotowany w Carfax **i** autoDNA, import zarejestrowany w Polsce 14.05.2026, pozwolenie czasowe, zabierak 77 mm. Pełna analiza: [`../zakup-passata-b7.md`](../zakup-passata-b7.md) |
 
