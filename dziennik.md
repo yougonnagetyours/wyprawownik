@@ -9,6 +9,10 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Wrzesień 2026
 
+### [24.09.2026] Skan Europa: B5 FL 1.9 TDI 4motion kombi manual
+
+Michał poprosił o skan całej Europy (AutoScout24, mobile.de, Kleinanzeigen, willhaben, bazos CZ/SK, OLX). DE+AT mają ~40 aut spełniających kryteria, PL dziś zero; przebiegi te same (260–330 tys.), ale za granicą są auta z opisaną historią, 1 500–4 000 €. Tor B5 nadal w archiwum, bo to był research, nie decyzja o zakupie — [szczegóły](archiwum/zakup-passat-b5-4motion.md).
+
 ### [23.09.2026] Nowy kandydat: Gliwice, B7 2012 — komplet kryteriów, ale „uszkodzony" w CEP
 
 [Otomoto](https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-ID6IdND8.html), 26 000 zł, wystawione 28.08 (umknęło skanowi z 27.08). Pola i opis na plus (dwumasa+sprzęgło 01.2023), ale Carfax i autoDNA zgodnie mówią „uszkodzony" — szkoda sprzed importu w 2018, po niej 8 lat normalnej jazdy w PL. Status 🟠 do wyjaśnienia jednym pytaniem, nie 🔴 jak Nowa Karczma (tam świeży import) — [raport](raporty-cep/gliwice-passat-b7-2012-SG4431U.pdf).
