@@ -227,3 +227,55 @@ Pierwsze podejście objęło tylko dwa zapytania OLX — za wąsko. Domknięcie 
 **⚠️ Czego NIE domknąłem (do zrobienia przy następnym skanie):**
 - **mobile.de** — filtr Passat Variant 4motion 1997–2005 pokazał licznik **4 ofert**, ale strona wyników uparcie zwracała „podobne pojazdy" zamiast trafień. Nie wiem, co to za 4 auta.
 - **Kleinanzeigen.de** — dwa razy timeout, nie sprawdzone w ogóle.
+
+---
+
+## Skan EUROPA 24.09.2026 (na prośbę Michała, tor nadal formalnie w archiwum)
+
+Kryteria skanu: B5 / B5.5 FL, 2000–2005, **diesel · kombi · manual · 4motion** (z pola „napęd", gdzie serwis je ma; inaczej opis + zdjęcia). Kurs NBP 186/A/NBP/2026 z 24.09.2026: **1 EUR = 4,39 zł · 1 CZK = 0,1799 zł**. Ceny w PLN = przeliczenie ceny z ogłoszenia, bez transportu i rejestracji.
+
+### Pokrycie
+
+| Serwis | Kraj | Co wyszło |
+|---|---|---|
+| AutoScout24 (cała UE, bez filtra nadwozia — pole bywa puste) | DE/AT/IT/NL/BE/ES… | 237 Passatów 2000–05 → 116 nie-benzyn otwartych → 19 z 4x4 → **4 kombi** (reszta sedany, jeden „4Motion" to Golf) |
+| mobile.de (`dt=ALL_WHEEL`) | DE | 14 aut 4x4 → 1.9 TDI kombi manual: 4 (duplikaty z Kleinanzeigen) |
+| Kleinanzeigen (`passat-4motion` + EZ 2000–05) | DE | 125 ogłoszeń → **50 kombi diesel manual** (1.9 TDI i V6) |
+| willhaben (pole `WHEEL_DRIVE=Allrad`) | AT | 44 z Allrad → **28 kombi manual** |
+| bazos.cz / bazos.sk | CZ / SK | 274 + 228 wyników „passat 4motion" → ~10 całych aut B5.5, reszta części |
+| OLX (pole napęd) | PL | 24 → nic nowego spełniającego (Ząbkowice = 2.8 benzyna, Cieszyn i Biały Dunajec = sedany) |
+| ❌ sauto.cz | CZ | ściana „zgoda albo płać" — nie klikałem zgody, pominięte |
+
+### Krótka lista — komplet kryteriów, nie wrak (od najciekawszego pod wyprawy)
+
+| # | Auto | Rok | Przebieg | Cena | Co wiadomo |
+|---|---|---|---|---|---|
+| 1 | **[Tanna (DE, Turyngia)](https://www.kleinanzeigen.de/s-anzeige/vw-passat-3bg-1-9tdi-4-motion-variant-tuev-07-27/3519212796-216-4232)** — srebrny, 131 KM | 05/2005 | 274 518 | 3 750 € VB (≈16 460 zł) | **Przygotowany i sprawdzony na wyprawie (Sahara, Alpy)**: podniesiony, osłony stalowe silnika/skrzyni, oleje we wszystkich mostach + skrzyni rozdzielczej, rozrząd+pompa, rozrusznik+alternator, wahacze, EGR. TÜV 07/27. **Wady wypisane przez sprzedającego:** 4 amortyzatory do TÜV, klima nie działa, grzanie tylnej szyby, błąd regulacji doładowania na zimnym |
+| 2 | **[Rathenow (DE, Brandenburgia)](https://www.kleinanzeigen.de/s-anzeige/vw-passat-3bg-4motion-facelift-highline/3512751491-216-7819)** — srebrny, Highline FL, 131 KM, 6-bieg | 2003 | 296 747 | 3 800 € (≈16 680 zł) | TÜV 06.2026 **bez usterek**, hak. Wał — środkowy przegub zrobiony, półosie przód wymieni przed sprzedażą (drgania 30–80). ⚠️ obniżony / sportowe zawieszenie — pod wyprawę do cofnięcia |
+| 3 | **[Walchsee (AT, Tyrol)](https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1-9-pdtdi-4motion-tausch-auch-moeglich-2128666900/)** — czarny, 131 KM | 01/2003 | 263 000 | 5 600 € (≈24 580 zł) | Prywatny. Nowe: kompresor klimy, hamulce przód z zaciskami. Wada: szyba tył lewa. Drogi jak na rynek |
+| 4 | **[Eibenstock (DE, Saksonia)](https://www.kleinanzeigen.de/s-anzeige/passat-3bg-1-9-tdi-4-motion/3502934264-216-3982)** — srebrny, 131 KM | 09/2002 | 276 000 | 3 500 € VB (≈15 370 zł) | Rozrząd przy 240 tys. **razem z uszczelką pod głowicą** i pompą, intercooler, hamulce, konserwacja podwozia. ⚠️ obniżony 35 mm, felgi 18" |
+| 5 | **[Žďár nad Sázavou (CZ)](https://auto.bazos.cz/inzerat/223437449/vw-passat-b55-4motion.php)** — kombi (ze zdjęć) | 2005 | 326 000 | 55 000 Kč (≈9 890 zł) | Z Niemiec, **pełna książka serwisowa**, nowe STK, podwozie zabezpieczone. Najtańszy z historią |
+| 6 | [Villach (AT)](https://www.autoscout24.com/offers/volkswagen-passat-1-9-tdi-4motion-highline-diesel-cat_ma74mo2089-fcc7e1ac-3df6-42ff-b5b1-61ee0b2cf43e) — niebieski, Highline, 131 KM | 03/2003 | 330 000 | 4 000 € (≈17 560 zł) | Sprzęgło nowe + **przeróbka dwumasy na jednomasę** 15 tys. km temu, hamulce. Niemieckie papiery. Rdza na błotniku |
+| 7 | [Rho / Mediolan (IT)](https://www.autoscout24.com/offers/volkswagen-passat-1-9-tdi-4motion-family-diesel-cat_ma74mo2089-cb154b86-90b2-430d-bd27-6270b2c76c75) — kombi (ze zdjęć), 131 KM | 09/2005 | 265 780 | 2 500 € (≈10 980 zł) | Rozrząd + pasek osprzętu + olej i filtry, **faktura i książka serwisowa**. Opis jednozdaniowy |
+| 8 | [Como (IT, komis)](https://www.autoscout24.com/offers/volkswagen-passat-passat-1-9-tdi-130cv-4motion-climatronic-cerchi-diesel-silver-cat_ma74mo2089-94885682-1e18-45a5-9805-b93a7b8f360a) — srebrny, 131 KM, 6-bieg | 11/2001 | **232 000** | 1 500 € (≈6 590 zł) | Najniższy przebieg w puli 1.9 TDI kombi. Komis, „sprzedawany w stanie jak jest". Cena podejrzanie niska |
+| 9 | [Molln (AT)](https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-pickerl-9-27-1-9tdi-4-motion-allrad-4x4-quattro-2042033073/) — zielony, **115 KM**, 6-bieg | **05/2000** | **178 000** | 5 500 € (≈24 150 zł) | Pickerl 09/27, xenon, hak, rozrząd 2024, „bez rdzy". ⚠️ **05/2000 = najpewniej B5 PRZED liftem** — poza kryterium FL |
+| 10 | [Ludwigsburg (DE)](https://suchen.mobile.de/fahrzeuge/details.html?id=453961909) — 131 KM | 04/2001 | 303 300 | 1 800 € VB (≈7 900 zł) | Garażowany, nowe wspomaganie, DPF doposażony. TÜV 09/2026 (kończy się). Rdza, wgniecenia |
+
+### Odrzucone (z linkiem, dlaczego)
+
+- [Čadca (SK)](https://auto.bazos.sk/inzerat/195452318/vw-passat-b55.php) — 1.9 TDI AVF kombi, 286 tys., 2 000 € — **biały**. ~60 km od BB, jedyny tak blisko
+- Weißenbach am Lech (AT) — **link do odzyskania** (willhaben, szukaj „VW Passat 3 BG" 2003) · 2003, 232 tys., 1 600 € — stoi 1,5 roku, sprzęgło + hamulce + rdza
+- [Leinfelden/Stuttgart (DE)](https://www.kleinanzeigen.de/s-anzeige/passat-1-9-tdi-4motion-allrad/3517980748-216-8895) — 2003, 215 tys., 1 150 € — progi i tylna oś przegnite, na części
+- [Riesa (DE)](https://www.kleinanzeigen.de/s-anzeige/vw-passat-3bg-1-9-tdi-4motion/3482386761-216-4063) — 2001, 286 tys., 7 000 € — tuning (gwint, BBS 18", chip), nie auto na wyprawy
+- [Kirchberg ob der Donau (AT)](https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-3bg-4motion-1032230057/) — 2003, 304 tys., 2 800 € — rdza „odpowiednia do wieku", bez przeglądu
+- [Tadten (AT)](https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1-9tdi-4motion-1879040455/) — 2005, 327 tys., 2 800 € — nowy tylny most i turbo, ale lakier zjechany; zapas, jeśli top 5 padnie
+- [Friedeburg (DE, handlarz)](https://suchen.mobile.de/fahrzeuge/details.html?id=428904494) — 2002, 300 tys., 2 999 € — HU wygasło 05/2025, „preferowany eksport"
+- Sedany z niskim przebiegiem — **nie istnieją wg kryteriów**: [Marchtrenk AT 95 tys. 9 999 €](https://www.willhaben.at/iad/gebrauchtwagen/auto/vw-gebrauchtwagen/passat?YEAR_MODEL_FROM=2000&YEAR_MODEL_TO=2005&ENGINE/FUEL=100003&WHEEL_DRIVE=2) (link do listingu, nie do oferty), [Kassel DE 172 tys. 7 680 €](https://suchen.mobile.de/fahrzeuge/details.html?id=461899749)
+
+### Wnioski
+
+1. **Europa jest ~10× głębsza niż Polska.** W PL po polu napędu nie ma dziś ani jednego B5 FL 1.9 TDI kombi manual 4motion w stanie do jazdy; w DE+AT jest ich ~40.
+2. **Przebiegi te same: 260–330 tys.** Poniżej 250 tys. są tylko Como (komis, podejrzanie tanio) i Molln (przed liftem, drogo). Wniosek z 10.08 („ładnych B5.5 4motion nie ma") trzyma się też w Europie — różnica jest taka, że za granicą są auta **z opisaną historią**, a w PL nie.
+3. **Ceny: 1 500–4 000 € za sensowne egzemplarze**, Austria drożej (5,5 tys. €). Do ceny dochodzi dojazd, transport/powrót na kołach, akcyza i rejestracja w PL — **nie liczone**.
+4. **Najciekawszy pod Wasz profil: Tanna** — jedyne auto już raz zrobione pod wyprawę i przejechane przez Saharę; wady wypisane uczciwie. **Najbezpieczniejszy papierowo: Rathenow** (świeży TÜV bez usterek). **Najtańszy z historią: Žďár** (≈9,9 tys. zł, książka z DE, blisko granicy).
+5. Uwaga praktyczna: z DE/AT auto wraca na kołach tylko z tablicami wywozowymi (Ausfuhrkennzeichen) albo na lawecie — **do sprawdzenia przed wyjazdem**, nie liczyłem.
