@@ -55,6 +55,19 @@ Opet, Petrol Ofisi, Shell, BP, Total.
 
 Niezależnie od auta: zapasowy filtr paliwa (+ wymiana po powrocie), tankowanie na sieciówkach, unikać przygodnych pomp, w górach bak pełniejszy.
 
+## Czy do Gruzji „tylko stary diesel"? — relacje podróżników (research 24.09.2026)
+
+**Nie.** Mit „tylko siermiężny silnik" dotyczy **Azji Centralnej (Pamir, Tadżykistan, Iran) i aut z AdBlue**, nie Gruzji/Turcji.
+
+- **Gruzja od 01.01.2024 nie rejestruje aut poniżej Euro 5** (import aut sprzed 2013 zablokowany) — lokalna flota idzie w stronę nowoczesnych diesli, a paliwo musi to obsłużyć. Branża importerów zapowiadała ON w standardzie Euro 5 od 2023 (artykułu nie dało się otworzyć — 403).
+- **Caravanistan (Azja Centralna):** ostrzeżenia typu „diesel z AdBlue jest za nowoczesny na tamtejszą ropę" (2018) — ale **w wątkach brak konkretnej udokumentowanej awarii**. Defender Euro 6 przejechał Azję Centralną dwa razy (2015, 2018) z dodatkiem do paliwa, bez awarii, tylko spadek mocy >4300 m. Inny kamperowiec z Euro 6 rozważał wynajem auta na miejscu zamiast ryzyka.
+- **Expedition Portal:** realne przypadki złej ropy z Tunezji (Sahara — 4 nowe wtryski), Kolumbii (biodiesel, dymienie, filtr co 2 000 km). Konsensus 2018: do krajów bez ULSD i AdBlue — auta sprzed 2006. **To rada na Afrykę/Amerykę Płd./Azję Centralną, nie Kaukaz.**
+- Land Cruiser 120 (D-4D) też ma **common rail** — różni się od B7 brakiem DPF, nie „siermiężnością" wtrysku.
+
+**Jak się zabezpieczają ludzie jadący dalej:** zapasowe filtry paliwa (wymiana co 2–3 tys. km w podejrzanych rejonach), odstojnik/separator wody, lejek filtrujący (Mr Funnel) do kanistrów, dodatek do ON / czyścik CR, tankowanie na dużych stacjach z ruchem ciężarówek, unikanie tankowania po ulewie na małych stacjach (woda w zbiornikach), zamykany korek wlewu.
+
+Źródła: [Caravanistan — Diesel quality in Central Asia](https://caravanistan.com/forum/viewtopic.php?t=7405) · [Caravanistan — Pamir](https://caravanistan.com/forum/viewtopic.php?t=5532) · [Expedition Portal — modern diesel in developing countries](https://forum.expeditionportal.com/threads/modern-diesel-for-overlanding-in-developing-countries-post-your-solutions.135247/page-4) · [Auta sprzed 2013 blokowane w Gruzji od 2024](https://sakartvelosambebi.ge/en/news/cars-older-than-2013-to-be-restricted-in-georgia-starting-2024) · [bm.ge — ON Euro 5 w 2023](https://bm.ge/en/news/transition-of-diesel-fuel-to-euro-5-standard-is-planned-in-2023---union-of-oil-products-importers/102286)
+
 ## Źródła
 - dw-auto.ge — Fuel Prices and Gas Stations in Georgia 2025
 - og.ge — Petrol & Fuel Prices in Georgia 2026 Guide
