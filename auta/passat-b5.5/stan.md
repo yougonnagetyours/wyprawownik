@@ -68,6 +68,12 @@
 **🧪 Protokół pomiaru poziomu (od 21.09):** rano na zimnym, **z ZAKRĘCONYM korkiem** (odkręcenie samo podnosi poziom — podciśnienie w zbiorniczku, osobny objaw), latarką przez ściankę, taśma + zdjęcie z tego samego miejsca. Dolewka tylko pod MIN → nowa taśma + zapis ile. Raz w tygodniu osobna próba z odkręceniem: czy nadal „pszt".
 **🧪 Kolor:** ocena tylko z kropli na białym ręczniku (przez ściankę zbiorniczka płyn zawsze wygląda ciemniej) + **próbka świeżego płynu do słoiczka z datą** jako wzorzec do porównania za miesiąc. **Rdzawy rant na szyjce = osad po starym płynie — zmyć 21.09, żeby mieć czysty start.** ⚠️ Gdyby osad był tłusty/majonezowy zamiast suchej rdzy → olej w płynie, inna sprawa.
 
+**📉 Poziom — wpisy:**
+| Data | Odczyt | Uwagi |
+|---|---|---|
+| 23.09 (śr) | ~połowa zbiorniczka | auto stało **tyłem** |
+| 25.09 (pt) | trochę ponad MIN | auto stało **przodem**, ~30 km po mieście między odczytami. ⚠️ Niepotwierdzone — inna orientacja na brukowanym parkingu, możliwe przechylenie. Potwierdzenie 26.09 rano na zimnym |
+
 ⚠️ Temperatura już nic więcej nie powie — dalsza jazda nie dokłada informacji. Zostają: **poziom** (tydzień) i **test CO2** (po dostawie).
 
 ### 📅 TERMIN UMÓWIONY: 17.09.2026, po 9:00 — auto zostaje na cały dzień (ustalone 07.09.2026)
