@@ -9,6 +9,10 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ## Wrzesień 2026
 
+### [28.09.2026] B5.5: test CO2 negatywny
+
+Michał zrobił test testerem CO2 — płyn **niebieski przez cały test**, zero spalin w układzie chłodzenia. Jeden z warunków wyjazdu na Bałkany odhaczony; zostaje obserwacja poziomu płynu — [stan B5.5](auta/passat-b5.5/stan.md).
+
 ### [24.09.2026] Skan Europa: B5 FL 1.9 TDI 4motion kombi manual
 
 Michał poprosił o skan całej Europy (AutoScout24, mobile.de, Kleinanzeigen, willhaben, bazos CZ/SK, OLX). DE+AT mają ~40 aut spełniających kryteria, PL dziś zero; przebiegi te same (260–330 tys.), ale za granicą są auta z opisaną historią, 1 500–4 000 €. Tor B5 nadal w archiwum, bo to był research, nie decyzja o zakupie — [szczegóły](archiwum/zakup-passat-b5-4motion.md).
