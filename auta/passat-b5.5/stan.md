@@ -117,7 +117,7 @@
 1. **Praktyczny:** szyjka zbiorniczka ma **~6 cm średnicy** — zwykły balonik nie wchodzi, a mankiet rękawiczki na 6 cm to prowizorka, która sama daje fałszywy wynik
 2. **Merytoryczny (ważniejszy):** balonik pokazuje, że **coś** się gromadzi, ale nie mówi **co**. Tester CO2 odpowiada wprost: czy w płynie są spaliny
 
-→ **Zamiast balonika: tester CO2 (28 zł) + nowy korek (30 zł).**
+→ **Zamiast balonika: tester CO2 (28 zł) + nowy korek (22–68 zł).**
 
 **🔧 PROCEDURA NAPRAWY, GDY „LEKKO PUSZCZA" — nie ma wersji taniej:**
 
@@ -134,11 +134,11 @@ Przy mikroprzedmuchu są więc **trzy** drogi, nie jedna:
 **🛑 KOREK ZBIORNICZKA — poważny kandydat, nie odfajkowanie (08.09.2026):**
 
 Gumowa uszczelka w korku **twardnieje i przykleja się do szyjki**. Odrywanie jej robi „pszt" **bez żadnego ciśnienia pod spodem** — a test gumy z 08.09 pokazał właśnie, że ciśnienia nie ma, a syk mimo to jest. To się składa w całość.
-**Korek ma ~22 lata, nikt go nigdy nie wymienił, kosztuje ~30 zł i wisi od maja.** Najtańsza pozycja na całej liście.
+**Korek ma ~22 lata, nikt go nigdy nie wymienił, kosztuje 22–68 zł (zamiennik–oryginał) i wisi od maja.** Najtańsza pozycja na całej liście.
 ⚠️ Kupując: sprawdzić wartość wybitą na wierzchu obecnego (zwykle **1,4 bar**) i wziąć z tym samym oznaczeniem.
 
 **💸 PLAN ZA ~60 ZŁ (zamiast 3 000):**
-1. **Nowy korek zbiorniczka — numer oryginału `1J0121321B`** (sprawdzone 10.09.2026; pasuje do B5.5 3B3 2000–2005, ten sam co w Golfie IV / Borze / Audi, więc tani i dostępny). [Rex Auto — oryginał](https://skoda-rex-auto.pl/pl/p/KOREK-ZBIORNIKA-WYROWNAWCZEGO-1J0121321B-ORYGINALNY/2813) **55,61 zł** (sprawdzone 18.09.2026, promo do 30.09; wcześniejsze ~30 zł było szacunkiem) · [Allegro](https://allegro.pl/listing?string=korek+zbiorniczka+wyr%C3%B3wnawczego+vw+passat+b5+org) · [Deler](https://deler.pl/c/uklad-chlodzenia/korki-zbiornika-wyrownawczego/lp-vw/passat/passat-v). ⚠️ **Najpierw sprawdzić wartość wybitą na obecnym korku (powinno być 1,4 bar) i kupić z tą samą** — najtańszy podejrzany, nietknięty od maja
+1. **Nowy korek zbiorniczka — numer oryginału `1J0121321B`** (sprawdzone 10.09.2026; pasuje do B5.5 3B3 2000–2005, ten sam co w Golfie IV / Borze / Audi, więc tani i dostępny). [Rex Auto — oryginał](https://skoda-rex-auto.pl/pl/p/KOREK-ZBIORNIKA-WYROWNAWCZEGO-1J0121321B-ORYGINALNY/2813) **68,40 zł** (sprawdzone 28.09.2026 przez Michała, promo do 30.09, regularnie 72 zł). **Zamiennik: Febi 14700 — 21,90 zł wg wyszukiwarki ([superparts](https://superparts.pl/korek-zbiorniczka-wyrownawczego-febi-bilstein-14700-1j0121321b-audi-porsche-vw/110862), 28.09.2026, strony nie dało się otworzyć — do potwierdzenia).** Inne zamienniki: Febi 40722, Meyle 100 121 0049, Topran 107 532, Vernet RC0011 ([autoPlus](https://auto-plus.pl/16/1J0121321B/VAG)) · [Allegro](https://allegro.pl/listing?string=korek+zbiorniczka+wyr%C3%B3wnawczego+vw+passat+b5+org) · [Deler](https://deler.pl/c/uklad-chlodzenia/korki-zbiornika-wyrownawczego/lp-vw/passat/passat-v). ⚠️ **Najpierw sprawdzić wartość wybitą na obecnym korku (powinno być 1,4 bar) i kupić z tą samą** — najtańszy podejrzany, nietknięty od maja
 2. **Tester CO2** ~28 zł — konkretna odpowiedź o spaliny
 3. **17.09 u mechanika:** wymiana płynu + przepłukanie wspomagania. Tyle
 
@@ -190,7 +190,7 @@ Argumenty taty: płyn nie ubywa · syczenie bierze się „spod ciśnienia" · p
 **Co się z tego broni:** porównanie z Kubą jest trafne i zgodne z obserwacją z 28.06. **Rozwiniętą uszczelkę / pękniętą głowicę można uznać za mało prawdopodobną.** To nie jest ten scenariusz.
 **Czego nie tłumaczy:** ciśnienia narastającego na ZIMNYM aucie po ~18 h postoju. „Spod ciśnienia" to opis objawu, nie przyczyna. Stary płyn nie produkuje gazu.
 **Zastrzeżenie do mechanika (słuszne):** mechanik ma interes w tym, żeby była robota — ocena „mocno spalinowy" na oko jest tyle samo warta co ocena „różowy" na oko. **Ale** ten sam mechanik powiedział też „skoro w upały się nie grzał, to raczej OK" i kazał odłożyć drogie rzeczy do czasu werdyktu miernikiem — czyli argumentował **przeciw** robocie. Ten konkretny konflikt interesów się nie potwierdza.
-**Wniosek:** spór zawęził się z „uszczelka czy nie" do **„mała/wczesna nieszczelność vs chłodnica EGR vs korek"**. Różnica w kosztach: **SZACUNEK** ~3 000 vs ~600–1 500 vs ~30 zł (rzędy wielkości, nie wyceny). Nadal do rozstrzygnięcia miernikiem.
+**Wniosek:** spór zawęził się z „uszczelka czy nie" do **„mała/wczesna nieszczelność vs chłodnica EGR vs korek"**. Różnica w kosztach: **SZACUNEK** ~3 000 vs ~600–1 500 vs 22–68 zł (rzędy wielkości, nie wyceny). Nadal do rozstrzygnięcia miernikiem.
 
 **✅ OLEJ SPRAWDZONY 01.09.2026 — CZYSTO.** Bagnet i spód korka wlewu: normalny czarny olej, **zero emulsji, zero „kawy z mlekiem"**, poziom bez uwag. Co to wyklucza: przedostawanie się płynu do oleju, czyli **pęknięty blok i nieszczelność uszczelki w stronę kanału olejowego — dwa najdroższe scenariusze z tabeli (5,5–9 tys.) schodzą ze stołu.** Czego NIE wyklucza: przedmuchu spalin do płynu (uszczelka w stronę kanału chłodzenia albo chłodnica EGR) — te dwa nie mieszają oleju z płynem i wyglądałyby dokładnie tak. Punkt 4 z pakietu diagnostycznego odhaczony za 0 zł.
 
@@ -209,7 +209,7 @@ Michał ścisnął górną gumę przed odkręceniem korka i zaraz po — **to sa
 
 „Pszt" przy odkręcaniu korka brzmi tak samo, gdy powietrze **wychodzi** i gdy **wchodzi** — a to dwie zupełnie różne diagnozy:
 - **wychodzi (nadciśnienie)** → w zimnym, stojącym układzie coś wytwarza gaz → spaliny: uszczelka albo chłodnica EGR
-- **wchodzi (podciśnienie)** → zawór podciśnieniowy w korku nie oddaje płynu ze zbiorniczka przy stygnięciu → **korek za ~30 zł, temat zamknięty**
+- **wchodzi (podciśnienie)** → zawór podciśnieniowy w korku nie oddaje płynu ze zbiorniczka przy stygnięciu → **nowy korek (22–68 zł), temat zamknięty**
 
 Trzy sposoby, od najpewniejszego. Wszystkie **na ZIMNYM aucie**, po nocy postoju.
 
@@ -228,7 +228,7 @@ Trzy sposoby, od najpewniejszego. Wszystkie **na ZIMNYM aucie**, po nocy postoju
 |---|---|
 | Daje się ścisnąć przed i po, **bez różnicy** | Zdrowo — na zimno nie ma ciśnienia. **Ten wynik chcemy** |
 | **Twarda przed, wyraźnie mięknie po** odkręceniu | Nadciśnienie na zimno → gaz w układzie. **Zły wynik → mechanik** |
-| **Zapadnięta/wklęsła przed**, prostuje się po odkręceniu | Podciśnienie → zawór podciśnieniowy w korku. **Korek ~30 zł** |
+| **Zapadnięta/wklęsła przed**, prostuje się po odkręceniu | Podciśnienie → zawór podciśnieniowy w korku. **Korek 22–68 zł** |
 | Twarda przed i po, bez zmiany | Guma zesztywniała ze starości (424 tys. km). Nierozstrzygające → zostaje balonik (C) |
 
 *Zastrzeżenie:* na zimnym silniku **termostat jest zamknięty**, więc obieg chłodnicy bywa częściowo odcięty od bloku. Przy wyniku z ostatniego wiersza **powtórz próbę na grubym wężu przy samym silniku**, bliżej zbiorniczka. Ciśnienie w połączonym układzie jest wszędzie równe, więc każdy gruby wąż po stronie płynu się nadaje.
@@ -290,7 +290,7 @@ Osobna sprawa: **test ciśnienia (1,4 bar) i tak warto zrobić na zimnym**, bo t
 **Co to może być (ranking):**
 1. ★★★ **Uszczelka pod głowicą / pęknięta głowica** — klasyczny objaw. Spaliny przedostają się do układu chłodzenia, ciśnienie narasta nawet przy wyłączonym silniku. W 1.9 TDI (AJM/AVF/BLB/itp. — sprawdzić kod silnika) to znana bolączka przy ~400 tys. km
 2. ★★ **Nieszczelność wewnątrz układu** (np. EGR z chłodnicą EGR) — podobny mechanizm, ale rzadziej
-3. ★ **Wadliwy korek zbiorniczka** — trzyma za duże ciśnienie. Najmniej prawdopodobne biorąc pod uwagę wzburzenie + podnoszenie poziomu, ale tani test (nowy korek ~30 zł)
+3. ★ **Wadliwy korek zbiorniczka** — trzyma za duże ciśnienie. Najmniej prawdopodobne biorąc pod uwagę wzburzenie + podnoszenie poziomu, ale tani test (nowy korek 22–68 zł)
 
 **⚠️ WAŻNE: sam CO2 nie wystarczy.** Test ma fałszywe negatywy (brat Michała robił go na silniku z pękniętą głowicą — nie wykrył). Powody: mała/okresowa nieszczelność, źle zrobiony test (zimny silnik, nieprzegazowany), spaliny rozpuszczone w płynie zamiast w fazie gazowej. **CO2 pozytywny = pewne; CO2 negatywny = NIE wyklucza uszczelki.** Stąd plan to PAKIET diagnostyczny, nie pojedynczy test.
 
@@ -301,7 +301,7 @@ Osobna sprawa: **test ciśnienia (1,4 bar) i tak warto zrobić na zimnym**, bo t
 3. **Test sprężania / leak-down** — wtłaczanie powietrza do cylindra przy zaworach zamkniętych, słuchanie gdzie ucieka. Jak słychać w zbiorniczku/chłodnicy → uszczelka 100%. ~100-150 zł
 4. **Sprawdzenie oleju** — emulsja "kawa z mlekiem" pod korkiem wlewu / na bagnecie. Emulsja = woda w oleju. **0 zł, do zrobienia samemu od razu.**
 5. **Obserwacja wydechu i ubytków płynu** — biały słodkawy dym po rozgrzaniu, ubytek płynu między uruchomieniami. **0 zł, dni 2-3 obserwacji.**
-6. Wymiana korka zbiorniczka (~30 zł) — eliminacja najtańszej hipotezy
+6. Wymiana korka zbiorniczka (22–68 zł) — eliminacja najtańszej hipotezy
 
 **🔧 CO DALEJ, JEŚLI CO2 WYJDZIE POZYTYWNY (plan dla mechanika, 05.08.2026)**
 
@@ -409,7 +409,7 @@ Opis Michała mówił „zwłaszcza po deszczu” → przemawia za odpływami. *
 - **Planować na przełom zimy i wiosny 2027** — to konkretna data, nie „kiedyś"
 - **Jeśli** głowica i tak schodzi → rozrząd przy tej samej robociźnie, realna oszczędność, bo termin nadchodzi. **Tylko w tę stronę** | odłożone do ~II/2027 |
 | **Werdykt uszczelki** | Tester CO2 zielony → **NIE jechać bez naprawy.** Trasa to dokładnie to obciążenie, które z małego przedmuchu robi duży: setki km autostrady, załadowane auto, podjazdy, 35°C. Jazda po mieście tego nie robi | 28 zł (test) |
-| **Nowy korek zbiorniczka 1,4 bar** | 22 lata, nigdy niewymieniany | ~30 zł |
+| **Nowy korek zbiorniczka 1,4 bar** | 22 lata, nigdy niewymieniany | 22–68 zł (zamiennik–oryginał, 28.09) |
 | **Płyn chłodniczy G12+/G13** | Dawno niewymieniany; po wymianie **obserwacja, czy świeży ciemnieje** | ~150–250 z robocizną |
 | **Opony — wiek i stan, koło zapasowe** | Nie sprawdzone od żadnej sesji. Guma starsza niż ~6 lat na trasie w upale to osobne ryzyko | do sprawdzenia |
 | **Hamulce: klocki, tarcze, płyn** | Płyn hamulcowy wymienia się co 2 lata niezależnie od przebiegu; zjazdy z przełęczy to najgorszy moment na odkrycie, że jest stary | do wyceny |
