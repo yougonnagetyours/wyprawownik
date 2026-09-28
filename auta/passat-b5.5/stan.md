@@ -52,7 +52,8 @@
 - **Wspomaganie:** płyn wymieniony, układ przepłukany. Pompa została. Mechanik: „jest OK"
 - **Chłodzenie:** wymieniony **cały płyn**. Od teraz obserwacja: poziom na ZIMNYM (znacznik na zbiorniczku), kolor (ciemnieje = spaliny albo syf z bloku), wycie wspomagania, wycieki
 - ⚠️ Pierwsze dni po wymianie układ się odpowietrza — lekki spadek poziomu i „pszt" przez parę dni to jeszcze nie dowód
-- ❓ Do dopytania: jaki płyn chłodniczy (G12+/G13?), czy robił leak-down, czy wymienił korek, czy auto ma Webasto
+- ✅ Płyn w układzie **różowy** (potwierdził Michał 25.09). **Do dolewek: G13 — na etykiecie `VW TL 774 J`** (albo G12++ `TL 774 G`), gotowy do użycia, 1 l. Dolewka tylko pod MIN
+- ❓ Do dopytania: czy robił leak-down, czy wymienił korek, czy auto ma Webasto
 
 ### 📈 Dziennik obserwacji po wymianie płynu (od 18.09.2026)
 
@@ -426,7 +427,7 @@ Opis Michała mówił „zwłaszcza po deszczu” → przemawia za odpływami. *
 | **Alternator, akumulator, łożyska** | Przy takim przebiegu — przegląd „co jeszcze", już zapisany jako „diagnostyka ogólna" |
 
 **🟢 NA MIEJSCU / DO ZABRANIA**
-- Zapas płynu chłodniczego (5 l tego samego typu), litr oleju, płyn do spryskiwaczy
+- Zapas płynu chłodniczego (G13 `VW TL 774 J`, gotowy do użycia), litr oleju, płyn do spryskiwaczy
 - Klucze, opaski, taśma, zapasowe żarówki (już są)
 - ⚠️ Jeśli uszczelka zostaje „na obserwacji" — **codzienna kontrola poziomu płynu na zimnym** i wzrokowa temperatury na desce
 
