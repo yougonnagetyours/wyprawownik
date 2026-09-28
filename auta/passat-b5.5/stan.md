@@ -75,7 +75,7 @@
 | 23.09 (śr) | ~połowa zbiorniczka | auto stało **tyłem** |
 | 25.09 (pt) | trochę ponad MIN | auto stało **przodem**, ~30 km po mieście między odczytami. ⚠️ Niepotwierdzone — inna orientacja na brukowanym parkingu, możliwe przechylenie. Potwierdzenie 26.09 rano na zimnym |
 
-✅ **TEST CO2 — 28.09.2026: NEGATYWNY.** Płyn w testerze **niebieski przez cały test** (zielony = spaliny w dieslu). Brak spalin w układzie chłodzenia na moment testu. ⚠️ Negatywny nie wyklucza w 100% małej/okresowej nieszczelności — ale razem z temperaturą (zero ruchu) to trzeci mocny argument przeciw uszczelce. Tester wielokrotnego użytku → powtórka za ~miesiąc.
+✅ **TEST CO2 — 28.09.2026: NEGATYWNY.** Płyn w testerze **niebieski przez cały test** (zielony = spaliny w dieslu). **Zrobiony zgodnie z procedurą: silnik rozgrzany do temperatury roboczej, na podwyższonych obrotach** (potwierdził Michał). Brak spalin w układzie chłodzenia na moment testu. ⚠️ Negatywny nie wyklucza w 100% małej/okresowej nieszczelności — ale razem z temperaturą (zero ruchu) to trzeci mocny argument przeciw uszczelce. Tester wielokrotnego użytku → powtórka za ~miesiąc.
 
 ⚠️ Temperatura już nic więcej nie powie — dalsza jazda nie dokłada informacji. Zostaje: **poziom** (taśma, na zimnym).
 
