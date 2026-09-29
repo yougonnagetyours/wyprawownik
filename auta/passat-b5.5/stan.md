@@ -465,10 +465,10 @@ Opis Michała mówił „zwłaszcza po deszczu” → przemawia za odpływami. *
 
 ## Mechanik
 
-**Wybór: kumpel mechanik** (zamiast seb's GARAGE — tamten specjalizuje się w automatach, nie czystej mechanice silnika)
+**Kumpel mechanik = Szymon** (to NIE Krywult; zamiast seb's GARAGE — tamten specjalizuje się w automatach, nie czystej mechanice silnika)
 - Kontakt: przez Messengera
 - Kontekst: ostatnio Michał miał do niego zagadać, gdy z bratem odbierali jego auto "od osi", ale kumpla nie było. Plan: napisać wiadomość na Messengerze i umówić pakiet diagnostyczny
-- (imię kumpla do uzupełnienia)
+- Imię: **Szymon** (potwierdzone 29.09.2026)
 
 **seb's GARAGE — odrzucony** (Piekarska 130, 43-300 Bielsko-Biała, tel. 535 435 834): specjalizacja automaty + elektryka, nie silnik. Zostawione jako backupowy namiar.
 
