@@ -412,7 +412,7 @@ Opis Michała mówił „zwłaszcza po deszczu” → przemawia za odpływami. *
 | **Nowy korek zbiorniczka 1,4 bar** | 22 lata, nigdy niewymieniany | 22–68 zł (zamiennik–oryginał, 28.09) |
 | **Płyn chłodniczy G12+/G13** | Dawno niewymieniany; po wymianie **obserwacja, czy świeży ciemnieje** | ~150–250 z robocizną |
 | **Opony — wiek i stan, koło zapasowe** | Nie sprawdzone od żadnej sesji. Guma starsza niż ~6 lat na trasie w upale to osobne ryzyko | do sprawdzenia |
-| **Hamulce: klocki, tarcze, płyn** | Płyn hamulcowy wymienia się co 2 lata niezależnie od przebiegu; zjazdy z przełęczy to najgorszy moment na odkrycie, że jest stary | do wyceny |
+| **Hamulce: klocki, tarcze, płyn** | Płyn hamulcowy wymienia się co 2 lata niezależnie od przebiegu; zjazdy z przełęczy to najgorszy moment na odkrycie, że jest stary. **29.09: umówione — tarcze + zaciski przód i tył** (tył zbędny → mechanik zwraca części). Tył = tarcze pełne, ręczny w zacisku (tłoczek WKRĘCAĆ, nie wciskać) | do wyceny |
 
 **🔎 Dwa darmowe sprawdzenia rozrządu (skoro wymiany nie robimy):**
 1. **❓ Czy przy pasku poszły ROLKI i POMPA WODY?** W pliku jest tylko „pasek", robiony przez chłopaka siostry dziewczyny. Sam pasek na starych rolkach = zapas mniejszy niż wynika z kilometrów, bo zatarta rolka zrywa nowy pasek. **Do ustalenia z Michałem.** Waga rośnie: jeśli szedł sam pasek, rolki mają za sobą pełne 430 tys. km i termin II/2027 warto przesunąć bliżej
