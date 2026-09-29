@@ -472,7 +472,7 @@ Opis Michała mówił „zwłaszcza po deszczu” → przemawia za odpływami. *
 
 **seb's GARAGE — odrzucony** (Piekarska 130, 43-300 Bielsko-Biała, tel. 535 435 834): specjalizacja automaty + elektryka, nie silnik. Zostawione jako backupowy namiar.
 
-**Auto Serwis Krywult** (Wyzwolenia 14B, 43-300 Bielsko-Biała, tel. 517 351 517, [dobrymechanik](https://dobrymechanik.pl/mechanicy/bielsko-biala/auto-serwis-krywult-bielsko-biala.html)): diagnostyka komputerowa, silnik, hamulce. **29.09: kandydat na EGR + klapkę + diagnostykę turbo po wymianie hamulców.**
+**Auto Serwis Krywult** (Wyzwolenia 14B, 43-300 Bielsko-Biała, tel. 517 351 517, [dobrymechanik](https://dobrymechanik.pl/mechanicy/bielsko-biala/auto-serwis-krywult-bielsko-biala.html)): diagnostyka komputerowa, silnik, hamulce. **To on robił 17–18.09: płyn chłodniczy + wspomaganie (zlanie, płukanie).** Następny krok u niego: EGR + klapka + diagnostyka turbo po wymianie hamulców.
 
 **Plan rozmowy / wiadomości:**
 > "Dzień dobry, widziałem że robicie diagnostykę. Mam Passata B5.5 1.9 TDI, podejrzewam uszczelkę pod głowicą — syczy ze zbiorniczka po nocy, płyn się wzburza. Robicie taką diagnostykę? Chodzi mi o test CO2, test ciśnienia układu chłodzenia i leak-down."
