@@ -500,6 +500,7 @@ Spytać też: ile zajmie i ile kosztuje (norma: 150-300 zł za pakiet).
 
 - 4 000 zł powinno wystarczyć **jeśli** turbo to przewody/opaski (300-800 zł) + wilgoć to uszczelka/odpływ (100-500 zł) + sterownik z szrotu (200-400 zł)
 - **Jeśli** turbo do regeneracji/wymiany → +2 000-4 000 zł i wychodzimy z budżetu
+  - **Ceny u źródła (29.09.2026):** [regeneracja-turbosprezarek.pl](https://www.regeneracja-turbosprezarek.pl/sklep/turbosprezarka-vw-passat-1-9-tdi-101-km-4541580003) — turbina 454158-0003 (Passat 1.9 TDI 101 KM): **regeneracja od 299 zł netto**, **zregenerowana na gotowo 630 zł**, gwarancja 2 lata. Robocizna wymiany niewyceniona. ⚠️ Numer z tabliczki własnej turbiny porównać przed zamówieniem. **Zapieczone łopatki (geometria) = regeneracja, nie nowa turbina**
 - Strategia: najpierw diagnoza u mechanika, dopiero potem decyzja czy lipiec realny. Plan B jeśli się nie zmieści: morze Kią rodziców LPG albo polskie morze zamiast zagranicy
 
 ## Wydatki
