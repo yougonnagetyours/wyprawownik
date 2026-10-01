@@ -1,6 +1,8 @@
 # Active State
 
-Ostatnia aktualizacja: **2026-09-28** (B5.5: test CO2 negatywny)
+Ostatnia aktualizacja: **2026-09-29** (B5.5: hamulce umówione, następnie EGR/turbo u Krywulta, felgi)
+
+Poprzednio: **2026-09-28** (B5.5: test CO2 negatywny)
 
 Poprzednio: **2026-09-23** (nowy kandydat Gliwice B7 2012 + raport CEP)
 
@@ -56,6 +58,7 @@ Poprzednio: **2026-09-01** (wszystkie auta zweryfikowane w polach — zostały 3
    **DO ZROBIENIA PRZED 17.09, w tej kolejności:** (1) ✅ **guma chłodnicy ZROBIONA 08.09 — bez różnicy przed/po, czyli na zimno ani nadciśnienia, ani podciśnienia** (osłabia i uszczelkę, i wersję mechanika o małej ilości płynu; nie wyklucza małej/okresowej nieszczelności) + ❌ **balonik ODWOŁANY** (szyjka ~6 cm, balonik nie wchodzi; i tak nie mówi CO to za gaz). **Zamiast tego: nowy korek 22–68 zł (zamiennik Febi–oryginał VW, 28.09)** (22 lata, nigdy niewymieniany, przyklejona guma tłumaczy „pszt" bez ciśnienia) **+ tester CO2 27,99 zł** ([AMD Tools](https://amdtools.pl/testery-szczelnosci-uszczelek-glowicy/tester-uszczelki-pod-glowica-co2-plyn-zestaw-test), stożek 25–55 mm; **w dieslu ZIELONY, nie żółty**); (2) **zdjęcie zbiorniczka** jako punkt odniesienia; (3) dopiero potem wymiana płynu (**G12+/G13 różowy, NIE zielony G11**). Odwrotnie się nie da — świeży płyn = zapowietrzony układ = mylące wyniki przez tygodnie.
    **🆕 Trzeci podejrzany (07.09): DOGRZEWACZ Webasto** — „podgrzewacz paliwa" z rozmowy to piecyk spalający paliwo, by grzać płyn; pęknięta ścianka = spaliny w płynie, objaw identyczny z uszczelką. **Najtańszy scenariusz z trójki** — wypiąć z obiegu. Najpierw sprawdzić, czy auto go ma (VCDS adres 18).
    **Upomnieć się 17.09:** **leak-down** (inne narzędzie niż tester CO2 — jedyne, co odróżni głowicę 3–4 tys. od chłodnicy EGR 600–1 500) i **„nie odpalaj od razu"** (auto przyjedzie ciepłe, test ciśnienia chce zimnego). [stan B5.5](auta/passat-b5.5/stan.md)
+7a. 🔴 **B5.5 — kolejka (29.09):** hamulce umówione (tarcze + zaciski przód/tył) → **zadzwonić do Krywulta (517 351 517): EGR + klapka + przewody + log doładowania** → turbo tylko jeśli dalej odcina. Felgi Audi 7x16 do dopytania sprzedawcy. [stan B5.5](auta/passat-b5.5/stan.md)
 8. 🔴 **Umawiając oględziny — prośba o NIEODPALANIE auta przed przyjazdem.** Zimnego rozruchu nie da się nadrobić później
 9. **Zmierzyć leżysko** — po kupnie: długość płaskiej podłogi po złożeniu + S z tabliczki haka. [`system-biwakowy.md`](system-biwakowy.md) sekcja 3c
 
