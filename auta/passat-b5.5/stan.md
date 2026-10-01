@@ -52,7 +52,11 @@
 - **Wspomaganie:** płyn wymieniony, układ przepłukany. Pompa została. Mechanik: „jest OK"
 - **Chłodzenie:** wymieniony **cały płyn**. Od teraz obserwacja: poziom na ZIMNYM (znacznik na zbiorniczku), kolor (ciemnieje = spaliny albo syf z bloku), wycie wspomagania, wycieki
 - ⚠️ Pierwsze dni po wymianie układ się odpowietrza — lekki spadek poziomu i „pszt" przez parę dni to jeszcze nie dowód
-- ✅ Płyn w układzie **różowy** (potwierdził Michał 25.09). **Do dolewek: G13 — na etykiecie `VW TL 774 J`** (albo G12++ `TL 774 G`), gotowy do użycia, 1 l. Dolewka tylko pod MIN
+- ✅ Płyn w układzie **różowy** (potwierdził Michał 25.09). **Do dolewek: G13 — na etykiecie `VW TL 774 J`** (albo G12++ `TL 774 G`), gotowy do użycia, 1 l. Dolewka tylko pod MIN. 🛒 **Kupione 01.10.2026: K2 Kuler G13** (sklep nie miał płynu z oznaczeniem VW). Wg [Petrostar](https://www.petrostar.pl/plyny/plyny-chlodnicze/k2/k2-kuler-g13-plyn-do-chlodnic) i [Centrum CNC](https://sklep.centrum-cnc.pl/glowna/5835-p5835-plyn-do-chlodnic-kuler-g13-rozowy-k2-5l.html) (sprawdzone 01.10.2026): różowy, gotowy −35°C, OAT, normy ASTM D 3306 / D 2570, **bez podanej aprobaty VW TL 774 J** → OK do dolewek, przy pełnej wymianie brać płyn z normą VW. ⚠️ Sprawdzić na etykiecie, że to gotowy płyn, nie koncentrat
+- 🔎 **01.10: mokre przewody pod zderzakiem, z prawej strony chłodnicy, lekko kapało** (Michał, widział „kiedyś" — ❓ kiedy, która prawa, jaki kolor cieczy). Kandydat na wyciek zewnętrzny. **Plan Michała: rano na zimnym przetrzeć przewody i opaski białą chusteczką** → kolor i zapach: różowe słodkawe = płyn chłodniczy · woda = skropliny klimy · czarne tłuste = olej / mgła z przewodów doładowania · zielonkawe tłuste = wspomaganie · niebieskie = spryskiwacze. Suche rano nie rozstrzyga → powtórzyć po jeździe albo karton na noc. Powiedzieć Krywultowi przy próbie ciśnieniowej
+- 📋 **Plan ubytku płynu (01.10):** nowy korek → gwint i kołnierz wytarte do sucha → K2 do kreski (zapisać ile weszło) → zdjęcie poziomu → tydzień obserwacji na zimnym. Poziom stoi = był korek, **próba ciśnieniowa zbędna**. Ubywa dalej = próba ciśnieniowa u Krywulta przy okazji EGR
+- 🧪 **Powtórka testu CO2 zdjęta z listy (01.10)** — test z 28.09 był zrobiony poprawnie (gorący, przegazowany silnik). Wraca tylko, jeśli próba ciśnieniowa pokaże spadek ciśnienia bez wycieku na zewnątrz
+- 🔎 **01.10: osad wokół szyjki po odkręceniu korka** (Michał) — ❓ czy to nowy osad po myciu z 21.09. **Zdjęcie 01.10 (IMG_0252):** gwint szyjki mokry, z różowym filmem płynu (płyn dociera na gwint, czyli poza uszczelnienie korka — ⚠️ zdjęcie zrobione OD RAZU po odkręceniu (Michał), więc płyn mógł kapnąć z korka → **słaba poszlaka, nie rozstrzyga**; rozstrzygnie suchy/mokry gwint pod nowym korkiem) · w rowku u podstawy szyjki ciemnobrązowy, suchy, ziarnisty brud — nie biały/różowy kryształ, nie tłusta maź · płyn w głębi ciemnoczerwony, w cienkiej warstwie różowy, bez filmu oleju. K2 Kuler potwierdzony: gotowy −35°C. Plan Michała: wyczyścić przed założeniem nowego korka i obserwować, czy wraca
 - ❓ Do dopytania: czy robił leak-down, czy wymienił korek, czy auto ma Webasto
 
 ### 📈 Dziennik obserwacji po wymianie płynu (od 18.09.2026)
@@ -74,6 +78,7 @@
 |---|---|---|
 | 23.09 (śr) | ~połowa zbiorniczka | auto stało **tyłem** |
 | 25.09 (pt) | trochę ponad MIN | auto stało **przodem**, ~30 km po mieście między odczytami. ⚠️ Niepotwierdzone — inna orientacja na brukowanym parkingu, możliwe przechylenie. Potwierdzenie 26.09 rano na zimnym |
+| 01.10 (czw) | **lekko poniżej MIN** | ❓ niepotwierdzone, czy na zimnym i jak stało auto. Do dolania G13 — **zapisać ile weszło**. ➡️ Przy telefonie do Krywulta (EGR) dopytać o **próbę ciśnieniową układu chłodzenia** |
 
 ✅ **TEST CO2 — 28.09.2026: NEGATYWNY.** Płyn w testerze **niebieski przez cały test** (zielony = spaliny w dieslu). **Zrobiony zgodnie z procedurą: silnik rozgrzany do temperatury roboczej, na podwyższonych obrotach** (potwierdził Michał). Brak spalin w układzie chłodzenia na moment testu. ⚠️ Negatywny nie wyklucza w 100% małej/okresowej nieszczelności — ale razem z temperaturą (zero ruchu) to trzeci mocny argument przeciw uszczelce. Tester wielokrotnego użytku → powtórka za ~miesiąc.
 
@@ -409,10 +414,16 @@ Opis Michała mówił „zwłaszcza po deszczu” → przemawia za odpływami. *
 - **Planować na przełom zimy i wiosny 2027** — to konkretna data, nie „kiedyś"
 - **Jeśli** głowica i tak schodzi → rozrząd przy tej samej robociźnie, realna oszczędność, bo termin nadchodzi. **Tylko w tę stronę** | odłożone do ~II/2027 |
 | **Werdykt uszczelki** | Tester CO2 zielony → **NIE jechać bez naprawy.** Trasa to dokładnie to obciążenie, które z małego przedmuchu robi duży: setki km autostrady, załadowane auto, podjazdy, 35°C. Jazda po mieście tego nie robi | 28 zł (test) |
-| **Nowy korek zbiorniczka 1,4 bar** | 22 lata, nigdy niewymieniany | 22–68 zł (zamiennik–oryginał, 28.09) |
+| **Nowy korek zbiorniczka 1,4 bar** | 22 lata, nigdy niewymieniany. 🚚 **Zamówiony, w drodze** (Michał, 01.10.2026) — po założeniu nowa taśma na zbiorniczku i obserwacja ubytku od zera | 22–68 zł (zamiennik–oryginał, 28.09) |
 | **Płyn chłodniczy G12+/G13** | Dawno niewymieniany; po wymianie **obserwacja, czy świeży ciemnieje** | ~150–250 z robocizną |
 | **Opony — wiek i stan, koło zapasowe** | Nie sprawdzone od żadnej sesji. Guma starsza niż ~6 lat na trasie w upale to osobne ryzyko. **29.09: Michał planuje kupić felgi + opony.** Parametry B5 FL (sprawdzone 29.09.2026): **5x112, otwór 57,1** ([gelenda](https://gelenda.pl/jakie-felgi-16-i-et-do-passata-b5-poznaj-prawidlowe-parametry-odsadzenia), [vwvortex](https://www.vwvortex.com/threads/is-5x112-the-bolt-pattern-of-the-b5-and-b5-5.1917550/)); OE wg [wheel-size](https://www.wheel-size.com/size/volkswagen/passat/2004/): **195/65 R15 na 6Jx15 ET37**, 205/60 R15 na 7Jx15 ET37, **205/55 R16 na 7Jx16 ET37**. **Kandydat: [Allegro, oponywarszawa](https://allegro.pl/produkt/felga-aluminiowa-audi-oe-8w0601025-7-0-x-16-5x112-et-35-31f73c2d-d380-48f0-9419-82c36f418d00?offerId=18965942775) — 4× alu Audi OEM 7Jx16 ET35, 5x112, kula, otwór 66,6 → 650 zł komplet + 4 dekielki, bez opon i bez pierścieni** (sprawdzone 29.09.2026). ⚠️ Zdjęcia pokazują stary wzór Audi, nie typowy dla nr 8W0601025 — dopytać sprzedawcę o stan (bicie, prostowanie, spawy). ⚠️ Obecny rozmiar odczytać z boku opony | do sprawdzenia |
-| **Hamulce: klocki, tarcze, płyn** | Płyn hamulcowy wymienia się co 2 lata niezależnie od przebiegu; zjazdy z przełęczy to najgorszy moment na odkrycie, że jest stary. **29.09: umówione — tarcze + zaciski przód i tył** (tył zbędny → mechanik zwraca części). Tył = tarcze pełne, ręczny w zacisku (tłoczek WKRĘCAĆ, nie wciskać) | do wyceny |
+| **Hamulce: klocki, tarcze, płyn** | Płyn hamulcowy wymienia się co 2 lata niezależnie od przebiegu; zjazdy z przełęczy to najgorszy moment na odkrycie, że jest stary. **29.09: umówione — tarcze + zaciski przód i tył** (tył zbędny → mechanik zwraca części). Tył = tarcze pełne, ręczny w zacisku (tłoczek WKRĘCAĆ, nie wciskać). ✅ **Wymienił Adam ze Skarpy: tarcze + klocki PRZÓD, tył OK — nieruszany** (Michał, 01.10.2026). ❓ Płyn hamulcowy — niewymieniony przy tej robocie, data ostatniej wymiany nieznana | ✅ **900 zł z robocizną** (Michał, 01.10.2026) |
+
+**🛞 Opony + felgi — research do zamówienia (01.10.2026):**
+- **Felgi:** oferty Audi 7x16 ET35 z Allegro nie dało się otworzyć (403) — **czy nadal aktywna i za 650 zł: niepotwierdzone 01.10**
+- **Opony na 7x16: 205/55 R16.** Całoroczne, ceny za sztukę wg [rankingu Oponeo](https://www.oponeo.pl/rankingi-opon/caloroczne/205-55-r16) (sprawdzone 01.10.2026): Nokian Seasonproof 1 91H od 305 zł · Nokian Seasonproof 2 91V od 325 zł · Dunlop All Season 2 94V XL od 334 zł · Bridgestone Turanza All Season 6 91H od 359 zł · Continental AllSeasonContact 2 91H od 398 zł · Michelin CrossClimate 3 91W od 405 zł · budżetowo: Nexen N'blue 4Season 2 94H XL od 279 zł. Dostawa i montaż niewycenione
+- **Pierścienie centrujące 66,6 → 57,1** (felga Audi ma otwór 66,6, piasta Passata 57,1): [Japan Racing, komplet 4 szt., ABS](https://sidovski.com/product-pol-82643-Komplet-pierscieni-centrujacych-JR-4szt-66-6-57-1.html) **39 zł** (sprawdzone 01.10.2026, „bardzo mała ilość", dostawa niewyceniona)
+- ⚠️ **Do sprawdzenia przed zamówieniem:** indeks nośności i prędkości z obecnych opon / naklejki w aucie · **śruby** — jeśli teraz są stalówki, śruby do alufelg są zwykle dłuższe (gniazdo kula zostaje) — niepotwierdzone, dopytać wulkanizatora
 
 **🔎 Dwa darmowe sprawdzenia rozrządu (skoro wymiany nie robimy):**
 1. **❓ Czy przy pasku poszły ROLKI i POMPA WODY?** W pliku jest tylko „pasek", robiony przez chłopaka siostry dziewczyny. Sam pasek na starych rolkach = zapas mniejszy niż wynika z kilometrów, bo zatarta rolka zrywa nowy pasek. **Do ustalenia z Michałem.** Waga rośnie: jeśli szedł sam pasek, rolki mają za sobą pełne 430 tys. km i termin II/2027 warto przesunąć bliżej
@@ -427,6 +438,8 @@ Opis Michała mówił „zwłaszcza po deszczu” → przemawia za odpływami. *
 | **EGR + „klapka" (przepustnica ssania / anti-shudder)** | Wskazał mechanik, potwierdza **Szymon (kolega Michała)**. Przy 430 tys. km pewnie zasyfione. Spina się z objawem **„turbo odcina moc przy mocnym przyspieszeniu"** — możliwe, że czyszczenie rozwiąże oba naraz. Kilkaset zł |
 | **Olej + komplet filtrów** (olej, powietrza, paliwa, kabinowy) | Standard przed trasą |
 | **Alternator, akumulator, łożyska** | Przy takim przebiegu — przegląd „co jeszcze", już zapisany jako „diagnostyka ogólna" |
+| **🆕 Spryskiwacze nie działają** (Michał, 01.10.2026) | ❓ Nie wiadomo: przód/tył/oba, czy pompka buczy, czy płynu ubywa. Kolejność: bezpiecznik → pompka → wężyk (pęka przy zawiasie maski) → dysze. Jeśli płyn znika, a nic nie pryska → wyciek z wężyka, sprawdzić czy nie do kabiny (mokre dywaniki) |
+| **🆕 Reflektory słabo świecą** (Michał, 01.10.2026) — mimo mocniejszych żarówek | Polerowanie kloszy pomaga tylko, gdy klosz jest matowy/żółty. Jeśli klosz przejrzysty, a światło słabe → podejrzany wypalony odbłyśnik w soczewce (do sprawdzenia latarką) albo spadek napięcia na żarówce. ❓ Jakie żarówki wsadzone (55 W czy mocniejsze). ✅ **01.10: klosz MATOWY („jak po papierze ściernym") → najpierw polerowanie** (papier 1500/2000/3000 + pasta + klar UV, patrz Priorytet 2); odbłyśnik ocenić latarką dopiero po polerce |
 
 **🟢 NA MIEJSCU / DO ZABRANIA**
 - Zapas płynu chłodniczego (G13 `VW TL 774 J`, gotowy do użycia), litr oleju, płyn do spryskiwaczy
@@ -448,6 +461,7 @@ Opis Michała mówił „zwłaszcza po deszczu” → przemawia za odpływami. *
 
 - [ ] **Pranie tapicerki + dywaniki** — dopiero JAK będzie sucho w kabinie, inaczej znów się zamoczy
 - [ ] **Renowacja reflektorów** — papier 1500/2000/3000 + pasta polerska + klar UV (~50-100 zł, sprawdzony patent)
+  - **Zestawy (sprawdzone 01.10.2026):** [Quixx](https://autochemia.pl/product-pol-3987-QUIXX-zestaw-do-odnawiania-reflektorow-samochodowych.html) **57,20 zł** + dostawa od 9 zł — 12 papierów w 3 gradacjach, klocek, pasta 50 g, uszczelniacz UV 30 ml, 4 ściereczki (**komplet do mocno matowego klosza**) · [K2 Lamp Doctor + Lamp Protect](https://e-lakiernik.net/zestaw-do-polerowania-reflektorow-k2-lamp-doctor-powloka-ochronna-uv-pad) **64 zł** + dostawa od 11,99 zł — pasta 60 g, gąbka na wkrętarkę, powłoka UV, **bez papierów ściernych**
 
 ### Priorytet 3 — STYLING (po lipcu, jak wyjazd się sprawdzi)
 
@@ -472,7 +486,9 @@ Opis Michała mówił „zwłaszcza po deszczu” → przemawia za odpływami. *
 
 **seb's GARAGE — odrzucony** (Piekarska 130, 43-300 Bielsko-Biała, tel. 535 435 834): specjalizacja automaty + elektryka, nie silnik. Zostawione jako backupowy namiar.
 
-**Auto Serwis Krywult** (Wyzwolenia 14B, 43-300 Bielsko-Biała, tel. 517 351 517, [dobrymechanik](https://dobrymechanik.pl/mechanicy/bielsko-biala/auto-serwis-krywult-bielsko-biala.html)): diagnostyka komputerowa, silnik, hamulce. **To on robił 17–18.09: płyn chłodniczy + wspomaganie (zlanie, płukanie).** Następny krok u niego: EGR + klapka + diagnostyka turbo po wymianie hamulców.
+**Auto Serwis Krywult** (Wyzwolenia 14B, 43-300 Bielsko-Biała, tel. 517 351 517, [dobrymechanik](https://dobrymechanik.pl/mechanicy/bielsko-biala/auto-serwis-krywult-bielsko-biala.html)): diagnostyka komputerowa, silnik, hamulce. **To on robił 17–18.09: płyn chłodniczy + wspomaganie (zlanie, płukanie).** Następny krok u niego: EGR + klapka + diagnostyka turbo + próba ciśnieniowa układu chłodzenia (hamulce już zrobione, patrz niżej).
+
+**Adam ze Skarpy** — wymienił hamulce (info od Michała 01.10.2026). To NIE Szymon i NIE Krywult.
 
 **Plan rozmowy / wiadomości:**
 > "Dzień dobry, widziałem że robicie diagnostykę. Mam Passata B5.5 1.9 TDI, podejrzewam uszczelkę pod głowicą — syczy ze zbiorniczka po nocy, płyn się wzburza. Robicie taką diagnostykę? Chodzi mi o test CO2, test ciśnienia układu chłodzenia i leak-down."
@@ -509,6 +525,7 @@ Spytać też: ile zajmie i ile kosztuje (norma: 150-300 zł za pakiet).
 
 | Data | Co | Kwota | Status |
 |------|----|-------|--------|
+| ~01.10.2026 | Hamulce przód: tarcze + klocki, z robocizną (Adam ze Skarpy) | **900 zł** (Michał, 01.10.2026) | ✅ Zapłacone |
 | — | Diagnoza u mechanika | ? | Planowane |
 | — | Turbo / przewody | ? | Planowane |
 | — | Wilgoć + sterownik centralnego | ? | Planowane |

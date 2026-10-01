@@ -7,6 +7,12 @@ Zasada: wpis = data + jedno–dwa zdania + link do pliku ze szczegółami. Nie k
 
 ---
 
+## Październik 2026
+
+### [01.10.2026] B5.5: hamulce zrobione, korek zamiast próby ciśnieniowej, powtórka CO2 zdjęta
+
+Adam ze Skarpy wymienił tarcze i klocki przód (900 zł, tył OK). Przy ubytku płynu kolejność: nowy korek + tydzień obserwacji, próba ciśnieniowa u Krywulta dopiero, gdy dalej ubywa; powtórka testu CO2 skreślona, bo test z 28.09 był zrobiony poprawnie. Doszły: spryskiwacze, matowe klosze (polerowanie), mokre przewody przy chłodnicy, research opon i felg — [stan B5.5](auta/passat-b5.5/stan.md).
+
 ## Wrzesień 2026
 
 ### [28.09.2026] B5.5: test CO2 negatywny
