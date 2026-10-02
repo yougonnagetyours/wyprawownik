@@ -463,6 +463,10 @@ Opis Michała mówił „zwłaszcza po deszczu” → przemawia za odpływami. *
 - [ ] **Renowacja reflektorów** — papier 1500/2000/3000 + pasta polerska + klar UV (~50-100 zł, sprawdzony patent)
   - **Zestawy (sprawdzone 01.10.2026):** [Quixx](https://autochemia.pl/product-pol-3987-QUIXX-zestaw-do-odnawiania-reflektorow-samochodowych.html) **57,20 zł** + dostawa od 9 zł — 12 papierów w 3 gradacjach, klocek, pasta 50 g, uszczelniacz UV 30 ml, 4 ściereczki (**komplet do mocno matowego klosza**) · [K2 Lamp Doctor + Lamp Protect](https://e-lakiernik.net/zestaw-do-polerowania-reflektorow-k2-lamp-doctor-powloka-ochronna-uv-pad) **64 zł** + dostawa od 11,99 zł — pasta 60 g, gąbka na wkrętarkę, powłoka UV, **bez papierów ściernych**
 
+- [ ] **Radio: montaż [Podofo 7" 1 DIN](https://pl.aliexpress.com/item/1005012330333306.html)** (zamówione 02.10.2026, wariant „MP5 Only”, bezprzewodowy CarPlay pod iPhone'a) w miejsce Kenwooda
+  - Po odbiorze: (1) czy w zestawie jest kabel ISO — jak nie, przejściówka; (2) przełożyć przejściówkę antenową od Kenwooda; (3) test: czas łączenia z iPhone'em po odpaleniu, zrywanie połączenia w trasie, lag dotyku na mapie
+  - Zwrot darmowy do 90 dni. Odrzucone: Junsun V1 Pro 10" (panel 26,5 cm szeroki — haczy nogą), Junsun 6,86" (za mały ekran)
+
 ### Priorytet 3 — STYLING (po lipcu, jak wyjazd się sprawdzi)
 
 - Matowe czarne stalki (te które ma + spray)
@@ -526,6 +530,7 @@ Spytać też: ile zajmie i ile kosztuje (norma: 150-300 zł za pakiet).
 | Data | Co | Kwota | Status |
 |------|----|-------|--------|
 | ~01.10.2026 | Hamulce przód: tarcze + klocki, z robocizną (Adam ze Skarpy) | **900 zł** (Michał, 01.10.2026) | ✅ Zapłacone |
+| 02.10.2026 | Radio Podofo 7" 1 DIN, bezprzewodowy CarPlay ([Ali](https://pl.aliexpress.com/item/1005012330333306.html)) | **149,99 zł** (cena z aukcji 01.10.2026 — potwierdzić z zamówieniem) | ✅ Zamówione |
 | — | Diagnoza u mechanika | ? | Planowane |
 | — | Turbo / przewody | ? | Planowane |
 | — | Wilgoć + sterownik centralnego | ? | Planowane |
