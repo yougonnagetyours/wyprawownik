@@ -74,7 +74,7 @@ Poprzednio: **2026-09-01** (wszystkie auta zweryfikowane w polach — zostały 3
 ⚠️ **Sprostowanie 08.09: rozrząd NIE jest przeterminowany** — wcześniejszy zapis był bezpodstawny. Interwał to 90–120 tys. km albo ~5 lat (Contitech 90 tys.; VW MY2004+ 48 mies.), a wymiana była ~3 lata temu. **Michał jest przed terminem, koniec 2026 r. z zapasem — tak jak sam mówił.** ✅ **Policzone 09.09: ~38–48 tys. km od wymiany, data wymiany II/III.2023.** Na osi km połowa interwału — ale **limit czasowy VW to 48 mies., czyli termin wypada w LUTYM–MARCU 2027**. Przed Bałkanami NIE ruszamy; planować na przełom zimy/wiosny 2027. ✅ **09.09: szły rolki i pompa, pasek dobrej marki** → zestaw kompletny. **Wymiana „dla pewności na jesień" odradzona** (pasek w połowie życia, ponad tysiąc zł rok przed terminem). Zostają oględziny paska 17.09.
 
 
-**W grze: Bałkany X.2026 = oświadczyny** — autem, którego jeszcze nie ma; trasa niezaplanowana, folderu brak.
+**W grze: Bałkany X.2026 = oświadczyny** — warunkowo B5.5; szkic trasy z 02.10 czeka na akceptację Michała: [`trasa.md`](wyprawy/balkany-pazdziernik-2026/trasa.md).
 Wszystkie pozostałe (zrealizowane, niezrealizowane, koncepty) → [`wyprawy/INDEKS.md`](wyprawy/INDEKS.md)
 
 ## 📁 Gdzie czego szukać
